@@ -1,0 +1,622 @@
+[
+    {
+        "date": "01-10",
+        "events": [
+            {
+                "title": "International Day of Older Persons",
+                "summary": "A United Nations day to celebrate the contributions of older people to society. In the UK, charities like Age UK use this day to highlight the challenges of an ageing population, such as social isolation, and to promote the dignity and rights of seniors.",
+                "url": "https://www.un.org/en/observances/older-persons-day"
+            },
+            {
+                "title": "International Coffee Day",
+                "summary": "A celebration of the coffee sector’s diversity, quality, and passion. In the UK, it is an opportunity for coffee lovers to support fair trade producers and for local independent baristas to showcase their craft in the thriving British high street coffee scene.",
+                "url": "https://www.internationalcoffeeday.org/"
+            },
+            {
+                "title": "World Vegetarian Day",
+                "summary": "The kick-off for Vegetarian Awareness Month. This day promotes the joy, compassion, and life-enhancing possibilities of vegetarianism. In the UK, it focuses on the environmental benefits of a meat-free diet and the abundance of seasonal British vegetables available in autumn.",
+                "url": "https://worldvegetarianday.navs.com/"
+            }
+        ]
+    },
+    {
+        "date": "02-10",
+        "events": [
+            {
+                "title": "International Day of Non-Violence",
+                "summary": "Marking the birthday of Mahatma Gandhi, this day is observed in the UK to promote the message of non-violence through education and public awareness. It encourages a culture of peace, tolerance, and understanding across the diverse communities within Britain.",
+                "url": "https://www.un.org/en/observances/non-violence-day"
+            },
+            {
+                "title": "World Farm Animals Day",
+                "summary": "A day dedicated to exposing the plight of farm animals and advocating for their better treatment. UK animal welfare charities use this day to promote higher farming standards and to encourage consumers to choose ethically sourced animal products.",
+                "url": "https://www.daysoftheyear.com/days/world-farm-animals-day/"
+            },
+            {
+                "title": "National Name Your Car Day",
+                "summary": "A celebration of the British quirk of giving automobiles a personality. Whether it’s 'Betsy' or 'The Beast', this day encourages UK car owners to officially christen their vehicles and celebrate the bond between driver and machine.",
+                "url": "https://www.daysoftheyear.com/days/name-your-car-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-10",
+        "events": [
+            {
+                "title": "Buy British Day",
+                "summary": "A day encouraging consumers to support local manufacturers and businesses. It highlights the quality of British craftsmanship and the environmental benefits of reducing 'product miles' by purchasing goods made within the UK, from fashion to home furniture.",
+                "url": "https://www.buybritishday.com/"
+            },
+            {
+                "title": "World Temperance Day",
+                "summary": "A historical day originally focused on the moderation or abstinence from alcohol. In the UK, it is often used by health organisations to discuss the benefits of 'dry' periods and the impact of alcohol on long-term physical and mental health.",
+                "url": "https://www.daysoftheyear.com/days/world-temperance-day/"
+            },
+            {
+                "title": "Virus Appreciation Day",
+                "summary": "Despite the name, this day is not about celebrating illness, but rather the fascinating science of virology. In the UK, researchers use the day to educate the public on the role of 'good' viruses in ecosystems and medical breakthroughs like gene therapy.",
+                "url": "https://www.daysoftheyear.com/days/virus-appreciation-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-10",
+        "events": [
+            {
+                "title": "World Animal Day",
+                "summary": "Coinciding with the feast day of St Francis of Assisi, the patron saint of animals. Across the UK, events are held to raise the status of animals in order to improve welfare standards globally and to celebrate the unique relationship humans share with them.",
+                "url": "https://www.worldanimalday.org.uk/"
+            },
+            {
+                "title": "World Space Week (Start)",
+                "summary": "The beginning of the largest annual space event on Earth. UK planetariums, science museums, and universities host workshops and talks to celebrate British contributions to space exploration and to inspire the next generation of UK scientists and engineers.",
+                "url": "https://www.worldspaceweek.org/"
+            },
+            {
+                "title": "National Taco Day",
+                "summary": "A whimsical culinary celebration that has gained massive popularity in the UK. While traditionally Mexican, this day sees British foodies exploring diverse fillings and authentic techniques, highlighting the vibrant international food culture found in UK cities.",
+                "url": "https://www.daysoftheyear.com/days/taco-day/"
+            }
+        ]
+    },
+    {
+        "date": "05-10",
+        "events": [
+            {
+                "title": "World Teachers' Day",
+                "summary": "A day to celebrate the work of educators. In the UK, it is a time to acknowledge the vital role teachers play in shaping the future of society and to address the support and resources needed within the British education system.",
+                "url": "https://www.unesco.org/en/days/teachers"
+            },
+            {
+                "title": "World Habitat Day",
+                "summary": "A United Nations day to reflect on the state of our towns and cities and the basic right of all to adequate shelter. In the UK, housing charities use this day to highlight the issues of homelessness and urban sustainability.",
+                "url": "https://urbanoctober.unhabitat.org/whd"
+            },
+            {
+                "title": "National Do Something Nice Day",
+                "summary": "A whimsical reminder to perform random acts of kindness. In the UK, it encourages people to step out of their daily routines to help a neighbor, buy a coffee for a stranger, or simply offer a compliment to brighten someone's day.",
+                "url": "https://www.daysoftheyear.com/days/do-something-nice-day/"
+            }
+        ]
+    },
+    {
+        "date": "06-10",
+        "events": [
+            {
+                "title": "National Poetry Day",
+                "summary": "The UK's biggest mass celebration of poetry. Held annually on the first Thursday of October, it encourages everyone to enjoy, discover, and share poetry. Schools and libraries across Britain participate with readings and creative writing workshops.",
+                "url": "https://nationalpoetryday.co.uk/"
+            },
+            {
+                "title": "World Cerebral Palsy Day",
+                "summary": "A social movement and a day of action to raise awareness of cerebral palsy. In the UK, organisations work to ensure that children and adults with CP have the same rights, access, and opportunities as anyone else in society.",
+                "url": "https://worldcpday.org/"
+            },
+            {
+                "title": "National Plus Size Appreciation Day",
+                "summary": "A day to celebrate body positivity and diversity. In the UK fashion industry, it serves as a platform to advocate for better representation and more inclusive sizing, encouraging people to love and appreciate their bodies at any size.",
+                "url": "https://www.daysoftheyear.com/days/plus-size-appreciation-day/"
+            }
+        ]
+    },
+    {
+        "date": "07-10",
+        "events": [
+            {
+                "title": "World Smile Day",
+                "summary": "Observed on the first Friday in October. This day is dedicated to 'good cheer and good works.' In the UK, people are encouraged to use a smile to bridge differences and to perform small acts of kindness to make others happy.",
+                "url": "https://www.worldsmileday.com/"
+            },
+            {
+                "title": "World Cotton Day",
+                "summary": "Highlighting the importance of cotton to the global economy. For the UK, it is a day to reflect on the textile industry’s history and to promote the move toward sustainable and organic cotton in the British fashion and retail sectors.",
+                "url": "https://www.un.org/en/observances/cotton-day"
+            },
+            {
+                "title": "National Frappe Day",
+                "summary": "A celebration of the chilled, blended coffee drink. Despite the cooling British October weather, UK coffee chains often mark the day with special flavors, celebrating the indulgence of a whipped, icy treat.",
+                "url": "https://www.daysoftheyear.com/days/frappe-day/"
+            }
+        ]
+    },
+    {
+        "date": "08-10",
+        "events": [
+            {
+                "title": "World Hospice and Palliative Care Day",
+                "summary": "A unified day of action to celebrate and support hospice and palliative care around the world. In the UK, it highlights the essential services provided by local hospices and the need for dignity in end-of-life care.",
+                "url": "https://www.thewhpca.org/world-hospice-and-palliative-care-day"
+            },
+            {
+                "title": "International Off-Road Day",
+                "summary": "A day for enthusiasts of off-road driving and cycling. In the UK, it celebrates the adventure of exploring the British countryside via designated green lanes and mountain bike trails, while emphasizing the importance of responsible, legal trail use.",
+                "url": "https://www.daysoftheyear.com/days/international-off-road-day/"
+            },
+            {
+                "title": "National Fluffernutter Day",
+                "summary": "A whimsical food day celebrating the combination of marshmallow fluff and peanut butter. While a classic American staple, it has found a cult following in the UK among fans of sweet, indulgent sandwiches and retro-inspired bakes.",
+                "url": "https://www.daysoftheyear.com/days/fluffernutter-day/"
+            }
+        ]
+    },
+    {
+        "date": "09-10",
+        "events": [
+            {
+                "title": "World Post Day",
+                "summary": "Commemorating the establishment of the Universal Postal Union. In the UK, it celebrates the role of the Royal Mail and postal workers in keeping communities connected and supporting businesses through the reliable delivery of letters and parcels.",
+                "url": "https://www.un.org/en/observances/world-post-day"
+            },
+            {
+                "title": "National Beer Sunday",
+                "summary": "Observed on the second Sunday in October, this day encourages the appreciation of the brewing craft. UK pubs often use this as a day to showcase local seasonal ales, highlighting the importance of the 'local' as a community hub.",
+                "url": "https://www.daysoftheyear.com/days/beer-sunday/"
+            },
+            {
+                "title": "National Curious Events Day",
+                "summary": "A day to celebrate the weird, the wonderful, and the unexplained. In the UK, it’s a perfect excuse to visit local museums of curiosities or to explore the many folklore legends and ghost stories that haunt British towns.",
+                "url": "https://www.daysoftheyear.com/days/curious-events-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-10",
+        "events": [
+            {
+                "title": "World Mental Health Day",
+                "summary": "A major day for global mental health education and advocacy. In the UK, organisations like Mind and the NHS use this day to reduce stigma, encourage people to talk about their feelings, and highlight available support services for those in need.",
+                "url": "https://www.mentalhealth.org.uk/our-work/campaigns/world-mental-health-day"
+            },
+            {
+                "title": "World Homeless Day",
+                "summary": "Aiming to raise awareness about the needs of people who are homeless and provide opportunities for the community to get involved. UK charities use the day to lobby for policy changes and to fundraise for local shelters as winter approaches.",
+                "url": "https://www.worldhomelessday.org/"
+            },
+            {
+                "title": "National Cake Decorating Day",
+                "summary": "A celebration for home bakers and professional pastry chefs. In the UK, inspired by shows like the Great British Bake Off, this day encourages people to get creative with icing, marzipan, and sugarcraft to turn simple bakes into art.",
+                "url": "https://www.daysoftheyear.com/days/cake-decorating-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-10",
+        "events": [
+            {
+                "title": "International Day of the Girl",
+                "summary": "A United Nations day to recognize girls’ rights and the unique challenges girls face around the world. In the UK, it focuses on empowering young women through education, tackling the gender pay gap, and ending digital harassment and stereotypes.",
+                "url": "https://www.un.org/en/observances/girl-child-day"
+            },
+            {
+                "title": "National Coming Out Day",
+                "summary": "An annual awareness day to support LGBTQ+ individuals in 'coming out.' In the UK, it is marked by community events and social media campaigns to promote a safe, supportive environment for people to live authentically and celebrate their identities.",
+                "url": "https://www.stonewall.org.uk/"
+            },
+            {
+                "title": "National It’s My Party Day",
+                "summary": "A day that gives everyone permission to host a celebration for no reason at all. Whether it’s a small gathering at home or a themed office party, the day is about taking ownership of your own happiness and social fun.",
+                "url": "https://www.daysoftheyear.com/days/its-my-party-day/"
+            }
+        ]
+    },
+    {
+        "date": "12-10",
+        "events": [
+            {
+                "title": "World Arthritis Day",
+                "summary": "Raising awareness of the existence and impact of rheumatic and musculoskeletal diseases. In the UK, Versus Arthritis uses this day to provide resources for the millions of people living with the condition and to fund research for better treatments.",
+                "url": "https://www.versusarthritis.org/"
+            },
+            {
+                "title": "National Savings Day",
+                "summary": "A day to encourage better financial habits. In the UK, where cost-of-living concerns are prominent, financial advisors use this day to share tips on budgeting, ISAs, and long-term saving strategies to help people build financial resilience.",
+                "url": "https://www.daysoftheyear.com/days/national-savings-day/"
+            },
+            {
+                "title": "Old Farmers’ Day",
+                "summary": "A whimsical nod to the traditional farming techniques of the past. In the UK, it is often celebrated by heritage museums and farms, showcasing the history of British agriculture and the hard-working individuals who tilled the land before modern machinery.",
+                "url": "https://www.daysoftheyear.com/days/old-farmers-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-10",
+        "events": [
+            {
+                "title": "International Day for Disaster Risk Reduction",
+                "summary": "A day to promote a global culture of risk-awareness and disaster reduction. In the UK, focus is often placed on flood prevention and emergency preparedness, highlighting how climate change impacts local British environments and infrastructure.",
+                "url": "https://www.un.org/en/observances/disaster-reduction-day"
+            },
+            {
+                "title": "No Bra Day",
+                "summary": "While light-hearted in name, this day serves as a reminder for breast cancer awareness. In the UK, it encourages women to perform self-examinations and highlights the importance of early detection during Breast Cancer Awareness Month.",
+                "url": "https://www.daysoftheyear.com/days/no-bra-day/"
+            },
+            {
+                "title": "National Yorkshire Pudding Day (U.S. Date)",
+                "summary": "Although the UK officially celebrates this in February, the October date is often used by British expats and food enthusiasts to celebrate the classic Sunday roast accompaniment, emphasizing its status as a cornerstone of British culinary identity.",
+                "url": "https://www.historic-uk.com/CultureUK/Yorkshire-Pudding/"
+            }
+        ]
+    },
+    {
+        "date": "14-10",
+        "events": [
+            {
+                "title": "World Standards Day",
+                "summary": "Recognizing the efforts of thousands of experts who develop voluntary technical agreements. In the UK, the BSI (British Standards Institution) highlights how standards ensure safety, quality, and interoperability in everything from electronics to environmental management.",
+                "url": "https://www.bsigroup.com/"
+            },
+            {
+                "title": "National Dessert Day",
+                "summary": "A day to indulge in your favorite sweet treats. In the UK, this is the perfect excuse to enjoy a classic sticky toffee pudding or an apple crumble, celebrating the rich heritage of British 'afters' and comforting puddings.",
+                "url": "https://www.daysoftheyear.com/days/dessert-day/"
+            },
+            {
+                "title": "Be Bald and Be Free Day",
+                "summary": "A day to celebrate those who are bald or choose to shave their heads. It encourages confidence and self-acceptance, challenging traditional beauty standards and celebrating the freedom of a low-maintenance look.",
+                "url": "https://www.daysoftheyear.com/days/be-bald-and-be-free-day/"
+            }
+        ]
+    },
+    {
+        "date": "15-10",
+        "events": [
+            {
+                "title": "Global Handwashing Day",
+                "summary": "An advocacy day dedicated to increasing awareness about the importance of handwashing with soap as an effective and affordable way to prevent diseases. In the UK, it is widely promoted in schools and healthcare settings to maintain public health.",
+                "url": "https://globalhandwashing.org/global-handwashing-day/"
+            },
+            {
+                "title": "International Day of Rural Women",
+                "summary": "Recognizing the critical role that rural women, including indigenous women, play in agricultural and rural development. In the UK, it highlights the work of women in the British farming community and their contribution to food security.",
+                "url": "https://www.un.org/en/observances/rural-women-day"
+            },
+            {
+                "title": "National Mushroom Day",
+                "summary": "A celebration of all things fungi. In the UK, this coincides with the peak of the wild mushroom season. It encourages people to learn about different edible varieties and the vital role mushrooms play in the British woodland ecosystem.",
+                "url": "https://www.daysoftheyear.com/days/mushroom-day/"
+            }
+        ]
+    },
+    {
+        "date": "16-10",
+        "events": [
+            {
+                "title": "World Food Day",
+                "summary": "Commemorating the founding of the FAO. In the UK, this day is used to discuss food security, sustainable farming, and the importance of healthy diets. Charities often use this to highlight the rising reliance on food banks in British communities.",
+                "url": "https://www.fao.org/world-food-day/en"
+            },
+            {
+                "title": "World Spine Day",
+                "summary": "Raising awareness about spinal health and the prevention of spinal disorders. In the UK, chiropractors and physiotherapists promote 'straighten up' exercises and ergonomics for office workers to help reduce the prevalence of back pain.",
+                "url": "http://www.worldspineday.org/"
+            },
+            {
+                "title": "Dictionary Day",
+                "summary": "A celebration of words and language, marking the birthday of Noah Webster. In the UK, it’s a day for linguists and writers to celebrate the Oxford English Dictionary and the ever-evolving nature of the English language.",
+                "url": "https://www.daysoftheyear.com/days/dictionary-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-10",
+        "events": [
+            {
+                "title": "International Day for the Eradication of Poverty",
+                "summary": "A day to promote awareness of the need to eradicate poverty and destitution. In the UK, it is a time for political and social discussion regarding the 'poverty trap,' the living wage, and social security measures to support those in need.",
+                "url": "https://www.un.org/en/observances/day-for-eradicating-poverty"
+            },
+            {
+                "title": "World Trauma Day",
+                "summary": "Focusing on the importance of preventing accidents and the crucial nature of immediate care for trauma victims. In the UK, it highlights the work of emergency medical services and Major Trauma Centres in the NHS.",
+                "url": "https://www.daysoftheyear.com/days/world-trauma-day/"
+            },
+            {
+                "title": "National Wear Something Gaudy Day",
+                "summary": "A day that encourages people to ditch their subtle British style for something bright, clashing, and loud. It’s a fun day for offices and schools to let loose and wear the most eye-catching outfits they can find.",
+                "url": "https://www.daysoftheyear.com/days/wear-something-gaudy-day/"
+            }
+        ]
+    },
+    {
+        "date": "18-10",
+        "events": [
+            {
+                "title": "World Menopause Day",
+                "summary": "Raising awareness of the menopause and the support options available for improving health and wellbeing. In the UK, this day has seen a massive increase in visibility, with workplaces and public health campaigns focusing on breaking the taboo.",
+                "url": "https://www.imsociety.org/education/world-menopause-day/"
+            },
+            {
+                "title": "Anti-Slavery Day",
+                "summary": "A UK-specific day to raise awareness of modern slavery and human trafficking. It aims to encourage the public, local authorities, and businesses to spot the signs of exploitation and to support victims in reclaiming their lives.",
+                "url": "https://www.antislaveryday.com/"
+            },
+            {
+                "title": "National Chocolate Cupcake Day",
+                "summary": "A whimsical culinary treat day. In the UK, where tea and cake are a way of life, this is a popular day for charity bake sales and for home bakers to perfect their cocoa-based sponge and frosting recipes.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-cupcake-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-10",
+        "events": [
+            {
+                "title": "International Gin and Tonic Day",
+                "summary": "A celebration of the classic 'G&T.' With the UK undergoing a 'gin-aissance' over the last decade, this day highlights the many artisan British gin distilleries and the historical link between the drink and British maritime history.",
+                "url": "https://www.daysoftheyear.com/days/international-gin-and-tonic-day/"
+            },
+            {
+                "title": "Global Dignity Day",
+                "summary": "A day to educate and inspire young people about the concept of dignity. In the UK, schools participate in workshops that encourage students to understand their own self-worth and to treat others with respect and compassion.",
+                "url": "https://globaldignity.org/"
+            },
+            {
+                "title": "National Evaluate Your Life Day",
+                "summary": "A whimsical but useful day that encourages people to take a step back and look at where they are heading. It’s a day for UK residents to reflect on their goals, habits, and happiness, and to make positive changes where necessary.",
+                "url": "https://www.daysoftheyear.com/days/evaluate-your-life-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-10",
+        "events": [
+            {
+                "title": "World Osteoporosis Day",
+                "summary": "Dedicated to raising global awareness of the prevention, diagnosis, and treatment of osteoporosis. In the UK, the Royal Osteoporosis Society uses this day to advocate for better bone health through diet and exercise.",
+                "url": "https://www.theros.org.uk/"
+            },
+            {
+                "title": "International Chefs Day",
+                "summary": "Celebrating the culinary profession and using the day to pass on knowledge to children. In the UK, chefs often host workshops in schools to promote healthy eating and the importance of using fresh, local British ingredients.",
+                "url": "https://www.worldchefs.org/InternationalChefsDay"
+            },
+            {
+                "title": "National Slap Your Annoying Coworker Day (Virtual)",
+                "summary": "A purely whimsical and humorous day that exists only in spirit. It serves as a light-hearted way for UK office workers to vent about workplace frustrations without actually causing any harm, usually through memes and jokes.",
+                "url": "https://www.daysoftheyear.com/days/slap-your-annoying-coworker-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-10",
+        "events": [
+            {
+                "title": "Apple Day",
+                "summary": "An annual celebration of apples and orchards, first launched in the UK by Common Ground. It celebrates the diversity of British apples and the importance of traditional orchards to the landscape and biodiversity of the UK.",
+                "url": "https://www.commonground.org.uk/apple-day/"
+            },
+            {
+                "title": "Trafalgar Day",
+                "summary": "Commemorating the victory of the Royal Navy over the French and Spanish fleets in 1805. In the UK, it is celebrated with parades by Sea Cadets and a formal dinner in many naval establishments to honor Admiral Lord Nelson.",
+                "url": "https://www.royalnavy.mod.uk/news-and-latest-activity/features/trafalgar-day"
+            },
+            {
+                "title": "National Reptile Awareness Day",
+                "summary": "A day for lizard and snake enthusiasts. In the UK, it encourages people to learn about the few native British reptiles, such as the adder and common lizard, and how to protect their natural habitats.",
+                "url": "https://www.daysoftheyear.com/days/reptile-awareness-day/"
+            }
+        ]
+    },
+    {
+        "date": "22-10",
+        "events": [
+            {
+                "title": "International Stuttering Awareness Day",
+                "summary": "A day to raise public awareness of the millions of people who have the speech disorder of stuttering. In the UK, the British Stammering Association (STAMMA) works to change perceptions and provide support for those who stammer.",
+                "url": "https://stamma.org/"
+            },
+            {
+                "title": "National Nut Day",
+                "summary": "A day to promote the health benefits of nuts. In the UK, it focuses on the protein and healthy fats provided by nuts, encouraging people to swap processed snacks for a handful of walnuts, almonds, or cashews.",
+                "url": "https://www.liberationfoods.co.uk/national-nut-day/"
+            },
+            {
+                "title": "National colour Day",
+                "summary": "A day to celebrate how colours influence our mood and environment. It encourages people in the UK to wear their favorite bright colours and to appreciate the autumnal hues of the British landscape during this time of year.",
+                "url": "https://www.daysoftheyear.com/days/national-colour-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-10",
+        "events": [
+            {
+                "title": "Mole Day",
+                "summary": "A day for chemists and science students, celebrated from 6:02 AM to 6:02 PM. It commemorates Avogadro's Number ($6.02 \times 10^{23}$), and UK schools use it to make chemistry fun through experiments and puns.",
+                "url": "http://www.moleday.org/"
+            },
+            {
+                "title": "International Snow Leopard Day",
+                "summary": "Raising awareness for the conservation of this endangered big cat. UK zoos and wildlife charities use this day to fundraise for habitat protection programs in the mountain ranges of Central and South Asia.",
+                "url": "https://snowleopard.org/international-snow-leopard-day/"
+            },
+            {
+                "title": "National TV Talk Show Host Day",
+                "summary": "Celebrating the personalities that fill the UK's airwaves. It’s a day to acknowledge the role of chat show hosts in British culture, from daytime TV staples to the iconic late-night programs that provide entertainment and news.",
+                "url": "https://www.daysoftheyear.com/days/tv-talk-show-host-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-10",
+        "events": [
+            {
+                "title": "United Nations Day",
+                "summary": "Marking the anniversary of the entry into force of the UN Charter in 1945. In the UK, it is a day to reflect on the importance of international cooperation, peacebuilding, and human rights across the globe.",
+                "url": "https://www.un.org/en/observances/un-day"
+            },
+            {
+                "title": "World Development Information Day",
+                "summary": "Focusing on drawing the attention of world public opinion to development problems. In the UK, it encourages the use of information technology to find solutions for social and economic development issues globally.",
+                "url": "https://www.un.org/en/observances/world-development-information-day"
+            },
+            {
+                "title": "National Food Day",
+                "summary": "A whimsical but serious day that promotes healthy, sustainable, and affordable food. In the UK, it is often used by community gardens and food cooperatives to show how local produce can improve the health of the nation.",
+                "url": "https://www.foodday.org/"
+            }
+        ]
+    },
+    {
+        "date": "25-10",
+        "events": [
+            {
+                "title": "World Pasta Day",
+                "summary": "A global celebration of one of the world’s favorite foods. In the UK, this is marked by restaurants and home cooks exploring the diversity of pasta shapes and recipes, highlighting its role as a versatile and affordable family staple.",
+                "url": "https://www.worldpastaday.org/"
+            },
+            {
+                "title": "World Opera Day",
+                "summary": "An awareness campaign about the positive impact of opera on society. In the UK, major houses like the Royal Opera House use the day to show that opera is for everyone, regardless of background or previous experience.",
+                "url": "https://www.worldoperaday.com/"
+            },
+            {
+                "title": "National Sourest Day",
+                "summary": "A day for fans of tart and tangy flavors. In the UK, it is a fun excuse to enjoy traditional sour sweets, lemons, or sharp British apples, often leading to 'sour face' challenges among friends and families.",
+                "url": "https://www.daysoftheyear.com/days/sourest-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-10",
+        "events": [
+            {
+                "title": "National Pumpkin Day",
+                "summary": "As Halloween approaches, this day celebrates the humble pumpkin. In the UK, it marks the peak of pumpkin picking season at local farms, encouraging people to look beyond carving and use the fruit for seasonal soups and pies.",
+                "url": "https://www.daysoftheyear.com/days/pumpkin-day/"
+            },
+            {
+                "title": "Intersex Awareness Day",
+                "summary": "An international day designed to highlight human rights issues faced by intersex people. In the UK, it is a day for education about the diversity of biological sex and to advocate for the bodily autonomy and rights of the intersex community.",
+                "url": "https://intersexday.org/en/"
+            },
+            {
+                "title": "National Mince Meat Day",
+                "summary": "A whimsical nod to the approaching festive season. It encourages UK bakers to start preparing their own traditional mincemeat—a mix of dried fruits, spices, and spirits—ready for the Christmas mince pie season.",
+                "url": "https://www.daysoftheyear.com/days/mince-meat-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-10",
+        "events": [
+            {
+                "title": "World Day for Audiovisual Heritage",
+                "summary": "Highlighting the importance of preserving recorded sound and moving images. In the UK, institutions like the British Film Institute (BFI) use the day to show how audiovisual records provide a unique window into our social and cultural history.",
+                "url": "https://www.unesco.org/en/days/audiovisual-heritage"
+            },
+            {
+                "title": "National Black Cat Day",
+                "summary": "Launched by Cats Protection in the UK, this day celebrates the beauty of black cats. It aims to encourage the adoption of black and black-and-white cats, who traditionally take longer to find homes in British shelters due to superstition.",
+                "url": "https://www.cats.org.uk/support-us/events/national-black-cat-day"
+            },
+            {
+                "title": "National Tell a Story Day (Scotland)",
+                "summary": "A day dedicated to the oral tradition of storytelling. While observed on different dates elsewhere, in the UK it is a chance to celebrate British folklore and the importance of passing down family tales and myths through generations.",
+                "url": "https://www.daysoftheyear.com/days/tell-a-story-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-10",
+        "events": [
+            {
+                "title": "International Animation Day",
+                "summary": "Celebrating the art of animation. In the UK, which has a world-class animation industry (think Aardman Animations), this day is used to highlight the technology and creativity behind everything from stop-motion to modern CGI films.",
+                "url": "https://asifa.net/international-animation-day/"
+            },
+            {
+                "title": "National Chocolate Day",
+                "summary": "A day for cocoa lovers to celebrate their favorite treat. In the UK, it highlights the work of British chocolatiers and encourages consumers to try high-quality, ethically sourced chocolate while learning about the bean-to-bar process.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-day/"
+            },
+            {
+                "title": "Plush Animal Lover's Day",
+                "summary": "A day that encourages people of all ages to appreciate their favorite soft toys. In the UK, it’s a nostalgic nod to the comfort provided by teddy bears and a fun day for children to bring their 'friends' on adventures.",
+                "url": "https://www.daysoftheyear.com/days/plush-animal-lovers-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-10",
+        "events": [
+            {
+                "title": "World Stroke Day",
+                "summary": "Raising awareness about the serious nature and high rates of stroke. In the UK, the Stroke Association uses this day to educate the public on the FAST (Face, Arms, Speech, Time) test to help save lives and improve recovery.",
+                "url": "https://www.stroke.org.uk/"
+            },
+            {
+                "title": "World Psoriasis Day",
+                "summary": "An annual day dedicated to people with psoriasis and psoriatic arthritis. In the UK, the Psoriasis Association works to raise awareness and improve access to treatments and support for the over 1 million people affected.",
+                "url": "https://www.psoriasis-association.org.uk/"
+            },
+            {
+                "title": "National Cat Day",
+                "summary": "A celebration of our feline companions. While the UK also marks International Cat Day in August, this late-October event provides another chance for British cat owners to spoil their pets and support feline welfare charities.",
+                "url": "https://www.daysoftheyear.com/days/cat-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-10",
+        "events": [
+            {
+                "title": "Checklist Day",
+                "summary": "A day to celebrate the efficiency and organisation of a good list. In the UK, it’s a whimsical reminder to get organised ahead of the busy winter months, ensuring that everything from household chores to festive planning is under control.",
+                "url": "https://www.daysoftheyear.com/days/checklist-day/"
+            },
+            {
+                "title": "National Publicist Day",
+                "summary": "Recognizing the hard work of those in public relations. In the UK's massive media and communications sector, this day acknowledges the skill required to manage reputations and bring important stories to the public's attention.",
+                "url": "https://www.daysoftheyear.com/days/national-publicist-day/"
+            },
+            {
+                "title": "Mischief Night",
+                "summary": "A traditional whimsical (and sometimes rowdy) event in parts of Northern England. It is the night for playing pranks and light-hearted mischief before Halloween, though modern celebrations focus more on community-friendly activities and fun hoaxes.",
+                "url": "https://www.historic-uk.com/CultureUK/Mischief-Night/"
+            }
+        ]
+    },
+    {
+        "date": "31-10",
+        "events": [
+            {
+                "title": "Halloween",
+                "summary": "One of the UK’s most popular modern celebrations. While rooted in the ancient Celtic festival of Samhain, today it is marked by trick-or-treating, costume parties, and pumpkin carving, celebrating all things spooky and supernatural.",
+                "url": "https://www.english-heritage.org.uk/visit/whats-on/halloween/"
+            },
+            {
+                "title": "World Cities Day",
+                "summary": "A UN day to promote the international community’s interest in global urbanisation. In the UK, it’s a day to discuss how British cities can become more sustainable, resilient, and inclusive for their residents in the future.",
+                "url": "https://www.un.org/en/observances/cities-day"
+            },
+            {
+                "title": "National Magic Day",
+                "summary": "A day that coincides with the anniversary of Harry Houdini's death. In the UK, it celebrates the art of illusion and performance magic, with The Magic Circle often highlighting the rich history of British magicians.",
+                "url": "https://themagiccircle.co.uk/"
+            }
+        ]
+    }
+]

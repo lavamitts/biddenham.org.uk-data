@@ -1,0 +1,622 @@
+[
+    {
+        "date": "01-05",
+        "events": [
+            {
+                "title": "National Walking Month",
+                "summary": "May marks the start of this UK-wide celebration organised by Living Streets. It encourages people to ditch the car and incorporate more walking into their daily routines for health and environmental benefits, highlighting the joys of exploring local neighborhoods and natural green spaces on foot.",
+                "url": "https://www.livingstreets.org.uk/get-involved/campaign-with-us/national-walking-month"
+            },
+            {
+                "title": "Local and Community History Month",
+                "summary": "Coordinated by the Historical Association, this month aims to increase awareness of local history and promote the use of local archives and resources. It encourages communities across the UK to engage with their unique heritage through walks, talks, and exhibitions tailored to their specific geographical identity.",
+                "url": "https://www.history.org.uk/get-involved/categories/local-history-month"
+            },
+            {
+                "title": "International Workers' Day",
+                "summary": "Also known as May Day, this global celebration honors the historic struggles and gains made by workers and the labor movement. In the UK, it is often marked by marches and rallies organised by trade unions advocating for fair pay, safe conditions, and stronger workers' rights.",
+                "url": "https://www.tuc.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "02-05",
+        "events": [
+            {
+                "title": "World Tuna Day",
+                "summary": "Established by the United Nations, this day highlights the importance of sustainably managed fish stocks. It aims to raise awareness about the environmental and economic value of tuna while promoting conservation practices to prevent overfishing and ensure the long-term health of our oceans' biodiversity.",
+                "url": "https://www.un.org/en/observances/tuna-day"
+            },
+            {
+                "title": "National Truffle Day",
+                "summary": "A gastronomic celebration dedicated to the luxurious and aromatic fungus known as the truffle. While more common in France and Italy, the UK has its own burgeoning truffle industry, and this day encourages foodies to explore the unique, earthy flavors in high-end culinary dishes.",
+                "url": "https://www.daysoftheyear.com/days/truffle-day/"
+            },
+            {
+                "title": "International Harry Potter Day",
+                "summary": "Fans across Britain and the world celebrate the anniversary of the Battle of Hogwarts. It is a day to revisit J.K. Rowling’s wizarding world, celebrate the themes of bravery and friendship, and perhaps indulge in a movie marathon or a visit to the Warner Bros. Studio Tour.",
+                "url": "https://www.wbstudiotour.co.uk/"
+            }
+        ]
+    },
+    {
+        "date": "03-05",
+        "events": [
+            {
+                "title": "World Press Freedom Day",
+                "summary": "This UN-led observance celebrates the fundamental principles of press freedom and assesses the state of media independence worldwide. It serves as a reminder to governments of the need to respect their commitment to a free press and provides support for journalists facing censorship or harassment.",
+                "url": "https://en.unesco.org/commemorations/worldpressfreedomday"
+            },
+            {
+                "title": "Sun Awareness Week",
+                "summary": "Run by the British Association of Dermatologists, this week usually begins in early May. It educates the UK public on the dangers of UV exposure and the importance of skin checks, providing practical advice on how to enjoy the sun safely while reducing the risk of skin cancer.",
+                "url": "https://www.skinhealthinfo.org.uk/sun-awareness/"
+            },
+            {
+                "title": "International Laughter Day",
+                "summary": "First celebrated in 1998, this day promotes world peace through laughter. In the UK, various laughter yoga clubs and community groups meet to practice intentional laughing, which is believed to reduce stress, improve mood, and foster a sense of connection between people from all walks of life.",
+                "url": "https://laughteryoga.org/world-laughter-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-05",
+        "events": [
+            {
+                "title": "Star Wars Day",
+                "summary": "A whimsical global phenomenon based on the pun 'May the Fourth be with you.' Fans in the UK celebrate with themed events, costumes, and social media tributes to the space opera franchise, often visiting filming locations like Skellig Michael or the various British studios used for production.",
+                "url": "https://www.starwars.com/may-the-4th"
+            },
+            {
+                "title": "Early May Bank Holiday",
+                "summary": "Traditionally held on the first Monday of May in the UK, this public holiday dates back to 1978. It is a day for relaxation, community festivals, and often traditional May Day celebrations involving maypole dancing and the crowning of a May Queen in various English villages.",
+                "url": "https://www.gov.uk/bank-holidays"
+            },
+            {
+                "title": "International Firefighters' Day",
+                "summary": "Observed on St Florian's Day, this day honors the sacrifices and dedication of firefighters worldwide. In the UK, it provides an opportunity to thank the men and women of the Fire and Rescue Services who risk their lives daily to protect communities from fire and other emergencies.",
+                "url": "https://www.firefightersday.org/"
+            }
+        ]
+    },
+    {
+        "date": "05-05",
+        "events": [
+            {
+                "title": "World Hand Hygiene Day",
+                "summary": "Led by the World Health Organisation, this day reminds health workers and the public of the critical role hand washing plays in preventing infection. In the UK, the NHS uses this date to reinforce cleanliness protocols to improve patient safety and reduce the spread of pathogens.",
+                "url": "https://www.who.int/campaigns/world-hand-hygiene-day"
+            },
+            {
+                "title": "International Day of the Midwife",
+                "summary": "This day recognises the vital work midwives do in ensuring safe births and providing postnatal care. The Royal College of Midwives in the UK celebrates the expertise of its members and campaigns for better resources to support maternal health and the midwifery profession nationwide.",
+                "url": "https://www.rcm.org.uk/"
+            },
+            {
+                "title": "Cinco de Mayo",
+                "summary": "While primarily a Mexican-American celebration, Cinco de Mayo is increasingly observed in UK cities. It commemorates the Mexican Army's victory over the French Empire. Many UK restaurants and bars use the occasion to showcase Mexican culture, food, and music to a wider British audience.",
+                "url": "https://www.britannica.com/topic/Cinco-de-Mayo"
+            }
+        ]
+    },
+    {
+        "date": "06-05",
+        "events": [
+            {
+                "title": "International No Diet Day",
+                "summary": "A day dedicated to promoting a healthy lifestyle and body acceptance. It challenges the social pressures of dieting and honors the diversity of all body shapes and sizes. In the UK, it is often supported by eating disorder charities to encourage a positive relationship with food.",
+                "url": "https://www.beateatingdisorders.org.uk/"
+            },
+            {
+                "title": "National Nurses Day",
+                "summary": "While International Nurses Day is the 12th, the UK often begins a week of recognition on this date. It highlights the incredible contribution nurses make to the NHS, providing expert care and compassion to patients across all sectors of the British healthcare system, from hospitals to community clinics.",
+                "url": "https://www.rcn.org.uk/nurses-day"
+            },
+            {
+                "title": "National Beverage Day",
+                "summary": "A simple day to appreciate your favorite drink, whether it is a classic British cup of tea, a craft ale, or a refreshing soft drink. It encourages people to take a break and enjoy a beverage of their choice, celebrating the diverse drink culture across the UK.",
+                "url": "https://www.daysoftheyear.com/days/beverage-day/"
+            }
+        ]
+    },
+    {
+        "date": "07-05",
+        "events": [
+            {
+                "title": "World Asthma Day",
+                "summary": "Organised by the Global Initiative for Asthma, this day raises awareness of the chronic respiratory condition. In the UK, organisations like Asthma + Lung UK use the event to provide educational resources, improve diagnosis, and advocate for better air quality to protect those living with asthma.",
+                "url": "https://www.asthmaandlung.org.uk/"
+            },
+            {
+                "title": "National Tourism Day",
+                "summary": "This day celebrates the vital role tourism plays in the UK economy. It highlights the country's diverse attractions, from historic landmarks and museums to stunning landscapes, encouraging both domestic and international visitors to explore the rich cultural tapestry that Britain has to offer.",
+                "url": "https://www.visitbritain.org/"
+            },
+            {
+                "title": "British Beer Day",
+                "summary": "Falling on the anniversary of the signing of the Magna Carta in some traditions, this day celebrates the heritage of British brewing. It encourages people to visit their local pubs and appreciate the variety of traditional ales and craft beers produced across the United Kingdom.",
+                "url": "https://www.beerdaybritain.info/"
+            }
+        ]
+    },
+    {
+        "date": "08-05",
+        "events": [
+            {
+                "title": "VE Day (Victory in Europe Day)",
+                "summary": "This significant anniversary marks the day in 1945 when the Allies formally accepted the unconditional surrender of Nazi Germany's armed forces. In the UK, it is a time of solemn remembrance and celebration, honoring the veterans and the civilian population who endured the Second World War.",
+                "url": "https://www.britishlegion.org.uk/get-involved/remembrance/remembrance-events/ve-day"
+            },
+            {
+                "title": "World Red Cross and Red Crescent Day",
+                "summary": "Celebrated on the birthday of Henry Dunant, the founder of the Red Cross, this day honors the work of volunteers worldwide. The British Red Cross uses the date to showcase their humanitarian efforts, from crisis response to providing mobility aids for those in need across the UK.",
+                "url": "https://www.redcross.org.uk/"
+            },
+            {
+                "title": "National No Socks Day",
+                "summary": "A day encouraging people to liberate their feet and go sockless for twenty-four hours. It is a lighthearted nod to the approaching summer weather in Britain, suggesting that we should give our toes some breathing room and perhaps enjoy the feeling of grass between our toes.",
+                "url": "https://www.daysoftheyear.com/days/no-socks-day/"
+            }
+        ]
+    },
+    {
+        "date": "09-05",
+        "events": [
+            {
+                "title": "Europe Day",
+                "summary": "Commemorating the Schuman Declaration of 1950, this day celebrates peace and unity in Europe. While the UK’s relationship with the EU has changed, the day still serves as a moment to recognize shared European culture, history, and the importance of international cooperation across the continent.",
+                "url": "https://european-union.europa.eu/principles-countries-history/symbols/europe-day_en"
+            },
+            {
+                "title": "National Lost Sock Memorial Day",
+                "summary": "A quirky day dedicated to acknowledging the universal mystery of the single sock that disappears in the wash. It is a time to finally let go of those lonely, mismatched socks sitting in the bottom of the drawer and accept that their partners are likely gone forever.",
+                "url": "https://www.daysoftheyear.com/days/lost-sock-memorial-day/"
+            },
+            {
+                "title": "World Fair Trade Day",
+                "summary": "This global event promotes the importance of fair trade in creating sustainable livelihoods for farmers and workers. In the UK, the Fairtrade Foundation encourages consumers to choose products that guarantee fair prices and ethical working conditions, helping to reduce poverty and empower producers worldwide.",
+                "url": "https://www.fairtrade.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "10-05",
+        "events": [
+            {
+                "title": "National Clean Up Your Room Day",
+                "summary": "A day that many parents across the UK might appreciate, encouraging a thorough spring clean of one's personal space. Beyond just tidying, it promotes the mental health benefits of an organised environment and the satisfaction of decluttering and donating unused items to local charity shops.",
+                "url": "https://www.daysoftheyear.com/days/clean-up-your-room-day/"
+            },
+            {
+                "title": "World Lupus Day",
+                "summary": "This day focuses on the need for increased public awareness, improved patient care, and more research into the causes and cure for Lupus. Lupus UK uses this date to support those living with the condition and educate the medical community on early diagnosis and treatment.",
+                "url": "https://www.lupusuk.org.uk/world-lupus-day/"
+            },
+            {
+                "title": "National Shrimp Day",
+                "summary": "A day for seafood lovers to celebrate the humble shrimp (or prawn as often called in the UK). It highlights the versatility of this crustacean in British cuisine, from the classic prawn cocktail to modern seafood pasta dishes, while encouraging the choice of sustainably sourced varieties.",
+                "url": "https://www.daysoftheyear.com/days/shrimp-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-05",
+        "events": [
+            {
+                "title": "Eat What You Want Day",
+                "summary": "A lighthearted day that encourages people to step away from dietary restrictions and enjoy their favorite foods without guilt. Whether it is a traditional British chippy tea, a decadent cake, or an extra helping of Sunday roast, it is a day for purely culinary indulgence.",
+                "url": "https://www.daysoftheyear.com/days/eat-what-you-want-day/"
+            },
+            {
+                "title": "National Somerset Day",
+                "summary": "A day to celebrate the history, culture, and beauty of the county of Somerset. It marks the anniversary of King Alfred the Great’s rally against the Vikings. Locals and fans of the region celebrate with cider, local cheeses, and events highlighting Somerset’s unique landscape and traditions.",
+                "url": "https://www.somersetday.com/"
+            },
+            {
+                "title": "World Ego Awareness Day",
+                "summary": "This day aims to help people recognize and release the negative aspects of the ego that can lead to conflict and suffering. It promotes mindfulness and self-reflection, encouraging individuals in the UK and beyond to cultivate more empathy, compassion, and authentic connections with others.",
+                "url": "http://worldegoawarenessday.com/"
+            }
+        ]
+    },
+    {
+        "date": "12-05",
+        "events": [
+            {
+                "title": "International Nurses Day",
+                "summary": "Celebrated on the anniversary of Florence Nightingale's birth, this day honors the vital contributions of nurses. In the UK, the Royal College of Nursing leads celebrations to recognize the professionalism and commitment of nursing staff who are the backbone of the healthcare system.",
+                "url": "https://www.rcn.org.uk/nurses-day"
+            },
+            {
+                "title": "Limerick Day",
+                "summary": "A day to celebrate the five-line humorous poems popularised by Edward Lear. It is a whimsical nod to British literary history, encouraging people to write and share their own witty rhymes, keeping this playful and often nonsensical form of poetry alive for new generations.",
+                "url": "https://www.daysoftheyear.com/days/limerick-day/"
+            },
+            {
+                "title": "Fibromyalgia Awareness Day",
+                "summary": "This day aims to raise awareness of Fibromyalgia, a long-term condition that causes pain all over the body. Charities like Fibromyalgia Action UK use the day to educate the public and healthcare professionals about the debilitating nature of the condition and the need for better support.",
+                "url": "https://www.fmauk.org/"
+            }
+        ]
+    },
+    {
+        "date": "13-05",
+        "events": [
+            {
+                "title": "World Cocktail Day",
+                "summary": "Marking the publication date of the first definition of a cocktail in 1806, this day celebrates the art of mixology. UK bars and enthusiasts celebrate by shaking up classics like the Gin & Tonic or creating innovative new drinks using British-made spirits and fresh, local ingredients.",
+                "url": "https://www.daysoftheyear.com/days/world-cocktail-day/"
+            },
+            {
+                "title": "National Apple Pie Day",
+                "summary": "While often associated with the US, the apple pie is a staple of British dessert culture. This day celebrates the comforting combination of flaky pastry and spiced fruit, encouraging home bakers across the UK to whip up this classic treat using traditional British apple varieties like Bramleys.",
+                "url": "https://www.daysoftheyear.com/days/apple-pie-day/"
+            },
+            {
+                "title": "International Hummus Day",
+                "summary": "A global celebration of the popular chickpea-based dip. In the UK, hummus has become a fridge staple, and this day encourages people to enjoy it with pita bread, vegetables, or as part of a larger Mezze platter, celebrating its Middle Eastern origins and widespread popularity.",
+                "url": "https://hummustheday.com/"
+            }
+        ]
+    },
+    {
+        "date": "14-05",
+        "events": [
+            {
+                "title": "National Decency Day",
+                "summary": "This day encourages basic decency, kindness, and respect in everyday interactions. It is a reminder for people in the UK to be considerate of others, whether in person or online, fostering a more positive and supportive society through small acts of politeness and empathy.",
+                "url": "https://www.daysoftheyear.com/days/national-decency-day/"
+            },
+            {
+                "title": "World Facilities Management Day",
+                "summary": "Organised by Global FM, this day celebrates the behind-the-scenes professionals who ensure our buildings and workplaces are safe, efficient, and comfortable. In the UK, it highlights the importance of the industry in maintaining the infrastructure of offices, schools, and hospitals across the nation.",
+                "url": "https://globalfm.org/world-fm-day/"
+            },
+            {
+                "title": "Dance Like a Chicken Day",
+                "summary": "A purely whimsical and silly day that encourages everyone to lose their inhibitions and perform the 'Chicken Dance.' It is a lighthearted way to bring a smile to people's faces and remind us not to take ourselves too seriously, even in the middle of a busy week.",
+                "url": "https://www.daysoftheyear.com/days/dance-like-a-chicken-day/"
+            }
+        ]
+    },
+    {
+        "date": "15-05",
+        "events": [
+            {
+                "title": "International Day of Families",
+                "summary": "Proclaimed by the UN, this day promotes awareness of issues relating to families and increases knowledge of the social, economic, and demographic processes affecting them. In the UK, it is a day to celebrate the diverse range of family structures and the vital role they play in society.",
+                "url": "https://www.un.org/en/observances/international-day-of-families"
+            },
+            {
+                "title": "National Chocolate Chip Day",
+                "summary": "A delicious day dedicated to the small but mighty chocolate chip. From cookies to muffins, this day encourages the UK public to bake or buy treats containing these cocoa morsels, celebrating the simple joy that a bit of chocolate can add to any snack or dessert.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-chip-day/"
+            },
+            {
+                "title": "Hyperemesis Gravidarum Awareness Day",
+                "summary": "This day raises awareness of HG, a severe form of pregnancy sickness. Pregnancy Sickness Support in the UK uses this date to provide information and support to sufferers and their families, while educating healthcare providers on the serious physical and mental impact of the condition.",
+                "url": "https://www.pregnancysicknesssupport.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "16-05",
+        "events": [
+            {
+                "title": "National Children's Day UK",
+                "summary": "This day is all about the importance of a healthy childhood and the need to protect the rights and freedoms of children. It encourages families and communities to spend time together, emphasizing the value of play and the need for children to grow up in a supportive environment.",
+                "url": "https://www.childrensdayuk.com/"
+            },
+            {
+                "title": "International Day of Light",
+                "summary": "A global initiative that provides an annual focal point for the continued appreciation of light and the role it plays in science, culture, and art. In the UK, it is marked by events at universities and museums, exploring everything from optical technology to the beauty of natural light.",
+                "url": "https://www.lightday.org/"
+            },
+            {
+                "title": "National Mimosa Day",
+                "summary": "A celebration of the classic brunch cocktail made of champagne and chilled citrus juice. It is a day to enjoy a sophisticated mid-morning drink with friends, perhaps as part of a weekend brunch in one of the many cafes and restaurants across the UK.",
+                "url": "https://www.daysoftheyear.com/days/mimosa-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-05",
+        "events": [
+            {
+                "title": "World Telecommunication and Information Society Day",
+                "summary": "This day marks the founding of the ITU and the signing of the first International Telegraph Convention. It highlights the importance of communication technologies in bridging the digital divide and promotes the use of the internet as a tool for social and economic development in the UK.",
+                "url": "https://www.itu.int/en/wtisd/"
+            },
+            {
+                "title": "International Day Against Homophobia, Biphobia and Transphobia",
+                "summary": "Observed globally, this day aims to raise awareness of LGBT+ rights violations and stimulate interest in LGBT+ rights work worldwide. In the UK, it is a day of action and solidarity, with many organisations flying the rainbow flag and hosting events to promote equality and inclusion.",
+                "url": "https://may17.org/"
+            },
+            {
+                "title": "World Hypertension Day",
+                "summary": "This day focuses on the importance of monitoring blood pressure and global awareness of the 'silent killer.' Blood Pressure UK uses the event to encourage people to get their pressure checked and provides advice on lifestyle changes to reduce the risk of stroke and heart disease.",
+                "url": "https://www.bloodpressureuk.org/"
+            }
+        ]
+    },
+    {
+        "date": "18-05",
+        "events": [
+            {
+                "title": "International Museum Day",
+                "summary": "A day to celebrate the role of museums as important means of cultural exchange and enrichment. Many UK museums offer special events, free entry, or behind-the-scenes tours, showcasing their vast collections and the work they do in preserving history and inspiring future generations of visitors.",
+                "url": "https://icom.museum/en/international-museum-day/"
+            },
+            {
+                "title": "World AIDS Vaccine Day",
+                "summary": "Also known as HIV Vaccine Awareness Day, it recognises the many volunteers, community members, and scientists working together to find a safe and effective preventive HIV vaccine. In the UK, it is a day to highlight the ongoing research and the need for continued global investment in the field.",
+                "url": "https://www.niaid.nih.gov/news-events/world-aids-vaccine-day"
+            },
+            {
+                "title": "National Visit Your Relatives Day",
+                "summary": "A whimsical but meaningful reminder to reconnect with family members. In our busy lives, it is easy to let time slip by, so this day encourages people across the UK to pick up the phone, send a card, or ideally, visit their relatives in person for a catch-up.",
+                "url": "https://www.daysoftheyear.com/days/visit-your-relatives-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-05",
+        "events": [
+            {
+                "title": "World IBD Day",
+                "summary": "This day aims to raise awareness of Crohn's disease and Ulcerative Colitis, collectively known as Inflammatory Bowel Disease. Crohn's & Colitis UK leads the 'Purple Friday' campaign, encouraging people to wear purple to show support for the over 500,000 people living with these conditions in the UK.",
+                "url": "https://www.crohnsandcolitis.org.uk/"
+            },
+            {
+                "title": "National Hedgehog Day",
+                "summary": "While the main UK celebration is in Hedgehog Awareness Week (early May), this day focuses specifically on protecting these beloved garden visitors. It encourages the British public to create hedgehog-friendly spaces in their gardens by leaving out water and creating 'hedgehog highways' through garden fences.",
+                "url": "https://www.britishhedgehogs.org.uk/"
+            },
+            {
+                "title": "Global Accessibility Awareness Day",
+                "summary": "This day focuses on digital access and inclusion for the more than one billion people with disabilities/impairments. It encourages UK developers and designers to think about how they can make their websites and technology more accessible to everyone, ensuring no one is left behind in the digital age.",
+                "url": "https://accessibility.day/"
+            }
+        ]
+    },
+    {
+        "date": "20-05",
+        "events": [
+            {
+                "title": "World Bee Day",
+                "summary": "Designated by the UN, this day acknowledges the role of bees and other pollinators for the ecosystem. In the UK, it highlights the importance of protecting bee habitats and avoiding harmful pesticides, celebrating the vital contribution these insects make to our food security and the natural beauty of the British countryside.",
+                "url": "https://www.un.org/en/observances/bee-day"
+            },
+            {
+                "title": "International Red Shoes Day",
+                "summary": "A day of remembrance for those who have lost their lives to Lyme disease and other invisible illnesses. It is a day to raise awareness about the difficulties of diagnosis and treatment, encouraging compassion and better medical understanding for patients in the UK and worldwide.",
+                "url": "https://www.lymediseaseaction.org.uk/"
+            },
+            {
+                "title": "National Be a Millionaire Day",
+                "summary": "A day to dream big and imagine what life would be like with a million pounds. It encourages people to think about their financial goals and perhaps treat themselves to a lottery ticket, while acknowledging the lighthearted nature of the 'get rich quick' fantasy.",
+                "url": "https://www.daysoftheyear.com/days/be-a-millionaire-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-05",
+        "events": [
+            {
+                "title": "World Day for Cultural Diversity for Dialogue and Development",
+                "summary": "An opportunity to help communities understand the value of cultural diversity and learn how to live together in harmony. In the UK, this is a day to celebrate the many different cultures that make up our society, promoting tolerance, respect, and a deeper appreciation for our shared humanity.",
+                "url": "https://www.un.org/en/observances/cultural-diversity-day"
+            },
+            {
+                "title": "International Tea Day",
+                "summary": "A day to celebrate the long history and deep cultural significance of tea worldwide. For the UK, this is a significant date to honor our national beverage, acknowledging the sustainable production of tea and the people who work in the tea industry across the globe.",
+                "url": "https://www.un.org/en/observances/tea-day"
+            },
+            {
+                "title": "National Memo Day",
+                "summary": "A day dedicated to the art of the memorandum. It encourages people to practice concise and effective communication, whether in the office or at home, reminding us of the days before instant messaging when a well-written memo was the cornerstone of professional information sharing.",
+                "url": "https://www.daysoftheyear.com/days/memo-day/"
+            }
+        ]
+    },
+    {
+        "date": "22-05",
+        "events": [
+            {
+                "title": "International Day for Biological Diversity",
+                "summary": "The UN created this day to increase understanding and awareness of biodiversity issues. In the UK, it is a time to focus on protecting our native species and habitats, from the rugged coastlines to the ancient woodlands, and to recognize the importance of nature to our own wellbeing.",
+                "url": "https://www.un.org/en/observances/biological-diversity-day"
+            },
+            {
+                "title": "National Goth Day",
+                "summary": "A day for the Goth subculture to celebrate its own unique identity. It is an opportunity for Goths to show their appreciation for Goth music, fashion, and art, and for the wider UK public to learn more about this often-misunderstood but vibrant and creative community.",
+                "url": "http://www.worldgothday.com/"
+            },
+            {
+                "title": "World Preeclampsia Day",
+                "summary": "This day aims to raise awareness of preeclampsia as a life-threatening complication of pregnancy. Action on Pre-eclampsia in the UK uses the date to educate expectant parents and healthcare providers on the symptoms and the need for early intervention to ensure the safety of both mother and baby.",
+                "url": "https://action-on-pre-eclampsia.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "23-05",
+        "events": [
+            {
+                "title": "World Turtle Day",
+                "summary": "Sponsored by American Tortoise Rescue, this day is celebrated worldwide to bring attention to, and increase knowledge of and respect for, turtles and tortoises. In the UK, it encourages people to support conservation efforts and protect the habitats of these ancient and fascinating reptiles.",
+                "url": "https://www.worldturtleday.org/"
+            },
+            {
+                "title": "International Day to End Obstetric Fistula",
+                "summary": "This UN-observed day aims to raise awareness and intensify actions towards ending obstetric fistula, a serious and tragic childbirth injury. It highlights the need for improved maternal healthcare and support for women affected by this condition, particularly in developing nations.",
+                "url": "https://www.un.org/en/observances/end-fistula-day"
+            },
+            {
+                "title": "National Lucky Penny Day",
+                "summary": "A day focused on the superstition that finding a penny brings good luck. It encourages people in the UK to keep an eye out for loose change on the ground and to appreciate the small bits of fortune that can brighten an otherwise ordinary day.",
+                "url": "https://www.daysoftheyear.com/days/lucky-penny-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-05",
+        "events": [
+            {
+                "title": "European Day of Parks",
+                "summary": "Launched by the EUROPARC Federation, this day celebrates Protected Areas across Europe. In the UK, it is a great time to visit one of our many stunning National Parks, from the Lake District to the Cairngorms, and to appreciate the incredible work done to preserve these landscapes.",
+                "url": "https://www.europarc.org/nature/european-day-of-parks/"
+            },
+            {
+                "title": "National Scavenger Hunt Day",
+                "summary": "A day that encourages people of all ages to get outside and explore their surroundings. Whether it is a simple hunt in the back garden or a more complex trail through a local town, it is a fun way to engage with the environment and practice problem-solving skills.",
+                "url": "https://www.daysoftheyear.com/days/scavenger-hunt-day/"
+            },
+            {
+                "title": "World Schizophrenia Awareness Day",
+                "summary": "This day aims to reduce the stigma associated with schizophrenia and to provide information and support to those living with the condition. In the UK, mental health charities use the day to educate the public and advocate for better access to treatment and community support services.",
+                "url": "https://www.rethink.org/"
+            }
+        ]
+    },
+    {
+        "date": "25-05",
+        "events": [
+            {
+                "title": "Africa Day",
+                "summary": "Commemorating the founding of the Organisation of African Unity in 1963, this day celebrates African unity and culture. In the UK, it is marked by events showcasing African music, art, and food, highlighting the significant contributions of the African diaspora to British society and the wider world.",
+                "url": "https://au.int/en/africa-day"
+            },
+            {
+                "title": "Towel Day",
+                "summary": "A whimsical tribute to the author Douglas Adams, author of 'The Hitchhiker's Guide to the Galaxy.' Fans in the UK and beyond carry a towel for the day, a reference to the most useful thing an interstellar hitchhiker can have, celebrating Adams’ unique brand of British humor.",
+                "url": "http://www.towelday.org/"
+            },
+            {
+                "title": "National Wine Day",
+                "summary": "A day for wine enthusiasts to appreciate the diversity of wines from around the world. It also highlights the growing success of the UK’s own wine industry, with English and Welsh vineyards producing award-winning sparkling and still wines that are increasingly gaining international recognition.",
+                "url": "https://www.winegb.co.uk/"
+            }
+        ]
+    },
+    {
+        "date": "26-05",
+        "events": [
+            {
+                "title": "National Paper Airplane Day",
+                "summary": "A day dedicated to the simple joy of folding and flying paper airplanes. It encourages people to take a break from their digital screens and engage in a bit of creative engineering, perhaps even holding a small competition to see whose design can fly the furthest.",
+                "url": "https://www.daysoftheyear.com/days/paper-airplane-day/"
+            },
+            {
+                "title": "World Lindy Hop Day",
+                "summary": "Celebrating the vibrant and energetic swing dance that originated in Harlem in the 1920s and 30s. In the UK, the swing dance scene is thriving, and this day is marked by workshops and social dances where people of all ages can enjoy this joyful and social form of dance.",
+                "url": "https://www.worldlindyhopday.com/"
+            },
+            {
+                "title": "National Blueberry Cheesecake Day",
+                "summary": "A delicious day to celebrate one of the most popular dessert combinations. Whether homemade or bought from a local bakery, it is a day for the UK public to indulge in a slice of creamy cheesecake topped with sweet, tart blueberries, honoring this classic and beloved treat.",
+                "url": "https://www.daysoftheyear.com/days/blueberry-cheesecake-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-05",
+        "events": [
+            {
+                "title": "National Sunscreen Day",
+                "summary": "Timed to coincide with the beginning of the warmer months in the UK, this day serves as a vital reminder of the importance of sun protection. It encourages people to apply sunscreen regularly to protect their skin from harmful UV rays and reduce the risk of sun damage and skin cancer.",
+                "url": "https://www.britishskinfoundation.org.uk/"
+            },
+            {
+                "title": "World MS Day",
+                "summary": "The official day of the global MS movement, aiming to raise awareness and provide a voice for everyone affected by multiple sclerosis. In the UK, the MS Society uses the day to share stories, raise funds, and advocate for better research and support for those living with the condition.",
+                "url": "https://worldmsday.org/"
+            },
+            {
+                "title": "National Cellophane Tape Day",
+                "summary": "A day acknowledging one of the most useful inventions in the modern home and office. It is a lighthearted look at the history of this sticky essential, which has been helping people in the UK mend torn pages and wrap presents since its introduction in the 1930s.",
+                "url": "https://www.daysoftheyear.com/days/cellophane-tape-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-05",
+        "events": [
+            {
+                "title": "World Hunger Day",
+                "summary": "An initiative by The Hunger Project to raise awareness of the more than 800 million people living in chronic hunger. In the UK, it is a day to support international development efforts and to consider how we can all contribute to creating a world where everyone has access to enough food.",
+                "url": "https://www.worldhungerday.org/"
+            },
+            {
+                "title": "International Day of Action for Women's Health",
+                "summary": "This day highlights the importance of women's health and rights worldwide. In the UK, it is an opportunity to discuss issues such as reproductive health, mental wellness, and the need for gender-sensitive healthcare services that address the specific needs of women and girls in our society.",
+                "url": "http://www.may28.org/"
+            },
+            {
+                "title": "National Hamburger Day",
+                "summary": "A day for foodies to celebrate the humble hamburger. In the UK, the burger scene has exploded in recent years, with everything from classic fast-food versions to gourmet, locally-sourced creations. It is a day to enjoy a favorite burger and perhaps try a new topping or a plant-based alternative.",
+                "url": "https://www.daysoftheyear.com/days/hamburger-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-05",
+        "events": [
+            {
+                "title": "International Day of UN Peacekeepers",
+                "summary": "This day pays tribute to the professionalism, dedication, and courage of the civilian, police, and military personnel serving in UN peacekeeping operations. It is also a day to honor the memory of those who have lost their lives in the cause of peace while serving under the UN flag.",
+                "url": "https://www.un.org/en/observances/peacekeepers-day"
+            },
+            {
+                "title": "National Put a Pillow on Your Fridge Day",
+                "summary": "A truly whimsical and bizarre tradition that is said to bring good luck and prosperity to the household. While its origins are somewhat obscure, it is a fun and silly way for families in the UK to participate in a quirky social media trend and bring a bit of laughter home.",
+                "url": "https://www.daysoftheyear.com/days/put-a-pillow-on-your-fridge-day/"
+            },
+            {
+                "title": "World Digestive Health Day",
+                "summary": "Organised by the World Gastroenterology Organisation, this day focuses each year on a specific digestive disease or disorder. In the UK, it provides an opportunity to raise awareness about gut health and the importance of a healthy diet and lifestyle in preventing digestive issues and promoting overall wellbeing.",
+                "url": "https://www.worldgastroenterology.org/wgo-foundation/wdhd"
+            }
+        ]
+    },
+    {
+        "date": "30-05",
+        "events": [
+            {
+                "title": "National Creativity Day",
+                "summary": "A day to celebrate the creative spark in everyone. Whether it is painting, writing, cooking, or problem-solving, this day encourages people across the UK to embrace their imagination and explore their artistic side, highlighting the importance of creativity for personal fulfillment and innovation in society.",
+                "url": "https://www.daysoftheyear.com/days/creativity-day/"
+            },
+            {
+                "title": "World Vape Day",
+                "summary": "This day aims to raise awareness about the potential of vaping as a harm reduction tool for smokers looking to quit. In the UK, organisations use the date to provide evidence-based information on the relative safety of e-cigarettes compared to traditional tobacco and to advocate for supportive public health policies.",
+                "url": "https://worldvapeday.org/"
+            },
+            {
+                "title": "National Water a Flower Day",
+                "summary": "A whimsical and practical reminder to care for our plants as the weather warms up. It encourages gardeners and houseplant enthusiasts across the UK to take a moment to nurture their flowers, appreciating the beauty and environmental benefits that blooming plants bring to our homes and gardens.",
+                "url": "https://www.daysoftheyear.com/days/water-a-flower-day/"
+            }
+        ]
+    },
+    {
+        "date": "31-05",
+        "events": [
+            {
+                "title": "World No Tobacco Day",
+                "summary": "This UN-led initiative informs the public on the dangers of using tobacco and the business practices of tobacco companies. In the UK, it is a key day for anti-smoking campaigns, highlighting the health benefits of quitting and the various support services available through the NHS to help people stop smoking.",
+                "url": "https://www.who.int/campaigns/world-no-tobacco-day"
+            },
+            {
+                "title": "National Smile Day",
+                "summary": "A day dedicated to the simple act of smiling and its power to brighten someone's day. It encourages people in the UK to share a smile with friends, family, and strangers alike, promoting a sense of connection and the well-documented mental health benefits of a positive and friendly outlook.",
+                "url": "https://www.daysoftheyear.com/days/national-smile-day/"
+            },
+            {
+                "title": "National Macaroon Day",
+                "summary": "A sweet celebration of the macaroon (not to be confused with the French macaron). This day honors the dense, chewy, and often coconut-based biscuit that is a favorite in many UK households, encouraging people to bake a batch or pick some up from their local bakery to enjoy with a cup of tea.",
+                "url": "https://www.daysoftheyear.com/days/macaroon-day/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "date": "01-11",
+        "events": [
+            {
+                "title": "World Vegan Day",
+                "summary": "Established in 1994 by The Vegan Society in the UK to celebrate the 50th anniversary of the movement. It kicks off World Vegan Month, encouraging people to explore a plant-based lifestyle to benefit animals, personal health, and the environment through British-led initiatives.",
+                "url": "https://www.vegansociety.com/take-action/campaigns/world-vegan-month"
+            },
+            {
+                "title": "National Authors Day",
+                "summary": "A day to celebrate the writers who provide the UK with its rich literary heritage. It encourages readers to reach out to their favorite British authors or discover new local talent, highlighting the importance of storytelling in our cultural identity.",
+                "url": "https://www.daysoftheyear.com/days/authors-day/"
+            },
+            {
+                "title": "National Cook For Your Pets Day",
+                "summary": "A day for UK pet owners to ditch the tinned food and whip up a home-cooked, pet-safe meal. It emphasises the bond between humans and their animals while reminding owners to check nutritional requirements for their furry friends.",
+                "url": "https://www.daysoftheyear.com/days/cook-for-your-pets-day/"
+            }
+        ]
+    },
+    {
+        "date": "02-11",
+        "events": [
+            {
+                "title": "All Souls' Day",
+                "summary": "A day of remembrance in the Christian calendar, particularly observed in the UK to commemorate the faithfully departed. Many people visit family graves or attend church services to light candles and reflect on the lives of loved ones who have passed away.",
+                "url": "https://www.bbc.co.uk/religion/religions/christianity/holydays/allsaintsallsouls.shtml"
+            },
+            {
+                "title": "International Day to End Impunity for Crimes against Journalists",
+                "summary": "A UN-recognised day aimed at protecting members of the press. In the UK, media organisations use this date to advocate for the safety of journalists worldwide and to promote freedom of speech and the essential role of investigative journalism in democracy.",
+                "url": "https://www.un.org/en/observances/end-impunity-for-crimes-against-journalists"
+            },
+            {
+                "title": "National Devilled Egg Day",
+                "summary": "A culinary celebration of the classic retro party snack. While more prominent in 1970s British entertaining, this day sees a revival in UK kitchens as foodies experiment with modern twists on the traditional mustard and mayo egg filling.",
+                "url": "https://www.daysoftheyear.com/days/devilled-egg-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-11",
+        "events": [
+            {
+                "title": "World Jellyfish Day",
+                "summary": "A day to appreciate these ancient, brainless marine creatures. In the UK, marine conservationists use the date to educate the public about the diverse jellyfish species found in British waters and their vital role in the ocean's ecosystem.",
+                "url": "https://www.marine-conservation.org/"
+            },
+            {
+                "title": "National Sandwich Day",
+                "summary": "Celebrating the UK's most popular lunch item, famously named after the 4th Earl of Sandwich. This day acknowledges the massive British sandwich industry and encourages the public to celebrate the humble 'butty' in all its varied forms.",
+                "url": "https://www.britishsandwichweek.com/"
+            },
+            {
+                "title": "Cliché Day",
+                "summary": "A celebration of the phrases we love to hate. At the end of the day, it is what it is! This day encourages UK writers and speakers to have fun with overused expressions while perhaps trying to turn over a new leaf.",
+                "url": "https://www.daysoftheyear.com/days/cliche-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-11",
+        "events": [
+            {
+                "title": "Common Sense Day",
+                "summary": "A day to celebrate the often-overlooked virtue of practical reasoning. In the UK, it serves as a light-hearted reminder to use sound judgment in daily life and to appreciate the straightforward, no-nonsense attitude often associated with British culture.",
+                "url": "https://www.daysoftheyear.com/days/common-sense-day/"
+            },
+            {
+                "title": "National Roast Dinner Day",
+                "summary": "Occurring during National School Meals Week in the UK, this day celebrates the quintessential British roast. Schools and canteens across the country serve up traditional roasts to highlight the importance of hot, nutritious, and culturally significant school lunches.",
+                "url": "https://laca.co.uk/national-school-meals-week"
+            },
+            {
+                "title": "National Candy Onion Day",
+                "summary": "A whimsical culinary day dedicated to the sweeter varieties of onions. It encourages UK home cooks to experiment with caramelised onion recipes, highlighting how these vegetables can transform savory dishes into something truly special with their natural sugars.",
+                "url": "https://www.daysoftheyear.com/days/candy-onion-day/"
+            }
+        ]
+    },
+    {
+        "date": "05-11",
+        "events": [
+            {
+                "title": "Guy Fawkes Night (Bonfire Night)",
+                "summary": "A uniquely British event commemorating the failure of the 1605 Gunpowder Plot. Across the UK, people gather for firework displays and bonfires, often burning an effigy known as a 'guy' while enjoying traditional treats like treacle toffee and parkin.",
+                "url": "https://www.rmg.co.uk/stories/topics/bonfire-night-history-guy-fawkes-and-gunpowder-plot"
+            },
+            {
+                "title": "World Tsunami Awareness Day",
+                "summary": "A UN initiative to raise awareness about the dangers of tsunamis and improve disaster risk reduction. While the UK is at low risk, British scientists contribute significantly to global monitoring systems and aid in international coastal safety projects.",
+                "url": "https://www.un.org/en/observances/tsunami-awareness-day"
+            },
+            {
+                "title": "National Love Your Red Hair Day",
+                "summary": "A celebration of the rarest hair colour in the world. With a higher-than-average percentage of redheads in the UK, particularly in Scotland and Ireland, this day promotes confidence and pride among those with fiery locks.",
+                "url": "https://www.daysoftheyear.com/days/love-your-red-hair-day/"
+            }
+        ]
+    },
+    {
+        "date": "06-11",
+        "events": [
+            {
+                "title": "National Saxophone Day",
+                "summary": "Commemorating the birthday of Adolphe Sax, the inventor of the instrument. In the UK, jazz clubs and music schools use the day to highlight the saxophone's versatility across genres, from classic jazz to contemporary British pop music.",
+                "url": "https://www.daysoftheyear.com/days/saxophone-day/"
+            },
+            {
+                "title": "International Day for Preventing the Exploitation of the Environment in War",
+                "summary": "A UN day focusing on how war damages ecosystems. In the UK, environmental groups use this to discuss the long-term impact of military conflict on climate change and the importance of protecting natural resources during international crises.",
+                "url": "https://www.un.org/en/observances/environment-in-war-protection-day"
+            },
+            {
+                "title": "National Nachos Day",
+                "summary": "A whimsical food day that has been warmly adopted by the UK's casual dining scene. It encourages people to share a platter of tortilla chips topped with cheese and jalapeños, celebrating the social aspect of 'messy' comfort food.",
+                "url": "https://www.daysoftheyear.com/days/nachos-day/"
+            }
+        ]
+    },
+    {
+        "date": "07-11",
+        "events": [
+            {
+                "title": "International Medical Physics Day",
+                "summary": "Raising awareness about the role of medical physicists in patient care. In the NHS, these professionals are vital for radiotherapy and diagnostic imaging, and this day highlights their contribution to the safe and effective treatment of cancer in the UK.",
+                "url": "https://www.iomp.org/idmp/"
+            },
+            {
+                "title": "National Bittersweet Chocolate with Almonds Day",
+                "summary": "A culinary day for dark chocolate enthusiasts. In the UK, this serves as an excuse to appreciate high-percentage cocoa bars from British chocolatiers, highlighting the sophisticated flavor profile of combining nuts with rich, bittersweet chocolate.",
+                "url": "https://www.daysoftheyear.com/days/bittersweet-chocolate-with-almonds-day/"
+            },
+            {
+                "title": "National Hug a Bear Day",
+                "summary": "A day that isn't about real bears, but the cuddly variety! In the UK, it's a day for children (and nostalgic adults) to appreciate the comfort of their teddy bears, often used by charities to promote emotional well-being.",
+                "url": "https://www.daysoftheyear.com/days/hug-a-bear-day/"
+            }
+        ]
+    },
+    {
+        "date": "08-11",
+        "events": [
+            {
+                "title": "World Radiography Day",
+                "summary": "Marking the anniversary of the discovery of X-rays. In the UK, the Society of Radiographers uses this day to promote the profession and highlight the essential role radiographers play in modern healthcare and the diagnosis of diseases within the NHS.",
+                "url": "https://www.sor.org/about-us/events/world-radiography-day"
+            },
+            {
+                "title": "International Day of Radiology",
+                "summary": "A joint initiative to highlight the value of radiology in safe patient care. It aims to improve understanding of the vital role radiologists play in the UK healthcare continuum, from early detection to the management of chronic conditions.",
+                "url": "https://www.internationaldayofradiology.org/"
+            },
+            {
+                "title": "National Cappuccino Day",
+                "summary": "A celebration of the frothy coffee classic. As the UK's coffee culture continues to boom, this day encourages coffee drinkers to support independent British cafes and enjoy a perfectly dusted, steamed milk treat.",
+                "url": "https://www.daysoftheyear.com/days/cappuccino-day/"
+            }
+        ]
+    },
+    {
+        "date": "09-11",
+        "events": [
+            {
+                "title": "Social Media Kindness Day",
+                "summary": "Founded in the UK in memory of Caroline Flack, this day encourages social media users to 'be kind.' It aims to combat online bullying and promote a more positive, supportive digital environment for everyone across British social networks.",
+                "url": "https://www.socialmediakindnessday.com/"
+            },
+            {
+                "title": "World Adoption Day",
+                "summary": "A global day to raise awareness for adoption and celebrate families brought together this way. In the UK, adoption agencies use the day to highlight the number of children in the care system waiting for permanent, loving homes.",
+                "url": "https://worldadoptionday.org/"
+            },
+            {
+                "title": "National Scrapple Day",
+                "summary": "A whimsical culinary day focusing on a traditional savory dish. While Scrapple is more known in the US, its similarities to British 'potted meats' or 'white pudding' make it a curious point of interest for UK food historians.",
+                "url": "https://www.daysoftheyear.com/days/scrapple-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-11",
+        "events": [
+            {
+                "title": "World Science Day for Peace and Development",
+                "summary": "A UN day highlighting the important role of science in society. In the UK, major institutions like the Science Museum host events to emphasize the need to engage the public in debates on emerging scientific issues and sustainable development.",
+                "url": "https://www.un.org/en/observances/world-science-day"
+            },
+            {
+                "title": "World Netball Day",
+                "summary": "A celebration of one of the most popular participation sports in the UK. This day encourages women and girls across the country to get on the court, promoting health, teamwork, and the growing professional profile of the British Superleague.",
+                "url": "https://netball.sport/"
+            },
+            {
+                "title": "National Forget-Me-Not Day",
+                "summary": "A whimsical and poignant day dedicated to remembering loved ones and checking in on those we haven't spoken to in a while. In the UK, it is often associated with dementia charities to raise awareness for those living with memory loss.",
+                "url": "https://www.daysoftheyear.com/days/forget-me-not-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-11",
+        "events": [
+            {
+                "title": "Remembrance Day (Armistice Day)",
+                "summary": "A somber and significant day in the UK marking the end of WWI. At 11:00 am, a two-minute silence is observed nationwide to remember those who died in conflict. The red poppy is widely worn as a symbol of respect and support.",
+                "url": "https://www.britishlegion.org.uk/get-involved/remembrance"
+            },
+            {
+                "title": "Origami Day",
+                "summary": "A day celebrating the ancient art of paper folding. In the UK, creative groups and schools use the day to practice mindfulness and patience, showcasing the incredible complexity that can be achieved with a single square of British-made paper.",
+                "url": "https://www.britishorigami.info/"
+            },
+            {
+                "title": "National Sundae Day",
+                "summary": "A whimsical food day celebrating the decadent ice cream dessert. It encourages UK families to indulge in a mid-autumn treat, often using traditional British toppings like fudge, crushed biscuits, or seasonal fruit compotes.",
+                "url": "https://www.daysoftheyear.com/days/sundae-day/"
+            }
+        ]
+    },
+    {
+        "date": "12-11",
+        "events": [
+            {
+                "title": "World Pneumonia Day",
+                "summary": "Raising awareness of pneumonia as a major public health issue. In the UK, health organisations focus on the importance of vaccination and early diagnosis to protect the most vulnerable, particularly young children and the elderly, during the colder months.",
+                "url": "https://stoppneumonia.org/latest/world-pneumonia-day/"
+            },
+            {
+                "title": "National Pizza with the Works Day",
+                "summary": "A culinary day celebrating the fully loaded pizza. UK pizzerias often run promotions for 'supreme' toppings, encouraging diners to enjoy a feast of meats and vegetables as a hearty winter meal as the nights draw in.",
+                "url": "https://www.daysoftheyear.com/days/pizza-with-the-works-day/"
+            },
+            {
+                "title": "National Chicken Soup for the Soul Day",
+                "summary": "A day focused on the healing power of storytelling and comfort food. In the UK, it’s a day to share uplifting personal anecdotes or enjoy a bowl of traditional soup to warm the spirit during a chilly November.",
+                "url": "https://www.daysoftheyear.com/days/chicken-soup-for-the-soul-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-11",
+        "events": [
+            {
+                "title": "World Kindness Day",
+                "summary": "A day to highlight good deeds in the community and the power of kindness. Across the UK, people are encouraged to perform random acts of kindness, fostering a sense of social cohesion and improving mental well-being for both the giver and receiver.",
+                "url": "https://www.kindnessuk.com/"
+            },
+            {
+                "title": "National Sympathy Day",
+                "summary": "A day to practice empathy and show support for those going through difficult times. In the UK, it encourages people to reach out with a card, a call, or a listening ear to friends or neighbors who may be grieving or struggling.",
+                "url": "https://www.daysoftheyear.com/days/sympathy-day/"
+            },
+            {
+                "title": "Sadie Hawkins Day",
+                "summary": "A whimsical tradition inspired by a comic strip where women take the initiative in social situations. In the UK, it’s often used as a light-hearted theme for university events or dances, turning traditional dating conventions on their head.",
+                "url": "https://www.daysoftheyear.com/days/sadie-hawkins-day/"
+            }
+        ]
+    },
+    {
+        "date": "14-11",
+        "events": [
+            {
+                "title": "World Diabetes Day",
+                "summary": "Commemorating the birthday of Sir Frederick Banting, who co-discovered insulin. In the UK, Diabetes UK leads the campaign to raise awareness of both Type 1 and Type 2 diabetes, emphasizing the need for better care and preventative measures.",
+                "url": "https://www.diabetes.org.uk/"
+            },
+            {
+                "title": "World Quality Week (Start)",
+                "summary": "A week dedicated to the quality profession. In the UK, the Chartered Quality Institute uses this to highlight how quality management drives efficiency and safety in British business, manufacturing, and public services like the NHS.",
+                "url": "https://www.quality.org/wqweek"
+            },
+            {
+                "title": "National Pickle Day",
+                "summary": "A whimsical food day that celebrates anything preserved in vinegar. In the UK, it’s an excuse to enjoy everything from a traditional pickled onion to a gherkin in a burger, highlighting the British love for sharp, acidic condiments.",
+                "url": "https://www.daysoftheyear.com/days/pickle-day/"
+            }
+        ]
+    },
+    {
+        "date": "15-11",
+        "events": [
+            {
+                "title": "Philanthropy Day",
+                "summary": "Celebrating the charitable work done by individuals and corporations. In the UK, this day highlights the importance of the 'third sector' and the generosity of the British public in supporting causes from animal welfare to medical research.",
+                "url": "https://www.afpglobal.org/philanthropyday"
+            },
+            {
+                "title": "Steve Irwin Day",
+                "summary": "An international day to remember the 'Crocodile Hunter' and his conservation legacy. UK zoos and wildlife fans participate to raise funds for habitat protection, reminding us of our responsibility to protect the natural world.",
+                "url": "https://www.wildlifewarriors.org.au/steve-irwin-day/"
+            },
+            {
+                "title": "National Clean Out Your Refrigerator Day",
+                "summary": "A whimsical but highly practical day for UK households. It encourages everyone to clear out the jars of chutney and forgotten leftovers to make space for the approaching festive food shop, while reducing food waste.",
+                "url": "https://www.daysoftheyear.com/days/clean-out-your-refrigerator-day/"
+            }
+        ]
+    },
+    {
+        "date": "16-11",
+        "events": [
+            {
+                "title": "International Day for Tolerance",
+                "summary": "A UN day aimed at strengthening tolerance by fostering mutual understanding among cultures and peoples. In the UK, community groups use the day to celebrate the country's diverse makeup and to educate against prejudice and discrimination.",
+                "url": "https://www.un.org/en/observances/tolerance-day"
+            },
+            {
+                "title": "World Philosophy Day",
+                "summary": "Usually falling on the third Thursday of November. In the UK, it encourages critical thinking and the study of human thought, with universities and cafes hosting 'Philosophy Slam' events to discuss life's big questions in a social setting.",
+                "url": "https://www.unesco.org/en/days/philosophy"
+            },
+            {
+                "title": "National Fast Food Day",
+                "summary": "A day that acknowledges the guilty pleasure of a quick meal. While the UK is moving toward healthier eating, this day celebrates the convenience and occasional treat of a high-street takeaway or traditional British chippy.",
+                "url": "https://www.daysoftheyear.com/days/fast-food-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-11",
+        "events": [
+            {
+                "title": "World Prematurity Day",
+                "summary": "Raising awareness of preterm birth and the concerns of preterm babies and their families. In the UK, the charity Bliss uses this day to advocate for better neonatal care and to support parents whose babies are born too soon.",
+                "url": "https://www.bliss.org.uk/support-bliss/world-prematurity-day"
+            },
+            {
+                "title": "International Students' Day",
+                "summary": "A day for student activism and the celebration of international student communities. In the UK, which hosts hundreds of thousands of overseas students, it’s a day to acknowledge their contribution to British universities and the local economy.",
+                "url": "https://www.nus.org.uk/"
+            },
+            {
+                "title": "National Take A Hike Day",
+                "summary": "A whimsical invitation to get outdoors. Despite the November damp, UK walkers are encouraged to explore local trails, public footpaths, or National Parks to enjoy the benefits of fresh air and exercise for mental health.",
+                "url": "https://www.daysoftheyear.com/days/take-a-hike-day/"
+            }
+        ]
+    },
+    {
+        "date": "18-11",
+        "events": [
+            {
+                "title": "European Antibiotic Awareness Day",
+                "summary": "A public health initiative to raise awareness about the threat to public health of antibiotic resistance. In the UK, the NHS uses this day to educate the public on using antibiotics responsibly and only when strictly necessary.",
+                "url": "https://www.gov.uk/government/collections/european-antibiotic-awareness-day-and-world-antibiotic-awareness-week-resources"
+            },
+            {
+                "title": "National Occult Day",
+                "summary": "A whimsical look at the mysterious and the supernatural. In the UK, with its long history of folklore and mystery, it's a day to explore local legends, visit historic 'haunted' sites, or simply read up on the history of British mysticism.",
+                "url": "https://www.daysoftheyear.com/days/occult-day/"
+            },
+            {
+                "title": "National Vichyssoise Day",
+                "summary": "A culinary day celebrating the classic cold leek and potato soup. While usually served chilled, many UK cooks use this day to celebrate the versatility of the British leek, often opting for the warm 'tattie and leek' version for winter.",
+                "url": "https://www.daysoftheyear.com/days/vichyssoise-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-11",
+        "events": [
+            {
+                "title": "International Men's Day",
+                "summary": "A day to focus on men's and boys' health, improving gender relations, and promoting positive male role models. In the UK, the focus is often on male mental health and the high rates of suicide, encouraging men to seek help.",
+                "url": "https://ukmensday.org.uk/"
+            },
+            {
+                "title": "World Toilet Day",
+                "summary": "A serious UN day highlighting the importance of sanitation. In the UK, it is used by international development charities to raise funds for sanitation projects abroad and to remind us of the basic human right to safe, clean toilets.",
+                "url": "https://www.un.org/en/observances/toilet-day"
+            },
+            {
+                "title": "National Have a Bad Day Day",
+                "summary": "A day that gives everyone permission to be grumpy. Instead of the usual pressure to be positive, this day acknowledges that it's okay for things to go wrong and that British 'stiff upper lip' isn't always necessary.",
+                "url": "https://www.daysoftheyear.com/days/have-a-bad-day-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-11",
+        "events": [
+            {
+                "title": "World Children's Day",
+                "summary": "The anniversary of the Declaration of the Rights of the Child. In the UK, organisations like UNICEF UK use this day to advocate for children’s rights and to give young people a platform to speak out on issues that matter to them.",
+                "url": "https://www.unicef.org.uk/world-childrens-day/"
+            },
+            {
+                "title": "Transgender Day of Remembrance",
+                "summary": "A somber day to memorialize those who have been killed as a result of transphobia. Across the UK, vigils and events are held to draw attention to the violence and discrimination faced by the transgender community and to advocate for equality.",
+                "url": "https://tdor.tgeu.org/"
+            },
+            {
+                "title": "National Absurdity Day",
+                "summary": "A celebration of the illogical and the nonsensical. It’s a day to embrace the weird, watch some Monty Python, and enjoy the surreal side of British humor, reminding us not to take life too seriously.",
+                "url": "https://www.daysoftheyear.com/days/absurdity-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-11",
+        "events": [
+            {
+                "title": "World Television Day",
+                "summary": "A day to recognize the influence of television on decision-making and world opinion. In the UK, it’s a celebration of the country's broadcasting history, from the BBC's inception to the high-quality drama and documentary production the UK is famous for.",
+                "url": "https://www.un.org/en/observances/television-day"
+            },
+            {
+                "title": "World Hello Day",
+                "summary": "A day to promote peace by simply greeting ten people. It highlights the importance of personal communication in maintaining global peace, encouraging UK residents to step out of their 'commuter shells' and say hello to their neighbors.",
+                "url": "http://www.worldhelloday.org/"
+            },
+            {
+                "title": "National Gingerbread Cookie Day",
+                "summary": "A whimsical culinary day as the festive season approaches. It’s a day for UK bakers to start making traditional gingerbread men or houses, filling kitchens with the warm scents of ginger and cinnamon that define British winter baking.",
+                "url": "https://www.daysoftheyear.com/days/gingerbread-cookie-day/"
+            }
+        ]
+    },
+    {
+        "date": "22-11",
+        "events": [
+            {
+                "title": "Humane Society Day",
+                "summary": "A day to promote the ethical treatment of animals. In the UK, it aligns with the work of the RSPCA, encouraging the public to support local animal shelters and to report any cases of neglect or cruelty to ensure animal safety.",
+                "url": "https://www.rspca.org.uk/"
+            },
+            {
+                "title": "Go For A Ride Day",
+                "summary": "A day encouraging people to take a journey. Whether it's a drive through the countryside, a bike ride, or a train journey to a new UK city, the day is about the pleasure of travel and seeing something new.",
+                "url": "https://www.daysoftheyear.com/days/go-for-a-ride-day/"
+            },
+            {
+                "title": "National Cranberry Relish Day",
+                "summary": "A culinary day celebrating the tart red berry. In the UK, this serves as a reminder to start prepping for Christmas dinner, as cranberry sauce is a non-negotiable accompaniment to the traditional British turkey roast.",
+                "url": "https://www.daysoftheyear.com/days/cranberry-relish-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-11",
+        "events": [
+            {
+                "title": "Fibonacci Day",
+                "summary": "Celebrated on 11/23 because the numbers form a Fibonacci sequence (1, 1, 2, 3). In the UK, math enthusiasts and schools use the day to find the Golden Ratio in nature, art, and the architecture of British historic buildings.",
+                "url": "https://www.daysoftheyear.com/days/fibonacci-day/"
+            },
+            {
+                "title": "National Espresso Day",
+                "summary": "A day for lovers of the short, strong coffee. UK independent roasteries often hold events to show the science behind the perfect extraction, celebrating the base of all favorite high-street lattes and flat whites.",
+                "url": "https://www.daysoftheyear.com/days/espresso-day/"
+            },
+            {
+                "title": "National Eat a Cranberry Day",
+                "summary": "A whimsical food day following Relish Day! It encourages people in the UK to try the raw fruit or explore its health benefits, often leading to the discovery that they are much better suited to being cooked with plenty of sugar.",
+                "url": "https://www.daysoftheyear.com/days/eat-a-cranberry-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-11",
+        "events": [
+            {
+                "title": "Evolution Day",
+                "summary": "Commemorating the anniversary of the publication of Charles Darwin's 'On the Origin of Species' in 1859. In the UK, it is a day to celebrate one of the most influential British scientists and the foundations of modern biology.",
+                "url": "https://www.daysoftheyear.com/days/evolution-day/"
+            },
+            {
+                "title": "Celebrate Your Unique Talent Day",
+                "summary": "A day encouraging everyone to show off what they can do. Whether it’s a weird party trick or a hidden artistic skill, it’s a day for UK residents to embrace their individuality and share their talents with friends.",
+                "url": "https://www.daysoftheyear.com/days/celebrate-your-unique-talent-day/"
+            },
+            {
+                "title": "National Sardines Day",
+                "summary": "A culinary day celebrating the humble tinned fish. In the UK, it’s an excuse to enjoy 'sardines on toast,' a classic, nutritious, and sustainable snack that has been a staple of British cupboards for generations.",
+                "url": "https://www.daysoftheyear.com/days/sardines-day/"
+            }
+        ]
+    },
+    {
+        "date": "25-11",
+        "events": [
+            {
+                "title": "International Day for the Elimination of Violence against Women",
+                "summary": "The start of the 16 Days of Activism against Gender-Based Violence. In the UK, the 'White Ribbon' campaign is prominent, encouraging men to pledge never to commit, excuse, or remain silent about violence against women.",
+                "url": "https://www.whiteribbon.org.uk/"
+            },
+            {
+                "title": "National Parfait Day",
+                "summary": "A culinary day celebrating the layered dessert. In the UK, this often refers to the French-style smooth liver pâté or the sweet yogurt and fruit layers, celebrating the elegance and texture of this versatile dish.",
+                "url": "https://www.daysoftheyear.com/days/parfait-day/"
+            },
+            {
+                "title": "Shopping Reminder Day",
+                "summary": "A whimsical but terrifying reminder for those who haven't started their Christmas shopping. It serves as a nudge for UK residents to beat the December rush and support local independent shops before the festive madness truly begins.",
+                "url": "https://www.daysoftheyear.com/days/shopping-reminder-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-11",
+        "events": [
+            {
+                "title": "National Cake Day",
+                "summary": "A day for every baker in Britain to shine. Whether it’s a Victoria sponge or a rich fruit cake, this day is a celebration of the UK's baking obsession, often used for charity coffee mornings and community get-togethers.",
+                "url": "https://www.daysoftheyear.com/days/cake-day/"
+            },
+            {
+                "title": "Good Grief Day",
+                "summary": "A day inspired by Charlie Brown, but often used in the UK to highlight the importance of healthy grieving and support. It encourages open conversations about loss and the normalisation of the grieving process.",
+                "url": "https://www.daysoftheyear.com/days/good-grief-day/"
+            },
+            {
+                "title": "Anti-Slavery Day (International recognition)",
+                "summary": "While the UK has its own date in October, many observe this international day to focus on global trafficking. British charities use this time to lobby for international policy changes and to support rescue missions for victims worldwide.",
+                "url": "https://www.un.org/en/observances/slavery-reproduction-abolition-day"
+            }
+        ]
+    },
+    {
+        "date": "27-11",
+        "events": [
+            {
+                "title": "National Lancashire Day",
+                "summary": "Celebrating the culture and heritage of the historic county of Lancashire. Residents across the North West celebrate with local foods like Lancashire hotpot and the reading of the proclamation to honor the county's traditions and identity.",
+                "url": "https://www.lancashireday.com/"
+            },
+            {
+                "title": "Pins and Needles Day",
+                "summary": "A day that can be taken literally by sewing enthusiasts or figuratively for those waiting for big news. In the UK, it’s a great day for haberdashers and craft groups to celebrate the art of tailoring and embroidery.",
+                "url": "https://www.daysoftheyear.com/days/pins-and-needles-day/"
+            },
+            {
+                "title": "National Bavarian Cream Pie Day",
+                "summary": "A culinary celebration of the rich, custard-filled pie. UK bakers use this day to show off their pastry skills, creating decadent desserts that bridge the gap between traditional British puddings and continental patisserie styles.",
+                "url": "https://www.daysoftheyear.com/days/bavarian-cream-pie-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-11",
+        "events": [
+            {
+                "title": "Red Planet Day",
+                "summary": "Commemorating the launch of Mariner 4, the first spacecraft to reach Mars. In the UK, space enthusiasts and astronomers use the day to discuss the latest findings from Mars rovers and the future of human exploration of the Red Planet.",
+                "url": "https://www.daysoftheyear.com/days/red-planet-day/"
+            },
+            {
+                "title": "National French Toast Day",
+                "summary": "Known in the UK as 'Eggy Bread,' this day celebrates the simple breakfast of bread soaked in beaten eggs and fried. It’s a nostalgic favorite for many British families, served either sweet with syrup or savory with ketchup.",
+                "url": "https://www.daysoftheyear.com/days/french-toast-day/"
+            },
+            {
+                "title": "Make Your Own Headstone Day",
+                "summary": "A whimsical, slightly dark day that encourages people to think about their legacy. In a light-hearted way, it prompts UK residents to consider what they would want to be remembered for, often leading to humorous self-written epitaphs.",
+                "url": "https://www.daysoftheyear.com/days/make-your-own-headstone-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-11",
+        "events": [
+            {
+                "title": "International Day of Solidarity with the Palestinian People",
+                "summary": "A UN-organised day to raise awareness about the issues facing the Palestinian people. In the UK, various NGOs and community groups hold educational events and discussions to promote a peaceful and just resolution to the ongoing conflict.",
+                "url": "https://www.un.org/en/observances/palestinian-solidarity-day"
+            },
+            {
+                "title": "Electronic Greetings Day",
+                "summary": "A day celebrating the convenience of the digital message. It encourages people in the UK to send an e-card or a quick text to someone they haven't spoken to recently, acknowledging how technology helps us stay connected.",
+                "url": "https://www.daysoftheyear.com/days/electronic-greetings-day/"
+            },
+            {
+                "title": "National Lemon Cream Pie Day",
+                "summary": "A culinary day for those who love a zesty dessert. In the UK, it’s an excuse to enjoy a tart lemon curd and cream filling, celebrating the bright flavors that can liven up a dull November afternoon.",
+                "url": "https://www.daysoftheyear.com/days/lemon-cream-pie-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-11",
+        "events": [
+            {
+                "title": "St Andrew's Day",
+                "summary": "The feast day of the patron saint of Scotland and an official bank holiday there. Across the UK, people celebrate Scottish culture with ceilidhs, traditional music, and food like haggis, neeps, and tatties, honoring Scotland's unique heritage.",
+                "url": "https://www.scotland.org/events/st-andrews-day"
+            },
+            {
+                "title": "Computer Security Day",
+                "summary": "A day to focus on protecting computers and data. In the UK, where cyber-crime is a growing concern, it’s a reminder for individuals and businesses to update passwords, install software updates, and stay vigilant against phishing scams.",
+                "url": "https://www.daysoftheyear.com/days/computer-security-day/"
+            },
+            {
+                "title": "National Mousse Day",
+                "summary": "A whimsical culinary day celebrating the light, airy dessert. Whether it’s chocolate or fruit-based, this day is a favorite for UK home cooks looking for an elegant but simple way to end a winter dinner party.",
+                "url": "https://www.daysoftheyear.com/days/mousse-day/"
+            }
+        ]
+    }
+]

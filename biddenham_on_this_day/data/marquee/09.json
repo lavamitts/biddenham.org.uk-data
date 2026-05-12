@@ -1,0 +1,602 @@
+[
+    {
+        "date": "01-09",
+        "events": [
+            {
+                "title": "Start of Organic September",
+                "summary": "Led by the Soil Association, this month-long UK campaign encourages consumers to make small changes by choosing organic food, textiles, and beauty products. It highlights the benefits of organic farming for nature, climate, and human health across the British countryside.",
+                "url": "https://www.soilassociation.org/organic-september/"
+            },
+            {
+                "title": "National Writing Day",
+                "summary": "A day to celebrate the power of the written word. In the UK, schools and literary organisations encourage people of all ages to pick up a pen and spend time writing creatively, emphasizing that everyone has a story to tell and a unique voice.",
+                "url": "https://firststory.org.uk/national-writing-day/"
+            },
+            {
+                "title": "National Cherry Popover Day",
+                "summary": "A whimsical culinary celebration. While popovers are more commonly associated with American cuisine, their similarity to the British Yorkshire pudding makes this a fun day for UK bakers to experiment with sweet, fruity fillings and light, airy batters.",
+                "url": "https://www.daysoftheyear.com/days/cherry-popover-day/"
+            }
+        ]
+    },
+    {
+        "date": "02-09",
+        "events": [
+            {
+                "title": "World Coconut Day",
+                "summary": "A global event highlighting the importance of coconuts in nutrition and industry. In the UK, health food retailers and tropical food enthusiasts use the day to share recipes and discuss the sustainable uses of coconut husks, water, oil, and flesh.",
+                "url": "https://www.worldcoconutday.com/"
+            },
+            {
+                "title": "National V-J Day (U.S. Recognition)",
+                "summary": "While the UK primarily observes V-J Day on August 15th, September 2nd marks the formal signing of the surrender documents in 1945. It serves as an additional moment for British historians and families to reflect on the end of global conflict.",
+                "url": "https://www.britishlegion.org.uk/"
+            },
+            {
+                "title": "National Blueberry Popsicle Day",
+                "summary": "A light-hearted day celebrating a frozen treat. Given that British blueberries are often still available in early September, it provides a final summer excuse for parents to make healthy, fruit-based lollies for children before the school term fully begins.",
+                "url": "https://www.daysoftheyear.com/days/blueberry-popsicle-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-09",
+        "events": [
+            {
+                "title": "Merchant Navy Day",
+                "summary": "A day to fly the Red Ensign and honor the brave men and women who kept the UK supplied during both World Wars. It also celebrates the modern-day seafarers who are responsible for over 90% of the UK's imports, including food and fuel.",
+                "url": "https://www.seafarers.uk/merchant-navy-day/"
+            },
+            {
+                "title": "National Skyscraper Day",
+                "summary": "A day to appreciate the architectural feats of tall buildings. In the UK, focus often falls on the changing skylines of London, Manchester, and Birmingham, celebrating iconic structures like The Shard and the historical evolution of vertical urban design.",
+                "url": "https://www.daysoftheyear.com/days/skyscraper-day/"
+            },
+            {
+                "title": "National Welsh Rarebit Day",
+                "summary": "A whimsical nod to one of Britain's most beloved savory snacks. This day celebrates the 'posh cheese on toast' made with a decadent sauce of cheese, ale, and mustard, served piping hot on thick-cut toasted bread.",
+                "url": "https://www.daysoftheyear.com/days/welsh-rarebit-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-09",
+        "events": [
+            {
+                "title": "World Sexual Health Day",
+                "summary": "An international awareness day managed by the World Association for Sexual Health. In the UK, sexual health charities use this date to promote positive attitudes, encourage regular testing, and provide education on consent and healthy relationships for all ages.",
+                "url": "https://www.worldsexualhealthday.org/"
+            },
+            {
+                "title": "National Wildlife Day",
+                "summary": "A day to raise awareness about endangered species and the importance of conservation. UK wildlife trusts focus on native species such as red squirrels, hedgehogs, and pollinators, encouraging the public to create wildlife-friendly gardens and support local nature reserves.",
+                "url": "https://www.wildlifetrusts.org/"
+            },
+            {
+                "title": "Eat an Extra Dessert Day",
+                "summary": "A celebration that gives everyone permission to indulge. In the UK, this is often embraced as an excuse to visit a local patisserie or enjoy an extra helping of crumble and custard at the end of a meal.",
+                "url": "https://www.daysoftheyear.com/days/eat-an-extra-dessert-day/"
+            }
+        ]
+    },
+    {
+        "date": "05-09",
+        "events": [
+            {
+                "title": "International Day of Charity",
+                "summary": "Established by the UN to coincide with the anniversary of Mother Teresa's death. The UK, having one of the world's most robust charity sectors, uses this day to celebrate volunteers and encourage donations to organisations tackling local and global poverty.",
+                "url": "https://www.un.org/en/observances/charity-day"
+            },
+            {
+                "title": "Be Late for Something Day",
+                "summary": "A day encouraging people to ignore the clock for once. In a culture often driven by punctuality, this light-hearted event suggests that slowing down and arriving a few minutes late can actually reduce stress and improve quality of life.",
+                "url": "https://www.daysoftheyear.com/days/be-late-for-something-day/"
+            },
+            {
+                "title": "National Cheese Pizza Day",
+                "summary": "Celebrating the simplicity of a classic. Many UK pizzerias offer deals on Margaritas or traditional cheese-topped pizzas, highlighting the importance of high-quality dough and cheese in creating the perfect, uncomplicated comfort food.",
+                "url": "https://www.daysoftheyear.com/days/cheese-pizza-day/"
+            }
+        ]
+    },
+    {
+        "date": "06-09",
+        "events": [
+            {
+                "title": "Colour Blind Awareness Day",
+                "summary": "A day to raise awareness for the 3 million colour blind people in the UK. Organisations work to educate teachers and employers on how to make materials more accessible, such as avoiding red-green combinations in maps, charts, and educational resources.",
+                "url": "https://www.colourblindawareness.org/"
+            },
+            {
+                "title": "National Read a Book Day",
+                "summary": "A day that encourages everyone to switch off their screens and get lost in a story. UK libraries and independent bookstores often celebrate by sharing reading lists and hosting quiet reading hours to promote the mental health benefits of literacy.",
+                "url": "https://www.readingagency.org.uk/"
+            },
+            {
+                "title": "Fight Procrastination Day",
+                "summary": "A day for getting things done. While somewhat whimsical, it serves as a timely reminder for UK workers and students returning from summer breaks to tackle their to-do lists and start the new season with focus and productivity.",
+                "url": "https://www.daysoftheyear.com/days/fight-procrastination-day/"
+            }
+        ]
+    },
+    {
+        "date": "07-09",
+        "events": [
+            {
+                "title": "International Day of Clean Air",
+                "summary": "A UN initiative to raise awareness about air quality and its impact on health and the environment. In the UK, local councils often use this day to promote walking, cycling, and the reduction of vehicle emissions in busy city centres.",
+                "url": "https://www.cleanairday.org.uk/"
+            },
+            {
+                "title": "National Salami Day",
+                "summary": "A celebration of the cured deli meat. In the UK, this day highlights the craft of charcuterie, from traditional continental varieties to the growing number of British-made salamis produced using locally sourced pork and traditional curing methods.",
+                "url": "https://www.daysoftheyear.com/days/salami-day/"
+            },
+            {
+                "title": "Buy a Book Day",
+                "summary": "A whimsical but practical day aimed at supporting the publishing industry. It encourages UK readers to visit their local high street bookshop and purchase a new title, ensuring that physical bookstores remain a vibrant part of British communities.",
+                "url": "https://www.booksellers.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "08-09",
+        "events": [
+            {
+                "title": "International Literacy Day",
+                "summary": "Designated by UNESCO, this day highlights the importance of literacy for individuals and societies. In the UK, focus is often placed on adult literacy and the efforts of charities to ensure every child leaves school with the reading skills they need.",
+                "url": "https://www.unesco.org/en/days/literacy-day"
+            },
+            {
+                "title": "World Physiotherapy Day",
+                "summary": "A day to recognize the work physiotherapists do for their patients and the community. In the UK, the Chartered Society of Physiotherapy uses this event to promote the benefits of physical activity and the role of physios in managing long-term health conditions.",
+                "url": "https://www.csp.org.uk/"
+            },
+            {
+                "title": "Pardon Day",
+                "summary": "A day that encourages people to set aside personal grudges. It is a time for forgiveness and making amends, whether for a small misunderstanding or a larger fallout, aiming to clear the air and improve interpersonal relationships.",
+                "url": "https://www.daysoftheyear.com/days/pardon-day/"
+            }
+        ]
+    },
+    {
+        "date": "09-09",
+        "events": [
+            {
+                "title": "Emergency Services Day (999 Day)",
+                "summary": "Observed at 9:00am on the 9th day of the 9th month. This UK day honors the two million people who work and volunteer in the NHS and emergency services, promoting responsible use of the 999 system and highlighting career opportunities.",
+                "url": "https://www.999day.org.uk/"
+            },
+            {
+                "title": "International FASD Awareness Day",
+                "summary": "Raising awareness of Fetal Alcohol Spectrum Disorders. In the UK, health organisations use this day to educate the public about the risks of drinking alcohol during pregnancy and to support those living with the lifelong effects of FASD.",
+                "url": "https://fasdawareness.org.uk/"
+            },
+            {
+                "title": "Wonderful Weirdos Day",
+                "summary": "A celebration of individuality and eccentricity. It encourages people in the UK to embrace their quirks and appreciate the unique personality traits of others, celebrating the fact that being 'normal' is often overrated.",
+                "url": "https://www.daysoftheyear.com/days/wonderful-weirdos-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-09",
+        "events": [
+            {
+                "title": "World Suicide Prevention Day",
+                "summary": "An annual awareness day observed to provide worldwide commitment and action to prevent suicides. In the UK, charities like Samaritans and Mind lead the conversation on mental health support and the importance of checking in on friends and family.",
+                "url": "https://www.samaritans.org/"
+            },
+            {
+                "title": "Heritage Open Days (Start)",
+                "summary": "England's largest festival of history and culture begins around this date. Thousands of historic sites, hidden gems, and private homes across the UK throw open their doors for free, celebrating local heritage and community stories.",
+                "url": "https://www.heritageopendays.org.uk/"
+            },
+            {
+                "title": "National TV Dinner Day",
+                "summary": "A celebration of the convenience meal. While modern nutrition encourages fresh cooking, this day looks back at the cultural impact of the frozen 'ready meal' in the UK and its role in changing family evening routines.",
+                "url": "https://www.daysoftheyear.com/days/tv-dinner-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-09",
+        "events": [
+            {
+                "title": "National No News is Good News Day",
+                "summary": "A day suggesting that no news can often be a relief. In an era of constant digital updates, this day encourages UK residents to take a break from the 24-hour news cycle and find peace in their immediate surroundings.",
+                "url": "https://www.daysoftheyear.com/days/no-news-is-good-news-day/"
+            },
+            {
+                "title": "Patriot Day (International Remembrance)",
+                "summary": "While a US-centric day of mourning for the victims of 9/11, it is observed internationally. In the UK, ceremonies often take place at the 9/11 memorial in London to remember the 67 British citizens who lost their lives in the attacks.",
+                "url": "https://www.911memorial.org/"
+            },
+            {
+                "title": "National Make Your Bed Day",
+                "summary": "A day focused on the small habit of making one's bed to start the day with a sense of accomplishment. It is often cited by UK wellness experts as a simple way to improve mental clarity and personal discipline first thing in the morning.",
+                "url": "https://www.daysoftheyear.com/days/make-your-bed-day/"
+            }
+        ]
+    },
+    {
+        "date": "12-09",
+        "events": [
+            {
+                "title": "International Day for South-South Cooperation",
+                "summary": "A UN day focusing on the technical and economic cooperation between developing countries. In the UK, international development organisations use this day to highlight successful partnerships and the importance of global solidarity in achieving sustainable development goals.",
+                "url": "https://www.un.org/en/observances/south-south-cooperation-day"
+            },
+            {
+                "title": "National Video Games Day",
+                "summary": "A celebration of gaming culture and the UK's world-leading games industry. It encourages enthusiasts to enjoy their favorite titles and recognises the artistic and technological achievements of British game developers and studios.",
+                "url": "https://www.ukie.org.uk/"
+            },
+            {
+                "title": "National Chocolate Milkshake Day",
+                "summary": "A day for enjoying a classic sweet treat. Many UK cafes and dessert parlours use this day to promote indulgent milkshakes, often using high-quality British dairy and dark chocolate for a more grown-up version of the childhood favorite.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-milkshake-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-09",
+        "events": [
+            {
+                "title": "Roald Dahl Day",
+                "summary": "Celebrated on the birthday of the world’s number one storyteller. Across the UK, schools and libraries host 'splendiferous' events, encouraging children to dress up as their favorite characters and celebrate the imagination found in Dahl's classic books.",
+                "url": "https://www.roalddahl.com/roalddahl-day/"
+            },
+            {
+                "title": "Positive Thinking Day",
+                "summary": "A day dedicated to the power of optimism. In the UK, mental health advocates use this day to share techniques for mindfulness and reframing negative thoughts, highlighting how a positive outlook can improve overall wellbeing and resilience.",
+                "url": "https://www.daysoftheyear.com/days/positive-thinking-day/"
+            },
+            {
+                "title": "International Programmers' Day",
+                "summary": "A whimsical but professional day celebrated on the 256th day of the year (2^8). It honors the coders and software engineers in the UK’s thriving tech sector who build the digital infrastructure we rely on every day.",
+                "url": "https://www.daysoftheyear.com/days/programmers-day/"
+            }
+        ]
+    },
+    {
+        "date": "14-09",
+        "events": [
+            {
+                "title": "Battle of Britain Day (Eve)",
+                "summary": "While the main commemoration is the 15th, the 14th marks the build-up to the most significant aerial combat of the war. Schools and museums in the UK use this time to educate on the bravery of the RAF pilots who defended the nation in 1940.",
+                "url": "https://www.rafbf.org/"
+            },
+            {
+                "title": "National Cream Filled Donut Day",
+                "summary": "A celebration of the classic bakery treat. In the UK, this day is often marked by the consumption of traditional 'custard' or 'cream' donuts from local bakers, highlighting the simple joy of a sugar-coated, filled pastry.",
+                "url": "https://www.daysoftheyear.com/days/cream-filled-donut-day/"
+            },
+            {
+                "title": "World First Aid Day",
+                "summary": "Often observed on the second Saturday of September. In the UK, organisations like St John Ambulance and the British Red Cross offer free demonstrations and courses, emphasizing that everyone should have the basic skills to save a life.",
+                "url": "https://www.sja.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "15-09",
+        "events": [
+            {
+                "title": "Battle of Britain Day",
+                "summary": "A major day of remembrance in the UK, marking the date in 1940 when the RAF dealt a decisive blow to the Luftwaffe. Commemorated with flypasts and services, it honors 'The Few' whose efforts prevented a Nazi invasion of Britain.",
+                "url": "https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/"
+            },
+            {
+                "title": "International Day of Democracy",
+                "summary": "A UN-designated day to promote and uphold the principles of democracy. In the UK, it is often used by civic groups to discuss parliamentary history, the importance of voting, and the role of free speech in British society.",
+                "url": "https://www.un.org/en/observances/democracy-day"
+            },
+            {
+                "title": "National Felt Hat Day",
+                "summary": "A whimsical fashion day. It celebrates the history and style of felt hats, from the traditional British Bowler to the Fedora, encouraging people to add a touch of classic headwear to their late-summer wardrobe.",
+                "url": "https://www.daysoftheyear.com/days/felt-hat-day/"
+            }
+        ]
+    },
+    {
+        "date": "16-09",
+        "events": [
+            {
+                "title": "International Day for the Preservation of the Ozone Layer",
+                "summary": "Commemorating the date of the signing of the Montreal Protocol. In the UK, environmental agencies use the day to educate the public on the recovery of the ozone layer and the importance of continued atmospheric protection measures.",
+                "url": "https://www.un.org/en/observances/ozone-day"
+            },
+            {
+                "title": "National Guacamole Day",
+                "summary": "A culinary day celebrating the popular avocado-based dip. With the UK's growing love for Mexican-inspired cuisine, many restaurants offer specials, highlighting the health benefits of avocados and sharing tips for the perfect lime and coriander balance.",
+                "url": "https://www.daysoftheyear.com/days/guacamole-day/"
+            },
+            {
+                "title": "Stepfamily Day",
+                "summary": "A whimsical but meaningful day to celebrate the 'blended' family. In the UK, it recognises the vital role of step-parents and the unique bonds formed in modern family structures, promoting support and visibility for diverse households.",
+                "url": "https://www.daysoftheyear.com/days/stepfamily-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-09",
+        "events": [
+            {
+                "title": "World Patient Safety Day",
+                "summary": "An official WHO day. In the UK, the NHS and patient advocacy groups focus on improving safety in healthcare settings, using the day to highlight the importance of open communication and the prevention of avoidable errors in medical treatment.",
+                "url": "https://www.who.int/campaigns/world-patient-safety-day"
+            },
+            {
+                "title": "National Apple Dumpling Day",
+                "summary": "A whimsical culinary day celebrating a traditional British-style dessert. It encourages home bakers to wrap seasonal UK apples in pastry and bake them until golden, serving as a perfect transition into autumn comfort foods.",
+                "url": "https://www.daysoftheyear.com/days/apple-dumpling-day/"
+            },
+            {
+                "title": "National Country Music Day",
+                "summary": "A celebration of the country music genre. While traditionally American, the UK has a thriving country and Americana scene, with festivals and radio stations using the day to showcase British talent and international legends alike.",
+                "url": "https://www.daysoftheyear.com/days/country-music-day/"
+            }
+        ]
+    },
+    {
+        "date": "18-09",
+        "events": [
+            {
+                "title": "International Equal Pay Day",
+                "summary": "A UN day highlighting the persistent gender pay gap. In the UK, organisations use the data to lobby for fairer wages and transparency, encouraging British businesses to review their pay structures and ensure men and women are paid equally for equal work.",
+                "url": "https://www.un.org/en/observances/equal-pay-day"
+            },
+            {
+                "title": "World Water Monitoring Day",
+                "summary": "An international program that encourages people to test their local water bodies. In the UK, environmental groups use this to check the health of British rivers and canals, raising awareness about pollution and the importance of clean waterways.",
+                "url": "https://www.worldwatermonitoringday.org/"
+            },
+            {
+                "title": "Rice Krispies Treat Day",
+                "summary": "A day celebrating the simple marshmallow-and-cereal snack. Known in the UK as 'chocolate cracknels' or 'rice crispy cakes,' it is a nostalgic favorite for many and a popular activity for parents to make with children.",
+                "url": "https://www.daysoftheyear.com/days/rice-krispies-treat-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-09",
+        "events": [
+            {
+                "title": "International Talk Like a Pirate Day",
+                "summary": "A whimsical parody holiday created in 1995. Hugely popular in the UK, people are encouraged to use nautical slang like 'Ahoy' and 'Arrr!' to celebrate the fun side of maritime history, often used as a light-hearted fundraising day for charities.",
+                "url": "https://www.talklikeapirate.com/"
+            },
+            {
+                "title": "Youth Mental Health Day",
+                "summary": "Led by the charity stem4 in the UK, this day focuses on helping young people find their own unique way to look after their mental health. It encourages open discussions and provides resources for students, parents, and teachers.",
+                "url": "https://youthmentalhealthday.co.uk/"
+            },
+            {
+                "title": "National Butterscotch Pudding Day",
+                "summary": "A sweet celebration of the brown sugar and butter-flavored dessert. In the UK, butterscotch is a traditional favorite, and this day encourages enjoying the flavor in puddings, sauces, or classic hard-boiled sweets.",
+                "url": "https://www.daysoftheyear.com/days/butterscotch-pudding-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-09",
+        "events": [
+            {
+                "title": "Wife Appreciation Day",
+                "summary": "A day for people to show extra gratitude to their wives. In the UK, it is often marked by small gestures like flowers, a meal out, or simply a heartfelt message, acknowledging the support and love provided within a partnership.",
+                "url": "https://www.daysoftheyear.com/days/wife-appreciation-day/"
+            },
+            {
+                "title": "National Punch Day",
+                "summary": "A celebration of the shared social drink. In the UK, this often refers to traditional fruit punches or historic 'cups' used at garden parties, celebrating the communal aspect of serving drinks from a large bowl rather than individual glasses.",
+                "url": "https://www.daysoftheyear.com/days/punch-day/"
+            },
+            {
+                "title": "Care for Your Kids Day",
+                "summary": "A whimsical but sincere day encouraging parents to spend quality, distraction-free time with their children. It highlights the importance of active listening and play in building strong family bonds and supporting a child's emotional development.",
+                "url": "https://www.daysoftheyear.com/days/care-for-your-kids-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-09",
+        "events": [
+            {
+                "title": "International Day of Peace",
+                "summary": "A UN-sanctioned day dedicated to world peace and the absence of war. In the UK, various peace organisations and religious groups hold vigils and educational events, promoting the concept of a global ceasefire and non-violence.",
+                "url": "https://www.un.org/en/observances/international-day-peace"
+            },
+            {
+                "title": "World Alzheimer's Day",
+                "summary": "Part of World Alzheimer's Month, this day raises awareness and challenges the stigma around dementia. In the UK, the Alzheimer's Society uses this day to fundraise and provide vital information on supporting those living with the condition.",
+                "url": "https://www.alzheimers.org.uk/"
+            },
+            {
+                "title": "Miniature Golf Day",
+                "summary": "A celebration of 'crazy golf.' With many seaside towns and city centers across the UK home to themed courses, this day encourages friends and families to enjoy a competitive but light-hearted round of miniature golf.",
+                "url": "https://www.daysoftheyear.com/days/miniature-golf-day/"
+            }
+        ]
+    },
+    {
+        "date": "22-09",
+        "events": [
+            {
+                "title": "World Car Free Day",
+                "summary": "An initiative where cities across the UK close certain roads to cars, encouraging people to use public transport, cycle, or walk. It aims to reduce air pollution and highlight how urban spaces can be reclaimed for pedestrians and nature.",
+                "url": "https://www.carfreeday.org.uk/"
+            },
+            {
+                "title": "Hobbit Day",
+                "summary": "Observed on the birthdays of Bilbo and Frodo Baggins. In the UK, fans of J.R.R. Tolkien celebrate with themed parties and readings, acknowledging the massive influence the author and his British-inspired landscapes have had on literature and culture.",
+                "url": "https://www.tolkiensociety.org/"
+            },
+            {
+                "title": "Dear Diary Day",
+                "summary": "A day celebrating the art of journaling. It encourages people in the UK to start or resume writing a personal diary, highlighting the mental health benefits of self-reflection and the historical importance of personal records.",
+                "url": "https://www.daysoftheyear.com/days/dear-diary-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-09",
+        "events": [
+            {
+                "title": "International Day of Sign Languages",
+                "summary": "A UN day to support and protect the linguistic identity and cultural diversity of all deaf people. In the UK, the focus is often on British Sign Language (BSL) and its importance as a primary language for the British deaf community.",
+                "url": "https://www.un.org/en/observances/sign-languages-day"
+            },
+            {
+                "title": "Autumn Equinox",
+                "summary": "Marking the official start of autumn in the Northern Hemisphere. In the UK, this is a time for harvest festivals and reflecting on the balance of light and dark, as days become shorter than nights and the natural world begins to prepare for winter.",
+                "url": "https://www.rmg.co.uk/stories/topics/equinoxes-solstices"
+            },
+            {
+                "title": "National Checkers Day",
+                "summary": "A day celebrating the game of draughts (known as checkers in the US). It encourages people in the UK to engage in this classic strategy board game, which has been a staple of rainy-day entertainment for generations.",
+                "url": "https://www.daysoftheyear.com/days/checkers-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-09",
+        "events": [
+            {
+                "title": "World Maritime Day",
+                "summary": "A UN day focusing on the importance of shipping safety, maritime security, and the marine environment. Given the UK's identity as a maritime nation, this day is significant for highlighting the shipping industry's role in the global economy and environmental protection.",
+                "url": "https://www.imo.org/en/About/Events/Pages/World-Maritime-Day.aspx"
+            },
+            {
+                "title": "National Punctuation Day",
+                "summary": "A day for the 'grammar police' and anyone who appreciates clear writing. In the UK, schools often use this day to teach the importance of commas and apostrophes, celebrating the precision that good punctuation brings to the English language.",
+                "url": "https://www.daysoftheyear.com/days/punctuation-day/"
+            },
+            {
+                "title": "National Cherish an Antique Day",
+                "summary": "A day to appreciate old family heirlooms or a lucky find from a UK charity shop. It encourages learning the history behind vintage objects and acknowledging the craftsmanship of eras past.",
+                "url": "https://www.daysoftheyear.com/days/cherish-an-antique-day/"
+            }
+        ]
+    },
+    {
+        "date": "25-09",
+        "events": [
+            {
+                "title": "World Pharmacists Day",
+                "summary": "A day to recognize the essential role pharmacists play in healthcare. In the UK, the Royal Pharmaceutical Society uses this day to showcase how local pharmacists do much more than dispense medicine, acting as a vital first point of contact for health advice.",
+                "url": "https://www.rpharms.com/"
+            },
+            {
+                "title": "National Cooking Day",
+                "summary": "A day to get into the kitchen and prepare a meal from scratch. It encourages people in the UK to try new recipes, use seasonal British produce, and rediscover the health and social benefits of home-cooked food.",
+                "url": "https://www.daysoftheyear.com/days/cooking-day/"
+            },
+            {
+                "title": "National One-Hit Wonder Day",
+                "summary": "A celebration of musicians who reached the charts once and never again. It’s a nostalgic trip through UK music history, playing those catchy, often cheesy tracks that everyone knows but whose artists remain obscure.",
+                "url": "https://www.daysoftheyear.com/days/one-hit-wonder-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-09",
+        "events": [
+            {
+                "title": "European Day of Languages",
+                "summary": "A Council of Europe initiative celebrating the linguistic diversity of the continent. Across the UK, schools and community groups host events to encourage language learning and promote the cultural benefits of being able to speak more than one tongue.",
+                "url": "https://edl.ecml.at/"
+            },
+            {
+                "title": "World Environmental Health Day",
+                "summary": "Raising awareness about the health of our environment and its impact on human wellbeing. In the UK, the Chartered Institute of Environmental Health uses this day to highlight issues like housing standards, food safety, and pollution control.",
+                "url": "https://www.cieh.org/"
+            },
+            {
+                "title": "National Dumpling Day",
+                "summary": "A whimsical culinary day celebrating the global variety of dumplings. In the UK, this ranges from traditional suet dumplings in a beef stew to the increasingly popular gyoza and dim sum found in urban food markets.",
+                "url": "https://www.daysoftheyear.com/days/dumpling-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-09",
+        "events": [
+            {
+                "title": "World Tourism Day",
+                "summary": "A day to foster awareness among the international community of the importance of tourism. In the UK, it highlights the economic value of the tourism sector and the diverse attractions, from historic landmarks to stunning natural scenery, that draw visitors to Britain.",
+                "url": "https://www.unwto.org/world-tourism-day"
+            },
+            {
+                "title": "National Scarf Day",
+                "summary": "A day that signals the arrival of cooler weather in the UK. It celebrates the scarf as both a practical necessity for the British autumn and a stylish accessory, encouraging people to dig out their favorite knits or silks.",
+                "url": "https://www.daysoftheyear.com/days/scarf-day/"
+            },
+            {
+                "title": "Ancestor Appreciation Day",
+                "summary": "A day to research and reflect on family history. With the popularity of genealogy in the UK, this day encourages people to look through old photographs, visit local archives, or use online records to discover the lives of their forebears.",
+                "url": "https://www.daysoftheyear.com/days/ancestor-appreciation-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-09",
+        "events": [
+            {
+                "title": "World Rabies Day",
+                "summary": "A global health observance to raise awareness about rabies prevention. While the UK is rabies-free in domestic animals, the day is used to educate travelers and highlight the importance of global vaccination efforts to eliminate the disease.",
+                "url": "https://rabiesalliance.org/world-rabies-day"
+            },
+            {
+                "title": "National Drink Beer Day",
+                "summary": "A day for beer lovers to enjoy their favorite brew. In the UK, this often means visiting a local pub to enjoy a pint of real ale or a modern craft lager, celebrating the long history and social importance of the British brewing industry.",
+                "url": "https://www.daysoftheyear.com/days/drink-beer-day/"
+            },
+            {
+                "title": "National Strawberry Cream Pie Day",
+                "summary": "A day to enjoy a fruity dessert. Although the UK strawberry season is winding down, this day serves as a final salute to the berry, often enjoyed with fresh British cream in a chilled, crumbly pastry base.",
+                "url": "https://www.daysoftheyear.com/days/strawberry-cream-pie-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-09",
+        "events": [
+            {
+                "title": "International Day of Awareness of Food Loss and Waste",
+                "summary": "A UN day focusing on the environmental and economic impact of food waste. In the UK, charities like WRAP use this day to provide practical tips for households to reduce waste and to lobby the food industry for better surplus management.",
+                "url": "https://www.un.org/en/observances/food-loss-waste-day"
+            },
+            {
+                "title": "World Heart Day",
+                "summary": "A global campaign to raise awareness about cardiovascular disease. In the UK, the British Heart Foundation uses the day to encourage people to take control of their heart health through diet, exercise, and regular check-ups.",
+                "url": "https://www.bhf.org.uk/"
+            },
+            {
+                "title": "National Coffee Day",
+                "summary": "A celebration of the UK's thriving coffee culture. Whether it’s an artisan flat white or a simple cup of instant, this day recognises the importance of the morning caffeine fix and the social role of the British coffee shop.",
+                "url": "https://www.daysoftheyear.com/days/coffee-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-09",
+        "events": [
+            {
+                "title": "International Translation Day",
+                "summary": "Observed on the feast of St. Jerome, the patron saint of translators. In the UK, it celebrates the work of language professionals who help bridge cultural divides and ensure that global communication and literature are accessible to all.",
+                "url": "https://www.un.org/en/observances/translation-day"
+            },
+            {
+                "title": "National Muddy Puddles Day",
+                "summary": "A day that celebrates the fun of being outdoors, regardless of the weather. Inspired by the British climate and children's characters like Peppa Pig, it encourages parents to let kids splash in puddles and embrace 'wild play.'",
+                "url": "https://www.daysoftheyear.com/days/muddy-puddles-day/"
+            },
+            {
+                "title": "National Hot Mulled Cider Day",
+                "summary": "Marking the transition into colder nights, this day celebrates the warming, spiced apple drink. In the UK, it is a traditional way to use autumn’s apple harvest, simmering the juice with cinnamon and cloves for a cozy evening treat.",
+                "url": "https://www.daysoftheyear.com/days/hot-mulled-cider-day/"
+            }
+        ]
+    }
+]

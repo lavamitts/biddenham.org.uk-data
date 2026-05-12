@@ -1,0 +1,162 @@
+<div class="bin-collection">
+    <h2>Your next bin collection</h2>
+
+    <div class="bin-results">
+        <img id="bin-image"
+             src="/"
+             alt="Bin Type"
+             style="margin-top:0px; display:none; height:49px">
+
+        <div id="next-event">Loading...</div>
+    </div>
+
+    <div class="bin-see-more">
+        <a href="/bin-collection/">See more ...</a>
+    </div>
+
+    <div class="clearer"></div>
+</div>
+
+<script>
+async function loadBinCollection() {
+
+    // GitHub raw JSON URL
+    const jsonUrl =
+        'https://raw.githubusercontent.com/lavamitts/biddenham-bin-days/refs/heads/main/resources/json/biddenham-bin-days.json';
+
+    try {
+
+        // Fetch JSON from GitHub
+        const response = await fetch(jsonUrl);
+
+        if (!response.ok) {
+            throw new Error(`Fetch failed: ${response.status}`);
+        }
+
+        // JSON data
+        const data = await response.json();
+
+        // Compare date strings in YYYY-MM-DD format
+        function isTodayOrLater(dateStr) {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+
+            const d = new Date(dateStr);
+            d.setHours(0, 0, 0, 0);
+
+            return d >= today;
+        }
+
+        function formatDateVerbose(dateStr) {
+
+            const date = new Date(dateStr);
+
+            const dayNames = [
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ];
+
+            const day = date.getDate();
+
+            // Ordinal suffix
+            function ordinal(n) {
+                if (n > 3 && n < 21) return 'th';
+
+                switch (n % 10) {
+                    case 1: return "st";
+                    case 2: return "nd";
+                    case 3: return "rd";
+                    default: return "th";
+                }
+            }
+
+            const dayName = dayNames[date.getDay()];
+            const suffix = ordinal(day);
+
+            const monthName = date.toLocaleString('en-GB', {
+                month: 'long'
+            });
+
+            return `${dayName}, ${day}${suffix} ${monthName}`;
+        }
+
+        const imageMap = {
+            "General rubbish": "bin-grey.svg",
+            "Recycling only": "bin-orange.svg",
+            "Recycling and garden": "bin-orange-green.svg",
+            "General rubbish and food waste": "bin-grey-food-waste.svg",
+            "Recycling and food waste": "bin-orange-food-waste.svg",
+            "Recycling, food waste and garden": "bin-orange-green-food-waste.svg"
+        };
+
+        const dates = Object.keys(data).sort();
+
+        for (let dateStr of dates) {
+
+            if (isTodayOrLater(dateStr)) {
+
+                const eventText = data[dateStr].trim();
+
+                const formattedDate =
+                    formatDateVerbose(dateStr);
+
+                document.getElementById('next-event').innerHTML =
+                    `<strong>${formattedDate}</strong><br>${eventText}`;
+
+                const imageFile = imageMap[eventText];
+
+                if (imageFile) {
+
+                    const img =
+                        document.getElementById('bin-image');
+
+                    // Set image width
+                    switch (eventText) {
+
+                        case "General rubbish":
+                        case "Recycling only":
+                            img.style.width = "32px";
+                            break;
+
+                        case "Recycling and garden":
+                        case "General rubbish and food waste":
+                        case "Recycling and food waste":
+                            img.style.width = "64px";
+                            break;
+
+                        case "Recycling, food waste and garden":
+                            img.style.width = "96px";
+                            break;
+
+                        default:
+                            img.style.width = "32px";
+                    }
+
+                    img.src =
+                        "/wp-content/uploads/2026/02/" + imageFile;
+
+                    img.style.height = "49px";
+                    img.style.display = "block";
+                }
+
+                break;
+            }
+        }
+
+    } catch (error) {
+
+        console.error("Bin collection error:", error);
+
+        document.getElementById('next-event').innerHTML =
+            'Unable to load bin collection data';
+    }
+}
+
+// Initialise
+loadBinCollection();
+</script>

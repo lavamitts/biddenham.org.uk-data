@@ -1,0 +1,672 @@
+[
+    {
+        "date": "01-05",
+        "events": [
+            {
+                "date": "1707-05-01",
+                "event": "The Acts of Union officially come into effect, merging the Kingdoms of England and Scotland into a single, united sovereign state known as Great Britain. This historic legislative agreement fundamentally reshaped the political and constitutional landscape of the British Isles.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1851-05-01",
+                "event": "The Great Exhibition of the Works of Industry of All Nations is opened by Queen Victoria at the Crystal Palace in London. This monumental event showcased global industrial progress and British imperial prestige to millions of international visitors and citizens.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1997-05-01",
+                "event": "The Labour Party, led by Tony Blair, secures a massive landslide victory in the United Kingdom General Election. This decisive result ended 18 consecutive years of Conservative Party rule and signaled a major shift in the country's social and political direction.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "02-05",
+        "events": [
+            {
+                "date": "1536-05-02",
+                "event": "Queen Anne Boleyn, the second wife of King Henry VIII, is arrested at Greenwich and transported by barge to the Tower of London. She faced grave charges of adultery, incest, and high treason during one of the most infamous royal downfalls.",
+                "theme": "History"
+            },
+            {
+                "date": "1952-05-02",
+                "event": "The de Havilland Comet, the world's first commercial jet airliner, makes aviation history by beginning its first regular passenger service from London to Johannesburg. This milestone marked the dawn of the jet age, significantly reducing travel times across the globe.",
+                "theme": "Science"
+            },
+            {
+                "date": "1953-05-02",
+                "event": "The first ever televised FA Cup Final, legendary as the 'Matthews Final', takes place at Wembley Stadium. Stanley Matthews' inspired performance led Blackpool to a 4-3 victory over Bolton Wanderers, captivating a massive audience during the early years of television.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1982-05-02",
+                "event": "The Argentine cruiser General Belgrano was sunk by the British nuclear powered submarine HMS Conqueror. This event resulted in heavy loss of life and caused the Argentine navy to withdraw its surface fleet to coastal waters for the remainder of the conflict.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "03-05",
+        "events": [
+            {
+                "date": "1951-05-03",
+                "event": "The Festival of Britain is officially opened by King George VI to promote a sense of national recovery following World War II. It celebrated British achievements in science, technology, architecture, and the arts, leaving a lasting legacy on the South Bank.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1979-05-03",
+                "event": "Margaret Thatcher leads the Conservative Party to victory in the General Election, becoming the United Kingdom's first female Prime Minister. Her premiership began a period of radical economic and social reform that would transform the British state over the following decade.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1791-05-03",
+                "event": "The Polish Constitution is passed, becoming the first written national constitution in modern Europe. This landmark document was heavily influenced by British Enlightenment philosophy and the concept of a constitutional monarchy, aiming to reform and strengthen the Polish-Lithuanian Commonwealth.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "04-05",
+        "events": [
+            {
+                "date": "1904-05-04",
+                "event": "Charles Rolls and Henry Royce meet for the first time at the Midland Hotel in Manchester. This historic introduction led to the formation of Rolls-Royce, a company that became globally synonymous with engineering excellence, luxury motor cars, and pioneering aviation engines.",
+                "theme": "Science"
+            },
+            {
+                "date": "1926-05-04",
+                "event": "The General Strike begins across Britain as millions of miners and industrial workers stop work in support of a wage dispute. This nine-day industrial action remains the largest and most significant period of domestic social unrest in 20th-century British history.",
+                "theme": "History"
+            },
+            {
+                "date": "1471-05-04",
+                "event": "The Battle of Tewkesbury results in a decisive victory for the Yorkist King Edward IV over the Lancastrian forces. The death of Edward, Prince of Wales, during the battle effectively secured Yorkist control and brought temporary stability during the Wars of the Roses.",
+                "theme": "History"
+            },
+            {
+                "date": "1982-05-04",
+                "event": "The British destroyer HMS Sheffield was struck by an Exocet missile launched from an Argentine Super Étendard aircraft. This successful use of sea-skimming missile technology highlighted the vulnerability of modern surface ships and was a significant blow to the British task force.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "05-05",
+        "events": [
+            {
+                "date": "1930-05-05",
+                "event": "Pioneering aviator Amy Johnson sets off from Croydon Airport on her historic flight to Australia. She became the first woman to fly solo from Britain to the Australian continent, completing the treacherous 11,000-mile journey in nineteen days and achieving global fame.",
+                "theme": "History"
+            },
+            {
+                "date": "1818-05-05",
+                "event": "Karl Marx is born in Prussia; he later spent much of his adult life in London researching and writing 'Das Kapital'. His presence in the capital and his radical economic theories profoundly influenced the development of British socialist thought and labor movements.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1949-05-05",
+                "event": "The Council of Europe is established following the signing of the Treaty of London by ten founding nations. This international organisation was created to protect human rights, democracy, and the rule of law, representing a major step toward post-war European integration.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1981-05-05",
+                "event": "Bobby Sands died in the Maze Prison after sixty six days on hunger strike, followed by nine other republican prisoners. The strikes garnered international media attention and radicalised nationalist politics, eventually leading to the electoral rise of Sinn Féin.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "06-05",
+        "events": [
+            {
+                "date": "1954-05-06",
+                "event": "Roger Bannister makes sporting history at the Iffley Road track in Oxford by becoming the first person to run a mile in under four minutes. His time of 3 minutes and 59.4 seconds broke a long-standing psychological and physical barrier.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1840-05-06",
+                "event": "The Penny Black, the world's first adhesive postage stamp, officially becomes valid for use within the United Kingdom. This revolutionary innovation in the postal system made communication affordable for the general public and served as a model for postal services worldwide.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1994-05-06",
+                "event": "The Channel Tunnel is formally opened during a ceremony led by Queen Elizabeth II and President François Mitterrand. This massive engineering feat created the first land link between Britain and mainland Europe since the Ice Age, transforming international travel and trade.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "07-05",
+        "events": [
+            {
+                "date": "1945-05-07",
+                "event": "Germany signs an unconditional surrender at Allied headquarters in Reims, France, bringing an end to the fighting in Europe. This historic moment concluded nearly six years of devastating conflict and set the stage for the formal celebrations of Victory in Europe.",
+                "theme": "History"
+            },
+            {
+                "date": "1812-05-07",
+                "event": "Robert Browning, the influential English poet and playwright, is born in Camberwell, London. A master of dramatic monologue and psychological portraiture, Browning became one of the most prominent literary figures of the Victorian era, famously known for his work 'The Ring and the Book'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1915-05-07",
+                "event": "The British ocean liner RMS Lusitania is torpedoed and sunk by a German U-boat off the southern coast of Ireland. The tragic loss of nearly 1,200 lives, including many civilians, caused international outrage and significantly influenced American public opinion toward World War I.",
+                "theme": "History"
+            },
+            {
+                "date": "1954-05-07",
+                "event": "Viet Minh forces defeated the French army at the Battle of Dien Bien Phu, ending nearly a century of French colonial rule in Indochina. The subsequent Geneva Accords temporarily divided the country at the 17th parallel, setting the stage for future conflict.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "08-05",
+        "events": [
+            {
+                "date": "1945-05-08",
+                "event": "VE Day (Victory in Europe Day) is celebrated across the United Kingdom and the world to mark the formal end of Nazi Germany's surrender. Millions took to the streets in jubilant celebration, with massive crowds gathering at Buckingham Palace to see the Royal Family.",
+                "theme": "History"
+            },
+            {
+                "date": "1660-05-08",
+                "event": "The Convention Parliament officially proclaims Charles II as the lawful monarch of England, Scotland, and Ireland. This declaration marked the formal end of the Interregnum and the beginning of the Restoration, returning the Stuart dynasty to the throne after years of republican rule.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1970-05-08",
+                "event": "The Beatles release their twelfth and final studio album, 'Let It Be', in the United Kingdom. Despite being recorded before 'Abbey Road', its release coincided with the public dissolution of the band, marking the end of an era for global popular music.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-05",
+        "events": [
+            {
+                "date": "1671-05-09",
+                "event": "The daring Irishman Colonel Thomas Blood attempts to steal the Crown Jewels from the Tower of London. After bludgeoning the Keeper of the Jewels, Blood was captured during his escape, but he was famously pardoned by King Charles II for his audacity.",
+                "theme": "History"
+            },
+            {
+                "date": "1860-05-09",
+                "event": "J.M. Barrie, the celebrated Scottish novelist and playwright, is born in Kirriemuir. He is best remembered as the creator of Peter Pan, the boy who wouldn't grow up, a character that became a fundamental part of British children's literature and global culture.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1962-05-09",
+                "event": "The Beatles' manager Brian Epstein meets with producer George Martin at Abbey Road Studios. This meeting led to the band signing their first recording contract with EMI's Parlophone label, a partnership that would revolutionize the music industry and launch the group's global stardom.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "10-05",
+        "events": [
+            {
+                "date": "1940-05-10",
+                "event": "Winston Churchill is appointed Prime Minister of the United Kingdom following the resignation of Neville Chamberlain. Taking office as Germany invaded the Low Countries, Churchill's leadership during this existential crisis became a defining feature of the British effort during World War II.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1824-05-10",
+                "event": "The National Gallery in London opens to the public at its original location in Pall Mall. Initially founded with a collection of 38 paintings, the gallery was established to make world-class art accessible to all citizens, later moving to its iconic home in Trafalgar Square.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1941-05-10",
+                "event": "During the final and most intense night of the London Blitz, the House of Commons chamber is destroyed by German incendiary bombs. The heavy raid caused significant damage to the Palace of Westminster and resulted in over 1,400 civilian fatalities across the city.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "11-05",
+        "events": [
+            {
+                "date": "1812-05-11",
+                "event": "Prime Minister Spencer Perceval is shot and killed by John Bellingham in the lobby of the House of Commons. To this day, Perceval remains the only British Prime Minister to have been assassinated while holding office, a shocking event in British political history.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1985-05-11",
+                "event": "A devastating fire breaks out in the wooden stands of the Valley Parade stadium during a football match between Bradford City and Lincoln City. The tragedy resulted in 56 deaths and led to significant improvements in stadium safety standards across the United Kingdom.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1931-05-11",
+                "event": "The acclaimed Scottish actor Ken Stott is born in Edinburgh. Renowned for his powerful performances on stage and screen, he became a household name for his roles in 'Rebus', 'The Missing', and his portrayal of Balin in 'The Hobbit' film trilogy.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-05",
+        "events": [
+            {
+                "date": "1820-05-12",
+                "event": "Florence Nightingale, the legendary founder of modern nursing, is born. Her pioneering work during the Crimean War and her subsequent efforts to professionalize nursing and improve hospital sanitation saved countless lives and established the standards for healthcare systems around the world.",
+                "theme": "Science"
+            },
+            {
+                "date": "1937-05-12",
+                "event": "The coronation of King George VI and Queen Elizabeth takes place at Westminster Abbey. The ceremony, which followed the abdication of Edward VIII, was the first coronation to be broadcast by radio and filmed using the newly developed BBC television service.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-05-12",
+                "event": "Chris Patten, the prominent British politician and diplomat, is born. He served as the final British Governor of Hong Kong, overseeing the 1997 handover to China, and later held significant roles as a European Commissioner and Chancellor of the University of Oxford.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "13-05",
+        "events": [
+            {
+                "date": "1940-05-13",
+                "event": "In his first address to the House of Commons as Prime Minister, Winston Churchill delivers his iconic 'blood, toil, tears and sweat' speech. This powerful oration galvanised the British public and parliament at one of the darkest moments of World War II.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1950-05-13",
+                "event": "The first ever race of the Formula One World Championship, the British Grand Prix, is held at Silverstone Circuit. Attended by King George VI, the event marked the beginning of modern motor racing history, with Giuseppe Farina winning the inaugural contest.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1842-05-13",
+                "event": "The celebrated composer Arthur Sullivan is born in London. He is best known for his incredibly successful collaboration with the librettist W.S. Gilbert, producing a series of iconic Savoy Operas including 'The Pirates of Penzance' and 'The Mikado'.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "14-05",
+        "events": [
+            {
+                "date": "1796-05-14",
+                "event": "British physician Edward Jenner performs the first vaccination against smallpox, using cowpox matter to provide immunity. This groundbreaking experiment laid the foundations for the field of immunology and eventually led to the global eradication of one of humanity's most deadly diseases.",
+                "theme": "Science"
+            },
+            {
+                "date": "1921-05-14",
+                "event": "The British Legion is founded through the merger of four veterans' organisations to support those who served in the Great War. Now known as the Royal British Legion, it remains the UK's leading charity for members of the Armed Forces and their families.",
+                "theme": "History"
+            },
+            {
+                "date": "1264-05-14",
+                "event": "The Battle of Lewes takes place in Sussex, where rebel forces led by Simon de Montfort defeat the army of King Henry III. This victory led to the creation of the first representative parliament in England, marking a significant step toward constitutional government.",
+                "theme": "History"
+            },
+            {
+                "date": "1955-05-14",
+                "event": "The Warsaw Pact was signed by the Soviet Union and seven other Eastern Bloc socialist republics. Created as a strategic military counterpart to NATO, it solidified the military and political iron curtain across the continent.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "15-05",
+        "events": [
+            {
+                "date": "1858-05-15",
+                "event": "The current Royal Opera House building in Covent Garden, London, opens its doors for the first time. As the third theatre on the site, it has since become one of the world's premier performing arts venues, home to The Royal Opera and Ballet.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1941-05-15",
+                "event": "Britain's first jet-powered aircraft, the Gloster E.28/39, completes its successful maiden flight at RAF Cranwell. Powered by Frank Whittle's innovative turbojet engine, this achievement revolutionised aerospace technology and paved the way for the future of high-speed aviation and travel.",
+                "theme": "Science"
+            },
+            {
+                "date": "1536-05-15",
+                "event": "Anne Boleyn is brought to trial in the King's Hall at the Tower of London. Facing a jury of peers, she was found guilty of adultery, incest, and treason, and sentenced to death, marking the penultimate chapter of her dramatic fall from power.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "16-05",
+        "events": [
+            {
+                "date": "1763-05-16",
+                "event": "James Boswell and the great lexicographer Samuel Johnson meet for the first time in the back parlor of Tom Davies's bookshop in London. This fateful introduction led to one of history's most famous literary friendships and Boswell's monumental 'Life of Samuel Johnson'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1943-05-16",
+                "event": "The 'Dambusters' raid, officially known as Operation Chastise, is launched by RAF 617 Squadron. Using Barnes Wallis's ingenious 'bouncing bombs', the low-level night attack targeted major German dams, becoming one of the most famous specialist missions of the Second World War.",
+                "theme": "History"
+            },
+            {
+                "date": "1929-05-16",
+                "event": "The first ever Academy Awards ceremony is held in Hollywood. While initially a domestic affair, British-born talent would soon dominate the awards, with actor George Arliss eventually becoming the first UK winner for his leading role in 'Disraeli' a year later.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "17-05",
+        "events": [
+            {
+                "date": "1749-05-17",
+                "event": "Edward Jenner, the pioneering British physician who developed the smallpox vaccine, is born in Berkeley, Gloucestershire. His work in preventative medicine is estimated to have saved more lives than that of any other human being in history, fundamentally changing modern science.",
+                "theme": "Science"
+            },
+            {
+                "date": "1900-05-17",
+                "event": "The Relief of Mafeking occurs during the Second Boer War, ending a 217-day siege of the British garrison. The news sparked unprecedented celebrations across the British Empire and London, turning the garrison commander, Robert Baden-Powell, into a national hero.",
+                "theme": "History"
+            },
+            {
+                "date": "1521-05-17",
+                "event": "Edward Stafford, 3rd Duke of Buckingham, is executed for high treason on Tower Hill. One of the wealthiest and most powerful nobles in England, his death illustrated the ruthless nature of Henry VIII’s court and the king’s determination to eliminate potential rivals.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "18-05",
+        "events": [
+            {
+                "date": "1872-05-18",
+                "event": "Bertrand Russell, the profoundly influential British philosopher, logician, and social critic, is born in Trellech, Wales. A prolific writer and Nobel laureate, his work in mathematics and analytic philosophy redefined intellectual thought in the 20th century and inspired global social movements.",
+                "theme": "Science"
+            },
+            {
+                "date": "1955-05-18",
+                "event": "Mary Beard, the renowned English scholar of Roman history and public intellectual, is born. Her extensive work in classical studies and her ability to make ancient history accessible to modern audiences through books and television have made her a prominent figure in British culture.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1911-05-18",
+                "event": "The death of Austrian composer Gustav Mahler occurs; though not British, his monumental symphonic works became a cornerstone of the British orchestral repertoire. Conductors like Sir John Barbirolli and Simon Rattle later championed his music, cementing his legacy in UK concert halls.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1922-05-18",
+                "event": "The Biddenham War Memorial, a distinctive Celtic cross situated on the village green, is officially unveiled and dedicated. It serves as a permanent tribute to ten local men lost during the Great War and three individuals killed during the Second World War.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "19-05",
+        "events": [
+            {
+                "date": "1536-05-19",
+                "event": "Anne Boleyn, the second wife of King Henry VIII, is executed by beheading within the walls of the Tower of London. Her death made her the first English queen to be publicly executed, clearing the way for Henry's marriage to Jane Seymour.",
+                "theme": "History"
+            },
+            {
+                "date": "1649-05-19",
+                "event": "Following the execution of Charles I, an Act of Parliament is passed formally declaring England to be a Commonwealth. This legislative move established a republican government, marking the start of a decade of rule without a monarch under Oliver Cromwell.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1935-05-19",
+                "event": "T.E. Lawrence, the legendary British officer known as Lawrence of Arabia, dies six days after a motorcycle accident in Dorset. His vital role in the Arab Revolt during World War I and his literary achievements made him an enduring figure of British history.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "20-05",
+        "events": [
+            {
+                "date": "1941-05-20",
+                "event": "The Battle of Crete begins as German paratroopers launch a massive airborne invasion of the island. A large contingent of British, New Zealand, and Australian forces fought a fierce defensive campaign, though they were ultimately forced to evacuate after heavy casualties.",
+                "theme": "History"
+            },
+            {
+                "date": "1747-05-20",
+                "event": "Scottish naval surgeon James Lind publishes 'A Treatise of the Scurvy', detailing his controlled experiments on sailors. By identifying citrus fruit as an effective cure, Lind provided a solution to a major health crisis, eventually transforming the efficiency of the Royal Navy.",
+                "theme": "Science"
+            },
+            {
+                "date": "1944-05-20",
+                "event": "Joe Cocker, the powerful and influential English soul and blues singer, is born in Sheffield. Known for his distinctive gritty voice and intense performances, he achieved international stardom with his cover of 'With a Little Help from My Friends' at Woodstock.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "21-05",
+        "events": [
+            {
+                "date": "1844-05-21",
+                "event": "The death of Mary Anning, the pioneering English fossil hunter and palaeontologist. Despite being overlooked by the scientific establishment during her life, her significant discoveries in the cliffs of Lyme Regis provided vital evidence for the early development of evolutionary theories.",
+                "theme": "Science"
+            },
+            {
+                "date": "1881-05-21",
+                "event": "The American Red Cross is founded; the organisation would go on to develop a close and vital partnership with British medical and social services. Their collaborative efforts during both World Wars provided essential humanitarian aid to soldiers and civilians across the United Kingdom.",
+                "theme": "History"
+            },
+            {
+                "date": "1471-05-21",
+                "event": "King Henry VI dies while imprisoned in the Tower of London, shortly after the Yorkist victory at Tewkesbury. His death, widely believed to be a murder ordered by Edward IV, marked the final collapse of the Lancastrian cause during the Wars of the Roses.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "22-05",
+        "events": [
+            {
+                "date": "1859-05-22",
+                "event": "Sir Arthur Conan Doyle, the prolific author and creator of the legendary detective Sherlock Holmes, is born in Edinburgh. His stories transformed the detective fiction genre and created some of the most enduring and recognizable characters in the history of English literature.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1455-05-22",
+                "event": "The first Battle of St Albans takes place, resulting in a Yorkist victory and the capture of King Henry VI. This brief but violent encounter is traditionally recognised by historians as the opening conflict of the long-running dynastic struggle known as the Wars of the Roses.",
+                "theme": "History"
+            },
+            {
+                "date": "1946-05-22",
+                "event": "George Best, the legendary Northern Irish footballer, is born in Belfast. Regarded as one of the greatest players in the history of the sport, his exceptional skill and charisma at Manchester United made him one of the first true global celebrity athletes.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "23-05",
+        "events": [
+            {
+                "date": "1701-05-23",
+                "event": "The notorious pirate Captain William Kidd is executed for piracy and the murder of a crewman at Execution Dock in London. His death and the legend of his buried treasure have since become a permanent fixture in the maritime folklore of the Atlantic.",
+                "theme": "History"
+            },
+            {
+                "date": "1934-05-23",
+                "event": "The first Glyndebourne Festival Opera takes place at the manor house of John Christie in East Sussex. This inaugural event launched what would become a world-renowned summer opera festival, famous for its high artistic standards and unique English country house setting.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1844-05-23",
+                "event": "The birth of Abdul-Baha, the eldest son of the founder of the Baha'i Faith. His subsequent visits to London and Bristol in the early 20th century significantly influenced British religious diversity and the growth of the Baha'i community within the United Kingdom.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "24-05",
+        "events": [
+            {
+                "date": "1819-05-24",
+                "event": "Queen Victoria is born at Kensington Palace in London. Her long reign of over 63 years, known as the Victorian Era, saw the expansion of the British Empire and profound industrial, political, and social changes that shaped the modern world and British identity.",
+                "theme": "History"
+            },
+            {
+                "date": "1941-05-24",
+                "event": "The British battlecruiser HMS Hood is sunk by the German battleship Bismarck during the Battle of the Denmark Strait. The loss of the 'Mighty Hood' and nearly all of her 1,418 crew members remains the greatest single loss of life for the Royal Navy.",
+                "theme": "History"
+            },
+            {
+                "date": "1738-05-24",
+                "event": "John Wesley experiences a profound evangelical conversion at a Moravian meeting in Aldersgate Street, London. This spiritual awakening led to the founding of the Methodist movement, which had a significant and lasting impact on the social and religious life of Britain.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "25-05",
+        "events": [
+            {
+                "date": "1895-05-25",
+                "event": "The celebrated playwright Oscar Wilde is convicted of 'gross indecency' and sentenced to two years of hard labor at Reading Gaol. His trial and subsequent imprisonment were a major cultural scandal that highlighted the rigid and punitive social moralities of late Victorian Britain.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-05-25",
+                "event": "Celtic FC become the first British club to win the European Cup, famously defeating Inter Milan in Lisbon. The 'Lisbon Lions', as the team became known, achieved a historic quadruple that season, marking the pinnacle of Scottish and British club football success.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1939-05-25",
+                "event": "Sir Ian McKellen, the acclaimed English actor of stage and screen, is born in Burnley. Known for his mastery of Shakespearean roles and his iconic portrayal of Gandalf in 'The Lord of the Rings', he is also a prominent activist for LGBT rights.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "26-05",
+        "events": [
+            {
+                "date": "1940-05-26",
+                "event": "Operation Dynamo, the heroic evacuation of Allied soldiers from the beaches of Dunkirk, begins. Over nine days, a fleet of naval vessels and civilian 'little ships' rescued more than 338,000 troops, saving the British Army from certain destruction during the fall of France.",
+                "theme": "History"
+            },
+            {
+                "date": "1923-05-26",
+                "event": "The first ever 24 Hours of Le Mans endurance race is held in France. British drivers and manufacturers, most notably Bentley and later Jaguar, would become legendary icons of the event, establishing Britain's reputation as a dominant force in international motor racing.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1913-05-26",
+                "event": "The famous English actor Peter Cushing is born in Kenley, Surrey. Renowned for his distinguished presence and versatility, he became a legend of cinema through his numerous roles in Hammer Horror films and his portrayal of Grand Moff Tarkin in 'Star Wars'.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "27-05",
+        "events": [
+            {
+                "date": "1941-05-27",
+                "event": "The formidable German battleship Bismarck is sunk by the Royal Navy in the North Atlantic following a relentless pursuit. This victory boosted British morale and secured vital Atlantic convoy routes, avenging the earlier destruction of HMS Hood during the same naval engagement.",
+                "theme": "History"
+            },
+            {
+                "date": "1867-05-27",
+                "event": "Arnold Bennett, the prolific and successful English novelist and playwright, is born in Hanley. Best known for his 'Five Towns' novels, which depicted life in the industrial Potteries of Staffordshire, he became one of the most influential literary figures of his time.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1541-05-27",
+                "event": "Margaret Pole, Countess of Salisbury, is executed on the orders of Henry VIII at the age of 67. As one of the last surviving members of the Plantagenet dynasty, her death was a stark example of the political purges during the Tudor period.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "28-05",
+        "events": [
+            {
+                "date": "1908-05-28",
+                "event": "Ian Fleming, the creator of the world-famous secret agent James Bond, is born in London. Drawing on his experience in Naval Intelligence during World War II, Fleming's novels became a global phenomenon and spawned one of the most successful film franchises ever.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1945-05-08",
+                "event": "Victory in Europe Day was celebrated as Germany signed the unconditional surrender of its armed forces. This marked the formal end of the war in Europe.",
+                "theme": "History"
+            },
+            {
+                "date": "1967-05-28",
+                "event": "Sir Francis Chichester arrives in Plymouth to a hero's welcome after completing the first solo circumnavigation of the globe via the Great Capes. His 226-day journey aboard Gipsy Moth IV was a testament to human endurance and modern British maritime skill.",
+                "theme": "History"
+            },
+            {
+                "date": "1759-05-28",
+                "event": "William Pitt the Younger, the youngest ever British Prime Minister, is born. Taking office at the age of 24, he led the country through the tumultuous years of the French Revolutionary and Napoleonic Wars, fundamentally reforming the British administrative and financial systems.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1982-05-28",
+                "event": "The Battle of Goose Green took place, representing the first major land engagement of the war. British paratroopers defeated a larger Argentine force in a hard fought battle, establishing a vital foothold on East Falkland and boosting Allied morale.",
+                "theme": "History"
+            },
+            {
+                "date": "1974-05-28",
+                "event": "The Sunningdale Agreement collapsed following a general strike by the Ulster Workers' Council. This early attempt at a power-sharing executive between nationalists and unionists failed due to widespread loyalist opposition, leading to decades of direct rule from London.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "29-05",
+        "events": [
+            {
+                "date": "1660-05-29",
+                "event": "Oak Apple Day: King Charles II enters London on his 30th birthday, officially marking the Restoration of the Monarchy. This joyful event ended the period of republican rule under the Commonwealth and was celebrated annually in Britain for over two centuries.",
+                "theme": "History"
+            },
+            {
+                "date": "1953-05-29",
+                "event": "Edmund Hillary and Tenzing Norgay become the first people to reach the summit of Mount Everest. As part of a British expedition led by John Hunt, their achievement was announced in London on the morning of Queen Elizabeth II's coronation, sparking national pride.",
+                "theme": "Science"
+            },
+            {
+                "date": "1917-05-29",
+                "event": "The birth of John F. Kennedy occurs in Massachusetts; as the 35th U.S. President, his official visit to London in 1961 was a major diplomatic event. His leadership during the Cold War and his 'Special Relationship' with Harold Macmillan were vital to British interests.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "30-05",
+        "events": [
+            {
+                "date": "1431-05-30",
+                "event": "Joan of Arc is burned at the stake by the English in Rouen during the Hundred Years' War. Her execution followed a trial for heresy, but she later became a patron saint of France and a symbol of national resistance against English occupation.",
+                "theme": "History"
+            },
+            {
+                "date": "1942-05-30",
+                "event": "The RAF launches the first 'thousand-bomber raid' of World War II, targeting the German city of Cologne. This massive aerial assault, involving over 1,000 aircraft, represented a major escalation in the strategic bombing campaign intended to cripple German industrial production and morale.",
+                "theme": "History"
+            },
+            {
+                "date": "1980-05-30",
+                "event": "The death of the legendary English actor and comedian Peter Sellers occurs in London. Renowned for his extraordinary talent for mimicry and characterisation, he is best remembered for his iconic roles in 'The Pink Panther' series and the satirical masterpiece 'Dr. Strangelove'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1932-05-30",
+                "event": "The restoration of an 18th-century timber-framed dovecote is completed under the direction of the prominent architect Professor Richardson. While the structure was eventually demolished in 1966, this project was celebrated as a significant effort in preserving local architectural heritage and craftsmanship.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "31-05",
+        "events": [
+            {
+                "date": "1916-05-31",
+                "event": "The Battle of Jutland, the largest and only full-scale naval engagement between the British Grand Fleet and the German High Seas Fleet during World War I, begins in the North Sea. The encounter resulted in significant losses for both sides but maintained British naval dominance.",
+                "theme": "History"
+            },
+            {
+                "date": "1859-05-31",
+                "event": "The Great Clock at the Palace of Westminster, which houses the world-famous bell known as Big Ben, begins to keep time. This architectural marvel has since become a global symbol of London and the United Kingdom, renowned for its accuracy and distinctive hourly chimes.",
+                "theme": "History"
+            },
+            {
+                "date": "1076-05-31",
+                "event": "Waltheof, Earl of Northumbria, is executed for his role in the Revolt of the Earls against William the Conqueror. As the last English earl to survive the immediate aftermath of the Norman Conquest, his death marked the final elimination of the old Anglo-Saxon aristocracy.",
+                "theme": "History"
+            }
+        ]
+    }
+]

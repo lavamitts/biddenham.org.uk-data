@@ -1,0 +1,622 @@
+[
+    {
+        "date": "01-12",
+        "events": [
+            {
+                "title": "World AIDS Day",
+                "summary": "An international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection. In the UK, health organisations and charities like the Terrence Higgins Trust work to mourn those who have died, support those living with the virus, and fight the stigma still associated with the condition.",
+                "url": "https://www.worldaidsday.org/"
+            },
+            {
+                "title": "National Pie Day (UK)",
+                "summary": "While various pie days exist, early December is often used by British bakers to celebrate the winter meat pie. From Steak and Ale to traditional Pork pies, this day highlights a cornerstone of British comfort food as the temperatures drop.",
+                "url": "https://www.britishpieawards.co.uk/"
+            },
+            {
+                "title": "Eat a Red Apple Day",
+                "summary": "A day promoting healthy eating. In the UK, it encourages the consumption of seasonal varieties like the Braeburn or Gala, reminding people that even during the festive season, a simple piece of fruit remains a vital snack.",
+                "url": "https://www.daysoftheyear.com/days/eat-a-red-apple-day/"
+            }
+        ]
+    },
+    {
+        "date": "02-12",
+        "events": [
+            {
+                "title": "International Day for the Abolition of Slavery",
+                "summary": "A UN day marking the anniversary of the Convention for the Suppression of the Traffic in Persons. In the UK, it is used to raise awareness of modern-day slavery and human trafficking, emphasizing that millions still live without freedom globally.",
+                "url": "https://www.un.org/en/observances/slavery-abolition-day"
+            },
+            {
+                "title": "National Mutt Day",
+                "summary": "A day to embrace and celebrate mixed-breed dogs. UK animal shelters like Battersea use this day to encourage the adoption of 'crossbreeds' and to highlight the health and personality benefits of non-pedigree canine companions.",
+                "url": "https://www.daysoftheyear.com/days/mutt-day/"
+            },
+            {
+                "title": "National Fritters Day",
+                "summary": "A whimsical culinary celebration. In the UK, this ranges from traditional apple fritters to savory corn or pea varieties, celebrating the simple joy of deep-fried batter-coated treats.",
+                "url": "https://www.daysoftheyear.com/days/fritters-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-12",
+        "events": [
+            {
+                "title": "International Day of Persons with Disabilities",
+                "summary": "Promoting an understanding of disability issues and mobilizing support for the dignity and well-being of persons with disabilities. In the UK, the focus is often on accessibility in the workplace and the 'Purple Pound'—the spending power of disabled households.",
+                "url": "https://www.un.org/en/observances/day-of-persons-with-disabilities"
+            },
+            {
+                "title": "Make a Gift Day",
+                "summary": "A day encouraging people to step away from mass consumerism. In the UK, it promotes the 'homemade' Christmas spirit, encouraging crafts, knitting, and baking as more personal and sustainable ways to give to loved ones.",
+                "url": "https://www.daysoftheyear.com/days/make-a-gift-day/"
+            },
+            {
+                "title": "National Roof Over Your Head Day",
+                "summary": "A day to be thankful for home and shelter. In the UK, while promoting gratitude, it is also used by housing charities to highlight the struggles of those facing homelessness during the harsh British winter.",
+                "url": "https://www.daysoftheyear.com/days/roof-over-your-head-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-12",
+        "events": [
+            {
+                "title": "International Day of Banks",
+                "summary": "Recognizing the vital role of banking systems in contributing to sustainable development. In the UK's global financial hub, it is a day to discuss ethical banking and the role of financial institutions in supporting the green transition.",
+                "url": "https://www.un.org/en/observances/bank-day"
+            },
+            {
+                "title": "National Sock Day",
+                "summary": "A celebration of the clothing item that often goes missing. In the UK, it’s a fun day for sharing colourful or 'crazy' socks, often used as a light-hearted fundraiser for clothing-related charities.",
+                "url": "https://www.daysoftheyear.com/days/sock-day/"
+            },
+            {
+                "title": "National Cookie Day",
+                "summary": "A day for biscuit lovers across the UK. Whether it's a traditional shortbread or a modern chocolate chip, it’s an excuse for a mid-afternoon treat alongside a classic British cup of tea.",
+                "url": "https://www.daysoftheyear.com/days/cookie-day/"
+            }
+        ]
+    },
+    {
+        "date": "05-12",
+        "events": [
+            {
+                "title": "World Soil Day",
+                "summary": "A day to focus attention on the importance of healthy soil and advocating for the sustainable management of soil resources. In the UK, agricultural groups highlight the role of British soil in food security and carbon sequestration.",
+                "url": "https://www.un.org/en/observances/world-soil-day"
+            },
+            {
+                "title": "International Volunteer Day",
+                "summary": "Celebrating the efforts of volunteers who dedicate their time to their communities. With a strong tradition of charity in the UK, this day honors those working in hospitals, food banks, and local clubs across the country.",
+                "url": "https://www.un.org/en/observances/volunteer-day"
+            },
+            {
+                "title": "National Repeal Day",
+                "summary": "A day marking the end of Prohibition in the US. While the UK never had prohibition, British cocktail bars often use the theme to celebrate the history of mixology and the 'Speakeasy' aesthetic.",
+                "url": "https://www.daysoftheyear.com/days/repeal-day/"
+            }
+        ]
+    },
+    {
+        "date": "06-12",
+        "events": [
+            {
+                "title": "St Nicholas Day",
+                "summary": "While more prominent in mainland Europe, many in the UK observe this day, particularly those with Dutch, German, or Polish heritage, marking the beginning of the gift-giving season and the origins of the Santa Claus legend.",
+                "url": "https://www.stnicholascenter.org/"
+            },
+            {
+                "title": "National Microwave Oven Day",
+                "summary": "A celebration of the kitchen appliance that revolutionised British dining habits. It recognises the convenience of the microwave in busy modern lives while encouraging safe and healthy 'ping' cooking.",
+                "url": "https://www.daysoftheyear.com/days/microwave-oven-day/"
+            },
+            {
+                "title": "National Gazpacho Day",
+                "summary": "A culinary day for the cold Spanish soup. Though unconventional for a British December, it serves as a reminder of healthy, vegetable-packed meals during a month often dominated by rich, heavy foods.",
+                "url": "https://www.daysoftheyear.com/days/gazpacho-day/"
+            }
+        ]
+    },
+    {
+        "date": "07-12",
+        "events": [
+            {
+                "title": "International Civil Aviation Day",
+                "summary": "A day to recognize the importance of international civil aviation to the social and economic development of States. In the UK, which has some of the world's busiest airports, it highlights the technical achievements of the British aviation industry.",
+                "url": "https://www.un.org/en/observances/civil-aviation-day"
+            },
+            {
+                "title": "National Pearl Harbor Remembrance Day",
+                "summary": "Primarily a US observance, but recognised in the UK due to the shared history of WWII. It serves as a moment to reflect on the events that brought the United States fully into the war alongside the Allies.",
+                "url": "https://www.britishlegion.org.uk/"
+            },
+            {
+                "title": "National Cotton Candy Day",
+                "summary": "Known in the UK as 'Candy Floss Day.' A whimsical nod to the sugary treat found at British funfairs and seaside piers, celebrating the nostalgia of childhood outings.",
+                "url": "https://www.daysoftheyear.com/days/cotton-candy-day/"
+            }
+        ]
+    },
+    {
+        "date": "08-12",
+        "events": [
+            {
+                "title": "Pretend to Be a Time Traveler Day",
+                "summary": "A day where people are encouraged to act as though they are from another era. In the UK, with its wealth of historical architecture, it's a popular day for fans of sci-fi like 'Doctor Who' to engage in immersive roleplay.",
+                "url": "https://www.daysoftheyear.com/days/pretend-to-be-a-time-traveler-day/"
+            },
+            {
+                "title": "National Lard Day",
+                "summary": "A culinary day celebrating a traditional British cooking fat. Once a staple in every UK pantry for perfect pastry and roasting, this day looks back at the history of British cooking and the move back towards natural fats.",
+                "url": "https://www.daysoftheyear.com/days/lard-day/"
+            },
+            {
+                "title": "National Brownie Day",
+                "summary": "A day for one of the most popular bakes in the UK. Many bakeries and cafes offer special variations of the chocolate brownie, celebrating the perfect balance between 'cakey' and 'fudgy.'",
+                "url": "https://www.daysoftheyear.com/days/brownie-day/"
+            }
+        ]
+    },
+    {
+        "date": "09-12",
+        "events": [
+            {
+                "title": "International Anti-Corruption Day",
+                "summary": "Raising awareness of corruption and the role of the Convention in combating and preventing it. In the UK, organisations like Transparency International use the day to advocate for integrity in public life and business.",
+                "url": "https://www.un.org/en/observances/anti-corruption-day"
+            },
+            {
+                "title": "World Techno Day",
+                "summary": "Celebrating the electronic music genre. In the UK, which has a massive clubbing and electronic music history, it’s a day to appreciate the DJs and producers who have shaped the British underground scene.",
+                "url": "https://www.daysoftheyear.com/days/world-techno-day/"
+            },
+            {
+                "title": "National Pastry Day",
+                "summary": "A whimsical culinary day celebrating anything wrapped in dough. From Greggs sausage rolls to high-end patisserie, the UK celebrates its love for flaky, buttery crusts.",
+                "url": "https://www.daysoftheyear.com/days/pastry-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-12",
+        "events": [
+            {
+                "title": "Human Rights Day",
+                "summary": "Commemorating the day the UN General Assembly adopted the Universal Declaration of Human Rights in 1948. In the UK, it’s a day for education on fundamental freedoms and the ongoing global struggle for equality and justice.",
+                "url": "https://www.un.org/en/observances/human-rights-day"
+            },
+            {
+                "title": "International Animal Rights Day",
+                "summary": "Observed on the same day as Human Rights Day to highlight the belief that all living creatures should be treated with respect. In the UK, activists hold vigils and educational events to promote animal welfare and veganism.",
+                "url": "https://www.peta.org.uk/blog/international-animal-rights-day/"
+            },
+            {
+                "title": "National Lager Day",
+                "summary": "A celebration of the UK's most popular beer style. It encourages trying local British craft lagers and appreciating the brewing science behind the clean, crisp finish of a well-made pint.",
+                "url": "https://www.daysoftheyear.com/days/lager-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-12",
+        "events": [
+            {
+                "title": "International Mountain Day",
+                "summary": "Raising awareness about the importance of mountains to life. In the UK, it’s a day to appreciate the landscapes of the Scottish Highlands, the Lake District, and Snowdonia, and to focus on the conservation of these fragile environments.",
+                "url": "https://www.un.org/en/observances/mountain-day"
+            },
+            {
+                "title": "National App Day",
+                "summary": "A day celebrating the software that runs our lives. In the UK's thriving tech sector, it’s a day to recognize the developers behind the apps that help with everything from British banking to tracking the arrival of the next bus.",
+                "url": "https://www.daysoftheyear.com/days/app-day/"
+            },
+            {
+                "title": "National Noodle Day",
+                "summary": "Celebrating the versatile staple. With the UK's love for ramen bars and stir-fries, this day encourages exploring different Asian cuisines and the comfort of a warm noodle bowl during winter.",
+                "url": "https://www.daysoftheyear.com/days/noodle-day/"
+            }
+        ]
+    },
+    {
+        "date": "12-12",
+        "events": [
+            {
+                "title": "International Universal Health Coverage Day",
+                "summary": "A UN day to celebrate the importance of health systems that leave no one behind. In the UK, it is a day to reflect on the founding principles of the NHS—providing care based on need, not the ability to pay.",
+                "url": "https://www.un.org/en/observances/universal-health-coverage-day"
+            },
+            {
+                "title": "Poinsettia Day",
+                "summary": "A day marking the peak season for the classic Christmas plant. In the UK, millions are sold during December, and this day celebrates the vibrant red foliage that brightens British homes during the darkest weeks of the year.",
+                "url": "https://www.daysoftheyear.com/days/poinsettia-day/"
+            },
+            {
+                "title": "Gingerbread House Day",
+                "summary": "A day for festive creativity. It encourages UK families to get together and construct edible houses, a tradition that has become a staple of the British countdown to Christmas.",
+                "url": "https://www.daysoftheyear.com/days/gingerbread-house-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-12",
+        "events": [
+            {
+                "title": "National Day of the Horse",
+                "summary": "While primarily a US date, it is often celebrated by the UK's large equestrian community to acknowledge the horse's historical role in British transport, agriculture, and sport.",
+                "url": "https://www.bhs.org.uk/"
+            },
+            {
+                "title": "National Cocoa Day",
+                "summary": "A celebration of the ultimate winter drink. In the UK, it’s the perfect day to enjoy a rich hot chocolate with all the trimmings (marshmallows and cream) while hiding from the December rain.",
+                "url": "https://www.daysoftheyear.com/days/cocoa-day/"
+            },
+            {
+                "title": "Ice Cream and Violins Day",
+                "summary": "A wonderfully absurd and day. It encourages the unlikely combination of enjoying a cold treat while listening to classical music, celebrating the eccentricity that is often a part of British humor.",
+                "url": "https://www.daysoftheyear.com/days/ice-cream-and-violins-day/"
+            }
+        ]
+    },
+    {
+        "date": "14-12",
+        "events": [
+            {
+                "title": "Monkey Day",
+                "summary": "An unofficial day to celebrate monkeys and other non-human primates. In the UK, zoos and conservation societies use the day to educate the public on the importance of protecting primate habitats and the intelligence of our closest relatives.",
+                "url": "https://www.daysoftheyear.com/days/monkey-day/"
+            },
+            {
+                "title": "National Bouillabaisse Day",
+                "summary": "A culinary day for the classic French fish stew. In the UK, it highlights the use of fresh British seafood like mussels and white fish, celebrating the coastal links between Britain and its European neighbors.",
+                "url": "https://www.daysoftheyear.com/days/bouillabaisse-day/"
+            },
+            {
+                "title": "Free Shipping Day",
+                "summary": "A whimsical but practical day for online shoppers. Many UK retailers offer free delivery for one day only, serving as a final prompt for those needing to get their Christmas gifts ordered in time for the holidays.",
+                "url": "https://www.freeshippingday.com/"
+            }
+        ]
+    },
+    {
+        "date": "15-12",
+        "events": [
+            {
+                "title": "International Tea Day",
+                "summary": "Aiming to draw attention to the global tea trade and its impact on workers and the environment. In the UK, the nation's favorite drink is celebrated with a focus on ethical sourcing and the history of the British 'cuppa.'",
+                "url": "https://www.un.org/en/observances/tea-day"
+            },
+            {
+                "title": "National Cupcake Day",
+                "summary": "A day for bite-sized bakes. Many UK offices and schools use this as a fundraising day, selling decorated cakes to raise money for various charities during the festive season.",
+                "url": "https://www.daysoftheyear.com/days/cupcake-day/"
+            },
+            {
+                "title": "Cat Herders Day",
+                "summary": "A day for anyone whose life feels like they are 'herding cats'—managing the unmanageable. In the UK, it’s often embraced by teachers, project managers, and parents during the chaotic pre-Christmas rush.",
+                "url": "https://www.daysoftheyear.com/days/cat-herders-day/"
+            }
+        ]
+    },
+    {
+        "date": "16-12",
+        "events": [
+            {
+                "title": "National Chocolate Covered Anything Day",
+                "summary": "A day celebrating the versatility of chocolate. From fruit and nuts to more adventurous British snacks like pretzels or even bacon, it’s a day for indulgence and experimentation.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-covered-anything-day/"
+            },
+            {
+                "title": "Stump de Noel Day",
+                "summary": "A whimsical culinary day celebrating the 'Yule Log' cake. In the UK, the chocolate log is a traditional alternative to Christmas pudding, and this day encourages home bakers to practice their rolling and decorating skills.",
+                "url": "https://www.daysoftheyear.com/days/yule-log-day/"
+            },
+            {
+                "title": "Barbie and Barney Backlash Day",
+                "summary": "A humorous and day for adults to 'rebel' against children's icons that can be a bit overwhelming during the holiday season. It’s a light-hearted way to acknowledge the fatigue that can come with parenting and commercialism.",
+                "url": "https://www.daysoftheyear.com/days/barbie-and-barney-backlash-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-12",
+        "events": [
+            {
+                "title": "Wright Brothers Day",
+                "summary": "Commemorating the first successful flight in 1903. In the UK, it is a day for aviation museums and history buffs to celebrate the dawn of the flight era and the British pioneers who followed.",
+                "url": "https://www.daysoftheyear.com/days/wright-brothers-day/"
+            },
+            {
+                "title": "National Maple Syrup Day",
+                "summary": "A whimsical food day. While Canadian in origin, maple syrup has become a favorite in the UK for pancakes and festive baking, celebrating the natural sweetness of the maple tree.",
+                "url": "https://www.daysoftheyear.com/days/maple-syrup-day/"
+            },
+            {
+                "title": "Clean Air Day (Winter Edition)",
+                "summary": "While the main UK Clean Air Day is in June, this winter reminder focuses on the impact of domestic wood burners and car idling during the cold months on urban air quality.",
+                "url": "https://www.cleanairday.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "18-12",
+        "events": [
+            {
+                "title": "International Migrants Day",
+                "summary": "A UN day to recognize the contributions of migrants and the challenges they face. In the UK, it is a time to celebrate the diverse cultures that have shaped modern British society and to discuss fair treatment for all.",
+                "url": "https://www.un.org/en/observances/migrants-day"
+            },
+            {
+                "title": "Arabic Language Day",
+                "summary": "Celebrating one of the world's most spoken languages. In the UK, it’s a day for cultural exchange and recognizing the linguistic heritage of British Arab communities through workshops and literary events.",
+                "url": "https://www.un.org/en/observances/arabic-language-day"
+            },
+            {
+                "title": "Answer The Telephone Like Buddy The Elf Day",
+                "summary": "A day inspired by the movie 'Elf.' It encourages UK office workers and families to answer calls with 'Buddy the Elf, what’s your favorite colour?' to spread some silly holiday cheer.",
+                "url": "https://www.daysoftheyear.com/days/answer-the-phone-like-buddy-the-elf-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-12",
+        "events": [
+            {
+                "title": "National Oatmeal Muffin Day",
+                "summary": "A day celebrating a healthy-ish bake. In the UK, it encourages using British-grown oats for a hearty breakfast muffin to keep you going through the final Christmas preparations.",
+                "url": "https://www.daysoftheyear.com/days/oatmeal-muffin-day/"
+            },
+            {
+                "title": "Holly Day",
+                "summary": "A day celebrating the evergreen plant. In the UK, holly has been a symbol of winter for centuries; this day encourages using natural greenery for traditional British home decorations.",
+                "url": "https://www.daysoftheyear.com/days/holly-day/"
+            },
+            {
+                "title": "Look for an Evergreen Day",
+                "summary": "A day to appreciate trees that stay green all year. In the UK, it encourages a walk in the woods to spot pine, fir, and holly, highlighting the importance of evergreens for winter wildlife.",
+                "url": "https://www.daysoftheyear.com/days/look-for-an-evergreen-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-12",
+        "events": [
+            {
+                "title": "International Human Solidarity Day",
+                "summary": "A day to celebrate our unity in diversity and to remind governments of their commitments to international agreements. In the UK, it’s a time for community groups to focus on helping those less fortunate during the holiday period.",
+                "url": "https://www.un.org/en/observances/human-solidarity-day"
+            },
+            {
+                "title": "National Sangria Day",
+                "summary": "A day for the Spanish wine punch. Though usually a summer drink, 'Winter Sangria' with cinnamon and star anise has become a popular festive alternative to mulled wine in UK bars.",
+                "url": "https://www.daysoftheyear.com/days/sangria-day/"
+            },
+            {
+                "title": "Go Caroling Day",
+                "summary": "A day celebrating the traditional British activity of singing carols door-to-door. It encourages community spirit and raising money for charity through song in towns and villages across the UK.",
+                "url": "https://www.daysoftheyear.com/days/go-caroling-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-12",
+        "events": [
+            {
+                "title": "Winter Solstice",
+                "summary": "The shortest day and longest night of the year in the Northern Hemisphere. In the UK, it is famously marked by gatherings at Stonehenge to watch the sun rise, celebrating the 'return of the light' and ancient British pagan traditions.",
+                "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/winter-solstice/"
+            },
+            {
+                "title": "National Flashlight Day",
+                "summary": "Known in the UK as 'Torch Day.' A day falling on the longest night, reminding us of the importance of portable light and checking the batteries in our emergency kits.",
+                "url": "https://www.daysoftheyear.com/days/flashlight-day/"
+            },
+            {
+                "title": "Humbug Day",
+                "summary": "A day for those who are feeling a little 'Scrooge-like.' It gives UK residents permission to vent their frustrations with the festive stress for one day before getting back into the spirit.",
+                "url": "https://www.daysoftheyear.com/days/humbug-day/"
+            }
+        ]
+    },
+    {
+        "date": "22-12",
+        "events": [
+            {
+                "title": "National Date Nut Bread Day",
+                "summary": "A whimsical culinary day celebrating a traditional British tea-time loaf. It’s an excuse to bake with festive dried fruits and enjoy a slice with butter on a cold December afternoon.",
+                "url": "https://www.daysoftheyear.com/days/date-nut-bread-day/"
+            },
+            {
+                "title": "Forefathers' Day",
+                "summary": "Primarily marking the landing of the Pilgrims in the US, but in the UK, it is sometimes used to reflect on the historical links between East Anglia and the New World and the families that left British shores.",
+                "url": "https://www.daysoftheyear.com/days/forefathers-day/"
+            },
+            {
+                "title": "Short Person Day",
+                "summary": "A day celebrating those of smaller stature. In the UK, it’s a light-hearted day for humor and appreciating that 'the best things come in small packages.'",
+                "url": "https://www.daysoftheyear.com/days/short-person-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-12",
+        "events": [
+            {
+                "title": "Festivus",
+                "summary": "A whimsical 'holiday for the rest of us' made famous by the show Seinfeld. In the UK, it has a cult following as an alternative to the commercialism of Christmas, featuring the 'Airing of Grievances' and 'Feats of Strength.'",
+                "url": "https://www.daysoftheyear.com/days/festivus/"
+            },
+            {
+                "title": "National Pfeffernusse Day",
+                "summary": "A culinary day celebrating the spiced German 'pepper nut' biscuits. With the popularity of German Christmas markets in the UK, these biscuits have become a festive favorite for many British families.",
+                "url": "https://www.daysoftheyear.com/days/pfeffernusse-day/"
+            },
+            {
+                "title": "National Roots Day",
+                "summary": "A day to look into your family history. In the UK, it’s a popular time to talk to older relatives about their memories, preserving family stories before they are lost.",
+                "url": "https://www.daysoftheyear.com/days/roots-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-12",
+        "events": [
+            {
+                "title": "Christmas Eve",
+                "summary": "The night before Christmas is steeped in tradition in the UK. From hanging stockings to leaving out a mince pie for Father Christmas and a carrot for Rudolph, it is a night of magic and anticipation for children and adults alike.",
+                "url": "https://www.english-heritage.org.uk/christmas/history-of-christmas/"
+            },
+            {
+                "title": "National Eggnog Day",
+                "summary": "A whimsical culinary day for the rich, spiced dairy drink. Though often seen as American, 'posset'—the ancestor of eggnog—has deep roots in British history as a warming winter treat.",
+                "url": "https://www.daysoftheyear.com/days/eggnog-day/"
+            },
+            {
+                "title": "Festival of Nine Lessons and Carols",
+                "summary": "The world-famous service from King's College, Cambridge, is broadcast across the UK, marking the formal beginning of Christmas for many British households through traditional music and readings.",
+                "url": "https://www.kings.cam.ac.uk/chapel/a-festival-of-nine-lessons-and-carols"
+            }
+        ]
+    },
+    {
+        "date": "25-12",
+        "events": [
+            {
+                "title": "Christmas Day",
+                "summary": "The biggest holiday of the year in the UK. It is a day of family gatherings, traditional turkey roasts with all the trimmings (including Brussels sprouts and pigs in blankets), and the giving and receiving of gifts.",
+                "url": "https://www.royal.uk/christmas-royal-family"
+            },
+            {
+                "title": "The King's Christmas Message",
+                "summary": "A cornerstone of British Christmas Day since 1932. Broadcast at 3:00 pm, it is a moment where the nation reflects on the year past and the values of the Commonwealth through the eyes of the Monarch.",
+                "url": "https://www.royal.uk/christmas-broadcast"
+            },
+            {
+                "title": "National Pumpkin Pie Day (US)",
+                "summary": "While a major US food day, in the UK, this is often the day for the Christmas Pudding—a dense, spiced, suet-based cake that is often set alight with brandy before serving.",
+                "url": "https://www.daysoftheyear.com/days/pumpkin-pie-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-12",
+        "events": [
+            {
+                "title": "Boxing Day",
+                "summary": "A uniquely British bank holiday. Traditionally the day servants were given 'boxes' of gifts, it is now famous for sporting events (particularly football), shopping sales, and the 'Great British Leftover Lunch.'",
+                "url": "https://www.historic-uk.com/CultureUK/Boxing-Day/"
+            },
+            {
+                "title": "St Stephen's Day",
+                "summary": "The religious name for December 26th. In the UK, it is often associated with the 'Wren Day' traditions in some rural areas and the charitable spirit of the song 'Good King Wenceslas.'",
+                "url": "https://www.bbc.co.uk/religion/religions/christianity/holydays/stephen.shtml"
+            },
+            {
+                "title": "National Candy Cane Day",
+                "summary": "A celebration of the red-and-white striped sugar treat. In the UK, it’s a day for using up the leftover decorations from the Christmas tree in cocoa or as snacks.",
+                "url": "https://www.daysoftheyear.com/days/candy-cane-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-12",
+        "events": [
+            {
+                "title": "National Fruitcake Day",
+                "summary": "A whimsical culinary day for the often-divisive bake. In the UK, this is the time to finish off the Christmas cake, celebrating the rich blend of dried fruits, nuts, and brandy.",
+                "url": "https://www.daysoftheyear.com/days/fruitcake-day/"
+            },
+            {
+                "title": "Visit the Zoo Day",
+                "summary": "A whimsical suggestion for the 'limbo days' between Christmas and New Year. Many UK families visit zoos like ZSL London or Chester Zoo for a crisp winter walk and to see how the animals spend the festive season.",
+                "url": "https://www.daysoftheyear.com/days/visit-the-zoo-day/"
+            },
+            {
+                "title": "National Make-Cut-Out-Snowflakes Day",
+                "summary": "A whimsical craft day for kids and adults. Even if there’s no real snow in the UK, it encourages decorating windows with paper designs to keep the winter magic alive.",
+                "url": "https://www.daysoftheyear.com/days/make-cut-out-snowflakes-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-12",
+        "events": [
+            {
+                "title": "Holy Innocents Day",
+                "summary": "A religious day in the Christian calendar. In some parts of the UK, it was historically a day for children to play pranks or take over minor roles in the household, similar to the 'Boy Bishop' tradition.",
+                "url": "https://www.bbc.co.uk/religion/religions/christianity/holydays/holyinnocents.shtml"
+            },
+            {
+                "title": "National Shortbread Day",
+                "summary": "A culinary celebration of the classic Scottish biscuit. It highlights the importance of high-quality British butter and sugar in creating the perfect, crumbly treat that is a staple of UK festive tins.",
+                "url": "https://www.daysoftheyear.com/days/shortbread-day/"
+            },
+            {
+                "title": "National Chocolate Candy Day",
+                "summary": "A day to finish off the selection boxes. In the UK, this day is for enjoying the last of the pralines and truffles before the New Year resolutions kick in.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-candy-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-12",
+        "events": [
+            {
+                "title": "Still Need To Do Day",
+                "summary": "A day for the 'limbo' period. It’s a day for UK residents to look at their to-do lists and tackle any lingering chores or thank-you notes before the year officially ends.",
+                "url": "https://www.daysoftheyear.com/days/still-need-to-do-day/"
+            },
+            {
+                "title": "National Pepper Pot Day",
+                "summary": "A culinary day celebrating the thick, spicy stew. In the UK, it encourages warm, one-pot cooking using winter vegetables and meat, providing a savory break from festive sweets.",
+                "url": "https://www.daysoftheyear.com/days/pepper-pot-day/"
+            },
+            {
+                "title": "Tick Tock Day",
+                "summary": "A whimsical reminder that the clock is ticking on the current year. It encourages people in the UK to finish any remaining tasks and prepare for the transition into January.",
+                "url": "https://www.daysoftheyear.com/days/tick-tock-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-12",
+        "events": [
+            {
+                "title": "National Bicarbonate of Soda Day",
+                "summary": "A whimsical nod to the 'unsung hero' of the kitchen and home. In the UK, it’s celebrated for its use in festive baking (like honeycomb) and its power as a natural cleaner for the post-Christmas house tidy.",
+                "url": "https://www.daysoftheyear.com/days/bicarbonate-of-soda-day/"
+            },
+            {
+                "title": "National Bacon Day",
+                "summary": "A culinary celebration of a British breakfast staple. Whether in a 'butty' or as part of a full English, this day acknowledges the UK’s love for cured pork as the year draws to a close.",
+                "url": "https://www.daysoftheyear.com/days/bacon-day/"
+            },
+            {
+                "title": "Falling Needles Family Fest",
+                "summary": "A day acknowledging that the Christmas tree is starting to look a bit tired. It encourages UK families to gather one last time around the tree before the decorations are traditionally taken down.",
+                "url": "https://www.daysoftheyear.com/days/falling-needles-family-fest/"
+            }
+        ]
+    },
+    {
+        "date": "31-12",
+        "events": [
+            {
+                "title": "New Year's Eve / Hogmanay",
+                "summary": "The final celebration of the year. In London, massive firework displays take place over the Thames, while in Scotland, 'Hogmanay' is celebrated with street parties and the tradition of 'First Footing.'",
+                "url": "https://www.visitscotland.com/things-to-do/events/hogmanay/"
+            },
+            {
+                "title": "Auld Lang Syne",
+                "summary": "A whimsical but deep-rooted musical tradition. At midnight across the UK, people join hands to sing Robert Burns' poem, celebrating the 'old long since' and making resolutions for the year to come.",
+                "url": "https://www.britannica.com/topic/Auld-Lang-Syne"
+            },
+            {
+                "title": "National Champagne Day",
+                "summary": "A celebration of the sparkling wine that is synonymous with the New Year countdown. UK bars and homes toast the arrival of the future with bubbles, marking the transition with joy and optimism.",
+                "url": "https://www.daysoftheyear.com/days/champagne-day/"
+            }
+        ]
+    }
+]

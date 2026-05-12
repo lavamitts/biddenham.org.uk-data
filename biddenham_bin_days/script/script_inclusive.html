@@ -1,0 +1,202 @@
+<div class="bin-collection">
+      <h2>Your next bin collection</h2>
+      <div class="bin-results">
+          <img id="bin-image" src="/" alt="Bin Type" style="margin-top:0px; display:none; height:49px">
+          <div id="next-event">Loading...</div>
+      </div>
+<div class="bin-see-more"><a href="/bin-collection/">See more ...</a></div>
+    <div class="clearer"></div>
+  </div>
+  <script>
+    // Embedded JSON data
+    const data = {
+      "2025-01-15": "General rubbish",
+      "2025-01-22": "Recycling only",
+      "2025-01-29": "General rubbish",
+      "2025-02-05": "Recycling only",
+      "2025-02-12": "General rubbish",
+      "2025-02-19": "Recycling only",
+      "2025-02-26": "General rubbish",
+      "2025-03-05": "Recycling and garden",
+      "2025-03-12": "General rubbish",
+      "2025-03-19": "Recycling and garden",
+      "2025-03-26": "General rubbish",
+      "2025-04-02": "Recycling and garden",
+      "2025-04-09": "General rubbish",
+      "2025-04-16": "Recycling and garden",
+      "2025-04-23": "General rubbish",
+      "2025-04-30": "Recycling and garden",
+      "2025-05-07": "General rubbish",
+      "2025-05-14": "Recycling and garden",
+      "2025-05-21": "General rubbish",
+      "2025-05-28": "Recycling and garden",
+      "2025-06-04": "General rubbish",
+      "2025-06-11": "Recycling and garden",
+      "2025-06-18": "General rubbish",
+      "2025-06-25": "Recycling and garden",
+      "2025-07-02": "General rubbish",
+      "2025-07-09": "Recycling only",
+      "2025-07-16": "General rubbish",
+      "2025-07-23": "Recycling and garden",
+      "2025-07-30": "General rubbish",
+      "2025-08-06": "Recycling and garden",
+      "2025-08-13": "General rubbish",
+      "2025-08-20": "Recycling and garden",
+      "2025-08-27": "General rubbish",
+      "2025-09-03": "Recycling and garden",
+      "2025-09-10": "General rubbish",
+      "2025-09-17": "Recycling and garden",
+      "2025-09-24": "General rubbish",
+      "2025-10-01": "Recycling and garden",
+      "2025-10-08": "General rubbish",
+      "2025-10-15": "Recycling and garden",
+      "2025-10-22": "General rubbish",
+      "2025-10-29": "Recycling and garden",
+      "2025-11-05": "General rubbish",
+      "2025-11-12": "Recycling and garden",
+      "2025-11-19": "General rubbish",
+      "2025-11-26": "Recycling and garden",
+      "2025-12-03": "General rubbish",
+      "2025-12-10": "Recycling only",
+      "2025-12-17": "General rubbish",
+      "2025-12-23": "Recycling only",
+      "2025-12-31": "General rubbish",
+      "2026-01-07": "Recycling only",
+      "2026-01-14": "General rubbish",
+      "2026-01-21": "Recycling only",
+      "2026-01-28": "General rubbish",
+      "2026-02-04": "Recycling only",
+      "2026-02-11": "General rubbish",
+      "2026-02-18": "Recycling only",
+      "2026-02-25": "General rubbish",
+      "2026-03-04": "Recycling and garden",
+      "2026-03-11": "General rubbish",
+      "2026-03-18": "Recycling and garden",
+      "2026-03-25": "General rubbish",
+      "2026-04-01": "Recycling, food waste and garden",
+      "2026-04-08": "General rubbish and food waste",
+      "2026-04-15": "Recycling, food waste and garden",
+      "2026-04-22": "General rubbish and food waste",
+      "2026-04-29": "Recycling, food waste and garden",
+      "2026-05-06": "General rubbish and food waste",
+      "2026-05-13": "Recycling, food waste and garden",
+      "2026-05-20": "General rubbish and food waste",
+      "2026-05-27": "Recycling, food waste and garden",
+      "2026-06-03": "General rubbish and food waste",
+      "2026-06-10": "Recycling, food waste and garden",
+      "2026-06-17": "General rubbish and food waste",
+      "2026-06-24": "Recycling, food waste and garden",
+      "2026-07-01": "General rubbish and food waste",
+      "2026-07-08": "Recycling, food waste and garden",
+      "2026-07-15": "General rubbish and food waste",
+      "2026-07-22": "Recycling, food waste and garden",
+      "2026-07-29": "General rubbish and food waste",
+      "2026-08-05": "Recycling, food waste and garden",
+      "2026-08-12": "General rubbish and food waste",
+      "2026-08-19": "Recycling, food waste and garden",
+      "2026-08-26": "General rubbish and food waste",
+      "2026-09-02": "Recycling, food waste and garden",
+      "2026-09-09": "General rubbish and food waste",
+      "2026-09-16": "Recycling, food waste and garden",
+      "2026-09-23": "General rubbish and food waste",
+      "2026-09-30": "Recycling, food waste and garden",
+      "2026-10-07": "General rubbish and food waste",
+      "2026-10-14": "Recycling, food waste and garden",
+      "2026-10-21": "General rubbish and food waste",
+      "2026-10-28": "Recycling, food waste and garden",
+      "2026-11-04": "General rubbish and food waste",
+      "2026-11-11": "Recycling, food waste and garden",
+      "2026-11-18": "General rubbish and food waste",
+      "2026-11-25": "Recycling, food waste and garden",
+      "2026-12-02": "General rubbish and food waste",
+      "2026-12-09": "Recycling and food waste",
+      "2026-12-16": "General rubbish and food waste",
+      "2026-12-23": "Recycling and food waste"
+    };
+
+    // Compare date strings in YYYY-MM-DD format
+    function isTodayOrLater(dateStr) {
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      const d = new Date(dateStr);
+      d.setHours(0, 0, 0, 0);
+
+      return d >= today;
+    }
+
+    function formatDateVerbose(dateStr) {
+        const date = new Date(dateStr);
+        const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+        const day = date.getDate();
+
+        // Get ordinal suffix for day number
+        function ordinal(n) {
+            if (n > 3 && n < 21) return 'th'; // 4-20 is always 'th'
+            switch (n % 10) {
+            case 1: return "st";
+            case 2: return "nd";
+            case 3: return "rd";
+            default: return "th";
+            }
+        }
+
+        const dayName = dayNames[date.getDay()];
+        const suffix = ordinal(day);
+        const monthName = date.toLocaleString('en-GB', { month: 'long' });
+
+        return `${dayName}, ${day}${suffix} ${monthName}`;
+    }
+
+    const imageMap = {
+      "General rubbish": "bin-grey.svg",
+      "Recycling only": "bin-orange.svg",
+      "Recycling and garden": "bin-orange-green.svg",
+      "General rubbish and food waste": "bin-grey-food-waste.svg",
+      "Recycling and food waste": "bin-orange-food-waste.svg",
+      "Recycling, food waste and garden": "bin-orange-green-food-waste.svg"
+    };
+
+    const dates = Object.keys(data).sort();
+
+    for (let dateStr of dates) {
+      if (isTodayOrLater(dateStr)) {
+        const eventText = data[dateStr].trim();
+        const formattedDate = formatDateVerbose(dateStr);
+        document.getElementById('next-event').innerHTML = `<strong>${formattedDate}</strong><br> ${eventText}`;
+
+        const imageSrc = "/wp-content/uploads/2026/02/" + imageMap[eventText];
+        if (imageSrc) {
+          const img = document.getElementById('bin-image');
+          
+          switch (eventText) {
+            case "General rubbish":
+              img.style.width = "32px";
+              break;
+            case "Recycling only":
+              img.style.width = "32px";
+              break;
+            case "Recycling and garden":
+              img.style.width = "64px";
+              break;
+            case "General rubbish and food waste":
+              img.style.width = "64px";
+              break;
+            case "Recycling and food waste":
+              img.style.width = "64px";
+              break;
+            case "Recycling, food waste and garden":
+              img.style.width = "96px";
+              break;
+            default:
+              img.style.width = "32px";
+          }
+
+          img.src = imageSrc;
+          img.style.height = "49px";
+          img.style.display = 'block';
+        }
+        break;
+      }
+    }
+  </script>

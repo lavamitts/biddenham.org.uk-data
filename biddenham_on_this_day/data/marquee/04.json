@@ -1,0 +1,602 @@
+[
+    {
+        "date": "01-04",
+        "events": [
+            {
+                "title": "April Fools' Day",
+                "summary": "A traditional day for playing practical jokes and spreading hoaxes. In the UK, custom dictates that pranks must be completed by midday. Those attempting to fool others after the clock strikes twelve are themselves branded the fools, marking a unique British boundary on the festivities.",
+                "url": "https://www.historic-uk.com/CultureUK/April-Fools-Day/"
+            },
+            {
+                "title": "National Pet Month",
+                "summary": "Starting today, this campaign celebrates the benefits of pet ownership while raising awareness of responsible pet care. It brings together animal welfare charities, professional bodies, and pet lovers across the UK to promote the high standards of care our animal companions deserve throughout their lives.",
+                "url": "https://www.nationalpetmonth.org.uk/"
+            },
+            {
+                "title": "Bowel Cancer Awareness Month",
+                "summary": "An annual initiative led by Bowel Cancer UK to raise awareness of the UK's second biggest cancer killer. The month focuses on educating the public about symptoms, the importance of screening, and supporting those affected by the disease to improve early diagnosis rates and outcomes.",
+                "url": "https://www.bowelcanceruk.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "02-04",
+        "events": [
+            {
+                "title": "World Autism Awareness Day",
+                "summary": "A United Nations-recognised day encouraging member states to take measures to raise awareness about people with Autism Spectrum Disorder. In the UK, various landmarks light up blue to foster a more inclusive society and highlight the need for improved support and understanding for neurodivergent individuals.",
+                "url": "https://www.autism.org.uk/"
+            },
+            {
+                "title": "International Children's Book Day",
+                "summary": "Observed on Hans Christian Andersen's birthday, this day inspires a love of reading among the youth. UK libraries and schools often host events to highlight the power of storytelling and the importance of diverse literature in shaping the imaginations and literacy skills of children.",
+                "url": "https://www.ibby.org.uk/"
+            },
+            {
+                "title": "National Peanut Butter and Jelly Day",
+                "summary": "A slightly whimsical nod to a classic snack. While more famously American, this day has gained traction among UK foodies celebrating the perfect marriage of nutty and sweet. It’s the ideal excuse to experiment with artisan nut butters and British-made preserves in a lunchtime staple.",
+                "url": "https://www.daysoftheyear.com/days/peanut-butter-and-jelly-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-04",
+        "events": [
+            {
+                "title": "World Party Day",
+                "summary": "A day dedicated to the idea that peace is not just the absence of war, but the active celebration of life through social gathering. It encourages people to host parties and celebrate community, music, and food, fostering human connection on a global and local scale.",
+                "url": "https://www.daysoftheyear.com/days/party-day/"
+            },
+            {
+                "title": "National Find a Rainbow Day",
+                "summary": "A day to appreciate the beauty of nature's optical phenomena. Given the UK's unpredictable April showers, it is a particularly apt time for Brits to look to the skies. It encourages a moment of mindfulness and appreciation for the vibrant colours found in the natural world.",
+                "url": "https://www.nationaldaycalendar.com/"
+            },
+            {
+                "title": "National Chocolate Mousse Day",
+                "summary": "A celebration of the light, airy French dessert that has become a staple in British dining. Whether homemade with dark cocoa or picked up as a treat from the local supermarket, today is about indulging in this classic culinary delight and perfecting the fold.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-mousse-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-04",
+        "events": [
+            {
+                "title": "International Day for Mine Awareness",
+                "summary": "Established by the UN, this day seeks to raise awareness about landmines and progress toward their eradication. UK-based charities like HALO Trust use this day to highlight their vital work in clearing explosives from former conflict zones, ensuring safety for communities across the globe.",
+                "url": "https://www.un.org/en/observances/mine-awareness-day"
+            },
+            {
+                "title": "Vitamin C Day",
+                "summary": "Focusing on the health benefits of this essential nutrient, this day promotes the intake of Vitamin C through diet and supplements. In the UK, it serves as a reminder to maintain immune health and skin vitality during the transition from cold winter months into the spring season.",
+                "url": "https://www.daysoftheyear.com/days/vitamin-c-day/"
+            },
+            {
+                "title": "International Carrot Day",
+                "summary": "A celebration of the humble root vegetable. From carrot cake to Sunday roast accompaniments, this day honors the versatility of the carrot. It is a lighthearted way to promote healthy eating and the diverse ways this vibrant vegetable can be prepared in British kitchens.",
+                "url": "https://www.carrotday.com/"
+            }
+        ]
+    },
+    {
+        "date": "05-04",
+        "events": [
+            {
+                "title": "National Deep Dish Pizza Day",
+                "summary": "While the style originated in Chicago, this day is celebrated by pizza enthusiasts across Britain. It’s an occasion to move away from thin-crust traditions and enjoy the hearty, pie-like structure of deep-dish varieties, often found in specialised UK pizzerias and dedicated home-baking sessions.",
+                "url": "https://www.daysoftheyear.com/days/deep-dish-pizza-day/"
+            },
+            {
+                "title": "Go Green Day",
+                "summary": "An environmental awareness initiative encouraging people to adopt eco-friendly habits. In the UK, this day often involves community litter picks, energy-saving challenges, and educational workshops aimed at reducing carbon footprints and promoting sustainable living within local neighborhoods and businesses.",
+                "url": "https://www.foe.co.uk/"
+            },
+            {
+                "title": "International Day of Conscience",
+                "summary": "A UN day promoting a culture of peace with love and conscience. It encourages individuals to self-reflect and act with integrity. In the UK, it is often marked by discussions on ethics and human rights, urging people to foster harmony within their own diverse communities.",
+                "url": "https://www.un.org/en/observances/day-of-conscience"
+            }
+        ]
+    },
+    {
+        "date": "06-04",
+        "events": [
+            {
+                "title": "International Day of Sport for Development and Peace",
+                "summary": "Recognizing the power of sport to drive social change and community development. UK sports organisations use this day to highlight programs that use football, rugby, and athletics to foster inclusion, health, and education among youth and marginalised groups across the country.",
+                "url": "https://www.un.org/en/observances/sport-day"
+            },
+            {
+                "title": "National Tartan Day",
+                "summary": "While widely celebrated in North America, this day honors Scottish heritage and the contribution of Scots globally. It marks the signing of the Declaration of Arbroath. In the UK, it is a moment of pride for those of Scottish descent to celebrate their cultural identity and history.",
+                "url": "https://www.visitscotland.com/"
+            },
+            {
+                "title": "National Carbonara Day",
+                "summary": "A culinary tribute to the classic Italian pasta dish. British food lovers celebrate by sharing their favorite recipes, debating the use of guanciale versus pancetta, and ensuring that no cream is used in the pursuit of the authentic, silky egg-and-cheese sauce tradition.",
+                "url": "https://www.daysoftheyear.com/days/carbonara-day/"
+            }
+        ]
+    },
+    {
+        "date": "07-04",
+        "events": [
+            {
+                "title": "World Health Day",
+                "summary": "Held on the anniversary of the founding of the WHO, this day focuses on a specific health theme each year. In the UK, the NHS and health charities use the occasion to promote public health initiatives, mental well-being, and universal health coverage awareness.",
+                "url": "https://www.who.int/campaigns/world-health-day"
+            },
+            {
+                "title": "National No Housework Day",
+                "summary": "A day granting permission to put down the vacuum and ignore the laundry. It encourages Brits to take a well-deserved break from domestic chores and spend time relaxing or pursuing hobbies, providing a lighthearted rebellion against the never-ending 'to-do' list at home.",
+                "url": "https://www.daysoftheyear.com/days/no-housework-day/"
+            },
+            {
+                "title": "International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda",
+                "summary": "A solemn day of remembrance recognised by the UN. Memorial events are held across the UK to honor the victims and survivors, serving as a powerful reminder of the importance of preventing genocide and standing up against hatred and discrimination globally.",
+                "url": "https://www.un.org/en/preventgenocide/rwanda/"
+            }
+        ]
+    },
+    {
+        "date": "08-04",
+        "events": [
+            {
+                "title": "International Romani Day",
+                "summary": "A day to celebrate Romani culture and raise awareness of the issues facing Romani people. In the UK, organisations work to promote the history and contributions of the Gypsy, Roma, and Traveller communities while advocating against the discrimination and social exclusion they often encounter.",
+                "url": "https://www.gypsy-traveller.org/"
+            },
+            {
+                "title": "National Zoo Lovers Day",
+                "summary": "A day to appreciate the conservation and educational work performed by zoological gardens. UK institutions like ZSL London Zoo and Chester Zoo use this day to highlight their efforts in protecting endangered species and inspiring the public to care for the natural world.",
+                "url": "https://www.biaza.org.uk/"
+            },
+            {
+                "title": "Draw a Bird Day",
+                "summary": "What started as a way to cheer up a wounded soldier during WWII has become a day for people of all ages to express creativity. It’s a simple, charming invitation to sit down and sketch a bird, celebrating nature and the joy of art without pressure.",
+                "url": "https://www.daysoftheyear.com/days/draw-a-bird-day/"
+            }
+        ]
+    },
+    {
+        "date": "09-04",
+        "events": [
+            {
+                "title": "National Unicorn Day",
+                "summary": "A celebration of Scotland’s national animal. This mythical creature represents purity and power. In the UK, it’s a day for whimsical activities, storytelling, and celebrating the folklore that has kept the unicorn as a prominent symbol in British heraldry and popular culture for centuries.",
+                "url": "https://www.visitscotland.com/about/uniquely-scottish/unicorn/"
+            },
+            {
+                "title": "National Winston Churchill Day",
+                "summary": "Commemorating the day in 1963 when Churchill was made an honorary citizen of the United States. In the UK, it serves as a moment to reflect on the legacy of the wartime leader, his oratory skills, and his enduring impact on British history and international relations.",
+                "url": "https://winstonchurchill.org/"
+            },
+            {
+                "title": "ASMR Day",
+                "summary": "Celebrating the 'Autonomous Sensory Meridian Response' phenomenon. This day highlights the community of creators who produce soothing audio-visual content to help people relax and sleep. It has gained significant popularity in the UK as a tool for stress management and mental well-being.",
+                "url": "https://www.daysoftheyear.com/days/asmr-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-04",
+        "events": [
+            {
+                "title": "National Siblings Day",
+                "summary": "A day to celebrate the unique bond between brothers and sisters. People across the UK share childhood photos and memories, acknowledging the lifelong support and shared history found in sibling relationships. It serves as a prompt to reach out and reconnect with family members.",
+                "url": "https://www.siblingsday.org/"
+            },
+            {
+                "title": "Golfer's Day",
+                "summary": "Marking the anniversary of the first organised golf tournament, this day is a favorite for the UK's many enthusiasts. From the historic courses of Scotland to local clubs across England, it’s a day to hit the links and appreciate the strategy and tradition of the game.",
+                "url": "https://www.englandgolf.org/"
+            },
+            {
+                "title": "Encourage a Young Writer Day",
+                "summary": "A day dedicated to nurturing the literary talents of the next generation. UK schools and literacy charities encourage children to put pen to paper, fostering a love for creative writing, storytelling, and self-expression that helps build confidence and essential communication skills.",
+                "url": "https://literacytrust.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "11-04",
+        "events": [
+            {
+                "title": "World Parkinson's Day",
+                "summary": "Held on the birthday of Dr. James Parkinson, who first described the condition. Parkinson's UK leads the charge in raising awareness, funding research, and providing support for the thousands of people living with the disease in Britain, aiming to improve lives and find a cure.",
+                "url": "https://www.parkinsons.org.uk/"
+            },
+            {
+                "title": "National Pet Day",
+                "summary": "A day to give extra love to our animal companions and to highlight the plight of pets in shelters. In the UK, it encourages people to consider adoption and to pamper their existing pets, celebrating the joy and companionship animals bring to our daily lives.",
+                "url": "https://www.rspca.org.uk/"
+            },
+            {
+                "title": "National Cheese Fondue Day",
+                "summary": "A celebration of the melted cheese classic. While Swiss in origin, the fondue party remains a nostalgic and social dining experience in the UK. It’s a day for dipping bread and vegetables into communal pots of molten cheese and enjoying good company.",
+                "url": "https://www.daysoftheyear.com/days/cheese-fondue-day/"
+            }
+        ]
+    },
+    {
+        "date": "12-04",
+        "events": [
+            {
+                "title": "International Day of Human Space Flight",
+                "summary": "Commemorating Yuri Gagarin’s first human space flight in 1961. The UK Space Agency and science museums use the day to inspire the public about space exploration and highlight British contributions to space science, technology, and the future of interstellar discovery.",
+                "url": "https://www.gov.uk/government/organisations/uk-space-agency"
+            },
+            {
+                "title": "International Street Children's Day",
+                "summary": "A day to give a voice to millions of children around the world who live on the streets. UK-based charities advocate for their rights to protection, education, and healthcare, challenging the stigma and ensuring these vulnerable youths are not forgotten by the global community.",
+                "url": "https://www.streetchildren.org/"
+            },
+            {
+                "title": "National Licorice Day",
+                "summary": "A celebration of the distinctively flavored root and the sweets made from it. In the UK, home of the famous Pontefract cake, licorice has a long and storied history. Today is the perfect excuse to enjoy a bag of allsorts or explore the herbal benefits of licorice tea.",
+                "url": "https://www.daysoftheyear.com/days/licorice-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-04",
+        "events": [
+            {
+                "title": "Scrabble Day",
+                "summary": "Celebrating the birthday of Alfred Mosher Butts, the inventor of the world-famous word game. UK Scrabble clubs and families alike engage in friendly competition, testing their vocabulary and strategic tile placement in one of Britain's most beloved and enduring board games.",
+                "url": "https://www.scrabble.com/"
+            },
+            {
+                "title": "National Plant Appreciation Day",
+                "summary": "Encouraging people to appreciate the role plants play in our ecosystem and our homes. Given the British passion for gardening, this day celebrates both indoor houseplants and outdoor landscapes, highlighting their benefits for air quality, mental health, and biodiversity.",
+                "url": "https://www.rhs.org.uk/"
+            },
+            {
+                "title": "FND Awareness Day",
+                "summary": "Raising awareness for Functional Neurological Disorder (FND), a condition where there is a problem with how the brain sends and receives signals. UK charities work to improve diagnosis, treatment, and support for those living with this often misunderstood and life-altering neurological condition.",
+                "url": "https://www.fndhope.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "14-04",
+        "events": [
+            {
+                "title": "World Chagas Disease Day",
+                "summary": "A UN-endorsed day to raise awareness about this neglected tropical disease. While rare in the UK, British medical researchers and global health organisations use the day to advocate for early diagnosis and better access to healthcare for affected populations worldwide.",
+                "url": "https://www.who.int/campaigns/world-chagas-disease-day"
+            },
+            {
+                "title": "National Dolphin Day",
+                "summary": "Dedicated to one of the ocean's most intelligent creatures. UK marine conservation groups use this day to highlight the importance of protecting dolphin habitats around the British Isles and educating the public on the threats posed by pollution and climate change.",
+                "url": "https://www.whale-and-dolphin.org/"
+            },
+            {
+                "title": "Look Up at the Sky Day",
+                "summary": "A whimsical prompt to stop, breathe, and appreciate the vastness above. Whether it's cloud watching during a British afternoon or stargazing at night, this day encourages a moment of wonder and a break from the digital screens that dominate modern life.",
+                "url": "https://www.daysoftheyear.com/days/look-up-at-the-sky-day/"
+            }
+        ]
+    },
+    {
+        "date": "15-04",
+        "events": [
+            {
+                "title": "World Art Day",
+                "summary": "Celebrated on Leonardo da Vinci’s birthday, this day promotes the development, diffusion, and enjoyment of art. UK galleries and museums host workshops and exhibitions to highlight the importance of artistic expression in fostering creativity and cultural dialogue across all sectors of society.",
+                "url": "https://www.unesco.org/en/days/world-art"
+            },
+            {
+                "title": "Microvolunteering Day",
+                "summary": "A day to celebrate bite-sized volunteering tasks that can be done from anywhere. It encourages busy Brits to give just a few minutes of their time to help charities online or locally, demonstrating that even small actions can lead to significant social impact.",
+                "url": "https://www.ncvo.org.uk/"
+            },
+            {
+                "title": "National Tea Day (UK Pre-empt)",
+                "summary": "While the official celebration is April 21st, many tea rooms and enthusiasts begin their celebrations early. It’s a day to appreciate the cultural cornerstone of British life—the 'cuppa'—exploring different blends, brewing techniques, and the social ritual of afternoon tea.",
+                "url": "https://www.nationalteaday.co.uk/"
+            }
+        ]
+    },
+    {
+        "date": "16-04",
+        "events": [
+            {
+                "title": "World Voice Day",
+                "summary": "A global celebration of the human voice as a biological marvel. In the UK, speech therapists and vocal coaches use the day to raise awareness about vocal health, the importance of voice in communication, and the treatment of voice-related disorders and conditions.",
+                "url": "https://world-voice-day.org/"
+            },
+            {
+                "title": "National Wear Your Pajamas to Work Day",
+                "summary": "A day that challenges the standard office dress code. It encourages a relaxed atmosphere and a bit of fun, often used by UK workplaces as a fundraising opportunity for charity while highlighting the importance of work-life balance and employee comfort.",
+                "url": "https://www.daysoftheyear.com/days/wear-your-pyjamas-to-work-day/"
+            },
+            {
+                "title": "National Eggs Benedict Day",
+                "summary": "A celebration of the classic brunch dish consisting of poached eggs, ham, and hollandaise sauce on an English muffin. UK cafes and home cooks use the day to celebrate this morning favorite, experimenting with variations like Florentine or Royale to start the day.",
+                "url": "https://www.daysoftheyear.com/days/eggs-benedict-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-04",
+        "events": [
+            {
+                "title": "World Hemophilia Day",
+                "summary": "Raising awareness for hemophilia and other inherited bleeding disorders. The Haemophilia Society in the UK uses this day to advocate for better access to care and treatment, and to build a sense of community for those living with these lifelong conditions.",
+                "url": "https://haemophilia.org.uk/"
+            },
+            {
+                "title": "National Haiku Poetry Day",
+                "summary": "A day to celebrate the short, three-line Japanese poetic form. UK poets and students are encouraged to capture a moment in time using the 5-7-5 syllable structure, promoting brevity, mindfulness, and the beauty of simple language in creative writing.",
+                "url": "https://www.poetrysociety.org.uk/"
+            },
+            {
+                "title": "International Bat Appreciation Day",
+                "summary": "Highlighting the vital role bats play in our ecosystem. In the UK, the Bat Conservation Trust works to dispel myths about these nocturnal mammals and promotes the protection of their habitats, ensuring that these essential insect hunters can continue to thrive in our countryside.",
+                "url": "https://www.bats.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "18-04",
+        "events": [
+            {
+                "title": "World Heritage Day",
+                "summary": "Also known as the International Day for Monuments and Sites. In the UK, organisations like English Heritage and the National Trust highlight the importance of preserving historical landmarks, from Stonehenge to local stately homes, ensuring our cultural legacy is protected for future generations.",
+                "url": "https://www.icomos.org/en/focus/18-april-international-day-for-monuments-and-sites"
+            },
+            {
+                "title": "National Columnists Day",
+                "summary": "A day to recognize the work of the writers who provide insight, opinion, and humor in our newspapers and magazines. Given the UK’s vibrant press culture, it’s a moment to appreciate the journalists who shape public discourse and entertain us with their unique perspectives.",
+                "url": "https://www.nuj.org.uk/"
+            },
+            {
+                "title": "National Animal Crackers Day",
+                "summary": "A whimsical nod to the nostalgic childhood snack. While more prominent in retro snack culture, it serves as a lighthearted reminder of the simple joys of childhood treats. In the UK, it’s an excuse to enjoy a bit of edible nostalgia with a cup of tea.",
+                "url": "https://www.daysoftheyear.com/days/animal-crackers-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-04",
+        "events": [
+            {
+                "title": "Bicycle Day",
+                "summary": "Commemorating the discovery of LSD's effects, but often used by cycling enthusiasts to promote the health and environmental benefits of bike riding. In the UK, it coincides with the spring cycling season, encouraging people to get back on their saddles and explore local cycle paths.",
+                "url": "https://www.cyclinguk.org/"
+            },
+            {
+                "title": "National Garlic Day",
+                "summary": "Celebrating the 'stinking rose' for its culinary and medicinal properties. From the Isle of Wight Garlic Festival to home kitchens across the UK, this day honors the essential ingredient that adds depth to countless dishes and is celebrated for its health-boosting qualities.",
+                "url": "https://www.thegarlicfarm.co.uk/"
+            },
+            {
+                "title": "Primrose Day",
+                "summary": "The anniversary of the death of Benjamin Disraeli, the primrose was his favorite flower. In the UK, it has historically been a day of political and botanical significance, marking the mid-spring bloom of this delicate woodland flower that signals the true arrival of the season.",
+                "url": "https://www.plantlife.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "20-04",
+        "events": [
+            {
+                "title": "Chinese Language Day",
+                "summary": "A UN observance to celebrate multilingualism and cultural diversity. In the UK, cultural centers and schools host events to promote the learning of Mandarin and Cantonese, highlighting the rich history of Chinese characters and their influence on global communication and literature.",
+                "url": "https://www.un.org/en/observances/chinese-language-day"
+            },
+            {
+                "title": "Volunteer Recognition Day",
+                "summary": "A day to honor the selfless individuals who donate their time to help others. Across the UK, charities and community groups take the opportunity to thank their volunteers, whose tireless work is the backbone of the third sector and essential for social welfare.",
+                "url": "https://www.volunteering.org.uk/"
+            },
+            {
+                "title": "National Look-Alike Day",
+                "summary": "A day to find your 'doppelganger'. Whether it’s a celebrity or just a friend who shares your features, this lighthearted day encourages social media fun and playful comparisons, reminding us of the coincidences and patterns found in human appearance.",
+                "url": "https://www.daysoftheyear.com/days/look-alike-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-04",
+        "events": [
+            {
+                "title": "National Tea Day",
+                "summary": "The quintessential British celebration. This day honors the nation's favorite beverage, encouraging people to visit tea rooms, enjoy a 'great British brew,' and celebrate the cultural importance of tea-drinking in bringing people together for a chat and a biscuit.",
+                "url": "https://www.nationalteaday.co.uk/"
+            },
+            {
+                "title": "World Creativity and Innovation Day",
+                "summary": "A UN day encouraging people to use creativity in problem-solving for all aspects of human development. In the UK, it is marked by business seminars and educational workshops that aim to foster new ideas and innovative thinking to tackle modern challenges.",
+                "url": "https://www.un.org/en/observances/creativity-and-innovation-day"
+            },
+            {
+                "title": "Queen Elizabeth II's Birthday (Actual)",
+                "summary": "Though her official birthday was celebrated in June, the actual birth date of the late Queen remains a significant day for reflection and royal commemoration in the UK, often marked by gun salutes in London and a quiet acknowledgement of her long reign.",
+                "url": "https://www.royal.uk/"
+            }
+        ]
+    },
+    {
+        "date": "22-04",
+        "events": [
+            {
+                "title": "Earth Day",
+                "summary": "An international event to demonstrate support for environmental protection. In the UK, organisations and individuals engage in climate action, from tree planting to plastic-free challenges, highlighting the urgent need to address the climate crisis and protect our planet’s biodiversity.",
+                "url": "https://www.earthday.org/"
+            },
+            {
+                "title": "Stephen Lawrence Day",
+                "summary": "A day to commemorate the life and legacy of Stephen Lawrence, who was murdered in a racist attack in 1993. It promotes a world free from discrimination and encourages young people to have a voice in their communities, fostering a more inclusive and just UK society.",
+                "url": "https://www.stephenlawrenceday.org/"
+            },
+            {
+                "title": "National Jelly Bean Day",
+                "summary": "A celebration of the colourful, sugar-coated treats. It’s a day for confectionary lovers in the UK to enjoy their favorite flavors and perhaps try some of the more unusual gourmet varieties that have become popular in sweet shops across the country.",
+                "url": "https://www.daysoftheyear.com/days/jelly-bean-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-04",
+        "events": [
+            {
+                "title": "St George's Day",
+                "summary": "The feast day of the patron saint of England. Celebrated with the flying of the St George's Cross, traditional English food, and community events, it is a day to honor English culture, history, and the legendary dragon-slayer who symbolises bravery and chivalry.",
+                "url": "https://www.english-heritage.org.uk/visit/whats-on/st-georges-day/"
+            },
+            {
+                "title": "World Book and Copyright Day",
+                "summary": "Organised by UNESCO to promote reading, publishing, and copyright. In the UK, it serves as a second opportunity (alongside World Book Day) to celebrate authors and the power of literature, often marked by literary festivals and events in bookshops and libraries.",
+                "url": "https://www.unesco.org/en/days/world-book-and-copyright"
+            },
+            {
+                "title": "English Language Day",
+                "summary": "Coinciding with the birthday (and death day) of William Shakespeare, this UN day celebrates the history and cultural impact of the English language. It highlights the UK's literary heritage and the language's role as a global tool for communication and diplomacy.",
+                "url": "https://www.un.org/en/observances/english-language-day"
+            }
+        ]
+    },
+    {
+        "date": "24-04",
+        "events": [
+            {
+                "title": "World Day for Animals in Laboratories",
+                "summary": "A day for raising awareness about the plight of animals used in testing. UK advocacy groups use the occasion to campaign for the development of non-animal alternatives in research and to promote ethical standards and transparency within the scientific community.",
+                "url": "https://www.peta.org.uk/"
+            },
+            {
+                "title": "Fashion Revolution Day",
+                "summary": "Marking the anniversary of the Rana Plaza factory collapse, this day encourages people to ask 'Who made my clothes?' In the UK, it promotes a more sustainable and ethical fashion industry, urging brands to provide transparency and ensure fair treatment for garment workers.",
+                "url": "https://www.fashionrevolution.org/"
+            },
+            {
+                "title": "National Pig in a Blanket Day",
+                "summary": "A celebration of the beloved British side dish. While usually a Christmas staple, this day gives enthusiasts an excuse to enjoy sausages wrapped in pastry (or bacon) as a snack or meal accompaniment, celebrating a classic comfort food regardless of the season.",
+                "url": "https://www.daysoftheyear.com/days/pigs-in-a-blanket-day/"
+            }
+        ]
+    },
+    {
+        "date": "25-04",
+        "events": [
+            {
+                "title": "World Malaria Day",
+                "summary": "A day to recognize global efforts to control malaria. UK scientists and international development charities use the day to highlight research into vaccines and treatments, and to advocate for continued funding to eradicate the disease in affected regions across the world.",
+                "url": "https://www.who.int/campaigns/world-malaria-day"
+            },
+            {
+                "title": "ANZAC Day",
+                "summary": "A national day of remembrance in Australia and New Zealand, also commemorated in the UK with services at Westminster Abbey and the Cenotaph. It honors those who served and died in all wars, conflicts, and peacekeeping operations, particularly the Gallipoli campaign.",
+                "url": "https://www.britishlegion.org.uk/"
+            },
+            {
+                "title": "World Penguin Day",
+                "summary": "Timed to coincide with the annual northward migration of Adélie penguins. In the UK, zoos and marine charities use this day to educate the public about penguin conservation and the impact of climate change on their Antarctic habitats, fostering a love for these flightless birds.",
+                "url": "https://www.zsl.org/"
+            }
+        ]
+    },
+    {
+        "date": "26-04",
+        "events": [
+            {
+                "title": "World Intellectual Property Day",
+                "summary": "Established by WIPO to learn about the role that intellectual property rights play in encouraging innovation and creativity. In the UK, it is a day for creators and businesses to understand the importance of patents, copyright, and trademarks in protecting their work.",
+                "url": "https://www.wipo.int/ip-outreach/en/ipday/"
+            },
+            {
+                "title": "Lesbian Visibility Day",
+                "summary": "A day to celebrate lesbians and to raise awareness for the issues they face. UK LGBTQ+ organisations use this day to highlight the contributions of lesbians to society and to advocate for equal rights, representation, and inclusion in all walks of life.",
+                "url": "https://www.stonewall.org.uk/"
+            },
+            {
+                "title": "National Pretzel Day",
+                "summary": "A celebration of the twisted snack. While originally Germanic, pretzels have become a popular treat in the UK. This day encourages snackers to enjoy them in all forms, from soft, salty street-food versions to crunchy, chocolate-coated snacks.",
+                "url": "https://www.daysoftheyear.com/days/pretzel-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-04",
+        "events": [
+            {
+                "title": "National Gardening Day",
+                "summary": "Celebrating the joy of getting outdoors and planting. For the UK, late April is a peak time for sowing seeds and tending to beds. It encourages novice and expert gardeners alike to share tips and appreciate the mental and physical health benefits of gardening.",
+                "url": "https://www.rhs.org.uk/"
+            },
+            {
+                "title": "World Tapir Day",
+                "summary": "Raising awareness about the four species of tapir and the threats to their survival. UK zoos with tapir populations use the day to educate visitors about these unique, forest-dwelling mammals and the conservation efforts needed to protect their shrinking habitats in South America and Southeast Asia.",
+                "url": "https://www.tapirday.org/"
+            },
+            {
+                "title": "National Prime Rib Day",
+                "summary": "A day for meat lovers to enjoy this premium cut of beef. In the UK, it’s a celebration of the traditional Sunday roast style, focusing on quality British beef and the culinary skill involved in perfectly roasting a prime rib for a family feast.",
+                "url": "https://www.daysoftheyear.com/days/prime-rib-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-04",
+        "events": [
+            {
+                "title": "World Day for Safety and Health at Work",
+                "summary": "A UN day focusing on the prevention of occupational accidents and diseases. In the UK, the Health and Safety Executive (HSE) and trade unions use the day to promote safe working environments and to honor those who have lost their lives in workplace accidents.",
+                "url": "https://www.hse.gov.uk/"
+            },
+            {
+                "title": "International Workers' Memorial Day",
+                "summary": "Held alongside the safety at work day, this solemn occasion remembers those killed, disabled, injured, or made unwell by their work. In the UK, it is marked by moments of silence and memorial services, reinforcing the campaign to 'remember the dead, fight for the living.'",
+                "url": "https://www.tuc.org.uk/"
+            },
+            {
+                "title": "National Superhero Day",
+                "summary": "A day to celebrate superheroes, both fictional and real-life. From comic book icons to local community heroes and frontline workers, it’s a day for the UK public to acknowledge bravery and the positive impact individuals can have on the world around them.",
+                "url": "https://www.daysoftheyear.com/days/superhero-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-04",
+        "events": [
+            {
+                "title": "International Dance Day",
+                "summary": "Created by the ITI, this day celebrates the universality of dance. Across the UK, dance schools and theatres host performances and workshops, encouraging people of all ages and abilities to get moving and experience the joy and health benefits of various dance styles.",
+                "url": "https://www.international-dance-day.org/"
+            },
+            {
+                "title": "World Wish Day",
+                "summary": "Commemorating the anniversary of the first wish that inspired the founding of Make-A-Wish. In the UK, the charity uses this day to raise funds and awareness for their work in granting life-changing wishes for children with critical illnesses, bringing hope and joy to families.",
+                "url": "https://www.make-a-wish.org.uk/"
+            },
+            {
+                "title": "National Zipper Day",
+                "summary": "A celebration of the humble zip fastener, marking the day the modern zipper was patented. It’s a moment to appreciate this everyday engineering marvel that we often take for granted in our clothing, bags, and countless other items in British daily life.",
+                "url": "https://www.daysoftheyear.com/days/zipper-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-04",
+        "events": [
+            {
+                "title": "International Day to End Corporal Punishment of Children",
+                "summary": "An annual day for organisations and individuals across the globe to advocate for the legal protection of children from all forms of physical punishment. It highlights the detrimental impact of corporal punishment on a child's health and development, calling for a total prohibition in all settings, including at home and in schools.",
+                "url": "https://endcorporalpunishment.org/"
+            },
+            {
+                "title": "World Mobility and Accessibility Day",
+                "summary": "A day dedicated to raising awareness about the challenges faced by individuals with limited mobility in both public and private spaces. The event emphasises the importance of inclusive urban planning and the distinction between mobility (physical movement) and accessibility (the ease with which people can reach essential services).",
+                "url": "https://www.who.int/teams/social-determinants-of-health/violence-prevention/corporal-punishment"
+            },
+            {
+                "title": "World Bipolar Day",
+                "summary": "Observed on the birthday of Vincent van Gogh, who was posthumously diagnosed with bipolar disorder. This day aims to raise global awareness of bipolar conditions and eliminate the social stigma surrounding them. It encourages international collaboration to improve sensitivity, research, and support for those living with the condition.",
+                "url": "https://www.worldbipolarday.org/"
+            }
+        ]
+    }
+]

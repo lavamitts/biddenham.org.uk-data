@@ -1,0 +1,582 @@
+[
+    {
+        "date": "01-02",
+        "events": [
+            {
+                "title": "St. Brigid's Day",
+                "summary": "Marking the beginning of spring, this day honours one of Ireland's patron saints. Traditionally celebrated with the weaving of St. Brigid's crosses from rushes, it represents renewal, fertility, and the protection of a home and livestock throughout the coming year.",
+                "url": "https://www.museum.ie/en-IE/Collections-Research/Folklife-Collections/Folklife-Collections-List-(1)/St-Brigid-s-Day"
+            },
+            {
+                "title": "Dignity Action Day",
+                "summary": "A UK-wide initiative led by the National Dignity Council to uphold the rights of individuals in care settings. It encourages health and social care workers to ensure people are treated as individuals and are given choice, control, and a sense of purpose.",
+                "url": "https://www.dignityincare.org.uk/index.cfm?fa=viewPage&page_id=314"
+            },
+            {
+                "title": "World Hijab Day",
+                "summary": "Observed globally to recognize the millions of Muslim women who choose to wear the hijab. The day aims to foster religious tolerance and understanding by inviting women of all backgrounds to experience the hijab for a day and stand against discrimination.",
+                "url": "https://worldhijabday.com/"
+            }
+        ]
+    },
+    {
+        "date": "02-02",
+        "events": [
+            {
+                "title": "Candlemas",
+                "summary": "A Christian feast day commemorating the presentation of Jesus at the Temple. In British folklore, it is often associated with weather forecasting; a sunny Candlemas was thought to signal a long winter, while a cloudy day suggested an early spring arrival.",
+                "url": "https://www.historic-uk.com/CultureUK/Candlemas-Day/"
+            },
+            {
+                "title": "World Wetlands Day",
+                "summary": "This international day marks the anniversary of the Convention on Wetlands. It raises global awareness about the vital role of wetlands for people and our planet, highlighting their importance in biodiversity, climate mitigation, and fresh water availability for ecosystems.",
+                "url": "https://www.worldwetlandsday.org/"
+            },
+            {
+                "title": "Time to Talk Day",
+                "summary": "The UK's biggest mental health conversation day, organised by Mind and Rethink Mental Illness. It encourages friends, families, and colleagues to talk and listen, breaking down the stigma that surrounds mental health issues through simple, honest everyday conversations.",
+                "url": "https://timetotalkday.co.uk/"
+            }
+        ]
+    },
+    {
+        "date": "03-02",
+        "events": [
+            {
+                "title": "National Carrot Cake Day",
+                "summary": "A light-hearted celebration of one of the UK’s favourite teatime treats. Often featuring walnuts and cream cheese frosting, this day encourages baking enthusiasts to share their recipes and enjoy a slice of this vegetable-based dessert with a cup of tea.",
+                "url": "https://www.nationaldaystoday.com/national-carrot-cake-day/"
+            },
+            {
+                "title": "Feed the Birds Day",
+                "summary": "As winter reaches its peak, this day reminds people to top up feeders for garden birds. In Britain, natural food sources are scarce in February, making supplementary seeds, fat balls, and water essential for the survival of local robin and tit populations.",
+                "url": "https://www.rspb.org.uk/birds-and-wildlife/advice/how-you-can-help-birds/feeding-birds/"
+            },
+            {
+                "title": "St. Blaise's Day",
+                "summary": "Historically significant in the UK wool industry, St. Blaise is the patron saint of woolcombers. Traditional celebrations, particularly in Yorkshire, included parades and the 'Blessing of the Throats,' as he was also believed to protect against ailments of the throat.",
+                "url": "https://www.catholic.org/saints/saint.php?saint_id=28"
+            }
+        ]
+    },
+    {
+        "date": "04-02",
+        "events": [
+            {
+                "title": "World Cancer Day",
+                "summary": "An international day led by the Union for International Cancer Control to raise awareness and encourage prevention, detection, and treatment. It focuses on the 'Close the Care Gap' campaign, aiming to reduce inequalities in cancer services across the United Kingdom and beyond.",
+                "url": "https://www.worldcancerday.org/"
+            },
+            {
+                "title": "National Thank a Mail Carrier Day",
+                "summary": "A whimsical nod to the postal workers who navigate British weather to deliver letters and parcels. While a US import, it has gained traction in the UK as a moment to leave a small note of thanks for your local Royal Mail postie.",
+                "url": "https://www.daysoftheyear.com/days/thank-a-mailman-day/"
+            },
+            {
+                "title": "International Day of Human Fraternity",
+                "summary": "Established by the United Nations, this day promotes cultural and religious tolerance. It emphasises the importance of dialogue and mutual respect in building a peaceful world, reflecting the UK's multicultural values and the promotion of social cohesion within local communities.",
+                "url": "https://www.un.org/en/observances/human-fraternity"
+            }
+        ]
+    },
+    {
+        "date": "05-02",
+        "events": [
+            {
+                "title": "National Weatherman's Day",
+                "summary": "Recognising the individuals who provide our daily forecasts, a topic of national obsession in the UK. This day commemorates the birth of John Jeffries, one of the first weather observers, and celebrates the meteorologists at the Met Office who keep us prepared.",
+                "url": "https://www.metoffice.gov.uk/about-us"
+            },
+            {
+                "title": "World Nutella Day",
+                "summary": "A global celebration of the famous hazelnut spread. Fans in the UK participate by sharing recipes, photos, and creative ways to eat the spread, often trending on social media with unique breakfast ideas or decadent Nutella-based desserts and pancakes.",
+                "url": "https://www.nutelladay.com/"
+            },
+            {
+                "title": "Constitution Day (Mexico)",
+                "summary": "While specific to Mexico, this day is often acknowledged in international diplomatic and cultural circles in London to celebrate the adoption of the Mexican Constitution. It serves as a day of cultural exchange and recognition of the UK-Mexico bilateral relationship.",
+                "url": "https://www.gob.mx/sep/articulos/aniversario-de-la-promulgacion-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-1917"
+            }
+        ]
+    },
+    {
+        "date": "06-02",
+        "events": [
+            {
+                "title": "Accession Day",
+                "summary": "The anniversary of the date in 1952 when Queen Elizabeth II ascended the throne following the death of her father, King George VI. It is a day of reflection on the monarchy’s continuity and is often marked by royal gun salutes in London.",
+                "url": "https://www.royal.uk/accession-day"
+            },
+            {
+                "title": "Sami National Day",
+                "summary": "An international celebration of the indigenous Sami people of Scandinavia. In the UK, it is often acknowledged by Arctic cultural groups and educational institutions to raise awareness of Sami heritage, rights, and their unique relationship with the natural environment.",
+                "url": "https://www.samiskhs.no/en/about-us/sami-national-day"
+            },
+            {
+                "title": "International Day of Zero Tolerance for Female Genital Mutilation",
+                "summary": "A United Nations-sponsored day to raise awareness about the practice of FGM and work towards its eradication. UK health organisations and charities use this date to campaign for protection and support for girls and women at risk within British communities.",
+                "url": "https://www.un.org/en/observances/female-genital-mutilation-day"
+            }
+        ]
+    },
+    {
+        "date": "07-02",
+        "events": [
+            {
+                "title": "National Send a Card to a Friend Day",
+                "summary": "A day encouraging people to send physical mail to loved ones. In a world of digital communication, this day champions the British tradition of card-sending, supporting local stationery shops and the Royal Mail while brightening someone's letterbox unexpectedly.",
+                "url": "https://www.daysoftheyear.com/days/send-a-card-to-a-friend-day/"
+            },
+            {
+                "title": "Rose Day",
+                "summary": "Marking the beginning of Valentine's week, this day focuses on the exchange of roses as a symbol of affection. Florists across the UK see an uptick in trade as people express feelings of love and friendship through different colours of roses.",
+                "url": "https://www.calendarlabs.com/holidays/international/rose-day.php"
+            },
+            {
+                "title": "Charles Dickens Day",
+                "summary": "Celebrating the birth of one of Britain's greatest novelists. Museums such as the Charles Dickens Museum in London host events to honour his literary contributions and his profound impact on social reform and the Victorian image of Christmas and London life.",
+                "url": "https://dickensmuseum.com/"
+            }
+        ]
+    },
+    {
+        "date": "08-02",
+        "events": [
+            {
+                "title": "National Kite Flying Day",
+                "summary": "A day encouraging people to head to local parks or the British coastline to fly a kite. It’s a celebration of outdoor play and simple engineering, taking advantage of the often-blustery February winds common across the UK Isles.",
+                "url": "https://www.daysoftheyear.com/days/kite-flying-day/"
+            },
+            {
+                "title": "Safer Internet Day",
+                "summary": "A landmark event in the UK's online safety calendar. It aims to create a safer and better internet, where everyone is empowered to use technology responsibly, respectfully, critically, and creatively, with specific resources provided for schools, parents, and carers.",
+                "url": "https://saferinternet.org.uk/safer-internet-day"
+            },
+            {
+                "title": "Propose Day",
+                "summary": "The second day of Valentine's week, popular among younger generations in the UK. It is seen as an ideal time to express romantic intentions or commit to a relationship, bridging the gap between friendship and the upcoming Valentine's Day celebrations.",
+                "url": "https://www.thequint.com/lifestyle/propose-day-wishes-images-quotes"
+            }
+        ]
+    },
+    {
+        "date": "09-02",
+        "events": [
+            {
+                "title": "National Pizza Day",
+                "summary": "A day dedicated to celebrating one of the UK’s most popular takeaway foods. Restaurants and pizzerias across the country often offer discounts and special toppings, encouraging people to indulge in their favourite thin-crust, deep-dish, or sourdough creations.",
+                "url": "https://www.nationalpizzaday.co.uk/"
+            },
+            {
+                "title": "Chocolate Mint Day",
+                "summary": "Celebrating the classic flavour combination found in after-dinner treats. In Britain, this often focuses on the iconic 'After Eight' or mint chocolate chip ice cream, encouraging sweet-toothed individuals to enjoy this refreshing and indulgent pairing.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-mint-day/"
+            },
+            {
+                "title": "National Toothache Day",
+                "summary": "Though it sounds painful, this day is actually intended as a reminder to book dental check-ups and maintain oral hygiene. It highlights the importance of the NHS dental services and preventative care to avoid the very ailment the day is named after.",
+                "url": "https://www.daysoftheyear.com/days/toothache-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-02",
+        "events": [
+            {
+                "title": "World Pulses Day",
+                "summary": "Established by the UN to recognize the importance of pulses (chickpeas, dry beans, lentils, etc.) as a global food. In the UK, it promotes sustainable eating and the health benefits of these high-protein, low-fat crops that are vital for soil health.",
+                "url": "https://www.un.org/en/observances/world-pulses-day"
+            },
+            {
+                "title": "Teddy Day",
+                "summary": "Part of the Valentine's lead-up, this day encourages the gifting of teddy bears. It celebrates the comfort and nostalgia associated with soft toys, with many UK gift shops featuring displays of cuddly companions for partners and children alike.",
+                "url": "https://www.daysoftheyear.com/days/teddy-day/"
+            },
+            {
+                "title": "Umbrella Day",
+                "summary": "A whimsical but highly practical day for the UK. Celebrating the invention and utility of the umbrella, it honours the accessory that is a permanent fixture in British life, shielding us from the frequent and unpredictable downpours of February.",
+                "url": "https://www.daysoftheyear.com/days/umbrella-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-02",
+        "events": [
+            {
+                "title": "International Day of Women and Girls in Science",
+                "summary": "A day to promote full and equal access to and participation in science for women and girls. UK universities and scientific institutions host talks and workshops to inspire the next generation of female scientists and engineers.",
+                "url": "https://www.un.org/en/observances/women-and-girls-in-science-day"
+            },
+            {
+                "title": "Promise Day",
+                "summary": "An occasion during the Valentine's period for couples to make meaningful promises to one another. It focuses on the importance of commitment and trust in relationships, moving beyond commercial gifts to the core values of partnership and support.",
+                "url": "https://www.calendarlabs.com/holidays/international/promise-day.php"
+            },
+            {
+                "title": "National Inventors' Day",
+                "summary": "While celebrated on different dates globally, this day honours the minds behind world-changing creations. In Britain, it serves as a time to remember great UK inventors like James Watt and Ada Lovelace, who paved the way for modern technology.",
+                "url": "https://www.daysoftheyear.com/days/inventors-day/"
+            }
+        ]
+    },
+    {
+        "date": "12-02",
+        "events": [
+            {
+                "title": "Darwin Day",
+                "summary": "Commemorating the birthday of Charles Darwin on February 12, 1809. This day celebrates science, humanity, and Darwin's contributions to the understanding of evolution. UK scientific communities often hold lectures and events at natural history museums.",
+                "url": "https://darwinday.org/"
+            },
+            {
+                "title": "Red Hand Day",
+                "summary": "Also known as the International Day against the Use of Child Soldiers. It is a day of advocacy to stop the recruitment of children into armed forces. UK-based NGOs use this day to lobby for stronger international protections for vulnerable children.",
+                "url": "https://www.redhandday.org/"
+            },
+            {
+                "title": "Hug Day",
+                "summary": "A day in the Valentine's calendar focused on the physical expression of affection. It emphasises the health benefits of hugging, such as reducing stress and increasing oxytocin, encouraging people to share a warm embrace with loved ones.",
+                "url": "https://www.daysoftheyear.com/days/hug-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-02",
+        "events": [
+            {
+                "title": "World Radio Day",
+                "summary": "Proclaimed by UNESCO, this day celebrates radio as a medium that reaches the widest audience worldwide. In the UK, it highlights the enduring popularity of the BBC and commercial radio stations as trusted sources of news, music, and companionship.",
+                "url": "https://www.unesco.org/en/days/world-radio"
+            },
+            {
+                "title": "Galentine's Day",
+                "summary": "A modern, whimsical tradition popularised by TV and now a staple in the UK. Observed on the day before Valentine's, it’s a time for women to celebrate their female friendships, often involving brunches, small gifts, and 'ladies celebrating ladies'.",
+                "url": "https://www.cosmopolitan.com/uk/reports/a30870984/what-is-galentines-day/"
+            },
+            {
+                "title": "National Tortellini Day",
+                "summary": "A culinary celebration of the ring-shaped pasta. UK foodies use this day to explore Italian cuisine, whether by making fresh pasta at home or visiting local trattorias to enjoy these 'little belly buttons' filled with cheese, meat, or vegetables.",
+                "url": "https://www.daysoftheyear.com/days/tortellini-day/"
+            }
+        ]
+    },
+    {
+        "date": "14-02",
+        "events": [
+            {
+                "title": "Valentine's Day",
+                "summary": "The traditional day for lovers to express their affection. Named after St. Valentine, it is widely celebrated in the UK with the exchange of cards, flowers, and chocolates. It remains one of the busiest days of the year for the British hospitality industry.",
+                "url": "https://www.britannica.com/topic/Valentines-Day"
+            },
+            {
+                "title": "National Library Lovers' Day",
+                "summary": "A day to celebrate the importance of libraries in our communities. Across the UK, local libraries use this day to showcase their services, from book lending to community workshops, and to encourage new members to discover the joy of reading.",
+                "url": "https://www.librariesconnected.org.uk/"
+            },
+            {
+                "title": "V-Day",
+                "summary": "A global activist movement to end violence against women and girls. It often involves performances of 'The Vagina Monologues' in UK theatres and universities to raise funds for local shelters and international programs fighting gender-based violence.",
+                "url": "https://www.vday.org/"
+            }
+        ]
+    },
+    {
+        "date": "15-02",
+        "events": [
+            {
+                "title": "Singles Awareness Day",
+                "summary": "A whimsical alternative to Valentine's Day, celebrated by those who are single. It focuses on self-love and the freedom of being unattached. In the UK, it's often a night for friends to go out and enjoy 'anti-Valentine's' themed events.",
+                "url": "https://www.daysoftheyear.com/days/singles-awareness-day/"
+            },
+            {
+                "title": "International Childhood Cancer Day",
+                "summary": "A global collaborative campaign to raise awareness about childhood cancer and to express support for children and adolescents with cancer, the survivors, and their families. UK charities like CLIC Sargent and Cancer Research UK often lead initiatives on this day.",
+                "url": "https://internationalchildhoodcancerday.org/"
+            },
+            {
+                "title": "National Hippo Day",
+                "summary": "A day dedicated to one of the world's most massive land mammals. UK zoos and conservationists use this date to educate the public about hippo habitats and the threats they face in the wild, promoting wildlife protection and environmental stewardship.",
+                "url": "https://www.daysoftheyear.com/days/hippo-day/"
+            }
+        ]
+    },
+    {
+        "date": "16-02",
+        "events": [
+            {
+                "title": "National Almond Day",
+                "summary": "A day celebrating the health benefits and versatility of almonds. Popular in the UK health and wellness community, it encourages adding these nuts to snacks, cakes, and dairy alternatives, highlighting their high content of protein, fibre, and healthy fats.",
+                "url": "https://www.daysoftheyear.com/days/almond-day/"
+            },
+            {
+                "title": "Innovation Day",
+                "summary": "A day to focus on new ideas and creative thinking. Many UK businesses and schools use this as an opportunity to run 'hackathons' or brainstorming sessions, aiming to solve modern problems and push the boundaries of technology and social development.",
+                "url": "https://www.daysoftheyear.com/days/innovation-day/"
+            },
+            {
+                "title": "Do a Grouch a Favour Day",
+                "summary": "A day designed to spread kindness to the least cheerful people in your life. The goal is to turn a 'grouch' into a friend through a small act of kindness, perhaps brightening up a grey February morning in Britain.",
+                "url": "https://www.daysoftheyear.com/days/do-a-grouch-a-favour-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-02",
+        "events": [
+            {
+                "title": "Random Acts of Kindness Day",
+                "summary": "Encouraging people across the UK to perform small, selfless acts for others. Whether it's buying a coffee for a stranger or helping a neighbour with their shopping, the day aims to make kindness the norm and improve community wellbeing.",
+                "url": "https://www.randomactsofkindness.org/"
+            },
+            {
+                "title": "National Cabbage Day",
+                "summary": "A celebration of this hardy, versatile vegetable. In the UK, cabbage is a staple of traditional Sunday roasts and stews. This day encourages people to explore different varieties, such as Savoy or Red cabbage, and discover new recipes.",
+                "url": "https://www.daysoftheyear.com/days/cabbage-day/"
+            },
+            {
+                "title": "World Human Spirit Day",
+                "summary": "A day for silent reflection and connection with the inner self. It encourages people to take a break from the digital world and celebrate the resilience and creativity of humanity, promoting mindfulness and mental peace within our busy modern lives.",
+                "url": "https://www.daysoftheyear.com/days/world-human-spirit-day/"
+            }
+        ]
+    },
+    {
+        "date": "18-02",
+        "events": [
+            {
+                "title": "National Drink Wine Day",
+                "summary": "A day for connoisseurs and casual drinkers alike to enjoy a glass of their favourite vintage. In the UK, this often highlights the burgeoning British wine industry, particularly the award-winning sparkling wines produced in the vineyards of Southern England.",
+                "url": "https://www.daysoftheyear.com/days/drink-wine-day/"
+            },
+            {
+                "title": "National Battery Day",
+                "summary": "A practical day reminding people to recycle their old batteries. With collection points in most UK supermarkets, it’s an opportunity to raise awareness about hazardous waste and the importance of recovering valuable materials like lithium and cobalt.",
+                "url": "https://www.recyclenow.com/what-to-do-with/batteries-1"
+            },
+            {
+                "title": "Pluto Day",
+                "summary": "A day for space enthusiasts marking the anniversary of Pluto's discovery in 1930. UK planetariums and astronomy clubs use this date to discuss the history of our solar system and the ongoing debate regarding Pluto's classification as a planet.",
+                "url": "https://www.daysoftheyear.com/days/pluto-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-02",
+        "events": [
+            {
+                "title": "National Lash Day",
+                "summary": "A day celebrating both real and false eyelashes as a staple of the beauty industry. UK makeup artists and brands often run promotions, sharing tips on lash care, health, and the best techniques for applying mascara or extensions.",
+                "url": "https://www.daysoftheyear.com/days/lash-day/"
+            },
+            {
+                "title": "Chocolate Mint Day",
+                "summary": "A whimsical second bite of the cherry for mint chocolate lovers. This day focuses on the versatility of the flavour in baking, from brownies to cheesecakes, encouraging UK bakers to share their most indulgent minty creations online.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-mint-day/"
+            },
+            {
+                "title": "Prevent Bullying Day",
+                "summary": "A day dedicated to raising awareness about the impact of bullying in schools and workplaces. UK anti-bullying charities provide resources to help identify signs of harassment and promote a culture of inclusivity and support across all ages.",
+                "url": "https://www.anti-bullyingalliance.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "20-02",
+        "events": [
+            {
+                "title": "World Day of Social Justice",
+                "summary": "A UN initiative to promote efforts to tackle issues such as poverty, exclusion, and unemployment. In the UK, it is used by advocacy groups to highlight the need for fair wages and equal opportunities within the British labour market.",
+                "url": "https://www.un.org/en/observances/social-justice-day"
+            },
+            {
+                "title": "Love Your Pet Day",
+                "summary": "A day for the UK's nation of animal lovers. Pet owners are encouraged to give their companions extra attention, treats, or a longer walk, celebrating the special bond and the mental health benefits that pets bring to our lives.",
+                "url": "https://www.daysoftheyear.com/days/love-your-pet-day/"
+            },
+            {
+                "title": "National Muffin Day",
+                "summary": "Whether it's a savoury English muffin or a sweet American-style blueberry muffin, this day is all about enjoying this baked good. UK cafes often see a rise in sales as people pair a muffin with their morning coffee.",
+                "url": "https://www.daysoftheyear.com/days/muffin-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-02",
+        "events": [
+            {
+                "title": "International Mother Language Day",
+                "summary": "A day to promote linguistic and cultural diversity. In the UK, it highlights the hundreds of languages spoken across the country, encouraging the preservation of heritage languages and celebrating the richness of a multilingual society.",
+                "url": "https://www.un.org/en/observances/mother-language-day"
+            },
+            {
+                "title": "National Sticky Bun Day",
+                "summary": "A celebration of the gooey, cinnamon-laced pastry. It’s a popular day for British bakeries to showcase their best buns, inviting customers to indulge in a sticky, sweet treat that is a perfect accompaniment to an afternoon brew.",
+                "url": "https://www.daysoftheyear.com/days/sticky-bun-day/"
+            },
+            {
+                "title": "Card Reading Day",
+                "summary": "Not about greeting cards, but rather the practice of reading maps or tarot cards. In the UK, it often encourages traditional navigation skills like using an OS map, promoting outdoor exploration and the heritage of British cartography.",
+                "url": "https://www.ordnancesurvey.co.uk/"
+            }
+        ]
+    },
+    {
+        "date": "22-02",
+        "events": [
+            {
+                "title": "World Thinking Day",
+                "summary": "Celebrated by Girl Guides and Scouts worldwide. It is a day of international friendship where members think about their 'sisters' and 'brothers' in other countries and address global concerns, often raising money for the World Association of Girl Guides and Girl Scouts.",
+                "url": "https://www.wagggs.org/en/what-we-do/world-thinking-day/"
+            },
+            {
+                "title": "National Margarita Day",
+                "summary": "A day to celebrate the popular tequila-based cocktail. UK bars and restaurants often host Margarita-themed nights, offering variations from the classic lime to spicy or fruity versions, bringing a taste of summer to a cold February evening.",
+                "url": "https://nationalmargaritaday.com/"
+            },
+            {
+                "title": "Cook a Sweet Potato Day",
+                "summary": "A whimsical nod to this nutritious tuber. The day encourages UK home cooks to look beyond the standard potato and experiment with roasting, mashing, or baking sweet potatoes, highlighting their high Vitamin A content and versatility in meals.",
+                "url": "https://www.daysoftheyear.com/days/cook-a-sweet-potato-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-02",
+        "events": [
+            {
+                "title": "National Banana Bread Day",
+                "summary": "Celebrating the ultimate way to use up overripe fruit. A firm favourite in British households, this day encourages baking and sharing loaves, often sparking debates on the inclusion of walnuts, chocolate chips, or even a spread of salted butter.",
+                "url": "https://www.daysoftheyear.com/days/banana-bread-day/"
+            },
+            {
+                "title": "Curling Is Cool Day",
+                "summary": "A day celebrating the sport of curling. With deep roots in Scotland, this day promotes the 'Roaring Game,' encouraging people to visit local rinks and try their hand at sliding stones and sweeping, celebrating a unique British sporting heritage.",
+                "url": "https://www.scottishcurling.org/"
+            },
+            {
+                "title": "Digital Learning Day",
+                "summary": "A day highlighting how technology can improve the learning experience. UK schools and educational charities use this to showcase innovative digital tools, from coding clubs to interactive classroom resources that help bridge the digital divide for students.",
+                "url": "https://all4ed.org/digital-learning-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-02",
+        "events": [
+            {
+                "title": "World Bartender Day",
+                "summary": "Honouring the skill and craftsmanship of those behind the bar. In the UK, this day recognises the importance of the hospitality industry and the creativity of mixologists who provide safe, enjoyable social spaces for communities to gather and celebrate.",
+                "url": "https://www.daysoftheyear.com/days/world-bartender-day/"
+            },
+            {
+                "title": "National Tortilla Chip Day",
+                "summary": "A celebration of the perfect dip companion. Whether topped with cheese for nachos or dipped in salsa, tortilla chips are a UK snack staple, and this day encourages sharing a bowl with friends during a movie or sports event.",
+                "url": "https://www.daysoftheyear.com/days/tortilla-chip-day/"
+            },
+            {
+                "title": "Estonian Independence Day",
+                "summary": "Commemorating Estonia's declaration of independence in 1918. In the UK, this is often marked by the Estonian community and diplomatic missions, celebrating the culture and the strong links between the two nations through events and digital showcases.",
+                "url": "https://www.ev100.ee/en"
+            }
+        ]
+    },
+    {
+        "date": "25-02",
+        "events": [
+            {
+                "title": "National Clam Chowder Day",
+                "summary": "While often associated with New England, clam chowder has many fans in the UK. This day encourages seafood lovers to enjoy a hearty bowl of this creamy soup, celebrating the variety of shellfish available along the British coastline.",
+                "url": "https://www.daysoftheyear.com/days/clam-chowder-day/"
+            },
+            {
+                "title": "Pistachio Day",
+                "summary": "A day celebrating the 'green nut'. It highlights their health benefits and their use in everything from ice cream to Middle Eastern desserts, which are increasingly popular across the UK's diverse culinary landscape.",
+                "url": "https://www.daysoftheyear.com/days/pistachio-day/"
+            },
+            {
+                "title": "Let’s All Eat Right Day",
+                "summary": "A day focused on nutrition and healthy eating habits. In the UK, this aligns with public health initiatives encouraging people to increase their intake of fruit and vegetables and reduce processed sugars, promoting long-term health and wellbeing.",
+                "url": "https://www.daysoftheyear.com/days/lets-all-eat-right-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-02",
+        "events": [
+            {
+                "title": "National Personal Chef Day",
+                "summary": "A day celebrating those who cook for a living in private homes. It highlights the growing trend of hiring chefs for special occasions in the UK, as well as the importance of home-cooked, personalised nutrition and culinary expertise.",
+                "url": "https://www.daysoftheyear.com/days/personal-chef-day/"
+            },
+            {
+                "title": "Letter to an Elder Day",
+                "summary": "Encouraging people to write to older members of the community or family. This day aims to combat loneliness among the elderly in the UK, using the power of a handwritten letter to bridge generational gaps and provide comfort.",
+                "url": "https://www.loveforourelders.org/"
+            },
+            {
+                "title": "Tell a Fairy Tale Day",
+                "summary": "A day to celebrate the magic of storytelling. From the Brothers Grimm to British folklore, this day encourages parents and educators to read classic tales to children, fostering imagination and preserving the oral and written traditions of folklore.",
+                "url": "https://www.daysoftheyear.com/days/tell-a-fairy-tale-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-02",
+        "events": [
+            {
+                "title": "International Polar Bear Day",
+                "summary": "Raising awareness about the impact of global warming on polar bear habitats. UK conservation charities use this day to promote energy-saving tips and advocate for climate action to protect the Arctic and its most iconic inhabitant.",
+                "url": "https://polarbearsinternational.org/act-now/awareness-events/international-polar-bear-day/"
+            },
+            {
+                "title": "National Strawberry Day",
+                "summary": "A whimsical early nod to the fruit that defines British summer. While they won't be in season in the UK for months, this day celebrates their popularity in desserts and encourages looking forward to the Wimbledon-classic treat of strawberries and cream.",
+                "url": "https://www.daysoftheyear.com/days/strawberry-day/"
+            },
+            {
+                "title": "World Sustainable Energy Day",
+                "summary": "One of the largest annual conferences on sustainable energy. In the UK, it serves as a reminder of the transition to renewable sources like wind and solar, highlighting the progress made in the country’s journey toward reaching net-zero emissions.",
+                "url": "https://www.wsed.at/"
+            }
+        ]
+    },
+    {
+        "date": "28-02",
+        "events": [
+            {
+                "title": "Rare Disease Day",
+                "summary": "A day to raise awareness amongst the general public and decision-makers about rare diseases and their impact on patients' lives. UK health organisations work to ensure that those living with rare conditions have equitable access to diagnosis and treatment.",
+                "url": "https://www.rarediseaseday.org/"
+            },
+            {
+                "title": "National Public Sleeping Day",
+                "summary": "A day that encourages taking a nap wherever you happen to be. While a bit cheeky for the daily commute on a British train, it highlights the importance of rest and the universal need for a good 'power nap' during a busy day.",
+                "url": "https://www.daysoftheyear.com/days/public-sleeping-day/"
+            },
+            {
+                "title": "National Science Day",
+                "summary": "Marking the discovery of the Raman effect, this day celebrates scientific achievement. In the UK, it is often celebrated in educational settings to encourage students to pursue STEM subjects and to appreciate the scientific discoveries that shape our world.",
+                "url": "https://www.daysoftheyear.com/days/science-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-02",
+        "events": [
+            {
+                "title": "Leap Day",
+                "summary": "The extra day added to the calendar every four years to keep it synchronised with the solar year. In the UK, tradition famously allows women to propose to their partners on this day, adding a unique, romantic quirk to the calendar.",
+                "url": "https://www.rmg.co.uk/stories/topics/leap-year"
+            },
+            {
+                "title": "Rare Disease Day (Leap Year)",
+                "summary": "While usually held on the 28th, in a leap year, this day is moved to the 29th—the rarest day of the year. This provides a symbolic moment to focus on the 'rare' aspect of the conditions being highlighted globally.",
+                "url": "https://www.rarediseaseday.org/"
+            },
+            {
+                "title": "Bachelor's Day",
+                "summary": "A whimsical tradition linked to Leap Day. Historically, if a man refused a woman’s Leap Day proposal, he was expected to buy her a silk gown or a pair of gloves. It’s a light-hearted look at old-fashioned British courtship customs.",
+                "url": "https://www.historic-uk.com/CultureUK/Leap-Year-Proposals/"
+            }
+        ]
+    }
+]

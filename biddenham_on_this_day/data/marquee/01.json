@@ -1,0 +1,467 @@
+[
+    {
+        "date": "01-01",
+        "events": [
+            {
+                "title": "New Year's Day",
+                "summary": "The first day of the year in the Gregorian calendar, marked as a public holiday in the UK. It is traditionally a time for recovery from New Year's Eve celebrations and the commencement of New Year's resolutions intended to improve one's lifestyle or habits.",
+                "url": "https://www.britannica.com/topic/New-Years-Day"
+            },
+            {
+                "title": "Global Family Day",
+                "summary": "Originating from the UN Millennium celebration, this day promotes the idea of the world as a global village. It encourages peace and sharing by having families gather to share food and make personal pledges of non-violence and harmony for the coming year ahead.",
+                "url": "https://www.un.org/en/observances/family-day"
+            }
+        ]
+    },
+    {
+        "date": "02-01",
+        "events": [
+            {
+                "title": "World Introvert Day",
+                "summary": "A day dedicated to recognizing and honoring introverts following the intense social pressure of the holiday season. It aims to raise awareness about the unique qualities of introverted people and the need for them to have space to recharge their social batteries properly.",
+                "url": "https://www.introvertday.org/"
+            },
+            {
+                "title": "National Buffet Day",
+                "summary": "A day to celebrate the 'all-you-can-eat' dining experience. In the UK, this often coincides with post-holiday sales and offers at various hospitality venues, allowing people to sample a variety of dishes at a single sitting while catching up with friends and family members.",
+                "url": "https://www.daysoftheyear.com/days/buffet-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-01",
+        "events": [
+            {
+                "title": "Festival of Sleep Day",
+                "summary": "A day designed for those who feel exhausted after the festive period. It encourages people to catch up on much-needed rest, whether through a long nap, an early night, or simply relaxing in bed, acknowledging the vital importance of sleep for mental health.",
+                "url": "https://www.daysoftheyear.com/days/festival-of-sleep-day/"
+            },
+            {
+                "title": "International Mind-Body Wellness Day",
+                "summary": "This day promotes the holistic connection between physical health and mental well-being. It encourages the adoption of practices such as meditation, yoga, and healthy eating to ensure that both the mind and body are functioning in harmony at the start of the new year.",
+                "url": "https://www.awarenessdays.com/awareness-days-calendar/international-mind-body-wellness-day-2026/"
+            }
+        ]
+    },
+    {
+        "date": "04-01",
+        "events": [
+            {
+                "title": "World Braille Day",
+                "summary": "Observed on the birthday of Louis Braille, this day raises awareness of the importance of Braille as a means of communication in the full realisation of human rights for blind and partially sighted people. It highlights the challenges faced by the visually impaired community globally.",
+                "url": "https://www.un.org/en/observances/braille-day"
+            },
+            {
+                "title": "National Spaghetti Day",
+                "summary": "A celebration of one of the world's most popular pasta shapes. Whether served with Bolognese, carbonara, or simply olive oil and garlic, this day encourages UK pasta lovers to indulge in their favorite long-noodle dishes and experiment with new Italian-inspired recipes at home.",
+                "url": "https://www.daysoftheyear.com/days/spaghetti-day/"
+            }
+        ]
+    },
+    {
+        "date": "05-01",
+        "events": [
+            {
+                "title": "Twelfth Night",
+                "summary": "A Christian festival marking the end of the Twelve Days of Christmas and the eve of Epiphany. In British tradition, this is the deadline for taking down Christmas decorations to avoid bad luck, often marked by the eating of a special 'King Cake' or fruitcake.",
+                "url": "https://www.historic-uk.com/CultureUK/Twelfth-Night-Traditions/"
+            },
+            {
+                "title": "National Bird Day",
+                "summary": "An initiative to raise awareness about the plight of birds, particularly those in captivity or facing habitat loss. In the UK, it encourages citizens to participate in birdwatching, support conservation efforts, and improve the environments in their own gardens for local feathered visitors.",
+                "url": "https://www.nationalbirdday.com/"
+            }
+        ]
+    },
+    {
+        "date": "06-01",
+        "events": [
+            {
+                "title": "Epiphany",
+                "summary": "Also known as Three Kings' Day, this feast day commemorates the visit of the Magi to the Christ child. In many UK cultures, it signifies the official end of the festive season and is celebrated with church services and traditional gatherings reflecting on the 'revelation' of God.",
+                "url": "https://www.bbc.co.uk/religion/religions/christianity/holydays/epiphany.shtml"
+            },
+            {
+                "title": "World Day for War Orphans",
+                "summary": "Initiated by SOS Enfants en Detresse, this day draws attention to the hardships faced by children orphaned by conflict. It advocates for their protection, education, and psychological support, reminding the international community of the long-term human cost of war and displacement on the innocent.",
+                "url": "https://www.unicef.org/"
+            }
+        ]
+    },
+    {
+        "date": "07-01",
+        "events": [
+            {
+                "title": "Distaff Day",
+                "summary": "A traditional day marking the return to work for women after the Christmas break in medieval Europe. The 'distaff' was a tool used in spinning; while men returned to the fields on Plough Monday, women resumed their domestic spinning duties and household crafts.",
+                "url": "https://www.britannica.com/topic/Distaff-Day"
+            },
+            {
+                "title": "Old Christmas Day",
+                "summary": "Due to the calendar shift from Julian to Gregorian in 1752, some rural UK communities historically celebrated Christmas on this day. While largely obsolete, it remains a point of historical interest and a day for some to maintain traditional 'old-style' customs and quiet family reflection.",
+                "url": "https://www.rmg.co.uk/stories/topics/when-did-calendar-change-britain"
+            }
+        ]
+    },
+    {
+        "date": "08-01",
+        "events": [
+            {
+                "title": "National Bubble Bath Day",
+                "summary": "A day encouraging relaxation and self-care by soaking in a tub full of bubbles. Given the cold UK January weather, this day highlights the therapeutic benefits of a hot bath for soothing muscles, reducing stress, and finding a moment of peace and quietude.",
+                "url": "https://www.daysoftheyear.com/days/bubble-bath-day/"
+            },
+            {
+                "title": "Earth's Rotation Day",
+                "summary": "Commemorating the day in 1851 when physicist Léon Foucault demonstrated that the Earth rotates on its axis using a pendulum. It serves as a day to appreciate the wonders of science and the fundamental celestial mechanics that govern our days, nights, and the passing of seasons.",
+                "url": "https://www.rmg.co.uk/stories/topics/foucaults-pendulum"
+            }
+        ]
+    },
+    {
+        "date": "09-01",
+        "events": [
+            {
+                "title": "Plough Monday",
+                "summary": "Traditionally the first Monday after Epiphany, marking the start of the agricultural year in the UK. Historically, farm laborers would drag a plough through the streets to raise funds. Today, it is still celebrated in many English villages with Morris dancing and traditional local ceremonies.",
+                "url": "https://www.historic-uk.com/CultureUK/Plough-Monday/"
+            },
+            {
+                "title": "International Choreographers Day",
+                "summary": "A day to celebrate the creative minds who design the movement and dance we see in theatres, films, and music videos. It recognises the artistic contribution choreographers make to the UK's vibrant performing arts scene and encourages young people to explore dance as a career path.",
+                "url": "https://www.onedanceuk.org/"
+            }
+        ]
+    },
+    {
+        "date": "10-01",
+        "events": [
+            {
+                "title": "Houseplant Appreciation Day",
+                "summary": "Coming after the Christmas tree has been removed, this day encourages people to focus on the benefits of indoor greenery. Houseplants improve air quality and mood, making them essential companions during the dark winter months in the UK when outdoor gardening is often limited.",
+                "url": "https://www.rhs.org.uk/plants/types/houseplants"
+            },
+            {
+                "title": "Peculiar People Day",
+                "summary": "A day to celebrate the eccentrics, the non-conformists, and the unique individuals who make life interesting. It encourages everyone to embrace their own quirks and appreciate the diversity of personality and character that defines the UK's rich social and cultural landscape.",
+                "url": "https://www.daysoftheyear.com/days/peculiar-people-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-01",
+        "events": [
+            {
+                "title": "Heritage Treasures Day",
+                "summary": "Organised by the National Lottery Heritage Fund, this day encourages people across the UK to share their favorite local heritage sites, objects, or traditions online. It aims to inspire pride in local history and highlight the importance of preserving cultural landmarks for future generations.",
+                "url": "https://www.heritagefund.org.uk/"
+            },
+            {
+                "title": "International Thank You Day",
+                "summary": "A day focused on the power of gratitude. It encourages individuals to send notes, make calls, or simply say 'thank you' to those who make a difference in their lives, fostering a culture of appreciation and kindness within communities and workplaces across the country.",
+                "url": "https://www.awarenessdays.com/awareness-days-calendar/international-thank-you-day-2026/"
+            }
+        ]
+    },
+    {
+        "date": "12-01",
+        "events": [
+            {
+                "title": "Kiss a Ginger Day",
+                "summary": "A whimsical response to 'Kick a Ginger Day', this event aims to celebrate those with red hair and promote positivity. It has gained popularity in the UK, which has one of the highest percentages of natural redheads in the world, fostering a spirit of fun.",
+                "url": "https://www.daysoftheyear.com/days/kiss-a-ginger-day/"
+            },
+            {
+                "title": "National Pharmacist Day",
+                "summary": "A day to recognize the vital role pharmacists play in the healthcare system. In the UK, pharmacists are often the first point of contact for medical advice, and this day honors their expertise in medication management, public health, and their tireless service to local communities.",
+                "url": "https://www.rpharms.com/"
+            }
+        ]
+    },
+    {
+        "date": "13-01",
+        "events": [
+            {
+                "title": "St Stephen's Day (Eastern Orthodox)",
+                "summary": "While celebrated on Dec 26th in Western Christianity, many Orthodox communities in the UK celebrate the Feast of St Stephen today. It is a day for honoring the first Christian martyr and is often marked with special liturgies and traditional family gatherings within these communities.",
+                "url": "https://www.orthodox-calendar.org/"
+            },
+            {
+                "title": "Make Your Dream Come True Day",
+                "summary": "An inspirational day that encourages people to take the first step toward achieving a long-held ambition. Whether it's starting a new hobby, planning a career change, or booking a dream trip, the day focuses on the importance of goal-setting and personal motivation at year-start.",
+                "url": "https://www.daysoftheyear.com/days/make-your-dream-come-true-day/"
+            }
+        ]
+    },
+    {
+        "date": "14-01",
+        "events": [
+            {
+                "title": "World Logic Day",
+                "summary": "Proclaimed by UNESCO, this day celebrates the role of logic in the development of science, philosophy, and technology. It aims to foster international cooperation and promote public understanding of logic and its implications for human knowledge and the advancement of rational thought.",
+                "url": "https://en.unesco.org/commemorations/worldlogicday"
+            },
+            {
+                "title": "National Dress Up Your Pet Day",
+                "summary": "A whimsical and lighthearted day where pet owners are encouraged to dress their animals in safe, comfortable costumes. While controversial for some, it is a popular day for social media sharing among the UK's pet-loving population, provided the animals' welfare remains the top priority.",
+                "url": "https://www.daysoftheyear.com/days/dress-up-your-pet-day/"
+            }
+        ]
+    },
+    {
+        "date": "15-01",
+        "events": [
+            {
+                "title": "National Pothole Day",
+                "summary": "A day highlighting the state of the UK's roads. It encourages motorists to report potholes to their local councils and campaigns for better investment in road maintenance to prevent vehicle damage and improve safety for all road users, including cyclists and motorcyclists.",
+                "url": "https://www.pothole.co.uk/"
+            },
+            {
+                "title": "Blue Monday (Variable - approx)",
+                "summary": "Often cited as the most depressing day of the year due to weather, debt, and failed resolutions. While originally a marketing concept, it is now used by UK mental health charities to encourage open conversations about depression and the importance of seeking support.",
+                "url": "https://www.mentalhealth.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "16-01",
+        "events": [
+            {
+                "title": "Religious Freedom Day",
+                "summary": "A day to promote the right of all people to practice their faith or no faith at all without fear of persecution. In the UK, it is a time to reflect on the importance of religious tolerance and the legal protections that safeguard diverse beliefs within society.",
+                "url": "https://www.un.org/en/observances/human-rights-day"
+            },
+            {
+                "title": "International Hot and Spicy Food Day",
+                "summary": "A celebration for those who enjoy a bit of heat in their meals. Given the UK's love for spicy cuisine, particularly curry, this day encourages people to visit their local restaurants or cook up a fiery dish at home using chilies and exotic spices.",
+                "url": "https://www.daysoftheyear.com/days/international-hot-and-spicy-food-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-01",
+        "events": [
+            {
+                "title": "Ditch New Year's Resolutions Day",
+                "summary": "A day acknowledging that by mid-January, many people find it difficult to stick to their strict resolutions. It encourages a more balanced, less pressured approach to self-improvement, allowing people to forgive themselves for lapses and set more realistic, sustainable goals instead.",
+                "url": "https://www.daysoftheyear.com/days/ditch-new-years-resolutions-day/"
+            },
+            {
+                "title": "Benjamin Franklin Day",
+                "summary": "Marking the birth of the polymath who was a scientist, inventor, and diplomat. Franklin lived in London for many years, and this day celebrates his contributions to electricity, politics, and literature, highlighting the historical ties between the UK and the early United States.",
+                "url": "https://www.benjaminfranklinhouse.org/"
+            }
+        ]
+    },
+    {
+        "date": "18-01",
+        "events": [
+            {
+                "title": "World Religion Day",
+                "summary": "Established to promote interfaith understanding and harmony. It encourages people of all faiths—and none—to learn about the beliefs and traditions of others, emphasizing the shared values of peace, love, and service that are common across many of the world's religions and philosophies.",
+                "url": "https://www.interfaith.org.uk/"
+            },
+            {
+                "title": "Thesaurus Day",
+                "summary": "Commemorating the birth of Peter Mark Roget, the author of 'Roget's Thesaurus'. This day celebrates the richness of the English language and encourages the use of diverse vocabulary. It is particularly popular in UK schools and among writers looking to expand their linguistic horizons.",
+                "url": "https://www.dictionary.com/e/thesaurus-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-01",
+        "events": [
+            {
+                "title": "Brew Monday",
+                "summary": "Organised by the Samaritans as a positive alternative to 'Blue Monday', this day encourages people to reach out to friends, family, or colleagues for a cup of tea and a chat. It highlights the importance of social connection and listening in supporting mental health.",
+                "url": "https://www.samaritans.org/support-us/campaign/brew-monday/"
+            },
+            {
+                "title": "National Popcorn Day",
+                "summary": "A day celebrating the popular cinema snack. Whether sweet, salty, or gourmet, popcorn is a UK favorite, and this day is often marked by special deals in cinemas or recipes for making healthy and creative popcorn snacks at home for movie nights.",
+                "url": "https://www.daysoftheyear.com/days/popcorn-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-01",
+        "events": [
+            {
+                "title": "Penguin Awareness Day",
+                "summary": "A day to learn about these flightless birds and the conservation challenges they face due to climate change and habitat loss. UK zoos and wildlife parks often hold special events to educate the public about penguin species and the importance of protecting the Antarctic environment.",
+                "url": "https://www.worldwildlife.org/species/penguin"
+            },
+            {
+                "title": "Cheese Lovers Day",
+                "summary": "A day for fans of all things cheesy. With the UK producing over 700 varieties of named cheeses, this is a day to celebrate local cheesemakers and indulge in everything from a classic Cheddar or Stilton to more artisanal and continental varieties.",
+                "url": "https://www.britishcheese.com/"
+            }
+        ]
+    },
+    {
+        "date": "21-01",
+        "events": [
+            {
+                "title": "National Hugging Day",
+                "summary": "A day intended to encourage people to hug their family and friends more often. While mindful of personal boundaries, it highlights the physiological and psychological benefits of human touch, such as reducing stress and releasing oxytocin, which can improve overall well-being and social bonding.",
+                "url": "https://www.nationalhuggingday.com/"
+            },
+            {
+                "title": "Squirrel Appreciation Day",
+                "summary": "A day to appreciate both the native Red Squirrel and the more common Grey Squirrel. In the UK, it is often used to highlight conservation efforts for the endangered Red Squirrel and to recognize the playful antics of squirrels in our parks and gardens during winter.",
+                "url": "https://www.wildlifetrusts.org/saving-species/red-squirrels"
+            }
+        ]
+    },
+    {
+        "date": "22-01",
+        "events": [
+            {
+                "title": "Celebration of Life Day",
+                "summary": "A day dedicated to honoring the gift of life and the people who make it meaningful. It serves as a reminder to appreciate our children and grandchildren, and to reflect on the milestones and memories that bring joy to our families and communities throughout the year.",
+                "url": "https://www.daysoftheyear.com/days/celebration-of-life-day/"
+            },
+            {
+                "title": "Answer Your Cat's Questions Day",
+                "summary": "A day for cat owners to imagine what their feline friends might be thinking. It encourages a closer bond between pets and their owners through play, observation, and perhaps a little extra attention to their cat's peculiar behaviors and mysterious needs.",
+                "url": "https://www.daysoftheyear.com/days/answer-your-cats-questions-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-01",
+        "events": [
+            {
+                "title": "National Handwriting Day",
+                "summary": "A day to celebrate the art and importance of penmanship in a digital age. It encourages people to pick up a pen and write a letter or postcard, highlighting the unique personality found in individual handwriting and the cognitive benefits of writing by hand.",
+                "url": "https://www.writinginstruments.org.uk/"
+            },
+            {
+                "title": "National Pie Day",
+                "summary": "Not to be confused with Pi Day (March 14), this is a celebration of the pastry dish. From savoury steak and ale to sweet apple pies, it celebrates a staple of British cuisine and encourages people to bake or buy their favorite pie today.",
+                "url": "https://www.daysoftheyear.com/days/pie-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-01",
+        "events": [
+            {
+                "title": "International Day of Education",
+                "summary": "Proclaimed by the UN, this day celebrates the role of education for peace and development. It highlights the importance of accessible, quality education for all and the need to support teachers and learners in overcoming barriers to knowledge in the UK and worldwide.",
+                "url": "https://www.un.org/en/observances/education-day"
+            },
+            {
+                "title": "National Compliment Day",
+                "summary": "A day dedicated to spreading positivity by giving sincere compliments to friends, family, and strangers. It aims to brighten people's days and improve social connections, reminding us how a simple kind word can have a significant impact on someone's confidence and mood.",
+                "url": "https://www.daysoftheyear.com/days/compliment-day/"
+            }
+        ]
+    },
+    {
+        "date": "25-01",
+        "events": [
+            {
+                "title": "Burns Night",
+                "summary": "A celebration of the life and poetry of Robert Burns, Scotland's national poet. Across the UK, people gather for 'Burns Suppers', featuring haggis, neeps and tatties, whisky, and the recitation of his famous works, such as 'Address to a Haggis' and 'Auld Lang Syne'.",
+                "url": "https://www.scotland.org/events/burns-night"
+            },
+            {
+                "title": "Opposite Day",
+                "summary": "A day especially popular with children, where everything said or done is intended to mean its opposite. While informal, it serves as a fun way to engage with language and play, providing a lighthearted break from the routine of the January school term.",
+                "url": "https://www.daysoftheyear.com/days/opposite-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-01",
+        "events": [
+            {
+                "title": "International Customs Day",
+                "summary": "Recognizing the role of customs officials and agencies in maintaining border security and facilitating international trade. In the UK, it highlights the work of Border Force and HMRC in protecting the public and supporting the economy through the efficient movement of goods across borders.",
+                "url": "https://www.wcoomd.org/"
+            },
+            {
+                "title": "Spouse's Day",
+                "summary": "A day to show appreciation for your partner. Unlike Valentine's Day, it focuses more on the long-term partnership and the daily support spouses provide each other. It’s a time for UK couples to reflect on their relationship and spend quality time together.",
+                "url": "https://www.daysoftheyear.com/days/spouses-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-01",
+        "events": [
+            {
+                "title": "Holocaust Memorial Day",
+                "summary": "A solemn day of remembrance for the millions of people murdered during the Holocaust, under Nazi Persecution and in subsequent genocides in Cambodia, Rwanda, Bosnia and Darfur. It encourages the UK public to learn from the past and take action to create a safer future.",
+                "url": "https://www.hmd.org.uk/"
+            },
+            {
+                "title": "National Chocolate Cake Day",
+                "summary": "A celebration of one of the UK’s most beloved desserts. Whether it's a fudge cake, a decadent gateau, or a simple sponge, this day encourages baking enthusiasts and chocolate lovers alike to indulge in a slice and share their favorite recipes with others.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-cake-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-01",
+        "events": [
+            {
+                "title": "Data Privacy Day",
+                "summary": "Also known as Data Protection Day in Europe, this event aims to raise awareness about the importance of protecting personal information online. It provides an opportunity for UK citizens and businesses to review their privacy settings and understand their rights under GDPR regulations.",
+                "url": "https://ico.org.uk/"
+            },
+            {
+                "title": "International LEGO Day",
+                "summary": "Marking the date in 1958 when the patent for the original LEGO brick was filed. This day celebrates the iconic building toy that has inspired generations of UK children and adults to be creative, solve problems, and build imaginative worlds brick by brick.",
+                "url": "https://www.lego.com/"
+            }
+        ]
+    },
+    {
+        "date": "29-01",
+        "events": [
+            {
+                "title": "Curmudgeons Day",
+                "summary": "A day to celebrate those who are a bit grouchy or 'old-fashioned' in their ways. It’s a lighthearted acknowledgement that everyone has days when they feel a bit cynical, particularly during the grey UK winter, and encourages embracing one's inner 'grumpy' side for a day.",
+                "url": "https://www.daysoftheyear.com/days/curmudgeons-day/"
+            },
+            {
+                "title": "National Puzzle Day",
+                "summary": "A day to celebrate all types of puzzles, from crosswords and Sudoku to complex jigsaws. It highlights the cognitive benefits of puzzling, such as improved memory and problem-solving skills, and is a popular activity for families staying cozy indoors during the cold weather.",
+                "url": "https://www.daysoftheyear.com/days/puzzle-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-01",
+        "events": [
+            {
+                "title": "National Croissant Day",
+                "summary": "A celebration of the flaky, buttery French pastry. Widely enjoyed as a breakfast staple across the UK, this day encourages people to visit their local bakery or try their hand at making these delicate pastries at home, perhaps paired with a morning coffee.",
+                "url": "https://www.daysoftheyear.com/days/croissant-day/"
+            },
+            {
+                "title": "World Neglected Tropical Diseases Day",
+                "summary": "This day aims to raise awareness about the impact of neglected tropical diseases (NTDs) on the world's poorest populations. It advocates for increased funding and research to eliminate these preventable diseases, highlighting the UK's significant role in global health and medical research.",
+                "url": "https://worldntdday.org/"
+            }
+        ]
+    },
+    {
+        "date": "31-01",
+        "events": [
+            {
+                "title": "Inspire Your Heart With Art Day",
+                "summary": "A day to celebrate the emotional and inspirational power of art in all its forms. Whether visiting a gallery like the Tate Modern, listening to music, or creating something yourself, it encourages UK residents to reflect on how art enriches their lives and touches their souls.",
+                "url": "https://www.artscouncil.org.uk/"
+            },
+            {
+                "title": "National Backward Day",
+                "summary": "A day where everything is done in reverse. From wearing clothes backwards to eating dessert before dinner, it is a fun and silly way to end the first month of the year, providing entertainment for children and those young at heart.",
+                "url": "https://www.daysoftheyear.com/days/backward-day/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "date": "01-03",
+        "events": [
+            {
+                "title": "Self-Harm Awareness Day",
+                "summary": "This global awareness day aims to break the silence and stigma surrounding self-harm. In the UK, charities like Mind and YoungMinds use the day to provide resources, educate the public, and encourage those struggling to seek professional support and speak openly about their mental health experiences.",
+                "url": "https://www.mind.org.uk/get-involved/awareness-days-and-events/"
+            },
+            {
+                "title": "National Pig Day",
+                "summary": "While originating in the US, this day is celebrated by animal lovers in the UK to appreciate the intelligence and social nature of pigs. It often focuses on the welfare of pigs in farming and highlighting their capabilities as clever, sentient creatures deserving of respect and care.",
+                "url": "https://www.farmsanctuary.org"
+            },
+            {
+                "title": "World Wildlife Day",
+                "summary": "A United Nations international day to celebrate and raise awareness of the world's wild animals and plants. In the UK, conservation groups focus on local biodiversity and the legal frameworks, such as CITES, that protect endangered species from the threats of international trade and habitat loss.",
+                "url": "https://www.wildlifeday.org/en"
+            }
+        ]
+    },
+    {
+        "date": "02-03",
+        "events": [
+            {
+                "title": "World Book Day (UK & Ireland)",
+                "summary": "Typically falling on the first Thursday in March, this is a massive celebration of reading for children in the UK. Schools encourage dressing up as book characters, and millions of £1 book tokens are distributed to ensure every child has the opportunity to own their own book.",
+                "url": "https://www.worldbookday.com/"
+            },
+            {
+                "title": "University Mental Health Day",
+                "summary": "A UK-wide initiative run by Student Minds and UMHAN. It brings together the university community to make mental health a priority. The day focuses on the unique challenges faced by students and staff, promoting a culture of openness and proactive support within higher education institutions.",
+                "url": "https://www.unimentalhealthday.co.uk/"
+            },
+            {
+                "title": "National Old Stuff Day",
+                "summary": "A day encouraging people to break out of their daily ruts. Whether it is cleaning out an attic of 'old stuff' or simply trying something new to replace an old habit, it serves as a lighthearted reminder to refresh your perspective and declutter your life.",
+                "url": "https://www.daysoftheyear.com/days/national-old-stuff-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-03",
+        "events": [
+            {
+                "title": "World Hearing Day",
+                "summary": "Organised by the World Health Organisation, this day raises awareness on how to prevent deafness and hearing loss. In the UK, the RNID uses this platform to promote ear health, the importance of regular hearing checks, and the need for better accessibility for the deaf community.",
+                "url": "https://www.who.int/campaigns/world-hearing-day"
+            },
+            {
+                "title": "World Birth Defects Day",
+                "summary": "This day aims to raise awareness about the prevalence of birth defects and the need for more research and surveillance. UK health organisations use it to share information on prevention, prenatal care, and the support services available for families affected by congenital conditions and disabilities.",
+                "url": "https://www.worldbirthdefectsday.org/"
+            },
+            {
+                "title": "National If Pets Had Thumbs Day",
+                "summary": "A whimsical look at the chaos that would ensue if our furry companions possessed opposable thumbs. Pet owners in the UK share humorous stories and photos imagining their dogs or cats finally being able to open the treat cupboard or use the TV remote themselves.",
+                "url": "https://www.daysoftheyear.com/days/if-pets-had-thumbs-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-03",
+        "events": [
+            {
+                "title": "World Engineering Day",
+                "summary": "An international day to celebrate engineers and engineering. In Britain, the Royal Academy of Engineering highlights how the profession is vital to achieving modern sustainable development goals and tackling climate change, encouraging young people across the UK to consider careers in STEM fields.",
+                "url": "https://worldengineeringday.net/"
+            },
+            {
+                "title": "World Obesity Day",
+                "summary": "This day aims to stimulate and support practical solutions to help people achieve and maintain a healthy weight. In the UK, the focus is often on policy changes regarding food labeling, sugar taxes, and promoting active lifestyles to combat the rising rates of obesity and related illnesses.",
+                "url": "https://www.worldobesityday.org/"
+            },
+            {
+                "title": "National Grammar Day",
+                "summary": "A day for language enthusiasts to celebrate the rules of linguistics. While some use it to correct 'your' and 'you're' on social media, in the UK it is often marked by educators highlighting the beauty of the English language and the importance of clear, effective communication.",
+                "url": "https://www.grammardan.com/"
+            }
+        ]
+    },
+    {
+        "date": "05-03",
+        "events": [
+            {
+                "title": "St Piran's Day",
+                "summary": "The national day of Cornwall, celebrating the patron saint of tin miners. It is marked across the county with parades, Cornish pasties, and the flying of the St Piran's Flag (white cross on a black background), representing the discovery of tin by the saint in the 5th century.",
+                "url": "https://www.visitcornwall.com/whats-on/traditional-cultural/west-cornwall/st-ives/st-pirans-day"
+            },
+            {
+                "title": "Multiple Personality Day",
+                "summary": "A day intended to raise awareness about Dissociative Identity Disorder (DID). It encourages the public to learn about the complexities of the condition and supports those living with it, aiming to reduce the stigma often perpetuated by inaccurate portrayals in film and media.",
+                "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/dissociative-disorders/about-dissociative-disorders/"
+            },
+            {
+                "title": "National Absinthe Day",
+                "summary": "A celebration of the 'Green Fairy.' Once banned across much of Europe, this potent spirit has a rich history in the arts. UK bars may host special tastings to educate patrons on the traditional ritual of preparing the drink with sugar and ice water.",
+                "url": "https://www.daysoftheyear.com/days/absinthe-day/"
+            }
+        ]
+    },
+    {
+        "date": "06-03",
+        "events": [
+            {
+                "title": "National Lymphedema Awareness Day",
+                "summary": "Dedicated to raising awareness for Lymphedema, a chronic condition causing swelling in the body's tissues. In the UK, the Lymphedema Support Network provides essential information on management techniques and advocates for better diagnostic services and specialised care within the NHS framework.",
+                "url": "https://www.lymphedema.org/"
+            },
+            {
+                "title": "World Day of Prayer",
+                "summary": "An international, ecumenical Christian laywomen’s initiative. In the UK, services are held in local churches across various denominations, following a program written by women from a different country each year, focusing on global peace, justice, and the needs of women and children worldwide.",
+                "url": "https://www.wwdp.org.uk/"
+            },
+            {
+                "title": "National Dentist's Day",
+                "summary": "A day to appreciate the professionals who keep our smiles healthy. It serves as a reminder for people in the UK to book their regular check-ups and highlights the importance of oral hygiene in preventing long-term health issues like gum disease and tooth decay.",
+                "url": "https://www.bda.org/"
+            }
+        ]
+    },
+    {
+        "date": "07-03",
+        "events": [
+            {
+                "title": "National Cereal Day",
+                "summary": "A celebration of one of the UK's most popular breakfast choices. From porridge oats to cornflakes, this day looks at the history of breakfast cereals and encourages people to share their favorite toppings, while also discussing the nutritional value of different morning grains.",
+                "url": "https://www.daysoftheyear.com/days/cereal-day/"
+            },
+            {
+                "title": "Plant Power Day",
+                "summary": "Created to encourage people to eat more plant-based foods for the benefit of their health and the planet. In the UK, this day is often supported by vegan and vegetarian societies, offering recipes and tips for incorporating more vegetables, legumes, and grains into daily meals.",
+                "url": "https://www.plantpowerday.com/"
+            },
+            {
+                "title": "National Be Nasty Day",
+                "summary": "A purely day that acts as a satirical counterpoint to the many 'be kind' days. It is generally observed through sarcastic humor and harmless 'grumpiness' among friends, though in the UK, most people prefer to maintain their usual polite decorum instead.",
+                "url": "https://www.daysoftheyear.com/days/be-nasty-day/"
+            }
+        ]
+    },
+    {
+        "date": "08-03",
+        "events": [
+            {
+                "title": "International Women's Day",
+                "summary": "A global day celebrating the social, economic, cultural, and political achievements of women. In the UK, thousands of events take place, ranging from marches and rallies to talks and performances, all calling for gender equality and an end to discrimination and violence against women.",
+                "url": "https://www.internationalwomensday.com/"
+            },
+            {
+                "title": "National Proofreading Day",
+                "summary": "Dedicated to the art of checking text for errors. In a world of autocorrect, this day promotes the importance of a careful human eye. UK businesses and writers use it to highlight how proper proofreading ensures professional credibility and clear communication in all written works.",
+                "url": "https://www.daysoftheyear.com/days/proofreading-day/"
+            },
+            {
+                "title": "Commonwealth Day",
+                "summary": "Observed on the second Monday in March, this day celebrates the 56 member states of the Commonwealth. In London, a multi-faith service is held at Westminster Abbey, attended by the Royal Family, celebrating the shared values and diversity of the Commonwealth's 2.5 billion citizens.",
+                "url": "https://thecommonwealth.org/commonwealth-day"
+            }
+        ]
+    },
+    {
+        "date": "09-03",
+        "events": [
+            {
+                "title": "National No Smoking Day",
+                "summary": "A major UK health campaign that helps smokers who want to quit. Usually falling on the second Wednesday of March, it provides a supportive environment for smokers to start their quitting journey, highlighting the health benefits and the various NHS resources available to help them succeed.",
+                "url": "https://www.nhs.uk/better-health/quit-smoking/"
+            },
+            {
+                "title": "False Teeth Day",
+                "summary": "A day to recognize the importance of dentures in restoring function and confidence for those with missing teeth. It’s an opportunity for UK dental professionals to provide advice on denture care and for people to share their experiences with modern dental prosthetics.",
+                "url": "https://www.dentalhealth.org/"
+            },
+            {
+                "title": "National Panic Day",
+                "summary": "A day that, ironically, encourages people to do the exact opposite: slow down and find ways to manage stress. In the UK, it's often used as a lighthearted hook to discuss mental health and the importance of taking 'time out' when life feels overwhelming.",
+                "url": "https://www.daysoftheyear.com/days/panic-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-03",
+        "events": [
+            {
+                "title": "World Kidney Day",
+                "summary": "A global campaign aimed at raising awareness of the importance of our kidneys. In the UK, Kidney Care UK and the National Kidney Federation use the day to educate the public on risk factors and the importance of early detection of kidney disease.",
+                "url": "https://www.worldkidneyday.org/"
+            },
+            {
+                "title": "National Landlines Day",
+                "summary": "A day to appreciate the traditional telephone line. As the UK moves toward a fully digital network, this day serves as a nostalgic look at the history of the landline and an informative period regarding the transition to VoIP and modern communication technologies.",
+                "url": "https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/future-of-landline-calls"
+            },
+            {
+                "title": "International Bagpipe Day",
+                "summary": "Celebrating the world’s many types of bagpipes. While most in the UK immediately think of the Great Highland Bagpipe of Scotland, this day also highlights Northumbrian smallpipes and other variations, celebrating the musicians who keep these traditional folk instruments and their music alive.",
+                "url": "https://www.bagpipesociety.org.uk/international-bagpipe-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-03",
+        "events": [
+            {
+                "title": "National No Homework Day",
+                "summary": "A day much loved by school children across the UK. It advocates for a 24-hour break from school assignments to allow kids to focus on play, hobbies, or simply relaxing, reminding parents and teachers about the importance of a healthy work-life balance for youngsters.",
+                "url": "https://www.daysoftheyear.com/days/no-homework-day/"
+            },
+            {
+                "title": "World Plumbing Day",
+                "summary": "Established by the World Plumbing Council, this day highlights the vital role plumbing plays in health and safety. In the UK, the CIPHE uses this date to promote the industry and remind homeowners of the importance of using qualified, professional plumbers for their household maintenance.",
+                "url": "https://www.worldplumbing.org/worldplumbingday/"
+            },
+            {
+                "title": "Johnny Appleseed Day",
+                "summary": "Celebrating the American pioneer who planted apple trees across the US. In the UK, while the historical figure is less known, the day is used by gardening and nature groups to celebrate the apple harvest, traditional orchards, and the planting of fruit trees in community gardens.",
+                "url": "https://www.nationaltrust.org.uk/lists/best-places-to-see-blossom"
+            }
+        ]
+    },
+    {
+        "date": "12-03",
+        "events": [
+            {
+                "title": "World Glaucoma Week",
+                "summary": "While part of a week-long event, this day focuses on 'The Silent Thief of Sight.' UK charities like Glaucoma UK encourage people to have regular eye tests, as early detection is crucial in preventing irreversible vision loss caused by optic nerve damage.",
+                "url": "https://www.glaucomauk.org/"
+            },
+            {
+                "title": "National Working Moms Day",
+                "summary": "A day to celebrate the resilience and hard work of mothers who balance careers and family life. In the UK, it highlights the need for flexible working arrangements and better childcare support, acknowledging the significant contribution these women make to the economy and their homes.",
+                "url": "https://www.workingmums.co.uk/"
+            },
+            {
+                "title": "Plant a Flower Day",
+                "summary": "A whimsical nudge to get back into the garden as Spring arrives. UK gardeners take this opportunity to start sowing seeds or planting early bulbs, brightening up window boxes and flower beds as the weather begins to warm across the British Isles.",
+                "url": "https://www.rhs.org.uk/advice/grow-your-own/flowers"
+            }
+        ]
+    },
+    {
+        "date": "13-03",
+        "events": [
+            {
+                "title": "World Sleep Day",
+                "summary": "Observed on the Friday before the Spring Vernal Equinox, this day promotes the benefits of good, healthy sleep. UK health experts share tips on 'sleep hygiene' and discuss the impact that sleep deprivation can have on physical and mental well-being in a fast-paced society.",
+                "url": "https://worldsleepday.org/"
+            },
+            {
+                "title": "K9 Veterans Day",
+                "summary": "A day to honor the service of military and police dogs. In the UK, this includes recognizing the brave animals of the Royal Army Veterinary Corps and police dog units, celebrating their roles in detection, protection, and the deep bond between the dogs and their handlers.",
+                "url": "https://www.guidedogs.org.uk/"
+            },
+            {
+                "title": "National Earmuff Day",
+                "summary": "A celebration of the accessory that keeps ears warm. Invented by a teenager in 1873, earmuffs remain a staple of British winter and spring wardrobes. This day encourages people to wear their fluffiest pair to ward off the lingering March chill.",
+                "url": "https://www.daysoftheyear.com/days/earmuff-day/"
+            }
+        ]
+    },
+    {
+        "date": "14-03",
+        "events": [
+            {
+                "title": "Pi Day",
+                "summary": "Celebrated on March 14th because 3.14 represents the first three digits of Pi. In UK schools and universities, it is a day for math-related activities, competitions, and, more often than not, the eating of actual pies in a playful tribute to the mathematical constant.",
+                "url": "https://www.piday.org/"
+            },
+            {
+                "title": "International Day of Mathematics",
+                "summary": "A UNESCO-led initiative to celebrate the essential role of mathematics in science and technology. UK educational institutions use this day to show students how math is used in everything from climate modeling to medical imaging, aiming to make the subject more accessible and exciting.",
+                "url": "https://www.idm314.org/"
+            },
+            {
+                "title": "National Learn About Butterflies Day",
+                "summary": "As spring approaches, this day encourages people in the UK to learn about local butterfly species and their habitats. Butterfly Conservation UK provides resources on how to make gardens more butterfly-friendly by planting nectar-rich flowers and providing shelter for these vital pollinators.",
+                "url": "https://butterfly-conservation.org/"
+            }
+        ]
+    },
+    {
+        "date": "15-03",
+        "events": [
+            {
+                "title": "World Consumer Rights Day",
+                "summary": "This day promotes the basic rights of all consumers. In the UK, organisations like 'Which?' use this day to highlight issues like data privacy, fair pricing, and product safety, ensuring that British consumers are informed and protected in the modern digital marketplace.",
+                "url": "https://www.consumersinternational.org/what-we-do/world-consumer-rights-day/"
+            },
+            {
+                "title": "World Social Work Day",
+                "summary": "A day to recognize the hard work and dedication of social workers. In the UK, the British Association of Social Workers (BASW) celebrates the profession's role in supporting vulnerable people and advocating for social justice and human rights within our communities.",
+                "url": "https://www.basw.co.uk/world-social-work-day"
+            },
+            {
+                "title": "National Everything You Think is Wrong Day",
+                "summary": "A day that encourages a bit of humility. It’s a lighthearted reminder that we don’t always have the answers and that it’s okay to be wrong sometimes. In the UK, it's often celebrated with a self-deprecating 'cheers' to our own mistakes and misconceptions.",
+                "url": "https://www.daysoftheyear.com/days/everything-you-think-is-wrong-day/"
+            }
+        ]
+    },
+    {
+        "date": "16-03",
+        "events": [
+            {
+                "title": "Disabled Access Day",
+                "summary": "A biennial event in the UK that encourages disabled people to visit somewhere they’ve never been before. It highlights the importance of accessibility in venues like cinemas, museums, and shops, promoting the 'purple pound' and the need for inclusive design everywhere.",
+                "url": "https://www.disabledaccessday.com/"
+            },
+            {
+                "title": "Freedom of Information Day",
+                "summary": "This day celebrates the public's right to access government records. In the UK, it highlights the importance of the Freedom of Information Act (2000), which allows citizens to request information from public authorities, fostering transparency and accountability in British government.",
+                "url": "https://ico.org.uk/for-organisations/guide-to-freedom-of-information/"
+            },
+            {
+                "title": "National Panda Day",
+                "summary": "A day dedicated to one of the world's most beloved and vulnerable animals. While the UK's only pandas returned to China recently, British wildlife fans use the day to support global conservation efforts and learn about habitat protection for these unique bears.",
+                "url": "https://www.worldwildlife.org/species/giant-panda"
+            }
+        ]
+    },
+    {
+        "date": "17-03",
+        "events": [
+            {
+                "title": "St. Patrick's Day",
+                "summary": "The feast day of the patron saint of Ireland. It is widely celebrated across the UK, especially in cities like London, Birmingham, and Liverpool with large Irish communities. Expect parades, traditional music, and plenty of green clothing as people celebrate Irish culture and heritage.",
+                "url": "https://www.ireland.com/en-gb/things-to-do/themes/culture/st-patricks-day/"
+            },
+            {
+                "title": "Nutrition and Hydration Week",
+                "summary": "Starting around this date, this UK initiative focuses on the importance of nutrition and hydration for health and wellbeing. It's particularly focused on the care sector and hospitals, ensuring that patients and the elderly receive proper sustenance and fluid intake.",
+                "url": "https://nutritionandhydrationweek.org.uk/"
+            },
+            {
+                "title": "National Submarine Day",
+                "summary": "A whimsical nod to the 'Silent Service.' This day celebrates the history and technology of submersibles. In the UK, it’s an opportunity to visit museums like the Royal Navy Submarine Museum in Gosport to learn about the brave crews who have served beneath the waves.",
+                "url": "https://www.nmrn.org.uk/visit-us/submarine-museum"
+            }
+        ]
+    },
+    {
+        "date": "18-03",
+        "events": [
+            {
+                "title": "Global Recycling Day",
+                "summary": "A day to recognize the importance of recycling in preserving our primary resources. In the UK, local councils and environmental groups promote better waste management practices, encouraging households to 'recycle right' and support a circular economy to reduce landfill and pollution.",
+                "url": "https://www.globalrecyclingday.com/"
+            },
+            {
+                "title": "National Awkward Moments Day",
+                "summary": "A day dedicated to those cringeworthy moments we’ve all experienced. Whether it’s waving at someone who wasn’t waving at you or tripping in public, it’s a day for Brits to embrace their inner embarrassment and laugh at the small social stumbles of life.",
+                "url": "https://www.daysoftheyear.com/days/awkward-moments-day/"
+            },
+            {
+                "title": "Supreme Sacrifice Day",
+                "summary": "A day to honor those who have made the ultimate sacrifice for the sake of others. While often associated with military service, it also acknowledges the selflessness of emergency workers and ordinary citizens who have put their lives on the line to save or help others.",
+                "url": "https://www.britishlegion.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "19-03",
+        "events": [
+            {
+                "title": "Certified Nurses Day",
+                "summary": "A day to honor the nursing profession and the specialised certification that nurses achieve. In the UK, it's a chance to thank the dedicated NHS and private sector nurses for their clinical expertise, care, and the vital role they play in the British healthcare system.",
+                "url": "https://www.rcn.org.uk/"
+            },
+            {
+                "title": "Taxonomist Appreciation Day",
+                "summary": "A day for the scientists who classify and name the world's organisms. With the UK's rich history in natural history (think Darwin), it's a day to appreciate the experts at the Natural History Museum and beyond who help us understand the diversity of life on Earth.",
+                "url": "https://www.nhm.ac.uk/"
+            },
+            {
+                "title": "National Let’s Laugh Day",
+                "summary": "A whimsical reminder that laughter is the best medicine. People are encouraged to share jokes, watch comedies, and find the humor in everyday situations. In the UK, it’s the perfect excuse for a bit of classic British wit or a visit to a local comedy club.",
+                "url": "https://www.daysoftheyear.com/days/lets-laugh-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-03",
+        "events": [
+            {
+                "title": "International Day of Happiness",
+                "summary": "Established by the United Nations, this day recognises that happiness is a fundamental human goal. In the UK, organisations like Action for Happiness promote simple daily actions that can improve our mental wellbeing and foster a more compassionate and happier society for everyone.",
+                "url": "https://www.dayofhappiness.net/"
+            },
+            {
+                "title": "World Oral Health Day",
+                "summary": "A global campaign to raise awareness about the importance of good oral hygiene. The British Dental Health Foundation uses this day to remind the UK public that a healthy mouth is vital for a healthy body, promoting regular brushing, flossing, and dental check-ups.",
+                "url": "https://www.worldoralhealthday.org/"
+            },
+            {
+                "title": "World Frog Day",
+                "summary": "A whimsical but important day to celebrate amphibians. In the UK, wildlife trusts use this day to highlight the importance of garden ponds and wetlands for local frog populations, encouraging people to create habitats that support these vital indicators of environmental health.",
+                "url": "https://www.froglife.org/"
+            }
+        ]
+    },
+    {
+        "date": "21-03",
+        "events": [
+            {
+                "title": "World Down Syndrome Day",
+                "summary": "A global awareness day officially observed by the United Nations. In the UK, the Down's Syndrome Association encourages people to 'Lots of Socks'—wearing mismatched, brightly coloured socks to start conversations about inclusion and the rights of people with Down syndrome in our society.",
+                "url": "https://www.worlddownsyndromeday.org/"
+            },
+            {
+                "title": "International Day for the Elimination of Racial Discrimination",
+                "summary": "Marking the 1960 Sharpeville massacre, this day is a call to action against racism and prejudice. In the UK, it is observed by community groups and NGOs to promote equality, celebrate diversity, and work towards a society where everyone is treated with dignity regardless of their race.",
+                "url": "https://www.un.org/en/observances/end-racism-day"
+            },
+            {
+                "title": "World Poetry Day",
+                "summary": "UNESCO declared this day to support linguistic diversity through poetic expression. From Shakespeare to contemporary spoken word, the UK marks this day with readings and workshops in libraries, schools, and bookshops, celebrating the power of poetry to capture the human experience.",
+                "url": "https://www.poetrysociety.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "22-03",
+        "events": [
+            {
+                "title": "World Water Day",
+                "summary": "An annual UN observance focusing on the importance of freshwater. In the UK, charities like WaterAid use the day to raise funds for global clean water projects, while local water companies promote water-saving tips to help protect our domestic supplies and ecosystems.",
+                "url": "https://www.worldwaterday.org/"
+            },
+            {
+                "title": "Mothering Sunday",
+                "summary": "Falling on the fourth Sunday of Lent, this is the UK's version of Mother's Day. It began as a day when people returned to their 'mother church.' Today, it is a day to honor mothers and grandmothers with cards, flowers, and family meals across Britain.",
+                "url": "https://www.historic-uk.com/CultureUK/Mothering-Sunday/"
+            },
+            {
+                "title": "National Goof Off Day",
+                "summary": "A day that encourages taking a break from the serious side of life. In the UK, it's a day to embrace a bit of silliness, step away from the desk, and indulge in a favorite hobby or a long, purposeless walk just for the fun of it.",
+                "url": "https://www.daysoftheyear.com/days/goof-off-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-03",
+        "events": [
+            {
+                "title": "World Meteorological Day",
+                "summary": "This day commemorates the establishment of the World Meteorological Organisation. In the UK, the Met Office uses this date to highlight the importance of weather forecasting and climate science in keeping the public safe and helping the nation prepare for the impacts of climate change.",
+                "url": "https://public.wmo.int/en/resources/world-meteorological-day"
+            },
+            {
+                "title": "National Puppy Day",
+                "summary": "A day to celebrate the joy that puppies bring to our lives and to promote puppy adoption from shelters. UK animal charities like the Dogs Trust use this day to educate the public on the responsibilities of dog ownership and the dangers of illegal puppy farming.",
+                "url": "https://www.dogstrust.org.uk/"
+            },
+            {
+                "title": "National Chip and Dip Day",
+                "summary": "A celebration of the classic snack duo. Whether it’s crisps and salsa or carrot sticks and hummus, UK snackers take to social media to share their favorite combinations. It’s a lighthearted day for office parties or simple evening treats at home.",
+                "url": "https://www.daysoftheyear.com/days/chip-and-dip-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-03",
+        "events": [
+            {
+                "title": "World Tuberculosis Day",
+                "summary": "Designed to build public awareness that tuberculosis today remains an epidemic in much of the world. In the UK, health organisations use this day to highlight that TB is still present in Britain and to promote the importance of early diagnosis and completion of treatment.",
+                "url": "https://www.who.int/campaigns/world-tb-day"
+            },
+            {
+                "title": "International Day for the Right to the Truth",
+                "summary": "A UN day concerning gross human rights violations and the dignity of victims. It honors the memory of Monsignor Óscar Arnulfo Romero. In the UK, human rights groups use this day to advocate for transparency and justice in global conflicts and historical injustices.",
+                "url": "https://www.un.org/en/observances/right-to-truth-day"
+            },
+            {
+                "title": "National Cocktail Day",
+                "summary": "A celebration of mixology. UK bars and enthusiasts use the day to showcase classic recipes and innovative new drinks. It’s a day for people to experiment with flavors at home or enjoy a professional creation at their favorite local establishment.",
+                "url": "https://www.daysoftheyear.com/days/cocktail-day/"
+            }
+        ]
+    },
+    {
+        "date": "25-03",
+        "events": [
+            {
+                "title": "Lady Day (Old New Year)",
+                "summary": "Historically the first of the four British 'Quarter Days' and the start of the legal New Year in England until 1752. It marks the Feast of the Annunciation. Today, it remains a significant date in the UK calendar for traditional land and rental agreements.",
+                "url": "https://www.historic-uk.com/CultureUK/Quarter-Days/"
+            },
+            {
+                "title": "International Day of Remembrance of the Victims of Slavery",
+                "summary": "A day to honor and remember those who suffered and died at the hands of the brutal slavery system. In the UK, it is a time for reflecting on Britain's historical role in the transatlantic slave trade and for promoting awareness of the dangers of racism and prejudice today.",
+                "url": "https://www.un.org/en/observances/slavery-victims-remembrance-day"
+            },
+            {
+                "title": "National Waffle Day",
+                "summary": "A day originating in Sweden (Våffeldagen) but widely enjoyed in the UK. Whether served with syrup for breakfast or as a decadent dessert, waffle lovers across the country celebrate by visiting waffle houses or dusting off their own waffle irons for a homemade treat.",
+                "url": "https://www.daysoftheyear.com/days/waffle-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-03",
+        "events": [
+            {
+                "title": "Purple Day for Epilepsy",
+                "summary": "An international grassroots effort dedicated to increasing awareness about epilepsy worldwide. In the UK, the Epilepsy Society encourages people to wear purple and host events to dispel myths and fundraise for research and support services for the over 600,000 people living with the condition in Britain.",
+                "url": "https://www.epilepsysociety.org.uk/purple-day"
+            },
+            {
+                "title": "Wear A Hat Day",
+                "summary": "The culmination of Brain Tumour Awareness Month in the UK. Brain Tumour Research encourages people to don their favorite headwear—from beanies to fascinators—to raise money and awareness for the need for more research into finding a cure for brain tumors.",
+                "url": "https://www.braintumourresearch.org/fundraise/wear-a-hat-day"
+            },
+            {
+                "title": "National Spinach Day",
+                "summary": "A celebration of the leafy green vegetable. Often associated with the character Popeye, this day is used by UK nutritionists to highlight the health benefits of spinach, such as its high iron and vitamin content, and to share versatile recipes for incorporating it into meals.",
+                "url": "https://www.daysoftheyear.com/days/spinach-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-03",
+        "events": [
+            {
+                "title": "World Theatre Day",
+                "summary": "Created by the International Theatre Institute, this day celebrates the power of the performing arts. In the UK, from the West End to local community theatres, it is marked with special performances, behind-the-scenes tours, and talks about the vital cultural and economic impact of British theatre.",
+                "url": "https://www.world-theatre-day.org/"
+            },
+            {
+                "title": "National Scribble Day",
+                "summary": "A day that encourages creativity in its simplest form. It’s about picking up a pen and letting your hand move freely without the pressure of creating 'art.' In the UK, it's often used in primary schools to inspire children's imagination through doodling and drawing.",
+                "url": "https://www.daysoftheyear.com/days/scribble-day/"
+            },
+            {
+                "title": "International Day of Medical Genetics",
+                "summary": "A day to recognize the importance of genetics in modern medicine. In the UK, the NHS uses this opportunity to highlight how genetic testing and research are leading to more personalised treatments and better diagnosis for rare diseases and hereditary conditions.",
+                "url": "https://www.bsgm.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "28-03",
+        "events": [
+            {
+                "title": "Earth Hour",
+                "summary": "Usually held on the last Saturday of March, this global WWF initiative sees millions of people in the UK and worldwide switch off their lights for one hour at 8:30 pm. It is a symbolic act to show support for the planet and raise awareness about climate change.",
+                "url": "https://www.wwf.org.uk/earth-hour"
+            },
+            {
+                "title": "National Weed Appreciation Day",
+                "summary": "A day that asks us to look twice at the 'unwanted' plants in our gardens. In the UK, it’s a day for foragers and nature enthusiasts to highlight the ecological benefits of weeds like dandelions and nettles, which provide vital food sources for pollinators.",
+                "url": "https://www.daysoftheyear.com/days/weed-appreciation-day/"
+            },
+            {
+                "title": "Barnum Day",
+                "summary": "Celebrating the birth of P.T. Barnum, the legendary showman. In the UK, it’s a day to appreciate the history of the circus and the performing arts, acknowledging the influence of showmanship on modern entertainment and the 'spectacle' of the big top.",
+                "url": "https://www.zippos.co.uk/about-circus"
+            }
+        ]
+    },
+    {
+        "date": "29-03",
+        "events": [
+            {
+                "title": "British Summer Time Starts",
+                "summary": "Usually on the last Sunday of March, the clocks go forward by one hour at 1 am. While it means losing an hour of sleep, it marks the beginning of longer evening daylight hours in the UK, signaling the true arrival of spring and upcoming summer months.",
+                "url": "https://www.gov.uk/when-do-the-clocks-change"
+            },
+            {
+                "title": "World Piano Day",
+                "summary": "Celebrated on the 88th day of the year (representing the 88 keys on a piano). In the UK, it is marked by concerts, street pianos, and online performances, celebrating the versatile instrument and the composers and musicians who have mastered its sound over centuries.",
+                "url": "https://www.pianoday.org/"
+            },
+            {
+                "title": "National Smoke and Mirrors Day",
+                "summary": "A day acknowledging the art of illusion and magic. In the UK, it's a day to appreciate the skill of magicians and the history of theatrical trickery, reminding us that things are not always what they seem and to enjoy the wonder of the unexplained.",
+                "url": "https://www.daysoftheyear.com/days/smoke-and-mirrors-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-03",
+        "events": [
+            {
+                "title": "World Bipolar Day",
+                "summary": "Held on the birthday of Vincent van Gogh, who was posthumously diagnosed with a bipolar condition. In the UK, Bipolar UK uses this day to raise awareness, eliminate social stigma, and provide support for the over one million people in Britain living with bipolar disorder.",
+                "url": "https://www.bipolaruk.org/world-bipolar-day"
+            },
+            {
+                "title": "National Doctors' Day",
+                "summary": "A day to recognize the contributions of physicians to individual lives and communities. In the UK, it's a chance to show appreciation for the hard work of NHS GPs and consultants who provide critical care and medical expertise to the British public every day.",
+                "url": "https://www.bma.org.uk/"
+            },
+            {
+                "title": "National Pencil Day",
+                "summary": "A celebration of the humble writing implement. Dating back to the patenting of the pencil with an attached eraser in 1858, UK artists and writers use the day to celebrate the simplicity and reliability of the pencil as a tool for creativity and communication.",
+                "url": "https://www.derwentart.com/en-gb/c/about/our-story/pencil-museum"
+            }
+        ]
+    },
+    {
+        "date": "31-03",
+        "events": [
+            {
+                "title": "International Transgender Day of Visibility",
+                "summary": "A day dedicated to celebrating transgender people and raising awareness of the discrimination they face worldwide. In the UK, it's marked by events and social media campaigns that highlight the achievements and contributions of the trans community while advocating for equal rights and safety.",
+                "url": "https://www.stonewall.org.uk/"
+            },
+            {
+                "title": "World Backup Day",
+                "summary": "A digital 'awareness' day reminding everyone to protect their precious digital files. In the UK, it's used as a prompt for businesses and individuals to back up their data to the cloud or external drives, preventing the loss of photos, documents, and important work.",
+                "url": "https://www.worldbackupday.com/"
+            },
+            {
+                "title": "National Bunsen Burner Day",
+                "summary": "A celebration of the laboratory staple, marking the birthday of Robert Wilhelm Eberhard von Bunsen. In UK science classrooms, it’s a day to remember the 'magic' of your first chemistry experiment and the blue flame that fueled a million school projects.",
+                "url": "https://www.rsc.org/periodic-table/history/about"
+            }
+        ]
+    }
+]

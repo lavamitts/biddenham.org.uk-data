@@ -1,0 +1,622 @@
+[
+    {
+        "date": "01-08",
+        "events": [
+            {
+                "title": "World Lung Cancer Day",
+                "summary": "An international campaign dedicated to raising awareness about lung cancer risks and the importance of early detection. In the UK, health organisations focus on encouraging people to recognize persistent coughs and seek medical advice to improve survival rates through timely intervention and research funding.",
+                "url": "https://www.royalcastle.org/world-lung-cancer-day/"
+            },
+            {
+                "title": "Yorkshire Day",
+                "summary": "A celebration of the UK’s largest county, Yorkshire. Established in 1975, the day promotes the heritage and culture of the region. Traditions include the reading of the Yorkshire Declaration of Integrity and the consumption of local delicacies like Yorkshire pudding and curd tart.",
+                "url": "https://www.yorkshiresociety.org.uk/yorkshire-day/"
+            },
+            {
+                "title": "National Raspberry Cream Pie Day",
+                "summary": "A celebration of the classic summer dessert. While more prominent in broader culinary circles, it serves as a perfect excuse for UK bakers to utilize seasonal British raspberries combined with rich, chilled cream during the height of the August harvest season.",
+                "url": "https://www.daysoftheyear.com/days/raspberry-cream-pie-day/"
+            }
+        ]
+    },
+    {
+        "date": "02-08",
+        "events": [
+            {
+                "title": "National colouring Book Day",
+                "summary": "A day dedicated to the creative and therapeutic benefits of colouring. Originally associated with children, the adult colouring book trend in the UK has popularised this day as a recognised method for mindfulness, stress reduction, and artistic expression for all ages.",
+                "url": "https://www.nationalcalendar.com/national-colouring-book-day/"
+            },
+            {
+                "title": "Cycle to Work Day",
+                "summary": "The UK’s biggest one-day cycling event, encouraging commuters to ditch the car or bus for a bike. It aims to promote health, reduce carbon footprints, and highlight the infrastructure improvements needed for safer cycling across British cities and rural towns.",
+                "url": "https://www.cycletoworkday.org/"
+            },
+            {
+                "title": "International Beer Day",
+                "summary": "Observed on the first Friday of August, this global celebration is widely embraced by British pubs. It encourages enthusiasts to enjoy a pint of craft ale or lager, celebrate the dedicated work of brewers, and bring people together over a shared love of beer.",
+                "url": "https://internationalbeerday.com/"
+            }
+        ]
+    },
+    {
+        "date": "03-08",
+        "events": [
+            {
+                "title": "National Watermelon Day",
+                "summary": "A refreshing summer event celebrating one of the most hydrating fruits. In the UK, as temperatures often peak in August, this day focuses on healthy snacking and creative recipes, from fruit salads to chilled beverages, highlighting the fruit's nutritional value and high water content.",
+                "url": "https://www.nationaldaycalendar.com/national-watermelon-day/"
+            },
+            {
+                "title": "Friendship Day",
+                "summary": "A day to celebrate the bonds of friendship. While dates vary globally, the first Sunday of August is traditionally marked in the UK and beyond as a time to reach out to friends, exchange cards, or meet for a meal to acknowledge support and companionship.",
+                "url": "https://www.un.org/en/observances/friendship-day"
+            },
+            {
+                "title": "National Grab Some Nuts Day",
+                "summary": "A light-hearted day encouraging people to enjoy a healthy snack of various nuts. Whether it is almonds, walnuts, or cashews, the focus is on the protein and healthy fats provided by these snacks, making it a simple, whimsical reminder to eat well on the go.",
+                "url": "https://www.daysoftheyear.com/days/grab-some-nuts-day/"
+            }
+        ]
+    },
+    {
+        "date": "04-08",
+        "events": [
+            {
+                "title": "National Coastwatch Day",
+                "summary": "Celebrating the National Coastwatch Institution (NCI) in the UK. This day honors the volunteers who maintain a visual watch along the British coastline, assisting HM Coastguard in saving lives by spotting vessels in distress and monitoring dangerous sea conditions for public safety.",
+                "url": "https://www.nci.org.uk/"
+            },
+            {
+                "title": "Single Working Women's Day",
+                "summary": "This day recognises the significant economic and social contributions made by single women in the workforce. It aims to break stereotypes and celebrate the independence and hard work of women who manage their professional lives and households without a partner's support.",
+                "url": "https://www.singleworkingwomensday.com/"
+            },
+            {
+                "title": "Assistance Dog Day",
+                "summary": "A day to honor the incredible work of assistance dogs, including guide dogs and hearing dogs for deaf people in the UK. It highlights how these specially trained animals provide independence, confidence, and essential safety to individuals living with various disabilities.",
+                "url": "https://www.assistancedogsinternational.org/"
+            }
+        ]
+    },
+    {
+        "date": "05-08",
+        "events": [
+            {
+                "title": "National Underwear Day",
+                "summary": "A celebration focused on body confidence and the history of undergarments. While often used for marketing campaigns, in the UK it serves as a light-hearted reminder to refresh the top drawer and embrace positive self-image regardless of shape or size.",
+                "url": "https://www.daysoftheyear.com/days/underwear-day/"
+            },
+            {
+                "title": "Work Like a Dog Day",
+                "summary": "A day dedicated to those who go the extra mile in their professions. The phrase 'working like a dog' implies intense productivity and dedication, encouraging UK employees to tackle their toughest tasks with renewed vigor before the summer holiday season truly kicks in.",
+                "url": "https://www.nationaldaycalendar.com/national-work-like-a-dog-day/"
+            },
+            {
+                "title": "International Traffic Light Day",
+                "summary": "Commemorating the installation of the first electric traffic signal. This day is a nod to road safety and the evolution of urban planning. In the UK, it serves as a reminder of the importance of following road signals to ensure the safety of all road users.",
+                "url": "https://www.daysoftheyear.com/days/traffic-light-day/"
+            }
+        ]
+    },
+    {
+        "date": "06-08",
+        "events": [
+            {
+                "title": "Hiroshima Day",
+                "summary": "A somber day of remembrance observed globally and across the UK to commemorate the victims of the atomic bombing of Hiroshima in 1945. Peace activists and local councils often hold vigils to advocate for nuclear disarmament and a future free from war.",
+                "url": "https://www.cnduk.org/"
+            },
+            {
+                "title": "National Fresh Breath Day",
+                "summary": "A health-oriented day promoted by dental professionals to raise awareness about oral hygiene. In the UK, it encourages regular brushing, flossing, and dental check-ups to prevent halitosis and maintain overall mouth health, which is linked to broader physical well-being.",
+                "url": "https://www.daysoftheyear.com/days/fresh-breath-day/"
+            },
+            {
+                "title": "Farmworker Appreciation Day",
+                "summary": "A day to acknowledge the hard work of those in the agricultural sector. Given the UK's reliance on seasonal labor for the summer harvest, this day highlights the essential role farmworkers play in bringing fresh produce from the fields to British supermarket shelves.",
+                "url": "https://www.nfuonline.com/"
+            }
+        ]
+    },
+    {
+        "date": "07-08",
+        "events": [
+            {
+                "title": "Playday",
+                "summary": "The national day for play in the UK, usually held on the first Wednesday of August. Thousands of children and families participate in local community events to highlight the importance of play in children’s lives for their physical health and mental development.",
+                "url": "http://www.playday.org.uk/"
+            },
+            {
+                "title": "Lighthouse Day",
+                "summary": "A day to celebrate the maritime history and architectural beauty of lighthouses. In the UK, organisations like Trinity House highlight the role these structures have played in protecting sailors and ensuring safe passage around the treacherous British coastline for centuries.",
+                "url": "https://www.trinityhouse.co.uk/"
+            },
+            {
+                "title": "Particularly Preposterous Packaging Day",
+                "summary": "A whimsical but poignant day in the UK focused on the absurdity of over-packaged goods. It encourages consumers to highlight products that use excessive plastic or cardboard, prompting a conversation about sustainability and the need for more eco-friendly retail habits.",
+                "url": "https://www.daysoftheyear.com/days/particularly-preposterous-packaging-day/"
+            }
+        ]
+    },
+    {
+        "date": "08-08",
+        "events": [
+            {
+                "title": "International Cat Day",
+                "summary": "Created by the International Fund for Animal Welfare, this day is hugely popular in the UK. It celebrates the companionship of feline friends and promotes cat welfare, encouraging potential owners to adopt from shelters like Cats Protection or the RSPCA.",
+                "url": "https://www.cats.org.uk/support-us/events/international-cat-day"
+            },
+            {
+                "title": "National Happiness Happens Day",
+                "summary": "A day dedicated to celebrating things that make you happy and sharing that joy with others. Based on the idea that happiness is contagious, people across the UK are encouraged to perform small acts of kindness and focus on the positive aspects of life.",
+                "url": "https://secretsofhappiness.com/"
+            },
+            {
+                "title": "Severe ME Awareness Day",
+                "summary": "Observed on the birthdate of Sophia Mirza, the first person in the UK to have Chronic Fatigue Syndrome listed as a cause of death. This day aims to bring attention to the most severe forms of the condition and the need for better medical understanding.",
+                "url": "https://meassociation.org.uk/2023/08/severe-me-awareness-day-2023/"
+            }
+        ]
+    },
+    {
+        "date": "09-08",
+        "events": [
+            {
+                "title": "International Day of the World's Indigenous Peoples",
+                "summary": "A UN-designated day to promote and protect the rights of the world’s indigenous populations. In the UK, events often focus on educational seminars regarding the preservation of indigenous cultures and the environmental challenges faced by these communities globally.",
+                "url": "https://www.un.org/en/observances/indigenous-day"
+            },
+            {
+                "title": "National Book Lovers Day",
+                "summary": "A day for bibliophiles to celebrate the joy of reading. UK libraries and bookstores often run promotions, encouraging people to put down their phones and pick up a book, highlighting the mental health benefits and escapism that literature provides.",
+                "url": "https://www.readingagency.org.uk/"
+            },
+            {
+                "title": "National Rice Pudding Day",
+                "summary": "A whimsical nod to a classic British school-dinner staple. This day celebrates the comforting, creamy dessert that has been a part of UK culinary tradition for generations, whether served with a dollop of jam or a dusting of nutmeg.",
+                "url": "https://www.daysoftheyear.com/days/rice-pudding-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-08",
+        "events": [
+            {
+                "title": "World Lion Day",
+                "summary": "A global campaign to raise awareness about the decline in lion populations and the need for conservation. UK-based wildlife charities use this day to fundraise and educate the public on how habitat loss and poaching threaten the 'King of Beasts' in the wild.",
+                "url": "https://worldlionday.com/"
+            },
+            {
+                "title": "National Lazy Day",
+                "summary": "A day that gives everyone permission to do absolutely nothing. In a busy work-oriented culture like the UK, this whimsical event encourages people to take a break from chores and digital devices to simply relax and recharge their mental batteries.",
+                "url": "https://www.daysoftheyear.com/days/lazy-day/"
+            },
+            {
+                "title": "S'mores Day",
+                "summary": "Though originally a North American campfire tradition, S'mores Day has gained traction in the UK. It celebrates the gooey sandwich of toasted marshmallows and chocolate between biscuits, coinciding perfectly with the British summer camping and barbecue season.",
+                "url": "https://www.daysoftheyear.com/days/smores-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-08",
+        "events": [
+            {
+                "title": "National Son's and Daughter's Day",
+                "summary": "A day for parents to spend quality time with their children. Unlike Mother’s or Father’s Day, this focus is on the children themselves, encouraging UK families to engage in activities together and acknowledge the joy that children bring to the household.",
+                "url": "https://www.daysoftheyear.com/days/sons-and-daughters-day/"
+            },
+            {
+                "title": "Play in the Sand Day",
+                "summary": "A whimsical summer event celebrating the simple pleasure of building sandcastles. With many UK families visiting seaside resorts like Blackpool or Brighton in August, this day highlights the nostalgic and creative fun of the British beach experience.",
+                "url": "https://www.daysoftheyear.com/days/play-in-the-sand-day/"
+            },
+            {
+                "title": "Mountain Day",
+                "summary": "A day to appreciate the majesty of mountains and the importance of their ecosystems. In the UK, it is often marked by hikers and outdoor enthusiasts taking to peaks like Ben Nevis, Snowdon, or Scafell Pike to celebrate the British highland landscape.",
+                "url": "https://www.un.org/en/observances/mountain-day"
+            }
+        ]
+    },
+    {
+        "date": "12-08",
+        "events": [
+            {
+                "title": "International Youth Day",
+                "summary": "An awareness day designated by the United Nations to draw attention to cultural and legal issues surrounding youth. In the UK, organisations use the day to celebrate the achievements of young people and advocate for their involvement in political and social change.",
+                "url": "https://www.un.org/en/observances/youth-day"
+            },
+            {
+                "title": "World Elephant Day",
+                "summary": "A day dedicated to the preservation and protection of the world's elephants. UK wildlife organisations focus on the ivory trade ban and habitat conservation efforts, educating the public on the intelligence and social complexity of these magnificent land mammals.",
+                "url": "https://worldelephantday.org/"
+            },
+            {
+                "title": "Middle Child Day",
+                "summary": "A day to celebrate those born between the eldest and youngest siblings. Often jokingly cited as the 'forgotten' children, this day encourages UK families to give their middle-borns some extra attention and acknowledge their unique position in the family hierarchy.",
+                "url": "https://www.daysoftheyear.com/days/middle-child-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-08",
+        "events": [
+            {
+                "title": "International Left-Handers Day",
+                "summary": "A day to celebrate the uniqueness of left-handed individuals, who make up about 10% of the UK population. It raises awareness about the daily challenges lefties face in a right-handed world, from using scissors to sitting at awkward desks.",
+                "url": "https://www.lefthandersday.com/"
+            },
+            {
+                "title": "National Prosecco Day",
+                "summary": "Celebrating the UK's favorite sparkling wine. This day acknowledges the massive popularity of the Italian fizz in British bars and homes, encouraging a toast to summer while highlighting the various regions and styles of the drink.",
+                "url": "https://www.daysoftheyear.com/days/prosecco-day/"
+            },
+            {
+                "title": "National Filet Mignon Day",
+                "summary": "A culinary day focused on one of the most tender cuts of beef. In the UK, top-tier steakhouses and butchers use this day to promote quality British beef and provide tips on how to perfectly sear this premium steak at home.",
+                "url": "https://www.daysoftheyear.com/days/filet-mignon-day/"
+            }
+        ]
+    },
+    {
+        "date": "14-08",
+        "events": [
+            {
+                "title": "World Lizard Day",
+                "summary": "A day for reptile enthusiasts to celebrate lizards and promote their conservation. In the UK, it is often a focus for exotic pet owners and zoos to educate the public on the diverse species of lizards and their environmental roles.",
+                "url": "https://www.daysoftheyear.com/days/world-lizard-day/"
+            },
+            {
+                "title": "National Financial Awareness Day",
+                "summary": "An event aimed at encouraging people to review their financial health. In the UK, this day is used by advisors to promote better saving habits, pension planning, and debt management, helping individuals build a more secure financial future.",
+                "url": "https://www.daysoftheyear.com/days/financial-awareness-day/"
+            },
+            {
+                "title": "National Creamsicle Day",
+                "summary": "A whimsical summer treat day. While 'Creamsicle' is a brand name, the day celebrates the classic combination of orange ice and vanilla cream, a nostalgic flavor profile for many who enjoy traditional British ice lollies from the ice cream van.",
+                "url": "https://www.daysoftheyear.com/days/creamsicle-day/"
+            }
+        ]
+    },
+    {
+        "date": "15-08",
+        "events": [
+            {
+                "title": "VJ Day (Victory over Japan Day)",
+                "summary": "A significant day of remembrance in the UK, marking the end of the Second World War in 1945. Memorial services are held across the country to honor the veterans who served in the Far East and to remember the sacrifices made.",
+                "url": "https://www.britishlegion.org.uk/get-involved/remembrance/remembrance-events/vj-day"
+            },
+            {
+                "title": "National Relaxation Day",
+                "summary": "An annual event that advocates for taking a break from the stresses of daily life. In the UK, it’s a reminder to slow down, practice self-care, and engage in calming activities like reading, meditation, or a quiet walk in nature.",
+                "url": "https://www.daysoftheyear.com/days/relaxation-day/"
+            },
+            {
+                "title": "Check the Chip Day",
+                "summary": "A pet safety day that encourages owners to ensure their pet's microchip information is up to date. In the UK, where microchipping dogs and cats is a legal requirement, this serves as a vital reminder to help lost pets return home.",
+                "url": "https://www.rvc.ac.uk/small-animal-referrals/news/check-the-chip-day"
+            }
+        ]
+    },
+    {
+        "date": "16-08",
+        "events": [
+            {
+                "title": "National Tell a Joke Day",
+                "summary": "A day dedicated to humor and laughter. Across the UK, people are encouraged to share their best (or worst) jokes with friends and colleagues, highlighting the positive impact that laughter has on mental health and social bonding.",
+                "url": "https://www.daysoftheyear.com/days/tell-a-joke-day/"
+            },
+            {
+                "title": "National Roller Coaster Day",
+                "summary": "Celebrating the thrills of the amusement park. With world-class theme parks like Alton Towers and Thorpe Park, the UK has a strong culture of ride enthusiasts who use this day to celebrate the engineering and excitement of coasters.",
+                "url": "https://www.daysoftheyear.com/days/roller-coaster-day/"
+            },
+            {
+                "title": "National Rum Day",
+                "summary": "A celebration of the versatile spirit. UK bars often host rum tastings or cocktail masterclasses, focusing on the history of rum and its deep-rooted connection to British maritime history and the Caribbean influence on British culture.",
+                "url": "https://www.daysoftheyear.com/days/rum-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-08",
+        "events": [
+            {
+                "title": "National Black Cat Appreciation Day",
+                "summary": "A day to dispel myths and superstitions surrounding black cats. In the UK, black cats often take longer to be rehomed from shelters, so this day highlights their beauty and charm to encourage potential adopters to look past old folklore.",
+                "url": "https://www.cats.org.uk/cats-blog/black-cat-appreciation-day"
+            },
+            {
+                "title": "National Nonprofit Day",
+                "summary": "Recognizing the vital work of charities and nonprofit organisations. In the UK, this is a time to celebrate the volunteers and staff who work tirelessly for various causes, from poverty relief to animal welfare and medical research.",
+                "url": "https://www.daysoftheyear.com/days/national-nonprofit-day/"
+            },
+            {
+                "title": "National Thrift Shop Day",
+                "summary": "A day to celebrate the UK's vibrant charity shop culture. It encourages sustainable shopping habits and highlights how purchasing second-hand items helps raise essential funds for various British charities while reducing environmental waste from the fashion industry.",
+                "url": "https://www.charityretail.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "18-08",
+        "events": [
+            {
+                "title": "Never Give Up Day",
+                "summary": "A day focused on perseverance and resilience. In the UK, it is often used by motivational speakers and mental health advocates to encourage people to stay determined through personal challenges, whether in fitness, business, or mental well-being.",
+                "url": "https://www.nevergiveupday.com/"
+            },
+            {
+                "title": "National Fajita Day",
+                "summary": "A celebration of the popular Mexican-inspired dish. UK foodies use this day to explore different fillings, from spicy chicken to grilled vegetables, often sharing recipes and hosting dinner parties centered around this interactive and flavorful meal.",
+                "url": "https://www.daysoftheyear.com/days/fajita-day/"
+            },
+            {
+                "title": "Bad Poetry Day",
+                "summary": "A day that encourages people to write the worst verse possible. It’s a light-hearted way for UK schools and creative groups to engage with poetry without the pressure of perfection, celebrating the fun side of linguistic blunders and cheesy rhymes.",
+                "url": "https://www.daysoftheyear.com/days/bad-poetry-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-08",
+        "events": [
+            {
+                "title": "World Humanitarian Day",
+                "summary": "A day to honor humanitarian workers who risk their lives in service and to rally support for people affected by crises. In the UK, major NGOs use this day to raise awareness of global issues and advocate for international aid and protection.",
+                "url": "https://www.un.org/en/observances/humanitarian-day"
+            },
+            {
+                "title": "World Photography Day",
+                "summary": "A global celebration of the art, craft, and science of photography. UK photographers, both professional and amateur, are encouraged to share their favorite shots online, celebrating how a single image can capture a moment and tell a powerful story.",
+                "url": "https://www.worldphotographyday.com/"
+            },
+            {
+                "title": "International Bow Tie Day",
+                "summary": "A whimsical fashion day celebrating the classic bow tie. Once a staple of formal British attire, this day encourages people to add a touch of dapper style to their outfits, whether they are going for a vintage look or a modern twist.",
+                "url": "https://www.daysoftheyear.com/days/bow-tie-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-08",
+        "events": [
+            {
+                "title": "World Mosquito Day",
+                "summary": "Commemorating Sir Ronald Ross's 1897 discovery that female mosquitoes transmit malaria. In the UK, this day is used to highlight the ongoing battle against malaria and the importance of research and funding to eradicate the disease globally.",
+                "url": "https://www.lshtm.ac.uk/newsevents/events/world-mosquito-day"
+            },
+            {
+                "title": "National Radio Day",
+                "summary": "A day to celebrate the enduring power of radio. From the BBC to local community stations, radio remains a vital part of UK culture, providing news, music, and companionship to millions of listeners every day.",
+                "url": "https://www.daysoftheyear.com/days/radio-day/"
+            },
+            {
+                "title": "National Bacon Lover's Day",
+                "summary": "A celebration of a British breakfast staple. Whether it’s in a 'butty' or part of a full English, bacon is a national favorite, and this day encourages people to enjoy their favorite salty treat in all its forms.",
+                "url": "https://www.daysoftheyear.com/days/bacon-lovers-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-08",
+        "events": [
+            {
+                "title": "World Senior Citizens Day",
+                "summary": "A day to recognize and appreciate the contributions of older people to society. In the UK, organisations focus on issues like ageism and social isolation, encouraging communities to support and celebrate their elderly residents.",
+                "url": "https://www.un.org/en/observances/senior-citizens-day"
+            },
+            {
+                "title": "National Spumoni Day",
+                "summary": "A day celebrating the classic Italian molded gelato. While less common than standard ice cream in the UK, it is a favorite in traditional Italian-British restaurants, featuring layers of different colours and flavors usually containing candied fruits and nuts.",
+                "url": "https://www.daysoftheyear.com/days/spumoni-day/"
+            },
+            {
+                "title": "Internet Self-Care Day",
+                "summary": "A whimsical but necessary day encouraging people to take a break from the digital world. In the UK, it highlights the importance of 'switching off' from social media and news to protect mental health and focus on real-world interactions.",
+                "url": "https://www.daysoftheyear.com/days/internet-self-care-day/"
+            }
+        ]
+    },
+    {
+        "date": "22-08",
+        "events": [
+            {
+                "title": "Be an Angel Day",
+                "summary": "A day focused on performing random acts of kindness. Across the UK, people are encouraged to be a 'blessing' to someone else, whether through a small favor, a kind word, or helping a neighbor, fostering a sense of community and support.",
+                "url": "https://www.daysoftheyear.com/days/be-an-angel-day/"
+            },
+            {
+                "title": "National Tooth Fairy Day",
+                "summary": "A celebration of the childhood myth. In the UK, this day is often used by dental practices to make dental health fun for kids, encouraging good brushing habits so that the 'tooth fairy' only receives healthy, strong teeth.",
+                "url": "https://www.daysoftheyear.com/days/tooth-fairy-day/"
+            },
+            {
+                "title": "World Plant Milk Day",
+                "summary": "A day to promote dairy-free alternatives like oat, almond, and soy milk. With the rise of veganism in the UK, this day highlights the environmental and health benefits of switching to plant-based milks in tea, coffee, and cooking.",
+                "url": "https://www.worldplantmilkday.com/"
+            }
+        ]
+    },
+    {
+        "date": "23-08",
+        "events": [
+            {
+                "title": "International Day for the Remembrance of the Slave Trade and its Abolition",
+                "summary": "A UNESCO-designated day to memorialize the tragedy of the slave trade. In the UK, particularly in cities like Liverpool and Bristol with historic links to the trade, events focus on education and reflecting on the struggle for freedom and equality.",
+                "url": "https://www.unesco.org/en/days/slave-trade-remembrance"
+            },
+            {
+                "title": "National Ride the Wind Day",
+                "summary": "Commemorating the first human-powered flight to win the Kremer prize. This day encourages people in the UK to enjoy the breeze, whether through sailing, kite flying, or simply appreciating the power of wind as a renewable energy source.",
+                "url": "https://www.daysoftheyear.com/days/ride-the-wind-day/"
+            },
+            {
+                "title": "National Sponge Cake Day",
+                "summary": "A whimsical nod to the quintessential British afternoon tea component. From the classic Victoria Sponge to a simple lemon drizzle, this day celebrates the light and airy cake that has been a staple of UK baking for centuries.",
+                "url": "https://www.daysoftheyear.com/days/sponge-cake-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-08",
+        "events": [
+            {
+                "title": "National Knife Angels Day",
+                "summary": "Often associated with the Knife Angel sculpture touring the UK, this day focuses on anti-violence and the reduction of knife crime. It encourages communities to come together to promote peace and educate young people on the dangers of carrying weapons.",
+                "url": "https://www.britishironworkcentre.co.uk/show-areas/the-knife-angel"
+            },
+            {
+                "title": "International Strange Music Day",
+                "summary": "A day to encourage people to listen to music they wouldn't normally experience. In the UK's diverse music scene, it's a chance to explore avant-garde, experimental, or obscure genres and broaden one's musical horizons beyond the mainstream charts.",
+                "url": "https://www.daysoftheyear.com/days/strange-music-day/"
+            },
+            {
+                "title": "National Waffle Day",
+                "summary": "A celebration of the gridded breakfast treat. While often associated with Belgian or American styles, waffles have become a popular brunch and dessert item in the UK, frequently topped with British berries or golden syrup.",
+                "url": "https://www.daysoftheyear.com/days/waffle-day/"
+            }
+        ]
+    },
+    {
+        "date": "25-08",
+        "events": [
+            {
+                "title": "National Second-hand Wardrobe Day",
+                "summary": "Encouraging a more sustainable approach to fashion. In the UK, this day highlights the benefits of buying clothes from vintage shops, charity stores, and online resale platforms, helping to reduce the environmental impact of 'fast fashion' textile waste.",
+                "url": "https://www.daysoftheyear.com/days/second-hand-wardrobe-day/"
+            },
+            {
+                "title": "National Whiskey Sour Day",
+                "summary": "A day for cocktail enthusiasts to enjoy a classic Whiskey Sour. UK bars often showcase their best versions of this drink, balancing the richness of whiskey with the tartness of lemon and a touch of sweetness for a sophisticated late-summer serve.",
+                "url": "https://www.daysoftheyear.com/days/whiskey-sour-day/"
+            },
+            {
+                "title": "National Kiss-and-Make-Up Day",
+                "summary": "A day focused on reconciliation. It encourages people in the UK to end lingering arguments, let go of grudges, and mend relationships with friends, family, or partners, promoting harmony and emotional well-being.",
+                "url": "https://www.daysoftheyear.com/days/kiss-and-make-up-day/"
+            }
+        ]
+    },
+    {
+        "date": "26-08",
+        "events": [
+            {
+                "title": "International Dog Day",
+                "summary": "A massive celebration in the UK for 'man's best friend.' The day raises awareness about dog adoption and the importance of providing a loving home for rescue dogs, while also celebrating the diverse roles dogs play in our lives.",
+                "url": "https://www.internationaldogday.com/"
+            },
+            {
+                "title": "National Women’s Equality Day",
+                "summary": "Marking the anniversary of women gaining the right to vote in the US, but observed internationally and in the UK to reflect on the ongoing global struggle for gender equality in the workplace, politics, and wider society.",
+                "url": "https://www.nationalwomenshistoryalliance.org/"
+            },
+            {
+                "title": "National Toilet Paper Day",
+                "summary": "A day celebrating an essential everyday item. In the UK, this might be marked with a light-hearted look at the history of plumbing and hygiene, or simply as a reminder of the modern comforts we often take for granted.",
+                "url": "https://www.daysoftheyear.com/days/toilet-paper-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-08",
+        "events": [
+            {
+                "title": "National Burger Day",
+                "summary": "A major event for the UK food industry, usually falling on the Thursday before the August Bank Holiday. Hundreds of restaurants across the country offer discounts and special menus to celebrate the versatility of the burger.",
+                "url": "https://www.nationalburgerday.co.uk/"
+            },
+            {
+                "title": "World Rock Paper Scissors Day",
+                "summary": "A day celebrating the universal game of chance. In the UK, it is a light-hearted way to settle minor disputes or simply have fun, highlighting how such a simple game is known and played across almost every culture.",
+                "url": "https://www.daysoftheyear.com/days/rock-paper-scissors-day/"
+            },
+            {
+                "title": "National Just Because Day",
+                "summary": "A day that encourages doing something for no particular reason. Whether it's buying a small gift for a friend or taking an unplanned trip to a UK park, the focus is on spontaneity and the joy of 'just because.'",
+                "url": "https://www.daysoftheyear.com/days/just-because-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-08",
+        "events": [
+            {
+                "title": "National Bowel Cancer Awareness Day",
+                "summary": "While the main awareness month is April, various events occur in August to maintain focus on the UK’s fourth most common cancer. This day emphasises the importance of screening and recognizing symptoms like persistent changes in bowel habits.",
+                "url": "https://www.bowelcanceruk.org.uk/"
+            },
+            {
+                "title": "National Red Wine Day",
+                "summary": "A celebration of red wine varieties. In the UK, as evenings begin to slightly cool toward the end of August, it’s a popular time to enjoy a glass of Malbec or Pinot Noir and learn about different wine-producing regions.",
+                "url": "https://www.daysoftheyear.com/days/red-wine-day/"
+            },
+            {
+                "title": "Crackers over the Keyboard Day",
+                "summary": "A whimsical and slightly messy day acknowledging the habit of eating at one's desk. In the UK office culture, it's a humorous reminder to take a proper lunch break away from the screen to avoid the dreaded 'keyboard crumbs.'",
+                "url": "https://www.daysoftheyear.com/days/crackers-over-the-keyboard-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-08",
+        "events": [
+            {
+                "title": "International Day against Nuclear Tests",
+                "summary": "A UN-observed day aimed at raising awareness about the effects of nuclear weapon test explosions. In the UK, peace organisations use this day to advocate for a nuclear-test-free world and to highlight the environmental and health impacts of past testing.",
+                "url": "https://www.un.org/en/observances/end-nuclear-tests-day"
+            },
+            {
+                "title": "National Sports Day",
+                "summary": "Inspired by global celebrations of athleticism, this day in the UK encourages people of all ages to get active. Local clubs often host 'taster' sessions for sports like cricket, football, or athletics to foster community health and teamwork.",
+                "url": "https://www.sportengland.org/"
+            },
+            {
+                "title": "National Lemon Juice Day",
+                "summary": "A celebration of the versatile citrus fruit. From being a key ingredient in British pancakes to its use in summer drinks and cleaning hacks, this day highlights the many ways lemon juice adds zest to UK life.",
+                "url": "https://www.daysoftheyear.com/days/lemon-juice-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-08",
+        "events": [
+            {
+                "title": "International Day of the Victims of Enforced Disappearances",
+                "summary": "A somber UN day to draw attention to the plight of individuals disappeared in conflict or by repressive regimes. UK human rights groups use this day to campaign for justice and support the families of those missing globally.",
+                "url": "https://www.un.org/en/observances/disappearances-day"
+            },
+            {
+                "title": "National Toasted Marshmallow Day",
+                "summary": "A celebration that coincides with the late summer bank holiday weekend in the UK. Whether over a campfire or a garden fire pit, it’s a day to enjoy the simple, sticky pleasure of perfectly browned marshmallows.",
+                "url": "https://www.daysoftheyear.com/days/toasted-marshmallow-day/"
+            },
+            {
+                "title": "National Beach Day",
+                "summary": "A day to celebrate the beauty of the coast and advocate for beach clean-ups. For the UK, it’s a reminder to protect our shoreline and enjoy the diverse coastal landscapes from the rugged cliffs of Cornwall to the sands of Norfolk.",
+                "url": "https://www.nationalbeachday.com/"
+            }
+        ]
+    },
+    {
+        "date": "31-08",
+        "events": [
+            {
+                "title": "International Overdose Awareness Day",
+                "summary": "A global campaign to end overdose, remember those who have died, and acknowledge the grief of family and friends. In the UK, health services and charities use this day to promote harm reduction and the availability of life-saving Naloxone.",
+                "url": "https://www.overdoseday.com/"
+            },
+            {
+                "title": "National Eat Outside Day",
+                "summary": "A day encouraging people to enjoy a meal in the fresh air. With the August Bank Holiday often falling around this time, it’s the perfect excuse for a traditional British picnic or a pub garden lunch before autumn arrives.",
+                "url": "https://www.daysoftheyear.com/days/eat-outside-day/"
+            },
+            {
+                "title": "Love Litigating Day",
+                "summary": "A whimsical and slightly niche day celebrating the legal profession. While perhaps for those with a very specific sense of humor, it acknowledges the complex world of law and those who enjoy the intricacies of a good legal debate.",
+                "url": "https://www.daysoftheyear.com/days/love-litigating-day/"
+            }
+        ]
+    }
+]

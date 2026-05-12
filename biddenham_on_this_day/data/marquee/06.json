@@ -1,0 +1,602 @@
+[
+    {
+        "date": "01-06",
+        "events": [
+            {
+                "title": "Global Day of Parents",
+                "summary": "Proclaimed by the UN, this day honors parents globally for their selfless commitment to children. In the UK, family organisations use it to highlight the critical role parents play in providing a nurturing environment and to advocate for better work-life balance policies for British families.",
+                "url": "https://www.un.org/en/observances/parents-day"
+            },
+            {
+                "title": "Volunteers' Week Begins",
+                "summary": "An annual celebration across the UK recognizing the contribution millions of people make through volunteering. This week showcases how volunteers support charities, the NHS, and local communities, encouraging others to donate their time to causes that strengthen British society.",
+                "url": "https://volunteersweek.org/"
+            },
+            {
+                "title": "National Say Something Nice Day",
+                "summary": "A whimsical reminder to brighten someone's day with a kind word. In an age of digital cynicism, this day encourages people in Britain to offer genuine compliments to colleagues, friends, or strangers, fostering a more positive and supportive social atmosphere.",
+                "url": "https://www.daysoftheyear.com/days/say-something-nice-day/"
+            }
+        ]
+    },
+    {
+        "date": "02-06",
+        "events": [
+            {
+                "title": "National Gunedogs Day",
+                "summary": "Celebrating the working heritage of gundogs in the UK, such as Spaniels, Setters, and Retrievers. This day highlights the unique bond between these dogs and their handlers, focusing on their training, intelligence, and their historic role in British country sports and conservation.",
+                "url": "https://www.thekennelclub.org.uk/"
+            },
+            {
+                "title": "World Eating Disorders Action Day",
+                "summary": "A global effort to provide evidence-based information and support. UK charities like Beat use this day to challenge myths, advocate for early intervention, and improve the specialist care available through the NHS for those suffering from anorexia, bulimia, and binge eating disorders.",
+                "url": "https://www.beateatingdisorders.org.uk/"
+            },
+            {
+                "title": "National Rocky Road Day",
+                "summary": "A celebration of the classic chocolate, marshmallow, and biscuit treat. In the UK, home bakers and cafes share their best recipes, encouraging a mid-afternoon sugar boost with a traybake that has become a staple of British coffee mornings and bake sales.",
+                "url": "https://www.daysoftheyear.com/days/rocky-road-day/"
+            }
+        ]
+    },
+    {
+        "date": "03-06",
+        "events": [
+            {
+                "title": "World Bicycle Day",
+                "summary": "This UN-designated day promotes the bicycle as a simple, sustainable, and reliable means of transportation. In the UK, cycling groups like British Cycling and Sustrans use the date to advocate for safer cycle lanes and to encourage commuters to ditch the car.",
+                "url": "https://www.britishcycling.org.uk/"
+            },
+            {
+                "title": "National Healthcare Estates and Facilities Day",
+                "summary": "A day to celebrate the essential 'non-clinical' staff in the NHS. From porters and cleaners to engineers and cooks, this UK initiative recognises the workforce that keeps hospitals safe, clean, and functioning so that doctors and nurses can provide the best patient care.",
+                "url": "https://www.healthcareestatesandfacilitiesday.org/"
+            },
+            {
+                "title": "Love Your Burial Ground Week",
+                "summary": "A unique UK initiative encouraging communities to explore the biodiversity and history of churchyards and cemeteries. These sites are often 'mini-nature reserves' in Britain, providing vital habitats for rare plants, insects, and birds amidst local historical monuments.",
+                "url": "https://www.caringforgodsacre.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "04-06",
+        "events": [
+            {
+                "title": "International Day of Innocent Children Victims of Aggression",
+                "summary": "A solemn day to acknowledge the pain suffered by children throughout the world who are the victims of physical, mental, and emotional abuse. UK-based international charities use this day to campaign for the protection of children in conflict zones and domestic settings.",
+                "url": "https://www.un.org/en/observances/child-victim-day"
+            },
+            {
+                "title": "National Fish and Chips Day",
+                "summary": "One of the most popular food days in the UK, celebrating the nation's favorite dish. Chippies across the country offer specials, and the day recognises the fishermen, farmers, and friers who maintain this iconic British culinary tradition.",
+                "url": "https://www.neoda.org.uk/fishandchipsday/"
+            },
+            {
+                "title": "National Hug Your Cat Day",
+                "summary": "A day for the UK's millions of feline fans. While many British cats may prefer a gentle scratch behind the ears to a full hug, owners use the day to share photos and celebrate the companionship that cats provide in many UK households.",
+                "url": "https://www.cats.org.uk/"
+            }
+        ]
+    },
+    {
+        "date": "05-06",
+        "events": [
+            {
+                "title": "World Environment Day",
+                "summary": "The UN's primary vehicle for encouraging worldwide awareness and action for the protection of our environment. In the UK, events range from beach cleans to plastic-free challenges, highlighting the urgent need for sustainable living and habitat restoration to combat climate change.",
+                "url": "https://www.worldenvironmentday.global/"
+            },
+            {
+                "title": "National Hot Air Balloon Day",
+                "summary": "Celebrating the history of lighter-than-air flight. In Britain, which has a vibrant ballooning community and hosts major events like the Bristol International Balloon Fiesta, this day honors the pilots and crews who provide breathtaking spectacles over the British countryside.",
+                "url": "https://www.britishballooning.org/"
+            },
+            {
+                "title": "National Moonshine Day",
+                "summary": "A whimsical look at the history of illicit spirits. While 'moonshine' has American roots, the UK has its own history of home distilling. Today, British craft distilleries often use the day to showcase high-proof white spirits and the science of modern distillation.",
+                "url": "https://www.daysoftheyear.com/days/moonshine-day/"
+            }
+        ]
+    },
+    {
+        "date": "06-06",
+        "events": [
+            {
+                "title": "D-Day Anniversary",
+                "summary": "A significant day of remembrance in the UK, marking the anniversary of the 1944 Allied landings in Normandy. Commemorative services are held across Britain to honor the bravery and sacrifice of the veterans who took part in the largest seaborne invasion in history.",
+                "url": "https://www.britishlegion.org.uk/remembrance/remembrance-events/d-day"
+            },
+            {
+                "title": "National Eyewear Day",
+                "summary": "Celebrating the history and utility of glasses. In the UK, opticians use this day to remind the public of the importance of eye health and regular sight tests, while fashionistas celebrate eyewear as a key element of personal style and British design.",
+                "url": "https://www.college-optometrists.org/"
+            },
+            {
+                "title": "National Drive-In Movie Day",
+                "summary": "A celebration of the classic outdoor cinema experience. While more common in the US, drive-in cinemas have seen a resurgence in the UK, and this day encourages film lovers to enjoy a nostalgic movie night from the comfort of their cars.",
+                "url": "https://www.daysoftheyear.com/days/drive-in-movie-day/"
+            }
+        ]
+    },
+    {
+        "date": "07-06",
+        "events": [
+            {
+                "title": "World Food Safety Day",
+                "summary": "Drawing attention to and inspiring action to help prevent, detect, and manage foodborne risks. In the UK, the Food Standards Agency uses this day to educate consumers and businesses on the 'four Cs': cleaning, cooking, chilling, and cross-contamination.",
+                "url": "https://www.food.gov.uk/"
+            },
+            {
+                "title": "National Cancer Survivors Day",
+                "summary": "A day for those living with and beyond cancer. UK charities like Macmillan Cancer Support celebrate the strength of survivors and their families, while highlighting the need for ongoing support services to manage the long-term physical and emotional impacts of the disease.",
+                "url": "https://www.macmillan.org.uk/"
+            },
+            {
+                "title": "National Chocolate Ice Cream Day",
+                "summary": "A day that coincides with the start of the British summer. Ice cream parlors across the UK promote their richest chocolate flavors, encouraging people to indulge in a treat that remains a perennial favorite for all ages during a sunny June afternoon.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-ice-cream-day/"
+            }
+        ]
+    },
+    {
+        "date": "08-06",
+        "events": [
+            {
+                "title": "World Oceans Day",
+                "summary": "Raising global awareness of the benefits derived from the ocean and our individual duty to interact with it sustainably. In the UK, coastal communities and marine charities focus on protecting British waters from overfishing and plastic pollution to preserve marine biodiversity.",
+                "url": "https://worldoceanday.org/"
+            },
+            {
+                "title": "National Best Friends Day",
+                "summary": "A day to appreciate the people who support us through thick and thin. In the UK, it’s a popular day for social media tributes, emphasizing the importance of friendship for mental health and social connection in a busy, modern world.",
+                "url": "https://www.daysoftheyear.com/days/best-friends-day/"
+            },
+            {
+                "title": "National Upsy Daisy Day",
+                "summary": "A day that encourages people to wake up with a positive attitude. The phrase 'upsy daisy' is a classic British colloquialism used when a child falls; on this day, adults are encouraged to pick themselves up and face the day with a smile.",
+                "url": "https://www.daysoftheyear.com/days/upsy-daisy-day/"
+            }
+        ]
+    },
+    {
+        "date": "09-06",
+        "events": [
+            {
+                "title": "World Accreditation Day",
+                "summary": "A global initiative established by ILAC and IAF to raise awareness of the importance of accreditation. In the UK, the United Kingdom Accreditation Service (UKAS) highlights how accreditation supports the quality and safety of products and services across British industry and healthcare.",
+                "url": "https://www.ukas.com/"
+            },
+            {
+                "title": "National Donald Duck Day",
+                "summary": "Celebrating the anniversary of the animated character's debut in 1934. While a Disney creation, Donald Duck has a huge fan base in the UK, where he remains a favorite in comics and cartoons, representing the humorous frustrations of everyday life.",
+                "url": "https://www.disney.co.uk/"
+            },
+            {
+                "title": "National Strawberry Rhubarb Pie Day",
+                "summary": "A celebration of a classic flavour combination. In the UK, where rhubarb thrives in the 'Rhubarb Triangle,' this day encourages bakers to pair the tart stalks with early summer strawberries for a traditional British pudding topped with custard or cream.",
+                "url": "https://www.daysoftheyear.com/days/strawberry-rhubarb-pie-day/"
+            }
+        ]
+    },
+    {
+        "date": "10-06",
+        "events": [
+            {
+                "title": "Global Wellness Day",
+                "summary": "A non-profit social project dedicated to living well. In the UK, spas, gyms, and community centers host free activities like yoga, meditation, and nutritional workshops, encouraging Brits to adopt a 'one day can change your whole life' approach to their physical and mental health.",
+                "url": "https://www.globalwellnessday.org/"
+            },
+            {
+                "title": "National Iced Tea Day",
+                "summary": "A refreshing celebration as the UK weather warms up. While the British are famously fond of hot tea, this day promotes the chilled variety, experimenting with fruit infusions and herbal blends as a hydrating alternative to sugary soft drinks during the summer months.",
+                "url": "https://www.daysoftheyear.com/days/iced-tea-day/"
+            },
+            {
+                "title": "National Ballpoint Pen Day",
+                "summary": "A whimsical nod to the invention that replaced the fountain pen for everyday use. UK writers and stationery lovers celebrate the simplicity of the 'Biro' (named after its inventor), which revolutionised affordable and portable writing for everyone from students to office workers.",
+                "url": "https://www.daysoftheyear.com/days/ballpoint-pen-day/"
+            }
+        ]
+    },
+    {
+        "date": "11-06",
+        "events": [
+            {
+                "title": "Carers Week Begins",
+                "summary": "An annual UK campaign to raise awareness of caring and highlight the challenges that unpaid carers face. It recognises the contribution of family members and friends who look after someone who is older, disabled, or seriously ill, advocating for better support and resources.",
+                "url": "https://www.carersweek.org/"
+            },
+            {
+                "title": "National Making Life Beautiful Day",
+                "summary": "This day celebrates the people who go the extra mile to make life better for others. In the UK, it often focuses on community heroes, charity workers, and volunteers whose small acts of kindness and dedication significantly impact the lives of those in their neighborhoods.",
+                "url": "https://www.daysoftheyear.com/days/making-life-beautiful-day/"
+            },
+            {
+                "title": "National Corn on the Cob Day",
+                "summary": "A celebration of a summer BBQ staple. As the UK enters BBQ season, this day encourages people to enjoy fresh corn, promoting it as a healthy, fiber-rich vegetable that is as fun to eat as it is nutritious when grilled to perfection.",
+                "url": "https://www.daysoftheyear.com/days/corn-on-the-cob-day/"
+            }
+        ]
+    },
+    {
+        "date": "12-06",
+        "events": [
+            {
+                "title": "World Day Against Child Labour",
+                "summary": "Intended to foster the worldwide movement against child labour in any of its forms. UK-based organisations like Anti-Slavery International use this day to advocate for legislative changes and consumer awareness to ensure global supply chains are free from exploited children.",
+                "url": "https://www.ilo.org/en/campaigns/world-day-against-child-labour"
+            },
+            {
+                "title": "National Red Rose Day",
+                "summary": "A day to appreciate the rose, particularly the red variety which is the national flower of England. UK gardeners and florists celebrate the beauty and scent of this classic bloom, which has deep roots in British history, literature, and romantic tradition.",
+                "url": "https://www.rhs.org.uk/"
+            },
+            {
+                "title": "National Jerky Day",
+                "summary": "A celebration of dried meat snacks. Once seen as a purely American snack, jerky has become increasingly popular in the UK as a high-protein, low-fat alternative. This day encourages snackers to try different flavors, from traditional beef to venison and even plant-based versions.",
+                "url": "https://www.daysoftheyear.com/days/jerky-day/"
+            }
+        ]
+    },
+    {
+        "date": "13-06",
+        "events": [
+            {
+                "title": "International Albinism Awareness Day",
+                "summary": "Adopted by the UN to stop the discrimination and violence against people with albinism. In the UK, support groups work to raise awareness of the medical and social challenges faced by those with the condition, promoting inclusion and the right to health and education.",
+                "url": "https://www.albinism.org.uk/"
+            },
+            {
+                "title": "National Sewing Machine Day",
+                "summary": "Celebrating the invention that transformed the garment industry. In the UK, with its rich textile history, this day is popular with the 'crafting' community, encouraging people to repair their own clothes or take up sewing as a sustainable alternative to fast fashion.",
+                "url": "https://www.sewingmachine-museum.co.uk/"
+            },
+            {
+                "title": "National Weed Your Garden Day",
+                "summary": "A whimsical but practical nudge for UK gardeners. With June being a peak growing month, the British climate can lead to a 'weed explosion.' This day encourages people to spend an hour outdoors maintaining their plots to ensure their flowers and vegetables thrive.",
+                "url": "https://www.rhs.org.uk/advice/weeding"
+            }
+        ]
+    },
+    {
+        "date": "14-06",
+        "events": [
+            {
+                "title": "World Blood Donor Day",
+                "summary": "Organised by the WHO, this day serves to thank voluntary blood donors for their life-saving gifts. In the UK, NHS Blood and Transplant uses this as a key recruitment day, highlighting the constant need for new donors to maintain vital stocks for surgeries and emergencies.",
+                "url": "https://www.blood.co.uk/"
+            },
+            {
+                "title": "National Steampunk Day",
+                "summary": "Celebrating the subgenre of science fiction inspired by 19th-century industrial steam-powered machinery. The UK has a massive Steampunk scene, particularly in Lincoln and Whitby, where enthusiasts don elaborate Victorian-futuristic costumes and celebrate the ingenuity and aesthetics of a fictional past.",
+                "url": "https://www.steampunk-society.co.uk/"
+            },
+            {
+                "title": "National Strawberry Shortcake Day",
+                "summary": "A whimsical culinary celebration perfectly timed for the British strawberry season. While the 'shortcake' is often a sweetened biscuit in the US, in the UK, many adapt the day to celebrate the classic combination of scones, clotted cream, and fresh summer berries.",
+                "url": "https://www.daysoftheyear.com/days/strawberry-shortcake-day/"
+            }
+        ]
+    },
+    {
+        "date": "15-06",
+        "events": [
+            {
+                "title": "World Elder Abuse Awareness Day",
+                "summary": "A UN initiative to voice opposition to the abuse and suffering inflicted to some of our older generations. UK charities like Age UK and Hourglass use the day to educate the public on the signs of abuse and to advocate for the rights and safety of seniors.",
+                "url": "https://www.ageuk.org.uk/"
+            },
+            {
+                "title": "Magna Carta Day",
+                "summary": "Marking the anniversary of the signing of the 'Great Charter' in 1215 at Runnymede. This is a foundational day in British history, celebrating the origins of the rule of law, individual liberties, and the framework for modern democracy in the UK and worldwide.",
+                "url": "https://www.bl.uk/magna-carta"
+            },
+            {
+                "title": "National Smile Power Day",
+                "summary": "A day promoting the infectious power of a smile. In the UK, it’s used as a lighthearted mental health reminder that the simple act of smiling can reduce stress and improve the mood of both the smiler and those around them.",
+                "url": "https://www.daysoftheyear.com/days/smile-power-day/"
+            }
+        ]
+    },
+    {
+        "date": "16-06",
+        "events": [
+            {
+                "title": "Bloomsday",
+                "summary": "Celebrating the life of Irish writer James Joyce and his novel 'Ulysses,' which takes place on this day in 1904. It is marked in major UK cities with readings, performances, and Edwardian-style pub crawls, celebrating Joyce's massive influence on English literature.",
+                "url": "https://www.jamesjoyce.ie/bloomsday/"
+            },
+            {
+                "title": "International Day of Family Remittances",
+                "summary": "A UN day recognizing the crucial financial contribution that migrant workers make to their families back home. In the UK, it highlights the importance of fair and transparent money transfer services and the role of the diaspora in supporting global economic development.",
+                "url": "https://www.un.org/en/observances/remittances-day"
+            },
+            {
+                "title": "National Fudge Day",
+                "summary": "A celebration of the rich, sweet confection. Whether it’s traditional crumbly Scottish tablet or smooth clotted cream fudge from Cornwall, UK sweet shops and home cooks use this day to celebrate one of Britain's most beloved and indulgent treats.",
+                "url": "https://www.daysoftheyear.com/days/fudge-day/"
+            }
+        ]
+    },
+    {
+        "date": "17-06",
+        "events": [
+            {
+                "title": "World Day to Combat Desertification and Drought",
+                "summary": "Focusing on sustainable land management. While the UK isn't a desert, this day is used by British environmentalists to discuss soil health, the impact of climate change on UK agriculture, and the global need for water conservation and ecosystem restoration.",
+                "url": "https://www.un.org/en/observances/desertification-day"
+            },
+            {
+                "title": "National Eat Your Vegetables Day",
+                "summary": "A healthy reminder to fill your plate with greens. In the UK, health campaigners use this day to promote the '5-a-day' message, highlighting the seasonal produce available in June, from asparagus to broad beans, and their role in preventing chronic health conditions.",
+                "url": "https://www.nhs.uk/live-well/eat-well/5-a-day/"
+            },
+            {
+                "title": "National Apple Strudel Day",
+                "summary": "A whimsical culinary nod to the flaky Austrian pastry. UK bakeries often feature strudels on this day, celebrating the delicate craft of stretching dough and the timeless appeal of warm, spiced apples, often served with a very British side of hot custard.",
+                "url": "https://www.daysoftheyear.com/days/apple-strudel-day/"
+            }
+        ]
+    },
+    {
+        "date": "18-06",
+        "events": [
+            {
+                "title": "Autistic Pride Day",
+                "summary": "A day for autistic people to celebrate their neurodiversity and culture. In the UK, it is distinct from awareness days, focusing instead on pride, self-advocacy, and the idea that autism is a difference to be respected rather than a 'condition' to be cured.",
+                "url": "https://www.autism.org.uk/"
+            },
+            {
+                "title": "Sustainable Gastronomy Day",
+                "summary": "Acknowledging gastronomy as a cultural expression related to the natural and cultural diversity of the world. UK chefs and food producers use this day to promote 'farm to fork' dining, reducing food waste, and supporting local, seasonal British ingredients.",
+                "url": "https://www.un.org/en/observances/sustainable-gastronomy-day"
+            },
+            {
+                "title": "National Panic Day",
+                "summary": "A day that, ironically, is meant to encourage people to do the opposite and find ways to de-stress. In the UK, it’s often used by wellbeing coaches to share tips on mindfulness and breathing exercises for when life feels a bit too overwhelming.",
+                "url": "https://www.daysoftheyear.com/days/panic-day/"
+            }
+        ]
+    },
+    {
+        "date": "19-06",
+        "events": [
+            {
+                "title": "World Sickle Cell Day",
+                "summary": "Raising awareness of sickle cell disease and the challenges patients and their families face. In the UK, the Sickle Cell Society provides support and advocates for better screening and treatment, particularly within the communities most affected by this genetic blood disorder.",
+                "url": "https://www.sicklecellsociety.org/"
+            },
+            {
+                "title": "National Martini Day",
+                "summary": "A celebration of the classic cocktail, famously associated with James Bond. UK mixologists and bars showcase their skills in preparing the drink—whether shaken or stirred—celebrating the elegance and history of gin, vermouth, and the perfect garnish.",
+                "url": "https://www.daysoftheyear.com/days/martini-day/"
+            },
+            {
+                "title": "National Garfield Day",
+                "summary": "A celebration of the world's most famous ginger cat. While American in origin, Garfield is a staple of British newspaper comics. Fans in the UK celebrate his relatable love for lasagna and his legendary disdain for Mondays.",
+                "url": "https://www.daysoftheyear.com/days/garfield-day/"
+            }
+        ]
+    },
+    {
+        "date": "20-06",
+        "events": [
+            {
+                "title": "World Refugee Day",
+                "summary": "An international day designated by the UN to honor refugees around the globe. In the UK, Refugee Week events take place, featuring art, music, and talks that celebrate the resilience and contributions of refugees to British society while calling for more compassionate asylum policies.",
+                "url": "https://www.refugeecouncil.org.uk/"
+            },
+            {
+                "title": "Summer Solstice",
+                "summary": "The longest day of the year in the Northern Hemisphere. In the UK, thousands gather at Stonehenge and Avebury to watch the sunrise, celebrating a tradition that dates back millennia. It marks the astronomical start of summer and the peak of the solar year.",
+                "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/summer-solstice/"
+            },
+            {
+                "title": "National Vanilla Milkshake Day",
+                "summary": "A whimsical, nostalgic treat for the start of summer. UK diners and dessert parlors highlight the simple elegance of the vanilla bean, encouraging people to enjoy a classic shake as a cool relief from the June heat (whenever it decides to appear).",
+                "url": "https://www.daysoftheyear.com/days/vanilla-milkshake-day/"
+            }
+        ]
+    },
+    {
+        "date": "21-06",
+        "events": [
+            {
+                "title": "Father's Day",
+                "summary": "A day to honor fathers and father figures across the UK. Families celebrate with cards, gifts, and activities, acknowledging the vital role that dads play in the upbringing and support of children. It’s a major day for family gatherings and Sunday lunches.",
+                "url": "https://www.daysoftheyear.com/days/fathers-day/"
+            },
+            {
+                "title": "Make Music Day",
+                "summary": "A global celebration of music-making in over 120 countries. In the UK, free public concerts and 'have a go' sessions take place in parks, squares, and libraries, encouraging people of all skill levels to play, sing, and share the joy of music with their communities.",
+                "url": "https://makemusicday.co.uk/"
+            },
+            {
+                "title": "National Selfie Day",
+                "summary": "A celebration of the digital self-portrait. In the UK, museums and landmarks often encourage visitors to take and share selfies, using the day to promote British tourism and culture through the lens of social media and modern photography.",
+                "url": "https://www.daysoftheyear.com/days/selfie-day/"
+            }
+        ]
+    },
+    {
+        "date": "22-06",
+        "events": [
+            {
+                "title": "Windrush Day",
+                "summary": "Marking the anniversary of the arrival of HMT Empire Windrush in 1948. This day celebrates the immense contribution of the Windrush Generation and their descendants to the social, economic, and cultural fabric of the UK, while acknowledging the struggles they have faced.",
+                "url": "https://www.gov.uk/government/news/national-windrush-day"
+            },
+            {
+                "title": "World Rainforest Day",
+                "summary": "Raising awareness about the importance of healthy, standing rainforests for our climate and biodiversity. UK-based conservation groups use this day to highlight the links between British consumer habits and global deforestation, advocating for sustainable sourcing of products like palm oil and cocoa.",
+                "url": "https://worldrainforestday.org/"
+            },
+            {
+                "title": "National Onion Rings Day",
+                "summary": "A day for lovers of the crispy, battered side dish. A staple in UK pubs and burger joints, this day encourages people to enjoy onion rings as the ultimate comfort food, celebrating the simple but effective combination of vegetable, batter, and deep-fryer.",
+                "url": "https://www.daysoftheyear.com/days/onion-rings-day/"
+            }
+        ]
+    },
+    {
+        "date": "23-06",
+        "events": [
+            {
+                "title": "International Women in Engineering Day",
+                "summary": "Celebrating the amazing work that women engineers around the world are doing to support lives and livelihoods. In the UK, it aims to raise the profile of women in engineering and focus attention on the amazing career opportunities available to girls in this exciting industry.",
+                "url": "https://www.inwed.org.uk/"
+            },
+            {
+                "title": "United Nations Public Service Day",
+                "summary": "Celebrating the value and virtue of public service to the community. In the UK, it recognises the work of civil servants and public sector workers, highlighting their role in the development process and the functioning of the state for the benefit of all citizens.",
+                "url": "https://publicadministration.un.org/en/psday"
+            },
+            {
+                "title": "National Pink Day",
+                "summary": "A day encouraging people to wear or surround themselves with the colour pink. In the UK, it is often associated with breast cancer awareness or simply celebrating the vibrancy of the colour in fashion, flowers, and design during the height of summer.",
+                "url": "https://www.daysoftheyear.com/days/pink-day/"
+            }
+        ]
+    },
+    {
+        "date": "24-06",
+        "events": [
+            {
+                "title": "Midsummer Day",
+                "summary": "One of the traditional British 'Quarter Days' for the payment of rent and settling of accounts. While less significant legally than in the past, it remains a cultural milestone in the UK, marking the peak of summer and the feast of St. John the Baptist.",
+                "url": "https://www.historic-uk.com/CultureUK/Quarter-Days/"
+            },
+            {
+                "title": "National Writing Day",
+                "summary": "An annual celebration in the UK designed to inspire people across the country to get writing. Led by First Story, it encourages schools, libraries, and individuals to enjoy the creative power of the written word through workshops, prompts, and social media sharing.",
+                "url": "https://firststory.org.uk/national-writing-day/"
+            },
+            {
+                "title": "National Fairy Day",
+                "summary": "A day to explore the folklore of the Fae. Britain has a rich history of fairy tales and legends; on this day, people are encouraged to build 'fairy houses' in their gardens or revisit classic British folklore stories that have enchanted generations.",
+                "url": "https://www.daysoftheyear.com/days/fairy-day/"
+            }
+        ]
+    },
+    {
+        "date": "25-06",
+        "events": [
+            {
+                "title": "Day of the Seafarer",
+                "summary": "Recognizing the unique contribution made by seafarers from all over the world to international seaborne trade. In the UK, an island nation, this day is particularly poignant, highlighting the mental health and welfare issues faced by those working on the high seas.",
+                "url": "https://www.imo.org/en/About/Events/Pages/Day-of-the-Seafarer.aspx"
+            },
+            {
+                "title": "National Catfish Day",
+                "summary": "A day to appreciate the unique value of farm-raised catfish. While more common as a food source in the US, in the UK, this day is often celebrated by aquarium enthusiasts and anglers who appreciate the biodiversity and unique characteristics of these whiskered fish.",
+                "url": "https://www.daysoftheyear.com/days/catfish-day/"
+            },
+            {
+                "title": "Global Beatles Day",
+                "summary": "A whimsical but culturally huge day for the UK, celebrating the phenomenon of the Fab Four. Fans in Liverpool and across Britain revisit the band’s discography and legacy, celebrating their unparalleled impact on global music, fashion, and culture since the 1960s.",
+                "url": "https://www.globalbeatlesday.com/"
+            }
+        ]
+    },
+    {
+        "date": "26-06",
+        "events": [
+            {
+                "title": "International Day Against Drug Abuse and Illicit Trafficking",
+                "summary": "Strengthening action and cooperation to achieve the goal of an international society free of drug abuse. In the UK, organisations use the day to promote health-led approaches to addiction and to educate the public on the dangers of illicit drug trade impacts.",
+                "url": "https://www.unodc.org/unodc/en/drugs/index.html"
+            },
+            {
+                "title": "United Nations International Day in Support of Victims of Torture",
+                "summary": "A day to speak out against the crime of torture and to honor and support the victims and survivors. UK human rights groups like Freedom from Torture provide essential rehabilitation services and advocate for the rights of survivors living within the British community.",
+                "url": "https://www.freedomfromtorture.org/"
+            },
+            {
+                "title": "National Chocolate Pudding Day",
+                "summary": "A day for dessert lovers. In the UK, this is the perfect excuse to enjoy a classic chocolate sponge with chocolate sauce, a staple of the 'school dinners' nostalgia that remains a comforting favorite in households across the British Isles.",
+                "url": "https://www.daysoftheyear.com/days/chocolate-pudding-day/"
+            }
+        ]
+    },
+    {
+        "date": "27-06",
+        "events": [
+            {
+                "title": "Armed Forces Day",
+                "summary": "A major UK event to show support for the men and women who make up the Armed Forces community: from currently serving troops to Service families, veterans, and cadets. Parades and events take place across Britain to celebrate their service and dedication.",
+                "url": "https://www.armedforcesday.org.uk/"
+            },
+            {
+                "title": "Micro-, Small and Medium-sized Enterprises Day",
+                "summary": "Recognizing the importance of small businesses in achieving the Sustainable Development Goals. In the UK, where SMEs make up the vast majority of businesses, this day celebrates the entrepreneurship and innovation that drive the British economy and local communities.",
+                "url": "https://www.un.org/en/observances/small-business-day"
+            },
+            {
+                "title": "National Sunglasses Day",
+                "summary": "A whimsical but eye-safe reminder for the British summer. It encourages people to wear UV-protective eyewear, celebrating sunglasses as both a vital health tool to prevent sun damage and a quintessential summer accessory for trips to the British seaside.",
+                "url": "https://www.daysoftheyear.com/days/sunglasses-day/"
+            }
+        ]
+    },
+    {
+        "date": "28-06",
+        "events": [
+            {
+                "title": "Tau Day",
+                "summary": "A math-themed day celebrating the constant Tau (approximately 6.28), which some argue is more intuitive than Pi. In UK academic circles, it's a day for mathematical debate and, staying true to the spirit of Pi Day, eating twice as much pie.",
+                "url": "https://tauday.com/"
+            },
+            {
+                "title": "National Insurance Awareness Day",
+                "summary": "A practical day reminding people to review their coverage. In the UK, it’s a nudge to ensure home, car, and life insurance policies are up to date, highlighting the importance of financial security and peace of mind for British households and businesses.",
+                "url": "https://www.daysoftheyear.com/days/insurance-awareness-day/"
+            },
+            {
+                "title": "National Ceviche Day",
+                "summary": "A whimsical culinary celebration of the South American seafood dish. As the UK's food scene becomes increasingly global, this day is celebrated by seafood restaurants and home cooks looking for fresh, citrusy summer recipes that make the most of British-caught fish.",
+                "url": "https://www.daysoftheyear.com/days/ceviche-day/"
+            }
+        ]
+    },
+    {
+        "date": "29-06",
+        "events": [
+            {
+                "title": "International Day of the Tropics",
+                "summary": "Celebrating the extraordinary diversity of the tropics while highlighting the challenges they face. UK-based environmental and development charities use this day to discuss the impact of climate change on tropical regions and the interconnectedness of our global ecosystems.",
+                "url": "https://www.un.org/en/observances/tropics-day"
+            },
+            {
+                "title": "National Statistics Day",
+                "summary": "Marking the importance of data in policy-making and social analysis. In the UK, the Office for National Statistics (ONS) uses this day to highlight how high-quality data helps the government and public understand British society, the economy, and the environment.",
+                "url": "https://www.ons.gov.uk/"
+            },
+            {
+                "title": "National Camera Day",
+                "summary": "A celebration of the art of photography. From the early days of film to modern smartphones, this day encourages people in the UK to get outside and capture the beauty of the British landscape or the small moments of daily life.",
+                "url": "https://www.daysoftheyear.com/days/camera-day/"
+            }
+        ]
+    },
+    {
+        "date": "30-06",
+        "events": [
+            {
+                "title": "Asteroid Day",
+                "summary": "An annual global event to raise awareness about asteroids and what can be done to protect the Earth from impacts. In the UK, science museums and planetariums host talks on space science, tracking near-Earth objects, and the future of space exploration.",
+                "url": "https://asteroidday.org/"
+            },
+            {
+                "title": "International Day of Parliamentarism",
+                "summary": "Commemorating the date the Inter-Parliamentary Union was established. In the UK, the 'Mother of Parliaments' uses this day to highlight the role of parliamentary democracy and to encourage public engagement with the legislative process at Westminster.",
+                "url": "https://www.parliament.uk/"
+            },
+            {
+                "title": "National Meteor Watch Day",
+                "summary": "A whimsical excuse to stay up late and look at the sky. Amateur astronomers across Britain hope for clear June nights to spot shooting stars, celebrating the wonder of the cosmos and the simple joy of stargazing from one's own back garden.",
+                "url": "https://www.popastro.com/"
+            }
+        ]
+    }
+]

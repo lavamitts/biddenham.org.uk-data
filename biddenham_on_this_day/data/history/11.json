@@ -1,0 +1,602 @@
+[
+    {
+        "date": "01-11",
+        "events": [
+            {
+                "date": "1755-11-01",
+                "event": "The devastating Lisbon earthquake occurs, followed by a tsunami and fires that nearly destroyed the city. This catastrophe became a key focus of UK Enlightenment studies, prompting thinkers like Voltaire to question optimism and the nature of divine providence.",
+                "theme": "History"
+            },
+            {
+                "date": "1972-11-01",
+                "event": "The birth of Toni Collette in Sydney, Australia. The actress's versatile work across film and television is widely acclaimed in the UK, particularly for her transformative roles in 'Muriel's Wedding', 'The Sixth Sense', and the cult horror hit 'Hereditary'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1960-11-01",
+                "event": "The birth of Tim Cook, the CEO of Apple Inc. His leadership and the company’s expansion are central to UK technology and consumer habits, overseeing the continued evolution of the iPhone and global digital services that define modern British daily life.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "02-11",
+        "events": [
+            {
+                "date": "1917-11-02",
+                "event": "The Balfour Declaration is issued, expressing British government support for a 'national home for the Jewish people' in Palestine. This pivotal document significantly shaped the geopolitical landscape of the Middle East and remains a cornerstone of 20th-century British diplomatic history.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1950-11-02",
+                "event": "The birth of George Bernard Shaw (Old Style date); the Irish playwright and co-founder of the London School of Economics. His witty and provocative plays, including 'Pygmalion' and 'Saint Joan', remain a staple of UK theatre and literary education today.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1966-11-02",
+                "event": "The birth of David Schwimmer in New York. The actor's iconic role as Ross Geller in the sitcom 'Friends' made him a UK household name, with the show maintaining massive popularity through decades of reruns on British television networks.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "03-11",
+        "events": [
+            {
+                "date": "1957-11-03",
+                "event": "The Soviet Union launches Sputnik 2, carrying the dog Laika into orbit as the first living creature in space. The mission was closely followed by British science and the public, sparking intense ethical debates regarding animal welfare and space exploration.",
+                "theme": "Science"
+            },
+            {
+                "date": "1960-11-03",
+                "event": "The birth of Tilda Swinton, the acclaimed British actress known for her ethereal presence and avant-garde roles. From 'Orlando' to her Oscar-winning performance in 'Michael Clayton', she is celebrated in the UK as a champion of independent and experimental cinema.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1949-11-03",
+                "event": "The birth of Anna Wintour, the influential English fashion editor who became the long-time editor-in-chief of Vogue. Born in London, her formidable career has shaped the global fashion industry and she remains a powerful figure in British and international style.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "04-11",
+        "events": [
+            {
+                "date": "1922-11-04",
+                "event": "The discovery of Tutankhamun's tomb in the Valley of the Kings by British archaeologist Howard Carter. This monumental find sparked a global 'Egyptomania' craze and remains one of the most famous and significant archaeological discoveries in the history of the world.",
+                "theme": "History"
+            },
+            {
+                "date": "1969-11-04",
+                "event": "The birth of Matthew McConaughey; the American actor's films, ranging from romantic comedies like 'How to Lose a Guy in 10 Days' to intense dramas like 'Interstellar', are consistently popular in the UK and have earned him critical respect and stardom.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1946-11-04",
+                "event": "The birth of Laura Bush, the former First Lady of the United States. During her time in the White House, her diplomatic visits to London were major political events, highlighting the 'Special Relationship' and her advocacy for global literacy and education.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-11",
+        "events": [
+            {
+                "date": "1605-11-05",
+                "event": "The Gunpowder Plot is foiled as Guy Fawkes is caught beneath the House of Lords with barrels of explosives. This failed attempt to assassinate King James I is commemorated annually across the UK on Bonfire Night with fireworks and burning effigies.",
+                "theme": "History"
+            },
+            {
+                "date": "1913-11-05",
+                "event": "The birth of Vivien Leigh, the legendary British actress of 'Gone with the Wind' and 'A Streetcar Named Desire'. Renowned for her beauty and immense talent, she won two Academy Awards and remains an enduring icon of classic British stage and screen.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1941-11-05",
+                "event": "The birth of Art Garfunkel, half of the legendary folk-rock duo Simon & Garfunkel. The artist's melodic music and signature hits like 'Bridge over Troubled Water' are a staple of UK radio and have influenced generations of British singer-songwriters.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-11",
+        "events": [
+            {
+                "date": "1429-11-06",
+                "event": "The coronation of Henry VI as King of England at Westminster Abbey. Ascending to the throne as an infant, his long and turbulent reign was marked by the Hundred Years' War and the start of the civil conflicts known as the Wars of the Roses.",
+                "theme": "History"
+            },
+            {
+                "date": "1970-11-06",
+                "event": "The birth of Ethan Hawke, the versatile American actor, writer, and director. Hawke's work, including the 'Before' trilogy and 'Training Day', is widely known and respected in the UK, where he has also performed on the prestigious London stage.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1946-11-06",
+                "event": "The birth of Sally Field, the multi-award-winning American actress. From 'Steel Magnolias' to 'Mrs. Doubtfire', she is a fixture of UK cinema and television, beloved by British audiences for her ability to balance profound emotional depth with sharp comedic timing.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "07-11",
+        "events": [
+            {
+                "date": "1867-11-07",
+                "event": "The birth of Marie Curie, the pioneering physicist and chemist. Her groundbreaking work on radioactivity was vital for British medicine, leading to the development of X-rays and cancer treatments, and she remains a celebrated figure in UK scientific education and history.",
+                "theme": "Science"
+            },
+            {
+                "date": "1917-11-07",
+                "event": "The Bolsheviks, led by Vladimir Lenin, seised power in Russia during the October Revolution. This political upheaval led to Russia's withdrawal from the war, allowing Germany to move its Eastern armies to the Western Front for a final offensive.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1943-11-07",
+                "event": "The birth of Joni Mitchell, the legendary Canadian singer-songwriter. Her poetic lyrics and innovative guitar tunings have had a significant influence on the UK music scene, inspiring countless British folk and pop artists with albums like the seminal 'Blue'.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "08-11",
+        "events": [
+            {
+                "date": "1656-11-08",
+                "event": "The birth of Edmond Halley, the legendary British astronomer, geophysicist, and mathematician. Best known for calculating the orbit of the comet that now bears his name, his scientific contributions were instrumental to the Royal Society and the advancement of navigation.",
+                "theme": "Science"
+            },
+            {
+                "date": "1960-11-08",
+                "event": "John F. Kennedy is elected President of the United States. This historic election was a major moment for UK relations, as the young president's 'New Frontier' policies and personal rapport with Prime Minister Harold Macmillan reshaped the transatlantic alliance.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1966-11-08",
+                "event": "The birth of Gordon Ramsay, the world-famous British chef and television personality. Known for his fiery temper and Michelin-starred cuisine, he has become a global ambassador for British gastronomy through his numerous successful restaurants and highly popular television programs.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-11",
+        "events": [
+            {
+                "date": "1989-11-09",
+                "event": "The fall of the Berlin Wall begins as East German citizens are allowed to cross freely to the West. This historic event marked the symbolic end of the Cold War, a period central to UK foreign policy and national security.",
+                "theme": "History"
+            },
+            {
+                "date": "1970-11-09",
+                "event": "The birth of Chris Jericho, the legendary professional wrestler and musician. His charismatic performances and extensive career in WWE and AEW have earned him many fans in the UK, where he frequently tours with both his wrestling promotions and his band.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1941-11-09",
+                "event": "The birth of Tom Fogerty, the rhythm guitarist for Creedence Clearwater Revival. The artist's rootsy, Americana music is widely popular in the UK, with hits like 'Proud Mary' remaining classic staples of British rock radio and pub jukeboxes for decades.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "10-11",
+        "events": [
+            {
+                "date": "1918-11-10",
+                "event": "The birth of Ernst Otto Fischer, the German chemist and Nobel laureate. His pioneering work on organometallic chemistry, specifically sandwich complexes, is key to UK science and industry, providing the foundation for many modern catalysts used in chemical manufacturing.",
+                "theme": "Science"
+            },
+            {
+                "date": "1969-11-10",
+                "event": "The birth of Ellen Pompeo; the American actress whose lead role as Meredith Grey on the long-running medical drama 'Grey's Anatomy' is immensely popular in the UK. The show has a dedicated British fanbase and has aired for nearly twenty years.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1483-11-10",
+                "event": "The birth of Martin Luther, the German priest who initiated the Protestant Reformation. His theological challenges to the Catholic Church were central to the eventual formation of the Church of England and profoundly impacted the course of UK religious and political history.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "11-11",
+        "events": [
+            {
+                "date": "1918-11-11",
+                "event": "Armistice Day: World War I ends as an armistice is signed between the Allies and Germany. This somber anniversary is observed across the UK with two minutes of silence to remember the fallen, becoming a permanent part of the British national identity.",
+                "theme": "History"
+            },
+            {
+                "date": "1974-11-11",
+                "event": "The birth of Leonardo DiCaprio, the Academy Award-winning American actor and environmentalist. From 'Titanic' to 'The Wolf of Wall Street', his films are consistently massive hits in the UK, making him one of the most recognised movie stars in Britain.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1962-11-11",
+                "event": "The birth of Demi Moore; the American actress who rose to fame as part of the 'Brat Pack'. She is a fixture of UK cinema, known for starring in iconic 1990s films like 'Ghost' and 'Indecent Proposal' which were major box-office successes.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-11",
+        "events": [
+            {
+                "date": "1944-11-12",
+                "event": "The sinking of the Tirpitz, the massive German battleship, by the RAF's 617 and 9 Squadrons using 'Tallboy' bombs. This was a major naval victory for the UK, removing a significant threat to Allied convoys in the Arctic and North Sea.",
+                "theme": "History"
+            },
+            {
+                "date": "1980-11-12",
+                "event": "The birth of Ryan Gosling, the Canadian actor known for his roles in 'The Notebook', 'Drive', and 'La La Land'. His films are widely popular in the UK, and he is celebrated by British critics for his versatile and understated acting style.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1929-11-12",
+                "event": "The birth of Grace Kelly, the American actress who became Princess of Monaco. Both her acclaimed Hollywood films, such as 'Rear Window', and her glamorous royal life were major UK news items and continue to fascinate the British public and media.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "13-11",
+        "events": [
+            {
+                "date": "1002-11-13",
+                "event": "The St. Brice's Day massacre occurs, in which King Æthelred the Unready ordered the killing of all Danes in England. This brutal event was a response to repeated Viking raids and significantly escalated the conflict between English and Danish forces.",
+                "theme": "History"
+            },
+            {
+                "date": "1955-11-13",
+                "event": "The birth of Whoopi Goldberg, the multi-talented American actress and comedian. Her work, including 'The colour Purple' and 'Sister Act', is widely known and loved in the UK, where she is also recognised for her long tenure on the talk show 'The View'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-11-13",
+                "event": "The birth of Jimmy Kimmel, the American television host and comedian. While his late-night talk show is based in the US, it reached a wide UK audience via online platforms and social media, making him a recognizable figure in British pop culture.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "14-11",
+        "events": [
+            {
+                "date": "1948-11-14",
+                "event": "The birth of King Charles III at Buckingham Palace. As the eldest son of Queen Elizabeth II, his life has been lived entirely in the public eye, and his 2022 accession to the throne marked the beginning of a new era for the UK.",
+                "theme": "History"
+            },
+            {
+                "date": "1940-11-14",
+                "event": "The Coventry Blitz: The city of Coventry is devastated by a massive Luftwaffe bombing raid. The destruction of the city center and its medieval cathedral became a powerful symbol of British resilience and the horrors of total war during World War II.",
+                "theme": "History"
+            },
+            {
+                "date": "1972-11-14",
+                "event": "The birth of Josh Duhamel; the American actor known for his roles in the 'Transformers' film franchise and the TV series 'Las Vegas'. His action-packed films and television appearances are popular with audiences across the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "15-11",
+        "events": [
+            {
+                "date": "1577-11-15",
+                "event": "Sir Francis Drake sets out from Plymouth on his secret mission to raid Spanish settlements, which eventually turned into his circumnavigation of the globe. This voyage established him as a legendary English hero and bolstered England's naval reputation and wealth.",
+                "theme": "History"
+            },
+            {
+                "date": "1977-11-15",
+                "event": "The birth of Peter Phillips, the son of Princess Anne and the first grandchild of Queen Elizabeth II. Though he holds no royal title by his parents' choice, his life and career have been followed with interest by the British public and media.",
+                "theme": "History"
+            },
+            {
+                "date": "1972-11-15",
+                "event": "The birth of Jonny Lee Miller, the acclaimed British actor. He rose to fame in 'Trainspotting' and gained international recognition for his role as Sherlock Holmes in the series 'Elementary', maintaining a successful career across film, television, and the London stage.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "16-11",
+        "events": [
+            {
+                "date": "1272-11-16",
+                "event": "Edward I ascends to the English throne following the death of his father, Henry III. At the time of his succession, Edward was away on a crusade, highlighting the medieval connection between the English monarchy and the wider Christian world.",
+                "theme": "History"
+            },
+            {
+                "date": "1977-11-16",
+                "event": "The birth of Maggie Gyllenhaal; the American actress and director. Her critically acclaimed work in films like 'The Dark Knight' and 'The Lost Daughter' is widely respected in the UK, where she is seen as a major talent in independent cinema.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-11-16",
+                "event": "The birth of Lisa Bonet, the American actress who became famous on 'The Cosby Show' and 'A Different World'. Her work and style have been popular in the UK since the 1980s, influencing fashion and television trends for British audiences.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "17-11",
+        "events": [
+            {
+                "date": "1558-11-17",
+                "event": "Elizabeth I ascends to the throne upon the death of her half-sister, Mary I, beginning the Elizabethan era. This period is remembered as a golden age in English history, noted for the flourishing of drama, poetry, and maritime exploration.",
+                "theme": "History"
+            },
+            {
+                "date": "1978-11-17",
+                "event": "The birth of Rachel McAdams; the Canadian actress known for 'Mean Girls' and 'The Notebook'. Her films are widely popular in the UK, and she is praised by British audiences for her versatility in both romantic comedies and serious dramatic roles.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1944-11-17",
+                "event": "The birth of Danny DeVito; the diminutive American actor, director, and producer. With a career spanning decades, from 'Taxi' to 'It's Always Sunny in Philadelphia', he is a beloved fixture of UK cinema and television, known for his unique comedic timing.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "18-11",
+        "events": [
+            {
+                "date": "1928-11-18",
+                "event": "Mickey Mouse makes his official debut in the short film 'Steamboat Willie'. The character quickly became a UK cultural icon, appearing on everything from toys to comic books, and remains a symbol of global entertainment for generations of British children.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1968-11-18",
+                "event": "The birth of Owen Wilson; the American actor and screenwriter famous for his unique voice and roles in 'Wedding Crashers' and 'Midnight in Paris'. His comedic films are very popular in the UK, often topping the British box office.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1939-11-18",
+                "event": "The birth of Margaret Atwood, the Canadian poet and novelist. Her powerful work, including the dystopian 'The Handmaid's Tale', is central to UK literary study and has had a profound impact on British feminist thought and contemporary culture.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "19-11",
+        "events": [
+            {
+                "date": "1863-11-19",
+                "event": "Abraham Lincoln delivers the Gettysburg Address during the American Civil War. The speech's ideals of democracy and equality deeply influenced British democratic thought and were cited by UK politicians and social reformers throughout the 19th and 20th centuries.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1962-11-19",
+                "event": "The birth of Jodie Foster, the American actress and director. Known for her powerful performances in 'Taxi Driver' and 'The Silence of the Lambs', she is widely acclaimed in the UK and has received numerous honours from the British film industry.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1961-11-19",
+                "event": "The birth of Meg Ryan; the American actress whose romantic comedies, such as 'When Harry Met Sally' and 'Sleepless in Seattle', were a mainstay of UK cinema in the 1990s and remain firm favourites with British television audiences.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "20-11",
+        "events": [
+            {
+                "date": "1947-11-20",
+                "event": "The wedding of Princess Elizabeth and Philip Mountbatten takes place at Westminster Abbey. The event was a rare moment of celebration in post-war Britain, broadcast to millions via radio and seen as a symbol of hope and national continuity.",
+                "theme": "History"
+            },
+            {
+                "date": "1942-11-20",
+                "event": "The birth of Joe Biden, the 46th President of the United States. Throughout his long political career, his visits to the UK were major political events, emphasizing the strategic importance of the relationship between London and Washington D.C.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1912-11-20",
+                "event": "The birth of Otto von Habsburg, the last Crown Prince of Austria-Hungary and a prominent European politician. His advocacy for European integration and his work as an MEP were a focus of UK European policy for many years.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "21-11",
+        "events": [
+            {
+                "date": "1974-11-21",
+                "event": "The Birmingham pub bombings by the Provisional IRA, which killed 21 people and injured over 180 others. This tragic event remains one of the deadliest terrorist attacks in English history, leading to significant changes in UK counter-terrorism laws.",
+                "theme": "History"
+            },
+            {
+                "date": "1985-11-21",
+                "event": "The birth of Carly Rae Jepsen; the Canadian singer-songwriter whose hit 'Call Me Maybe' became a global sensation. Her upbeat pop music is consistently popular in the UK, earning her several high-charting singles and a dedicated British fanbase.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1965-11-21",
+                "event": "The birth of Björk; the innovative Icelandic singer, songwriter, and composer. Her experimental work and unique visual style have had a significant influence in the UK, where she has recorded many of her most famous albums and frequently performs.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "22-11",
+        "events": [
+            {
+                "date": "1963-11-22",
+                "event": "The assassination of John F. Kennedy in Dallas, Texas. The shocking event was a major moment for UK relations, causing widespread grief across Britain and leading to a significant shift in the international political climate during the Cold War.",
+                "theme": "History"
+            },
+            {
+                "date": "1990-11-22",
+                "event": "Margaret Thatcher resigns as Prime Minister after eleven years in power. Her departure marked the end of an era in British politics, leaving a complex legacy of economic reform and social change that continues to divide opinion in the UK.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1967-11-22",
+                "event": "The birth of Mark Ruffalo; the American actor and activist known for his role as the Hulk in the Marvel Cinematic Universe. His films are widely popular in the UK, and he is also recognised for his environmental and political campaigning.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "23-11",
+        "events": [
+            {
+                "date": "1963-11-23",
+                "event": "The first episode of 'Doctor Who', titled 'An Unearthly Child', is broadcast on the BBC. This marked the start of the world's longest-running science fiction series, which has become an integral and beloved part of British popular culture.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1992-11-23",
+                "event": "The birth of Miley Cyrus; the American singer and actress. From her 'Hannah Montana' days to her career as a provocative pop star, she has been a mainstay of UK pop culture, frequently appearing in the British charts and media.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1954-11-23",
+                "event": "The birth of Ross Brawn, the English motorsport engineer and executive. A legendary figure in Formula One, he was the mastermind behind multiple championship wins for Benetton, Ferrari, and his own team, Brawn GP, making him a sporting hero.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "24-11",
+        "events": [
+            {
+                "date": "1859-11-24",
+                "event": "Charles Darwin publishes 'On the Origin of Species', introducing the theory of evolution by natural selection. This seminal work revolutionised biology and remains one of the most influential books ever written, profoundly impacting British scientific and religious thought.",
+                "theme": "Science"
+            },
+            {
+                "date": "1991-11-24",
+                "event": "The death of Freddie Mercury, the legendary lead singer of the rock band Queen. His extraordinary talent and flamboyant stage presence made him a global icon, and his loss was deeply felt across the UK, where Queen remains immensely popular.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1978-11-24",
+                "event": "The birth of Katherine Heigl; the American actress known for her roles in 'Grey's Anatomy' and romantic comedies like '27 Dresses'. Her work has a broad appeal in the UK, where her films and television shows have been widely watched.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "25-11",
+        "events": [
+            {
+                "date": "1120-11-25",
+                "event": "The White Ship sinks in the English Channel, killing William Adelin, the only legitimate son and heir of King Henry I. This tragedy led to a succession crisis and a period of civil war in England known as The Anarchy.",
+                "theme": "History"
+            },
+            {
+                "date": "1984-11-25",
+                "event": "The Band Aid charity single 'Do They Know It's Christmas?' is recorded in London. Organised by Bob Geldof and Midge Ure, the project brought together numerous British and Irish music stars to raise funds for famine relief in Ethiopia.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1971-11-25",
+                "event": "The birth of Christina Applegate; the American actress who first became famous on the sitcom 'Married... with Children'. She is widely known in the UK for her subsequent roles in films like 'Anchorman' and her acclaimed work on television.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "26-11",
+        "events": [
+            {
+                "date": "1922-11-26",
+                "event": "British archaeologist Howard Carter and his benefactor Lord Carnarvon become the first people to enter the tomb of Tutankhamun in over 3,000 years. The discovery remains a landmark in the history of Egyptology and a source of national pride.",
+                "theme": "History"
+            },
+            {
+                "date": "1939-11-26",
+                "event": "The birth of Tina Turner, the 'Queen of Rock 'n' Roll'. Her powerful voice and electrifying live performances made her concerts major events in the UK, where she enjoyed massive success with hits like 'Simply the Best' and 'Private Dancer'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1981-11-26",
+                "event": "The birth of Natasha Bedingfield, the English singer-songwriter. She achieved international success with her debut album 'Unwritten', becoming a prominent figure in the UK pop scene of the mid-2000s and continuing to write and perform music globally.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "27-11",
+        "events": [
+            {
+                "date": "1703-11-27",
+                "event": "The Great Storm of 1703 peaks across southern England. It is considered the worst storm in British history, causing widespread destruction of buildings, thousands of deaths, and the loss of numerous Royal Navy ships, profoundly affecting the nation's maritime infrastructure.",
+                "theme": "History"
+            },
+            {
+                "date": "1951-11-27",
+                "event": "The birth of Kathryn Bigelow; the American film director who became the first woman to win the Academy Award for Best Director. Her intense, high-stakes films like 'The Hurt Locker' and 'Zero Dark Thirty' are widely acclaimed in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1942-11-27",
+                "event": "The birth of Jimi Hendrix in Seattle. Although American, his transformative work in London during the late 1960s was where he truly found fame, revolutionizing rock music with his innovative guitar playing and becoming a permanent British cultural legend.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "28-11",
+        "events": [
+            {
+                "date": "1990-11-28",
+                "event": "John Major becomes Prime Minister following the resignation of Margaret Thatcher. His premiership was marked by the negotiation of the Maastricht Treaty and the beginning of the Northern Ireland peace process, significantly shaping the UK's modern political landscape.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1943-11-28",
+                "event": "The Tehran Conference opened, where the Big Three—Stalin, Roosevelt and Churchill—met to discuss military strategy and the post-war settlement, including the planning of Operation Overlord.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1950-11-28",
+                "event": "The birth of Ed Harris; the distinguished American actor and director. Known for his intense and disciplined performances in films like 'Apollo 13', 'The Truman Show', and 'The Rock', he is a respected fixture of UK cinema and theatre.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "29-11",
+        "events": [
+            {
+                "date": "1872-11-29",
+                "event": "The death of Horace Greeley, the influential American newspaper editor and politician. Although he was American, his pioneering journalism and political views were closely followed in the UK, where he was regarded as a significant voice in transatlantic discourse.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1976-11-29",
+                "event": "The birth of Anna Faris; the American actress known for her comedic timing in the 'Scary Movie' series and the sitcom 'Mom'. Her films are popular in the UK, where she is recognised as a leading figure in contemporary American comedy.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1964-11-29",
+                "event": "The birth of Don Cheadle; the versatile American actor and producer. From his roles in 'Hotel Rwanda' to the Marvel Cinematic Universe, his films are widely popular in the UK, and he is also known for his humanitarian work and activism.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "30-11",
+        "events": [
+            {
+                "date": "1874-11-30",
+                "event": "The birth of Winston Churchill at Blenheim Palace. As Britain's Prime Minister during World War II, his leadership and oratorical skills were vital to the nation's victory, making him one of the most influential figures in British history.",
+                "theme": "History"
+            },
+            {
+                "date": "1982-11-30",
+                "event": "Michael Jackson releases 'Thriller'. The album became a massive cultural phenomenon in the UK, breaking sales records and producing numerous hit singles. Its groundbreaking music videos changed the landscape of popular music and entertainment in Britain and worldwide.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1872-11-30",
+                "event": "The first official international football match takes place at Hamilton Crescent in Glasgow between Scotland and England. The game ended in a 0-0 draw, marking the birth of international football and the start of a storied sporting rivalry.",
+                "theme": "Sport"
+            }
+        ]
+    }
+]
