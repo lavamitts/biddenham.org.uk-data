@@ -22,7 +22,7 @@ async function loadBinCollection() {
 
     // GitHub raw JSON URL
     const jsonUrl =
-        'https://raw.githubusercontent.com/lavamitts/biddenham-bin-days/refs/heads/main/resources/json/biddenham-bin-days.json';
+        'https://raw.githubusercontent.com/lavamitts/biddenham.org.uk-data/refs/heads/main/biddenham_bin_days/resources/json/biddenham-bin-days.json';
 
     try {
 
@@ -91,7 +91,8 @@ async function loadBinCollection() {
             "Recycling and garden": "bin-orange-green.svg",
             "General rubbish and food waste": "bin-grey-food-waste.svg",
             "Recycling and food waste": "bin-orange-food-waste.svg",
-            "Recycling, food waste and garden": "bin-orange-green-food-waste.svg"
+            "Recycling, food waste and garden": "bin-orange-green-food-waste.svg",
+            "Recycling, garden and food waste": "bin-orange-green-food-waste.svg"
         };
 
         const dates = Object.keys(data).sort();
@@ -130,6 +131,7 @@ async function loadBinCollection() {
                             break;
 
                         case "Recycling, food waste and garden":
+                        case "Recycling, garden and food waste":
                             img.style.width = "96px";
                             break;
 
