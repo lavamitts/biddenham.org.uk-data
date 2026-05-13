@@ -1,0 +1,8 @@
+<tr>
+    <td>{date_formatted}</td>
+    <td><strong>{title} ({certification})</strong><br>
+        <img class="film-poster alignright rounded" src="https://biddenham.org.uk/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title} film poster" width="160" height="237" />{summary}
+        <p>Starring: {starring}</p>
+        <div class="imdb"><a href="{imdb_link}">"{title}" on IMDB</a></div>
+    </td>
+</tr>

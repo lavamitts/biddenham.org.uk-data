@@ -1,0 +1,24 @@
+<img class="aligncenter wp-image-7554 size-full" src="https://biddenham.org.uk/wp-content/uploads/2025/06/picture-house-logo-2.webp" alt="Peter's Picturehouse at Biddenham Village Hall" width="1024" height="331" />
+Peter's Picturehouse was set up in the autumn of 2018. We are delighted to have received a grant from the Biddenham Fête Committee, as well as a generous gift from a member of the village, which we have used to invest in the licences required to get the first few films shown. From a trial showing in December of ‘The Theory of Everything’, numbers have gone from strength to strength for each film showing.
+
+Peter's Picturehouse takes place on the FIRST TUESDAY of each month, with the film usually starting at 7.30pm. We open our doors at 7.00pm, so that viewers can get comfy (bring cushions if you wish) and buy hot drinks, wine, beer and soft drinks. By popular request we also have ice creams for sale too and have an interval in which to enjoy them. The ticket price of £5.00 covers the licence we need to pay for each film showing.
+
+We have so many films that we would like to show and do want to cater for a range of tastes. Please keep a look out for our programme, which we publicise through the website and the village notice boards.
+<h2>To book your seat</h2>
+Our films are very popular and there are only 56 seats available, so please do <strong>book to avoid disappointment</strong>. To reserve your seat, email Peter's Picture House.
+<div class="email icon"><a href="mailto:peterspicturehouse@gmail.com">peterspicturehouse@gmail.com</a></div>
+<div class="phone icon">07818 878491</div>
+<div></div>
+
+<h2>Upcoming movies</h2>
+<table>
+<tbody>
+    <tr>
+        <th width="30%">Date</th>
+        <th width="70%">Movie</th>
+    </tr>
+{content}
+</tbody>
+</table>
+
+<p><a href="/peters-picturehouse-film-archive/">See an archive of our past movies</a></p>

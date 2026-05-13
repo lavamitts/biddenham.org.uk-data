@@ -1,5 +1,18 @@
 import os
+import platform
 import sys
+
+
+def clear_console():
+    # Determine the operating system
+    current_os = platform.system()
+
+    # Use the appropriate command based on the OS
+    if current_os == "Windows":
+        os.system("cls")
+    else:
+        os.system("clear")
+
 
 # Windows-only single keypress support
 if os.name == "nt":
@@ -46,6 +59,14 @@ def get_single_keypress() -> str:
             termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
 
 
+def generate_peters_picturehouse_events():
+    print("\nCreating Peter's Picturehouse events...\n")
+
+    from peters_picturehouse_events.main import main
+
+    main()
+
+
 def run_biddenham_bin_days_data():
     print("\nCreating Biddenham bin days data...\n")
 
@@ -63,7 +84,7 @@ def generate_biddenham_conservation_volunteers_data():
 
 
 def validate_on_this_day_urls():
-    print("\Validating OTD URLs...\n")
+    print("Validating OTD URLs...\n")
 
     from biddenham_on_this_day.main import main
 
@@ -71,24 +92,30 @@ def validate_on_this_day_urls():
 
 
 def main():
+    clear_console()
     print("Select project to run:")
-    print("1) Create Biddenham bin days data")
-    print("2) Generate Biddenham Conservation Volunteers data")
-    print("3) Validate On this day URLs")
-    print("\nPress 1 or 2...")
+    print("1) Create Peter's Picturehouse events")
+    print("2) Create Biddenham bin days data")
+    print("3) Generate Biddenham Conservation Volunteers events")
+    print("4) Validate On this day URLs")
+    print("\nPress 1, 2, 3 or 4 ...")
 
     while True:
         choice = get_single_keypress()
 
         if choice == "1":
-            run_biddenham_bin_days_data()
+            generate_peters_picturehouse_events()
             break
 
         elif choice == "2":
-            generate_biddenham_conservation_volunteers_data()
+            run_biddenham_bin_days_data()
             break
 
         elif choice == "3":
+            generate_biddenham_conservation_volunteers_data()
+            break
+
+        elif choice == "4":
             validate_on_this_day_urls()
             break
 

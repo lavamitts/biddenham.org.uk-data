@@ -1,0 +1,12 @@
+<img class="alignright rounded" src="https://biddenham.org.uk/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title} film poster" width="160" height="237" />On {date_formatted}, our film is <strong><a href="{imdb_link}" target="_blank" rel="noopener" title="Read about {title} on IMDB">{title}</a></strong>, certification {certification}, which was released in {release_year}.
+
+{summary}
+
+{title} stars {starring}.
+
+Running time: {running_time}.
+<h2>To book your seat</h2>
+Our films are very popular and there are only 56 seats available, so please do book to avoid disappointment. To reserve your seat, email Peter's Picture House.
+<div class="email icon"><a href="mailto:peterspicturehouse@gmail.com">peterspicturehouse@gmail.com</a></div>
+<div class="phone icon">07818 878491</div>
+The film starts at 7.30pm. We open our doors at 7.00pm, so that viewers can get comfy (bring cushions if you wish) and buy hot drinks, wine, beer and soft drinks. By popular request we also have ice creams for sale too and have an interval in which to enjoy them.
