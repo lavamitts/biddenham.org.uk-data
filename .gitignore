@@ -164,3 +164,6 @@ pyrightconfig.json
 
 # Repo specific ignores
 ~$*
+
+biddenham_conservation_volunteers/resources/input/
+biddenham_conservation_volunteers/resources/output/

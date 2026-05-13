@@ -54,6 +54,14 @@ def run_biddenham_bin_days_data():
     main()
 
 
+def generate_biddenham_conservation_volunteers_data():
+    print("\nCreating Biddenham bin days data...\n")
+
+    from biddenham_conservation_volunteers.main import main
+
+    main()
+
+
 def validate_on_this_day_urls():
     print("\Validating OTD URLs...\n")
 
@@ -65,7 +73,8 @@ def validate_on_this_day_urls():
 def main():
     print("Select project to run:")
     print("1) Create Biddenham bin days data")
-    print("2) OTD stuff")
+    print("2) Generate Biddenham Conservation Volunteers data")
+    print("3) Validate On this day URLs")
     print("\nPress 1 or 2...")
 
     while True:
@@ -76,6 +85,10 @@ def main():
             break
 
         elif choice == "2":
+            generate_biddenham_conservation_volunteers_data()
+            break
+
+        elif choice == "3":
             validate_on_this_day_urls()
             break
 
