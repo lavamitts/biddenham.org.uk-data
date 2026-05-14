@@ -3,16 +3,16 @@ from datetime import datetime
 
 def get_day_suffix(day):
     if 11 <= day <= 13:
-        return 'th'
+        return "th"
     last_digit = day % 10
     if last_digit == 1:
-        return 'st'
+        return "st"
     elif last_digit == 2:
-        return 'nd'
+        return "nd"
     elif last_digit == 3:
-        return 'rd'
+        return "rd"
     else:
-        return 'th'
+        return "th"
 
 
 def is_before_today(input_date: datetime) -> bool:
@@ -31,3 +31,7 @@ def is_before_today(input_date: datetime) -> bool:
 
 def get_month_number():
     return datetime.now().strftime("%m")
+
+
+def get_year():
+    return datetime.now().strftime("%Y")

@@ -1,4 +1,4 @@
-from .environment_variable import EnvironmentVariable
+from common.environment_variable import EnvironmentVariable
 from colorama import Fore, Style, init
 from datetime import datetime
 import json

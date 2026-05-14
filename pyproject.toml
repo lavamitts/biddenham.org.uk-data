@@ -15,3 +15,20 @@ dependencies = [
     "python-docx>=1.2.0",
     "pyperclip>=1.11.0",
 ]
+
+[tool.ruff]
+line-length = 180
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+
+[tool.setuptools]
+packages = [
+    "common",
+    "biddenham_bin_days",
+    "biddenham_on_this_day",
+    "peters_picturehouse_events",
+    "biddenham_conservation_volunteers",
+]

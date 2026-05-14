@@ -1,0 +1,52 @@
+<!-- wp:tribe/event-datetime {"className":"date icon"} /-->
+<!-- wp:tribe/event-price {"className":"price icon"} /-->
+
+<!-- wp:image {"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title} film poster"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>On {date_formatted}, our film is <strong><a title="Read about {title} on IMDB" href="{imdb_link}" target="_blank" rel="noopener">{title}</a></strong>, certification {certification}, which was released in {release_year}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">About {title}</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>{summary}</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"star icon"} -->
+<p class="star icon">Starring <strong>{starring}</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"time icon"} -->
+<p class="time icon">Running time: <strong>{running_time}</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">To book your seat</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our films are very popular and there are only 56 seats available, so please do book to avoid disappointment. To reserve your seat, email Peter's Picture House.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"email icon"} -->
+<p class="email icon"><a href="mailto:peterspicturehouse@gmail.com">mailto:peterspicturehouse@gmail.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"email icon"} -->
+<p class="phone icon">07818 878491</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The film starts at 7.30pm. We open our doors at 7.00pm, so that viewers can get comfy (bring cushions if you wish) and buy hot drinks, wine, beer and soft drinks. By popular request we also have ice creams for sale too and have an interval in which to enjoy them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:tribe/event-links /-->
+
+<!-- wp:tribe/event-venue /-->
+
+<!-- wp:tribe/event-organizer /-->

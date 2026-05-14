@@ -1,10 +1,12 @@
 import re
 
 
-def sanitise_string(s):
+def sanitise_string(s) -> str:
+    if s is None:
+        return ""
     s = s.strip().lower()
-    s = s.replace(' ', '-')
-    return re.sub(r'[^a-z0-9\-]', '', s)
+    s = s.replace(" ", "-")
+    return re.sub(r"[^a-z0-9\-]", "", s)
 
 
 def YN(s):
