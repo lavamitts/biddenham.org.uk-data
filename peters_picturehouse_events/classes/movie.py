@@ -12,11 +12,13 @@ class Movie(object):
         self.template_folder = os.path.join(self.resources_folder, "template")
         self.output_folder = os.path.join(self.resources_folder, "output")
         self.event_folder = os.path.join(self.output_folder, "event")
+        self.listing_folder_old = os.path.join(self.output_folder, "listing-old")
         self.listing_folder = os.path.join(self.output_folder, "listing")
 
         # Make folders if they don't exist
         os.makedirs(self.output_folder, exist_ok=True)
         os.makedirs(self.event_folder, exist_ok=True)
+        os.makedirs(self.listing_folder_old, exist_ok=True)
         os.makedirs(self.listing_folder, exist_ok=True)
 
         self.data = row
@@ -57,6 +59,7 @@ class Movie(object):
         if not self.is_valid():
             return
         self.filename = f"{su.sanitise_string(self.title)}.html"
+        self.filename_as_text = f"{su.sanitise_string(self.title)}.html.txt"
         self.generate_event()
         self.generate_listing()
 
@@ -81,23 +84,33 @@ class Movie(object):
             file.write(self.event_content)
 
     def generate_listing(self):
-        listing_template: str = os.path.join(
-            self.template_folder, "listing_template.txt"
+        # Get the HTML templates
+        # It's crucial that this remains with a .txt extension, as opening with a .html extension causes issues
+        # probably due to Prettier changing small details of the file imperceptbly.
+        html_listing_template: str = os.path.join(
+            self.template_folder, "listing_template.html.txt"
         )
-        os.makedirs(self.listing_folder, exist_ok=True)
+
+        # Make the subfolders
+        os.makedirs(
+            os.path.join(self.listing_folder_old, self.show_year), exist_ok=True
+        )
         os.makedirs(os.path.join(self.listing_folder, self.show_year), exist_ok=True)
+
+        # Get the filename for the new listing
         listing_filename: str = os.path.join(
-            self.listing_folder, self.show_year, self.filename
+            self.listing_folder, self.show_year, self.filename_as_text
         )
+
         # Open the template
-        with open(listing_template, "r", encoding="utf-8") as file:
+        with open(html_listing_template, "r", encoding="utf-8") as file:
             template_content = file.read()
 
         # Make replacements
         self.listing_html = self.replace_placeholders(template_content)
 
-        # Save the resultant file
-        with open(listing_filename, "w", encoding="utf-8") as file:
+        # Save the resultant files
+        with open(listing_filename, "w", encoding="utf-8", newline="") as file:
             file.write(self.listing_html)
 
     def replace_placeholders(self, s):

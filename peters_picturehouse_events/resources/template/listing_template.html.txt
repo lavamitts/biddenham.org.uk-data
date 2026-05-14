@@ -1,0 +1,43 @@
+<!-- wp:columns {"metadata":{"name":"Movie Row: {title}"},"className":"picture-house-columns"} -->
+<div class="wp-block-columns picture-house-columns">
+    
+    <!-- wp:column {"width":"20%","className":"picture-house-columns-date"} -->
+    <div class="wp-block-column picture-house-columns-date" style="flex-basis:20%">
+        <!-- wp:paragraph -->
+        <p>{date_formatted}</p>
+        <!-- /wp:paragraph -->
+    </div>
+    <!-- /wp:column -->
+
+    <!-- wp:column {"width":"60%","className":"picture-house-columns-content"} -->
+    <div class="wp-block-column picture-house-columns-content" style="flex-basis:60%">
+        <!-- wp:paragraph -->
+        <p><strong>{title} ({certification})</strong></p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:paragraph -->
+        <p>{summary}</p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:paragraph -->
+        <p>Starring: {starring}</p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:paragraph {"className":"imdb"} -->
+        <p class="imdb"><a href="{imdb_link}/" target="_blank" rel="noreferrer noopener">&quot;{title}&quot; on IMDB</a></p>
+        <!-- /wp:paragraph -->
+    </div>
+    <!-- /wp:column -->
+
+    <!-- wp:column {"width":"20%","className":"picture-house-columns-image"} -->
+    <div class="wp-block-column picture-house-columns-image" style="flex-basis:20%">
+        <!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+        <figure class="wp-block-image size-full">
+            <img src="/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title}"/>
+        </figure>
+        <!-- /wp:image -->
+    </div>
+    <!-- /wp:column -->
+
+</div>
+<!-- /wp:columns -->

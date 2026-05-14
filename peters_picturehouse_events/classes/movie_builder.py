@@ -128,14 +128,6 @@ class MovieBuilder(object):
         with open(current_filename, "w", encoding="utf-8") as file:
             file.write(content)
 
-    def xbuild_events_csv(self):
-        self.events = []
-        for movie in self.movies:
-            if not movie.imported:
-                event = Event(movie)
-                self.events.append(event)
-                # print(f"Building CSV entry for {movie.title}")
-
     def build_events_csv(self):
         # Open a file to write CSV data
         with open(
