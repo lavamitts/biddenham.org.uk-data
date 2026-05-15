@@ -91,6 +91,14 @@ def validate_on_this_day_urls():
     main()
 
 
+def scrape_biddenham_cricket_fixtures():
+    print("Scraping Biddenham Cricket Club fixtures...\n")
+
+    from biddenham_cricket_fixtures.main import main
+
+    main()
+
+
 def main():
     clear_console()
     print("Select project to run:")
@@ -98,6 +106,7 @@ def main():
     print("2) Create Biddenham bin days data")
     print("3) Generate Biddenham Conservation Volunteers events")
     print("4) Validate On this day URLs")
+    print("5) Scrape Biddenham Cricket Club fixtures")
     print("\nPress 1, 2, 3 or 4 ...")
 
     while True:
@@ -117,6 +126,10 @@ def main():
 
         elif choice == "4":
             validate_on_this_day_urls()
+            break
+
+        elif choice == "5":
+            scrape_biddenham_cricket_fixtures()
             break
 
 

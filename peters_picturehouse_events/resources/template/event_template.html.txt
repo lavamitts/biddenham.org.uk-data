@@ -1,13 +1,13 @@
 <!-- wp:tribe/event-datetime {"className":"date icon"} /-->
 <!-- wp:tribe/event-price {"className":"price icon"} /-->
 
-<!-- wp:image {"align":"right"} -->
-<figure class="wp-block-image alignright"><img src="/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title} film poster"/></figure>
-<!-- /wp:image -->
-
 <!-- wp:paragraph -->
 <p>On {date_formatted}, our film is <strong><a title="Read about {title} on IMDB" href="{imdb_link}" target="_blank" rel="noopener">{title}</a></strong>, certification {certification}, which was released in {release_year}.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title} film poster"/></figure>
+<!-- /wp:image -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">About {title}</h2>
@@ -34,7 +34,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"className":"email icon"} -->
-<p class="email icon"><a href="mailto:peterspicturehouse@gmail.com">mailto:peterspicturehouse@gmail.com</a></p>
+<p class="email icon"><a href="mailto:peterspicturehouse@gmail.com">peterspicturehouse@gmail.com</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"className":"email icon"} -->
