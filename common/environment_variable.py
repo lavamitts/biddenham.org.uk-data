@@ -7,7 +7,17 @@ from datetime import date
 
 class EnvironmentVariable(object):
     def __init__(self, v, dtype="string", permit_omission=False):
-        env_path = Path(__file__).resolve().parents[1] / ".env"
+        # Work out whether we are working on the local site or production
+        app_env = os.getenv("APP_ENV", "local")
+
+        # First load the common variables
+        env_file = ".env"
+        env_path = Path(__file__).resolve().parents[1] / env_file
+        load_dotenv(env_path, override=True)
+
+        # Second, get the right env file, depending on the environment
+        env_file = f".env.{app_env}"
+        env_path = Path(__file__).resolve().parents[1] / env_file
         load_dotenv(env_path, override=True)
 
         v2 = os.getenv(v)

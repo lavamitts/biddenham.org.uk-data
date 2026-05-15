@@ -5,12 +5,23 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Debug launcher app",
+      "name": "Local: Debug launcher app",
       "type": "debugpy",
       "request": "launch",
       "module": "apps.launcher.main",
       "console": "integratedTerminal",
       "justMyCode": false
+    },
+    {
+      "name": "Prod: Debug launcher app)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "apps.launcher.main",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "env": {
+        "APP_ENV": "production"
+      }
     }
   ]
 }

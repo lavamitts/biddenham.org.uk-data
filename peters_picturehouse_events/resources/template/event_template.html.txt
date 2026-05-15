@@ -45,6 +45,14 @@
 <p>The film starts at 7.30pm. We open our doors at 7.00pm, so that viewers can get comfy (bring cushions if you wish) and buy hot drinks, wine, beer and soft drinks. By popular request we also have ice creams for sale too and have an interval in which to enjoy them.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Find out more</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"imdb"} -->
+<p class="imdb"><a href="{imdb_link}" rel="noreferrer noopener" onclick="javascript:window.open('{imdb_link}'); return false;">&quot;{title}&quot; on IMDB</a></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:tribe/event-links /-->
 
 <!-- wp:tribe/event-venue /-->

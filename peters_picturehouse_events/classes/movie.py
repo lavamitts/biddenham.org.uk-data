@@ -1,6 +1,7 @@
 from common.environment_variable import EnvironmentVariable
 from datetime import date
 from requests.auth import HTTPBasicAuth
+from common.style import Colour
 import base64
 import os
 import peters_picturehouse_events.utils.date_utils as du
@@ -28,12 +29,13 @@ class Movie(object):
         if self.is_valid_movie():
             if not self.precedes_earliest_date():
                 self.insert_event_via_api()
+                self.insert_movie_via_api()
 
             self.generate_listing()
 
     def get_api_credentials(self):
         """
-        Gets the creadentials required to connect to the REST API
+        Gets the credentials required to connect to the REST API
         """
         # Get API username
         self.PETERS_PICTUREHOUSE_USERNAME = EnvironmentVariable("PETERS_PICTUREHOUSE_USERNAME", "string", False).value
@@ -52,6 +54,7 @@ class Movie(object):
 
         self.EVENTS_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/tribe/events/v1/events"
         self.MEDIA_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/wp/v2/media"
+        self.MOVIES_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/wp/v2/movies"
 
     def get_data_from_excel_row(self):
         """
@@ -117,26 +120,27 @@ class Movie(object):
         """
 
         if self.event_exists(self.title, self.show_date):
-            print(f"Skipping event {self.title} on {self.show_date_string}.")
+            print(f"Skipping existing event {Colour.CYAN}{self.title}{Colour.RESET} on {self.show_date_string}.")
             return
 
         # Check if the image exists in Wordpress before attempting to create the event
-        image_exists_in_wordpress = self.check_image_exists_in_wordpress(f"{self.title_sanitised}")
+        image_exists_in_wordpress, image_id = self.check_image_exists_in_wordpress(f"{self.title_sanitised}")
         if not image_exists_in_wordpress:
-            print(f"Image for '{self.title}' not found in Wordpress media library. Skipping event creation.")
+            print(f"Image for {Colour.CYAN}{self.title}{Colour.RESET} not found in Wordpress media library. Searching locally ...")
 
             filename_to_find = f"{self.title_sanitised}.webp"
             success, filename = fu.find_file(self.MOVIE_IMAGE_FOLDER, filename_to_find)
             if success:
-                print(f"Found image file for '{self.title}': {filename}")
+                # print(f"Found image file for '{self.title}': {filename}")
                 self.upload_to_wordpress(filename)
                 self.month_added = du.get_month_number()
                 self.year_added = du.get_year()
+                print(f"Uploading image for movie {Colour.GREEN}{self.title}{Colour.RESET} to Wordpress media library ...")
             else:
-                print(f"File not found: {filename_to_find}")
+                print(f"\nImage file for movie {Colour.RED}{self.title}{Colour.RESET} not found. Please create an image for this movie before retrying.")
                 return
 
-        print(f"Creating event '{self.title}' for {self.show_date}.")
+        print(f"Creating event {Colour.CYAN}{self.title}{Colour.RESET} for {self.show_date}.")
 
         # Get the HTML template
         event_template: str = os.path.join(self.template_folder, "event_template.html.txt")
@@ -154,6 +158,7 @@ class Movie(object):
                 "start_date": self.show_date.strftime("%Y-%m-%d 19:00:00"),
                 "end_date": self.show_date.strftime("%Y-%m-%d 21:30:00"),
                 "cost": "5.00",
+                "categories": [70],
                 "venue": 840,
                 "organizer": 4732,
                 "show_map": True,
@@ -171,15 +176,81 @@ class Movie(object):
 
             if response.status_code == 201:
                 result = response.json()
-                print(f"Successfully created event! ID: {result.get('id')}")
+                print(f"{Colour.GREEN}Successfully created event! ID: {result.get('id')}{Colour.RESET}\n")
             else:
                 print(f"Failed to create event. Status code: {response.status_code}")
+
+    def insert_movie_via_api(self):
+        """
+        Inserts a movie into the 'Movies' Custom Post Type with ACF fields.
+        Assumes self.image_id is set after uploading the media.
+        """
+
+        # Only write to WordPress if the WRITE_MOVIES_DIRECTLY_TO_WP environment variable is set to True
+        WRITE_MOVIES_DIRECTLY_TO_WP = EnvironmentVariable("WRITE_MOVIES_DIRECTLY_TO_WP", "bool", False).value
+        if not WRITE_MOVIES_DIRECTLY_TO_WP:
+            return
+
+        if self.movie_exists(self.title, self.show_date):
+            print(f"Skipping existing movie {Colour.CYAN}{self.title}{Colour.RESET}.")
+            return
+
+        # Handle image upload as you did in your previous function
+        # Assuming self.upload_to_wordpress sets self.image_id
+        image_exists_in_wordpress, self.image_id = self.check_image_exists_in_wordpress(f"{self.title_sanitised}")
+
+        if not image_exists_in_wordpress:
+            filename_to_find = f"{self.title_sanitised}.webp"
+            success, filename = fu.find_file(self.MOVIE_IMAGE_FOLDER, filename_to_find)
+            if success:
+                media_result = self.upload_to_wordpress(filename)
+                # Make sure your upload function returns the ID of the uploaded image
+                self.image_id = media_result.get("id")
+            else:
+                print(f"Image for {self.title} not found locally.")
+                return
+
+        # Prepare the movie data
+        movie_data = {
+            "title": self.title,
+            "content": self.summary,  # This goes into the main body editor
+            "status": "publish",
+            "featured_media": self.image_id,  # Sets the Featured Image
+            # This nested 'acf' dictionary is what populates your custom fields
+            "acf": {
+                "date": self.show_date.strftime("%Y%m%d"),
+                # "date": self.show_date.strftime("%Y-%m-%d"),
+                "imdb_link": self.imdb_link,
+                "starring": self.starring,
+                "certification": self.certification,
+                "running_time": self.running_time,
+                "release_year": self.release_year,
+            },
+        }
+
+        # Ensure MOVIES_ENDPOINT is something like:
+        # https://your-site.com/wp-json/wp/v2/movies
+        response = requests.post(
+            self.MOVIES_ENDPOINT,
+            json=movie_data,
+            auth=HTTPBasicAuth(
+                self.PETERS_PICTUREHOUSE_USERNAME,
+                self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+            ),
+        )
+
+        if response.status_code == 201:
+            print(f"{Colour.GREEN}Successfully created Movie: {self.title}{Colour.RESET}")
+        else:
+            print(f"Failed to create movie. Status code: {response.status_code}")
+            print(response.text)
 
     def event_exists(self, title, start_date_obj):
         """
         Checks if an event with the same title exists on the same start date.
         start_date_obj should be a python date or datetime object.
         """
+        title_sanitised = su.sanitise_string(self.title)
         # Create a window for the entire day
         day_start = start_date_obj.strftime("%Y-%m-%d 00:00:00")
         day_end = start_date_obj.strftime("%Y-%m-%d 23:59:59")
@@ -200,8 +271,53 @@ class Movie(object):
 
             # Now we look for the specific title match within that day
             for event in existing_events:
-                if title.strip().lower() in event.get("title").strip().lower():
+                wp_title = event.get("title", "")
+                wp_title = su.sanitise_string(wp_title)
+                if title_sanitised in wp_title:
                     return True
+
+        return False
+
+    def movie_exists(self, title, show_date_obj):
+        """
+        Checks if a movie with the same title exists on the same show date.
+        show_date_obj should be a python date or datetime object.
+        """
+        # ACF dates are usually stored/queried as YYYYMMDD or YYYY-MM-DD
+        # Ensure this matches the 'Save Format' in your ACF settings
+        date_str = show_date_obj.strftime("%Y%m%d")
+        title_sanitised = su.sanitise_string(self.title)
+
+        params = {
+            "search": title,  # Broad search for the title
+            "meta_key": "date",  # The name of your ACF field
+            "meta_value": date_str,  # The value to match
+            "status": "publish,future,draft",  # Check all statuses to avoid duplicates
+        }
+
+        response = requests.get(
+            self.MOVIES_ENDPOINT,
+            params=params,
+            auth=HTTPBasicAuth(
+                self.PETERS_PICTUREHOUSE_USERNAME,
+                self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+            ),
+        )
+
+        if response.status_code == 200:
+            existing_movies = response.json()
+
+            # The 'search' param is broad, so we verify exact matches
+            for movie in existing_movies:
+                # Check for exact title match (ignoring case)
+                wp_title = movie.get("title", {}).get("rendered", "")
+                wp_title = su.sanitise_string(wp_title)
+                if title_sanitised in su.sanitise_string(wp_title):
+                    # Double check the ACF date field specifically
+                    # ACF data is often nested in the 'acf' key in REST response
+                    acf_date = movie.get("acf", {}).get("date", "")
+                    if acf_date == date_str:
+                        return True
 
         return False
 
@@ -262,18 +378,19 @@ class Movie(object):
                 for item in media_items:
                     source_url = item.get("source_url", "")
                     if file_name in source_url:
-                        print(f"Match found: {source_url}")
-                        return True
+                        image_id = item.get("id")
+                        # Return True and the actual ID
+                        return True, image_id
 
-                print("No exact match found in the media library.")
-                return False
+                # No match found
+                return False, None
             else:
-                print(f"Failed to connect. Status code: {response.status_code}")
-                return False
+                print(f"{Colour.RED}Failed to connect. Status code: {response.status_code}{Colour.RESET}")
+                return False, None
 
         except Exception as e:
             print(f"An error occurred: {e}")
-            return False
+            return False, None
 
     def upload_to_wordpress(self, path):
         credentials = f"{self.PETERS_PICTUREHOUSE_USERNAME}:{self.PETERS_PICTUREHOUSE_APPLICATION_KEY}"
@@ -281,7 +398,7 @@ class Movie(object):
         headers = {
             "Authorization": f"Basic {token.decode('utf-8')}",
             "Content-Disposition": f"attachment; filename={os.path.basename(path)}",
-            "Content-Type": "image/webp",  # Adjust based on your file type (e.g., image/png)
+            "Content-Type": "image/webp",
         }
 
         with open(path, "rb") as file:
@@ -290,8 +407,12 @@ class Movie(object):
         response = requests.post(self.MEDIA_ENDPOINT, headers=headers, data=media_data)
 
         if response.status_code == 201:
-            print("Upload successful.")
-            print(f"Image Link: {response.json()['source_url']}")
+            # WordPress returns a dictionary of the new media object
+            media_json = response.json()
+            image_id = media_json.get("id")
+            print(f"{Colour.GREEN}Image uploaded successfully. ID: {image_id}{Colour.RESET}")
+            return image_id  # This is the vital piece
         else:
-            print(f"Upload failed. Status code: {response.status_code}")
+            print(f"{Colour.RED}Upload failed. Status code: {response.status_code}{Colour.RESET}")
             print(response.json())
+            return None
