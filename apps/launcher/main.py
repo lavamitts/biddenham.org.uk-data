@@ -107,7 +107,7 @@ def main():
     print("3) Generate Biddenham Conservation Volunteers events")
     print("4) Validate On this day URLs")
     print("5) Scrape Biddenham Cricket Club fixtures")
-    print("\nPress 1, 2, 3 or 4 ...")
+    print("\nPress 1, 2, 3, 4 or 5 ...")
 
     while True:
         choice = get_single_keypress()

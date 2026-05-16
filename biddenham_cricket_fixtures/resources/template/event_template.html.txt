@@ -1,0 +1,13 @@
+<!-- wp:tribe/event-datetime {"className":"date icon"} /-->
+
+<!-- wp:paragraph -->
+<p>On {date_string} from {time}, {home_team} take on {away_team} at {venue}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:tribe/event-venue {"venue":{venue_id}} /-->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full">
+    <img src="/wp-content/uploads/2026/05/cricket-event-image.webp" alt="Cricket at the Rec." />
+</figure>
+<!-- /wp:image -->

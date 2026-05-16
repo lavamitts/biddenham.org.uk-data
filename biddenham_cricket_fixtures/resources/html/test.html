@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+
+  <div class="container-fluid-large pl-large-0 pr-large-0 container">
+
+    <div class="col-md-10 col-md-offset-1 section-title-1 col-lg-12 col-lg-offset-0">
+      <div class="row text-center text-md-left fixtures-results-ttl">
+        <div class="col-xs-12 col-sm-8">
+          <h2>FIXTURES &amp; RESULTS</h2>
+        </div>
+
+        <div class="col-xs-12 col-sm-4 text-md-right section-share">
+          <div class="d-inline-block">
+            <div class="ttl">Share</div>
+            <div class="bg-twitter">
+              <a href="https://twitter.com/intent/tweet?url=https://biddenham.play-cricket.com/Matches">
+                <img src="https://s3-eu-west-1.amazonaws.com/pc-static.ecb.co.uk/images/logo-white.png" alt=" "
+                  width="16px" height="16px">
+              </a>
+            </div>
+            <div class="bg-facebook">
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https://biddenham.play-cricket.com/Matches">
+                <svg xmlns="http://www.w3.org/2000/svg" width="13.056" height="25" viewBox="0 0 13.056 25">
+                  <path id="Path_1" data-name="Path 1"
+                    d="M88.472,25V13.611h3.889l.556-4.444H88.472V6.389c0-1.25.417-2.222,2.222-2.222h2.361V.139C92.5.139,91.111,0,89.583,0c-3.333,0-5.694,2.083-5.694,5.833V9.167H80v4.444h3.889V25Z"
+                    transform="translate(-80)" fill="#fff" fill-rule="evenodd"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-md-12 pl-large-0 pr-large-0">
+      <ul class="nav nav-justified nav-tabs subnav-1 d-none d-md-block" id="subnav-1">
+        <li class="">
+          <a href="#nav-weekly-view" data-toggle="tab" class="nav-link desktop-tab-link"><span>NEXT WEEK'S
+              FIXTURES</span></a>
+        </li>
+        <li class="">
+          <a href="#nav-weeklyresult-view" data-toggle="tab" class="nav-link desktop-tab-link"><span>LAST WEEK'S
+              RESULTS</span></a>
+        </li>
+        <li class="active">
+          <a href="#nav-all-fixtures" data-toggle="tab" class="nav-link desktop-tab-link"><span>ALL FIXTURES</span></a>
+        </li>
+        <li class="">
+          <a href="#nav-all-results" data-toggle="tab" class="nav-link desktop-tab-link"><span>ALL RESULTS</span></a>
+        </li>
+      </ul>
+    </div>
+    <div class="clearfix"></div>
+
+    <div class="col-xs-12 text-center d-md-none pl-medium-0 pr-medium-0">
+      <div class="navbar-subnav-1">
+        <div class="icon-view-filters"><a class="mvert" data-toggle="collapse" data-target="#collapseFilters"
+            aria-expanded="false" aria-controls="collapseFilters"><i class="material-icons">more_vert</i></a></div>
+        <div class="nav-wrapper">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">ALL FIXTURES<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#nav-weekly-view" data-toggle="tab" class="mobile-tab-link">NEXT WEEK'S FIXTURES</a></li>
+                <li><a href="#nav-weeklyresult-view" data-toggle="tab" class="mobile-tab-link">LAST WEEK'S RESULTS</a>
+                </li>
+                <li><a href="#nav-all-fixtures" data-toggle="tab" class="mobile-tab-link">ALL FIXTURES</a></li>
+                <li class="last-link"><a href="#nav-all-results" data-toggle="tab" class="mobile-tab-link">ALL
+                    RESULTS</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="col-md-12 pl-large-0 pr-large-0">
+      <div class="tab-content match-tbc">
+        <div class="tab-pane fade active in">
+
+          <form class="simple_form" id="all-fixture-form" data-turbo="false" novalidate="novalidate" action="/Matches"
+            accept-charset="UTF-8" method="get">
+            <input type="hidden" name="tab" id="tab" value="Fixture" autocomplete="off">
+            <input type="hidden" name="selected_season_id" id="selected_season_id" value="259" autocomplete="off">
+            <input type="hidden" name="seasonchange" id="seasonchange" value="f" autocomplete="off">
+
+            <div class="col-sm-12 d-md-none text-center season-bg">
+              <div class="row text-center">
+                <select name="fixture_month" id="fixture_month" class="custom-select"
+                  onchange="$(this).parents('form').submit();">
+                  <option value="13">Full Season</option>
+                  <option value="1">Jan</option>
+                  <option value="2">Feb</option>
+                  <option value="3">Mar</option>
+                  <option value="4">Apr</option>
+                  <option selected="selected" value="5">May</option>
+                  <option value="6">Jun</option>
+                  <option value="7">Jul</option>
+                  <option value="8">Aug</option>
+                  <option value="9">Sep</option>
+                  <option value="10">Oct</option>
+                  <option value="11">Nov</option>
+                  <option value="12">Dec</option>
+                </select>
+                <select name="season_id" id="season_id" class="custom-select fxseason_id season-txt"
+                  onchange="changeFixtureSeasonCalendar($(this)); return false;">
+                  <option selected="selected" value="259">Season: 2026</option>
+                </select>
+              </div>
+            </div>
+            <div class="col-sm-12 d-none d-md-block text-center season-bg">
+              <div class="col-xs-6 text-right">
+                <p class="ttl-season">Season</p>
+              </div>
+              <div class="col-xs-6 text-left">
+                <select name="season_id" id="season_id" class="custom-select fxseason_id"
+                  onchange="changeFixtureSeasonCalendar($(this)); return false;">
+                  <option selected="selected" value="259">2026</option>
+                </select>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 d-none d-md-block">
+                <ul class="nav nav-pills nav-justified nav-month" id="SeasonCalendarFixtureMonth">
+                  <li class="pastMonth month-4">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('4', $(this)); return false;">
+                      Apr<span class="d-none d-xl-inline">il</span>
+                    </a>
+                  </li>
+                  <li class="active month-5">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('5', $(this)); return false;">
+                      May
+                    </a>
+                  </li>
+                  <li class=" month-6">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('6', $(this)); return false;">
+                      Jun<span class="d-none d-xl-inline">e</span>
+                    </a>
+                  </li>
+                  <li class=" month-7">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('7', $(this)); return false;">
+                      Jul<span class="d-none d-xl-inline">y</span>
+                    </a>
+                  </li>
+                  <li class=" month-8">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('8', $(this)); return false;">
+                      Aug<span class="d-none d-xl-inline">ust</span>
+                    </a>
+                  </li>
+                  <li class=" month-9">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('9', $(this)); return false;">
+                      Sep<span class="d-none d-xl-inline">tember</span>
+                    </a>
+                  </li>
+                  <li class="pastMonth month-10">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('10', $(this)); return false;">
+                      Oct<span class="d-none d-xl-inline">ober</span>
+                    </a>
+                  </li>
+                  <li class="pastMonth month-11">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('11', $(this)); return false;">
+                      Nov<span class="d-none d-xl-inline">ember</span>
+                    </a>
+                  </li>
+                  <li class="pastMonth month-12">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('12', $(this)); return false;">
+                      Dec<span class="d-none d-xl-inline">ember</span>
+                    </a>
+                  </li>
+                  <li class="pastMonth month-1">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('1', $(this)); return false;">
+                      Jan<span class="d-none d-xl-inline">uary</span>
+                    </a>
+                  </li>
+                  <li class="pastMonth month-2">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('2', $(this)); return false;">
+                      Feb<span class="d-none d-xl-inline">ruary</span>
+                    </a>
+                  </li>
+                  <li class="pastMonth month-3">
+                    <a href="javascript:void(0);" onclick="get_fixtures_of_month('3', $(this)); return false;">
+                      Mar<span class="d-none d-xl-inline">ch</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="row filters-option  d-none d-md-inline">
+              <div class="col-xs-12 col-sm-4 col-lg-5 text-center text-md-left"></div>
+              <div class="col-xs-12 col-sm-8 col-lg-7 text-center">
+                <div class="row">
+                  <div class="col-xs-4 col-sm-4 pull-right">
+                    <button type="button" class="btn btn-filter btn-has-icon" data-toggle="collapse"
+                      data-target="#collapseFilters" aria-expanded="false"
+                      aria-controls="collapseFilters"><span>Filter</span><span class="caret"></span></button>
+                  </div>
+
+                  <div class="col-xs-4 col-sm-4 pull-right">
+                    <select name="team_id" id="team_id" class="custom-select custom-selectH cteam_id dtteam"
+                      onchange="onChangeWeeklyTeam($(this), true);">
+                      <option value="">All</option>
+                      <option selected="selected" value="79562">Team: Sunday League XI</option>
+                      <option value="35361">Sunday Friendly XI</option>
+                      <option value="286729">Midweek XI</option>
+                      <option value="79561">Indoor VI</option>
+                      <option value="107200">Midweek XI (Casuals)</option>
+                      <option value="208126">Under 9</option>
+                      <option value="62235">Under 11</option>
+                      <option value="208125">Under 11 B</option>
+                      <option value="376823">Under 13 Indoor</option>
+                      <option value="167823">Under 13</option>
+                      <option value="260976">Under 13 B</option>
+                      <option value="70010">Under 15</option>
+                      <option value="304289">Under 15 B</option>
+                      <option value="35360">Saturday XI</option>
+                      <option value="219349">Under 35's</option>
+                      <option value="219348">Over 35's</option>
+                      <option value="253930">Indoor Development VI</option>
+                      <option value="261029">Girls Under 11</option>
+                      <option value="220981">Junior End Of Season Day</option>
+                    </select>
+                  </div>
+                  <div class="col-xs-4 col-sm-4 pull-right">
+                    <select name="view_by" id="view_by" class="custom-select custom-selectH cview_by">
+                      <option selected="selected" value="month">By Month</option>
+                      <option value="year">By Year</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="collapse collapseFilters mbt15px" id="collapseFilters">
+              <div class="row no-gutters">
+                <div class="col-xs-12 col-md-6 col-lg-4 d-md-none col">
+                  <div class="col-xs-5 w-100-xs"><label>View</label></div>
+                  <div class="col-xs-7 w-100-xs">
+                    <select name="view_by" id="view_by" class="custom-select cview_by">
+                      <option selected="selected" value="month">By Month</option>
+                      <option value="year">By Year</option>
+                    </select>
+                  </div>
+                </div>
+
+                <div class="col-xs-12 col-md-6 col-lg-4 d-md-none col">
+                  <div class="col-xs-5 w-100-xs"><label>Team</label></div>
+                  <div class="col-xs-7 w-100-xs">
+                    <select name="team_id" id="team_id" class="custom-select cteam_id"
+                      onchange="onChangeWeeklyTeam($(this), false);">
+                      <option value="">All</option>
+                      <option selected="selected" value="79562">Sunday League XI</option>
+                      <option value="35361">Sunday Friendly XI</option>
+                      <option value="286729">Midweek XI</option>
+                      <option value="79561">Indoor VI</option>
+                      <option value="107200">Midweek XI (Casuals)</option>
+                      <option value="208126">Under 9</option>
+                      <option value="62235">Under 11</option>
+                      <option value="208125">Under 11 B</option>
+                      <option value="376823">Under 13 Indoor</option>
+                      <option value="167823">Under 13</option>
+                      <option value="260976">Under 13 B</option>
+                      <option value="70010">Under 15</option>
+                      <option value="304289">Under 15 B</option>
+                      <option value="35360">Saturday XI</option>
+                      <option value="219349">Under 35's</option>
+                      <option value="219348">Over 35's</option>
+                      <option value="253930">Indoor Development VI</option>
+                      <option value="261029">Girls Under 11</option>
+                      <option value="220981">Junior End Of Season Day</option>
+                    </select>
+                  </div>
+                </div>
+
+                <div class="col-xs-12 col-md-6 col-lg-4 col">
+                  <div class="col-xs-5 w-100-xs"><label>Game Type</label></div>
+                  <div class="col-xs-7 w-100-xs">
+                    <select name="search_in" id="search_in" class="custom-select">
+                      <option value="">All Types</option>
+                      <option value="Division">League</option>
+                      <option value="Cup">Cup</option>
+                      <option value="Friendly">Friendly</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-4 col">
+                  <div class="col-xs-5 w-100-xs"><label>Team Category</label></div>
+                  <div class="col-xs-7 w-100-xs">
+                    <select name="q[category_id]" id="q_category_id" selected="selected" class="custom-select">
+                      <option value="all">All</option>
+                      <option value="1">Senior</option>
+                      <option value="2">Social</option>
+                      <option value="3">Junior</option>
+                      <option value="4">Indoor</option>
+                      <option value="5">Disability</option>
+                    </select>
+                  </div>
+                </div>
+
+                <div class="col-xs-12 col-md-6 col-lg-4 col">
+                  <div class="col-xs-5 w-100-xs"><label>Team Gender</label></div>
+                  <div class="col-xs-7 w-100-xs">
+                    <select name="q[gender_id]" id="q_gender_id" selected="selected" class="custom-select">
+                      <option value="all">All</option>
+                      <option value="1">Male</option>
+                      <option value="2">Female</option>
+                      <option value="3">Mixed</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-4 col">
+                  <div class="col-xs-5 w-100-xs"><label>Home/Away</label></div>
+                  <div class="col-xs-7 w-100-xs">
+                    <select name="home_or_away" id="home_or_away" class="custom-select">
+                      <option selected="selected" value="both">Both</option>
+                      <option value="home">Home</option>
+                      <option value="away">Away</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-xs-12 text-right actions-collapseFilters">
+                <a onclick="clearFilterMatches($(this)); return false;" class="btn btn-white" rel="nofollow"
+                  href="#">Clear</a>
+                <input type="submit" name="commit" value="Apply" class="btn btn-green" data-disable-with="Apply">
+              </div>
+              <div class="clearfix"></div>
+            </div>
+
+          </form>
+          <div class="mmargin-top15px"> </div>
+
+
+          <div class="col-sm-12 text-center text-md-left title2 padding_top_for_mobile"
+            style="background-color:#e7eaf1">
+            Sunday 17 May 2026
+          </div>
+          <div class="col-sm-12 card-table pl-small-0 pr-small-0 ml-small-5 mr-small-5">
+            <div class="row ml-large-0 mr-large-0">
+
+              <div class="col-sm-12 d-md-none match-status-mobile">
+                <div class="d-inline-block">
+                  <p class="time">13:00</p>
+                  <p class="location">Biddenham Pavilion </p>
+                </div>
+                <a class="link-scorecard rounded-circle" href="/match_details?id=7327037"><i
+                    class="material-icons">search</i></a>
+              </div>
+              <div class="d-block d-md-flex">
+                <div class="col-sm-1 d-none d-md-block">&nbsp;</div>
+                <div class="col-sm-10 bgGray">
+                  <table class="table">
+                    <tbody>
+                      <tr class="d-none d-md-table-row">
+                        <td colspan="3" class="col-sm-10 text-center match-status bgGray">
+                          <div class="d-inline-flex">
+                            <p class="time mr-15">13:00</p>
+                            <p class="location">Biddenham Pavilion </p>
+                          </div>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td class="col-xs-5 col-sm-3 col-md-3 text-center text-md-right bgGray">
+                          <p class="club-badge-card d-md-none"><img class="d-inline-flex rounded-circle rounded_image"
+                              src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/1120/Biddenham.jpg">
+                          </p>
+                          <p class="txt1">
+                            Biddenham CC<span class="d-block d-lg-inline"><span class="d-none d-lg-inline">-</span>
+                              Sunday League XI</span></p>
+
+                        </td>
+
+                        <td class="col-xs-2 col-sm-4 col-md-3 text-center bgGray">
+                          <div class="d-inline-block">
+                            <div class="d-md-flex align-items-center justify-content-between divider-h">
+                              <p
+                                class="club-badge-card club-badge-card-left club-badge-card-md mb-0 d-none d-md-inline-flex">
+                                <img class="d-inline-flex rounded-circle rounded_image"
+                                  src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/1120/Biddenham.jpg">
+                              </p>
+                              <div class="divider"><span class="vs">Vs</span></div>
+                              <p
+                                class="club-badge-card club-badge-card-right club-badge-card-md mb-0 d-none d-md-inline-flex">
+                                <img class="d-inline-flex rounded-circle rounded_image"
+                                  src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/3576/Ickwell.jpg">
+                              </p>
+                            </div>
+                          </div>
+                        </td>
+                        <td class="col-xs-5 col-sm-3 col-md-3 text-center text-md-left card-table-r bgGray">
+                          <p class="club-badge-card d-md-none"><img class="d-inline-flex rounded-circle rounded_image"
+                              src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/3576/Ickwell.jpg">
+                          </p>
+                          <p class="txt1">
+                            Ickwell CC<span class="d-block d-lg-inline"><span class="d-none d-lg-inline">-</span> Sunday
+                              1st XI</span></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="col-sm-1 col-md-1 d-none d-md-block">
+                  <a class="link-scorecard d-none d-md-inline-block rounded-circle" href="/match_details?id=7327037"><i
+                      class="material-icons">search</i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-sm-12 text-center text-md-left title2 padding_top_for_mobile"
+            style="background-color:#e7eaf1">
+            Sunday 24 May 2026
+          </div>
+          <div class="col-sm-12 card-table pl-small-0 pr-small-0 ml-small-5 mr-small-5">
+            <div class="row ml-large-0 mr-large-0">
+
+              <div class="col-sm-12 d-md-none match-status-mobile">
+                <div class="d-inline-block">
+                  <p class="time">13:00</p>
+                  <p class="location"><a href="/grounds/2557"></a><a href="/grounds/2557">Southill Park CG</a></p>
+                </div>
+                <a class="link-scorecard rounded-circle" href="/match_details?id=7327041"><i
+                    class="material-icons">search</i></a>
+                <a class="link-scorecard link-location rounded-circle" href="/grounds/2557"><i
+                    class="material-icons">location_on</i></a>
+              </div>
+              <div class="d-block d-md-flex">
+                <div class="col-sm-1 d-none d-md-block">&nbsp;</div>
+                <div class="col-sm-10 bgGray">
+                  <table class="table">
+                    <tbody>
+                      <tr class="d-none d-md-table-row">
+                        <td colspan="3" class="col-sm-10 text-center match-status bgGray">
+                          <div class="d-inline-flex">
+                            <p class="time mr-15">13:00</p>
+                            <p class="location" <a="" href="/grounds/2557"><a href="/grounds/2557">Southill Park CG</a>
+                            </p>
+                          </div>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td class="col-xs-5 col-sm-3 col-md-3 text-center text-md-right bgGray">
+                          <p class="club-badge-card d-md-none"><img class="d-inline-flex rounded-circle rounded_image"
+                              src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/5825/SPCC_LOGO_CLEAR2.png">
+                          </p>
+                          <p class="txt1">
+                            Southill Park CC<span class="d-block d-lg-inline"><span class="d-none d-lg-inline">-</span>
+                              Sunday 1st XI</span></p>
+
+                        </td>
+
+                        <td class="col-xs-2 col-sm-4 col-md-3 text-center bgGray">
+                          <div class="d-inline-block">
+                            <div class="d-md-flex align-items-center justify-content-between divider-h">
+                              <p
+                                class="club-badge-card club-badge-card-left club-badge-card-md mb-0 d-none d-md-inline-flex">
+                                <img class="d-inline-flex rounded-circle rounded_image"
+                                  src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/5825/SPCC_LOGO_CLEAR2.png">
+                              </p>
+                              <div class="divider"><span class="vs">Vs</span></div>
+                              <p
+                                class="club-badge-card club-badge-card-right club-badge-card-md mb-0 d-none d-md-inline-flex">
+                                <img class="d-inline-flex rounded-circle rounded_image"
+                                  src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/1120/Biddenham.jpg">
+                              </p>
+                            </div>
+                          </div>
+                        </td>
+                        <td class="col-xs-5 col-sm-3 col-md-3 text-center text-md-left card-table-r bgGray">
+                          <p class="club-badge-card d-md-none"><img class="d-inline-flex rounded-circle rounded_image"
+                              src="https://s3-eu-west-1.amazonaws.com/p-c2gallery.ecb.co.uk/uploads/website_configuration/badge_image/1120/Biddenham.jpg">
+                          </p>
+                          <p class="txt1">
+                            Biddenham CC<span class="d-block d-lg-inline"><span class="d-none d-lg-inline">-</span>
+                              Sunday League XI</span></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="col-sm-1 col-md-1 d-none d-md-block">
+                  <a class="link-scorecard d-none d-md-inline-block rounded-circle" href="/match_details?id=7327041"><i
+                      class="material-icons">search</i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
