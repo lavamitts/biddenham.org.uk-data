@@ -25,16 +25,16 @@ class Venue(object):
         Gets the credentials required to connect to the REST API
         """
         # Get API username
-        self.PETERS_PICTUREHOUSE_USERNAME = EnvironmentVariable("PETERS_PICTUREHOUSE_USERNAME", "string", False).value
+        self.WORDPRESS_USERNAME = EnvironmentVariable("WORDPRESS_USERNAME", "string", False).value
 
         # Get API application key
-        self.PETERS_PICTUREHOUSE_APPLICATION_KEY = EnvironmentVariable("PETERS_PICTUREHOUSE_APPLICATION_KEY", "string", False).value
+        self.WORDPRESS_APPLICATION_KEY = EnvironmentVariable("WORDPRESS_APPLICATION_KEY", "string", False).value
 
         # Get the site URL for the API endpoint
-        self.PETERS_PICTUREHOUSE_SITE_URL = EnvironmentVariable("PETERS_PICTUREHOUSE_SITE_URL", "string", False).value
+        self.WORDPRESS_SITE_URL = EnvironmentVariable("WORDPRESS_SITE_URL", "string", False).value
 
-        # self.EVENTS_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/tribe/events/v1/events"
-        self.VENUE_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/tribe/events/v1/venues"
+        # self.EVENTS_ENDPOINT = f"{self.WORDPRESS_SITE_URL}/wp-json/tribe/events/v1/events"
+        self.VENUE_ENDPOINT = f"{self.WORDPRESS_SITE_URL}/wp-json/tribe/events/v1/venues"
 
     def parse_data(self):
         self.key = self.data.get("key", "")
@@ -107,7 +107,7 @@ class Venue(object):
         json_data = json.dumps(payload).encode("utf-8")
 
         # Create the Basic Authentication header
-        auth_string = f"{self.PETERS_PICTUREHOUSE_USERNAME}:{self.PETERS_PICTUREHOUSE_APPLICATION_KEY}"
+        auth_string = f"{self.WORDPRESS_USERNAME}:{self.WORDPRESS_APPLICATION_KEY}"
         auth_encoded = base64.b64encode(auth_string.encode("utf-8")).decode("utf-8")
 
         headers = {

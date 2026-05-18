@@ -3,12 +3,8 @@ from requests.auth import HTTPBasicAuth
 from common.environment_variable import EnvironmentVariable
 
 # Configuration
-PETERS_PICTUREHOUSE_USERNAME = EnvironmentVariable(
-    "PETERS_PICTUREHOUSE_USERNAME", "string", False
-).value
-PETERS_PICTUREHOUSE_APPLICATION_KEY = EnvironmentVariable(
-    "PETERS_PICTUREHOUSE_APPLICATION_KEY", "string", False
-).value
+WORDPRESS_USERNAME = EnvironmentVariable("WORDPRESS_USERNAME", "string", False).value
+WORDPRESS_APPLICATION_KEY = EnvironmentVariable("WORDPRESS_APPLICATION_KEY", "string", False).value
 
 SITE_URL = "https://biddenham.org.uk"
 ENDPOINT = f"{SITE_URL}/wp-json/tribe/events/v1/events"
@@ -25,9 +21,7 @@ def event_exists(title, start_date):
     response = requests.get(
         ENDPOINT,
         params=params,
-        auth=HTTPBasicAuth(
-            PETERS_PICTUREHOUSE_USERNAME, PETERS_PICTUREHOUSE_APPLICATION_KEY
-        ),
+        auth=HTTPBasicAuth(WORDPRESS_USERNAME, WORDPRESS_APPLICATION_KEY),
     )
 
     if response.status_code == 200:
@@ -75,9 +69,7 @@ def create_wp_event():
     response = requests.post(
         ENDPOINT,
         json=event_data,
-        auth=HTTPBasicAuth(
-            PETERS_PICTUREHOUSE_USERNAME, PETERS_PICTUREHOUSE_APPLICATION_KEY
-        ),
+        auth=HTTPBasicAuth(WORDPRESS_USERNAME, WORDPRESS_APPLICATION_KEY),
     )
 
     if response.status_code == 201:

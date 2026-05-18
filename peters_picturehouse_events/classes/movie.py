@@ -38,23 +38,23 @@ class Movie(object):
         Gets the credentials required to connect to the REST API
         """
         # Get API username
-        self.PETERS_PICTUREHOUSE_USERNAME = EnvironmentVariable("PETERS_PICTUREHOUSE_USERNAME", "string", False).value
+        self.WORDPRESS_USERNAME = EnvironmentVariable("WORDPRESS_USERNAME", "string", False).value
 
         # Get API application key
-        self.PETERS_PICTUREHOUSE_APPLICATION_KEY = EnvironmentVariable("PETERS_PICTUREHOUSE_APPLICATION_KEY", "string", False).value
+        self.WORDPRESS_APPLICATION_KEY = EnvironmentVariable("WORDPRESS_APPLICATION_KEY", "string", False).value
 
         # Get the earliest date for events to be imported, to avoid importing old events that have already passed
         self.PETERS_PICTUREHOUSE_EARLIEST_DATE = EnvironmentVariable("PETERS_PICTUREHOUSE_EARLIEST_DATE", "date", False).value
 
         # Get the site URL for the API endpoint
-        self.PETERS_PICTUREHOUSE_SITE_URL = EnvironmentVariable("PETERS_PICTUREHOUSE_SITE_URL", "string", False).value
+        self.WORDPRESS_SITE_URL = EnvironmentVariable("WORDPRESS_SITE_URL", "string", False).value
 
         # Get the folder where movie images are stored
         self.MOVIE_IMAGE_FOLDER = EnvironmentVariable("MOVIE_IMAGE_FOLDER", "string", False).value
 
-        self.EVENTS_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/tribe/events/v1/events"
-        self.MEDIA_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/wp/v2/media"
-        self.MOVIES_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/wp/v2/movies"
+        self.EVENTS_ENDPOINT = f"{self.WORDPRESS_SITE_URL}/wp-json/tribe/events/v1/events"
+        self.MEDIA_ENDPOINT = f"{self.WORDPRESS_SITE_URL}/wp-json/wp/v2/media"
+        self.MOVIES_ENDPOINT = f"{self.WORDPRESS_SITE_URL}/wp-json/wp/v2/movies"
 
     def get_data_from_excel_row(self):
         """
@@ -169,8 +169,8 @@ class Movie(object):
                 self.EVENTS_ENDPOINT,
                 json=event_data,
                 auth=HTTPBasicAuth(
-                    self.PETERS_PICTUREHOUSE_USERNAME,
-                    self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+                    self.WORDPRESS_USERNAME,
+                    self.WORDPRESS_APPLICATION_KEY,
                 ),
             )
 
@@ -234,8 +234,8 @@ class Movie(object):
             self.MOVIES_ENDPOINT,
             json=movie_data,
             auth=HTTPBasicAuth(
-                self.PETERS_PICTUREHOUSE_USERNAME,
-                self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+                self.WORDPRESS_USERNAME,
+                self.WORDPRESS_APPLICATION_KEY,
             ),
         )
 
@@ -261,8 +261,8 @@ class Movie(object):
             self.EVENTS_ENDPOINT,
             params=params,
             auth=HTTPBasicAuth(
-                self.PETERS_PICTUREHOUSE_USERNAME,
-                self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+                self.WORDPRESS_USERNAME,
+                self.WORDPRESS_APPLICATION_KEY,
             ),
         )
 
@@ -299,8 +299,8 @@ class Movie(object):
             self.MOVIES_ENDPOINT,
             params=params,
             auth=HTTPBasicAuth(
-                self.PETERS_PICTUREHOUSE_USERNAME,
-                self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+                self.WORDPRESS_USERNAME,
+                self.WORDPRESS_APPLICATION_KEY,
             ),
         )
 
@@ -369,7 +369,7 @@ class Movie(object):
         params = {"search": file_name, "per_page": 10}
 
         try:
-            response = requests.get(self.MEDIA_ENDPOINT, auth=HTTPBasicAuth(self.PETERS_PICTUREHOUSE_USERNAME, self.PETERS_PICTUREHOUSE_APPLICATION_KEY), params=params)
+            response = requests.get(self.MEDIA_ENDPOINT, auth=HTTPBasicAuth(self.WORDPRESS_USERNAME, self.WORDPRESS_APPLICATION_KEY), params=params)
 
             if response.status_code == 200:
                 media_items = response.json()
@@ -393,7 +393,7 @@ class Movie(object):
             return False, None
 
     def upload_to_wordpress(self, path):
-        credentials = f"{self.PETERS_PICTUREHOUSE_USERNAME}:{self.PETERS_PICTUREHOUSE_APPLICATION_KEY}"
+        credentials = f"{self.WORDPRESS_USERNAME}:{self.WORDPRESS_APPLICATION_KEY}"
         token = base64.b64encode(credentials.encode())
         headers = {
             "Authorization": f"Basic {token.decode('utf-8')}",

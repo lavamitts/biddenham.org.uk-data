@@ -1,24 +1,21 @@
 from .task import Task
-from colorama import Fore, Style, init
 from docx import Document
 import os
 import sys
+import utils.string_utils as su
+from common.style import Colour
 
 
 class Runner:
-    def __init__(self):
-        # Initialize colorama (required for Windows support)
-        init(autoreset=True)
-
     def make_tasks(self):
         # Task list v89 2026.docx
         # Display instructions to the user
-        print(
-            "\nPlace your file in the folder resources/input and then enter the filename at the prompt.\n"
-        )
+        print(f"\nPlace your original Word document in the folder {Colour.BOLD}{Colour.MAGENTA}resources/input{Colour.RESET} and then enter the filename at the prompt.\n")
+        print(f"\nPlease {Colour.BOLD}{Colour.MAGENTA}make all corrections{Colour.RESET} to the Word document in advance of running this function.\n")
 
         # Capture the filename from the user
-        filename = input("Please enter the filename: ")
+        filename = input("Please enter the filename of the Word document: ").strip()
+        filename = su.add_file_extension(filename, "docx")
 
         # Construct the full path
         full_path = os.path.join(
@@ -31,10 +28,8 @@ class Runner:
 
         # Load the Word document
         if not os.path.exists(full_path):
-            print(f"\n{Fore.RED}AN ERROR HAS OCCURRED.")
-            print(
-                f"\nFile '{Fore.CYAN}{filename}{Style.RESET_ALL}' not found. Please check.\n"
-            )
+            print(f"\n{Colour.RED}AN ERROR HAS OCCURRED.")
+            print(f"\nFile '{Colour.CYAN}{filename}{Colour.RESET}' not found. Please check.\n")
             sys.exit()
 
         doc = Document(full_path)  # Replace with your actual file name
@@ -59,8 +54,7 @@ class Runner:
             with open(path, "w") as file:
                 file.write(f"{task.title}\n\n")
                 file.write(task.prose_representation)
+            task.insert_event_via_api()
 
-        print(f"\n{Fore.CYAN}COMPLETE{Style.RESET_ALL}\n========")
-        print(
-            f"\nData extracted to folder '{Fore.CYAN}resources/output{Style.RESET_ALL}'\n"
-        )
+        print(f"\n{Colour.CYAN}COMPLETE{Colour.RESET}\n========")
+        print(f"\nData extracted to folder '{Colour.CYAN}resources/output{Colour.RESET}'\n")

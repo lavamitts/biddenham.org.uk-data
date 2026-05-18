@@ -45,18 +45,18 @@ class Match(object):
         self.CRICKET_CATEGORY_ID = EnvironmentVariable("CRICKET_CATEGORY_ID", "int", False).value
 
         # Get API username
-        self.PETERS_PICTUREHOUSE_USERNAME = EnvironmentVariable("PETERS_PICTUREHOUSE_USERNAME", "string", False).value
+        self.WORDPRESS_USERNAME = EnvironmentVariable("WORDPRESS_USERNAME", "string", False).value
 
         # Get API application key
-        self.PETERS_PICTUREHOUSE_APPLICATION_KEY = EnvironmentVariable("PETERS_PICTUREHOUSE_APPLICATION_KEY", "string", False).value
+        self.WORDPRESS_APPLICATION_KEY = EnvironmentVariable("WORDPRESS_APPLICATION_KEY", "string", False).value
 
         # Get the earliest date for events to be imported, to avoid importing old events that have already passed
         self.PETERS_PICTUREHOUSE_EARLIEST_DATE = EnvironmentVariable("PETERS_PICTUREHOUSE_EARLIEST_DATE", "date", False).value
 
         # Get the site URL for the API endpoint
-        self.PETERS_PICTUREHOUSE_SITE_URL = EnvironmentVariable("PETERS_PICTUREHOUSE_SITE_URL", "string", False).value
+        self.WORDPRESS_SITE_URL = EnvironmentVariable("WORDPRESS_SITE_URL", "string", False).value
 
-        self.EVENTS_ENDPOINT = f"{self.PETERS_PICTUREHOUSE_SITE_URL}/wp-json/tribe/events/v1/events"
+        self.EVENTS_ENDPOINT = f"{self.WORDPRESS_SITE_URL}/wp-json/tribe/events/v1/events"
 
     def get_venue_id(self):
         venue = self.venue_collection.venues_dict.get(self.venue, None)
@@ -165,8 +165,8 @@ class Match(object):
                 self.EVENTS_ENDPOINT,
                 json=event_data,
                 auth=HTTPBasicAuth(
-                    self.PETERS_PICTUREHOUSE_USERNAME,
-                    self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+                    self.WORDPRESS_USERNAME,
+                    self.WORDPRESS_APPLICATION_KEY,
                 ),
             )
 
@@ -193,8 +193,8 @@ class Match(object):
             self.EVENTS_ENDPOINT,
             params=params,
             auth=HTTPBasicAuth(
-                self.PETERS_PICTUREHOUSE_USERNAME,
-                self.PETERS_PICTUREHOUSE_APPLICATION_KEY,
+                self.WORDPRESS_USERNAME,
+                self.WORDPRESS_APPLICATION_KEY,
             ),
         )
 

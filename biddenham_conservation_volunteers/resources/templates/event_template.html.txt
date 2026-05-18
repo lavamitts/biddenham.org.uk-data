@@ -1,0 +1,52 @@
+<!-- wp:tribe/event-datetime {"className":"date icon"} /-->
+
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What's happening</h2>
+<!-- /wp:heading -->
+
+
+<!-- wp:paragraph -->
+<p>On {date}, the Biddenham Conservation Volunteers will be carrying out {nature_of_task} {preposition} {location}. The activities will start at {start_time} and end at {end_time}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We hope to see you there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="icon person">The session will be led by {leader}.</p>
+<!-- /wp:paragraph -->
+
+<!-- if:tools -->
+<!-- wp:paragraph -->
+<p class="icon tools">Please bring {tools}.</p>
+<!-- /wp:paragraph -->
+<!-- /if:tools -->
+
+<!-- wp:separator {"align":"wide"} -->
+<hr class="wp-block-separator alignwide has-alpha-channel-opacity mt1point5"/>
+<!-- /wp:separator -->
+
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Find out more</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href='/biddenham-conservation-volunteers/'>Find out more about the work of the Biddenham Conservation Volunteers</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you would like to join us, please contact <a href="mailto:gillycowan@btinternet.com" target="_blank">Gilly Cowan</a>, and she will send you further information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="email icon"><a href="mailto:gillycowan@btinternet.com" target="_blank">gillycowan@btinternet.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full">
+    <img src="/wp-content/uploads/2026/05/{image_filename}" alt="Biddenham Conservation Volunteers" />
+</figure>
+<!-- /wp:image -->
