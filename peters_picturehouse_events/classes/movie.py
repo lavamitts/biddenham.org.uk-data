@@ -4,9 +4,9 @@ from requests.auth import HTTPBasicAuth
 from common.style import Colour
 import base64
 import os
-import peters_picturehouse_events.utils.date_utils as du
-import peters_picturehouse_events.utils.string_utils as su
-import peters_picturehouse_events.utils.file_utils as fu
+import utils.date_utils as du
+import utils.string_utils as su
+import utils.file_utils as fu
 import requests
 
 
