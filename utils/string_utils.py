@@ -2,11 +2,30 @@ import re
 from common.style import Colour
 
 
+def standardise_whitespace(s):
+    # Replace all whitespace sequences with a single space
+    if s is None:
+        return ""
+    s = re.sub(r"\s+", " ", s)
+    return s
+
+
 def print_heading(s):
     s = s.strip()
     print(s.upper())
     underline = "=" * len(s)
     print(f"{Colour.BRIGHT_CYAN}{underline}{Colour.RESET}")
+
+
+def list_to_sentence(items) -> str:
+    if not items:
+        result = ""
+    elif len(items) == 1:
+        result = items[0]
+    else:
+        result = ", ".join(items[:-1]) + " and " + items[-1]
+
+    return result
 
 
 def sanitise_string(s) -> str:

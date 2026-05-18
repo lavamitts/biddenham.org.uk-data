@@ -1,9 +1,9 @@
-from .classes.runner import Runner
+from .classes.event_generator import EventGenerator
 
 
 def main():
-    runner = Runner()
-    runner.make_tasks()
+    event_generator = EventGenerator()
+    event_generator.generate_events()
 
 
 if __name__ == "__main__":

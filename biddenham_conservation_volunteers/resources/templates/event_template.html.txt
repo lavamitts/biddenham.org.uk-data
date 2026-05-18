@@ -7,12 +7,18 @@
 
 
 <!-- wp:paragraph -->
-<p>On {date}, the Biddenham Conservation Volunteers will be carrying out {nature_of_task} {preposition} {location}. The activities will start at {start_time} and end at {end_time}.</p>
+<p>On {date}, the Biddenham Conservation Volunteers will be carrying out {nature_of_task} {preposition} {location}.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We hope to see you there.</p>
+<p class="icon time">We will start at {start_time} and end at {end_time}.</p>
 <!-- /wp:paragraph -->
+
+<!-- if:footpaths -->
+<!-- wp:paragraph -->
+<p class="icon map">Here is a <a href="/local-walks#footpath-numbering">numbered map of Biddenham's footpaths</a>.</p>
+<!-- /wp:paragraph -->
+<!-- /if:footpaths -->
 
 <!-- wp:paragraph -->
 <p class="icon person">The session will be led by {leader}.</p>
@@ -23,6 +29,10 @@
 <p class="icon tools">Please bring {tools}.</p>
 <!-- /wp:paragraph -->
 <!-- /if:tools -->
+
+<!-- wp:paragraph -->
+<p class="mt-1"><strong>We hope to see you there!</strong></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:separator {"align":"wide"} -->
 <hr class="wp-block-separator alignwide has-alpha-channel-opacity mt1point5"/>
