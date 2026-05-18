@@ -3,6 +3,7 @@ from docx import Document
 import os
 import sys
 import utils.string_utils as su
+import utils.file_utils as fu
 from common.style import Colour
 
 
@@ -14,16 +15,17 @@ class EventGenerator:
         print(f"\nPlease {Colour.BOLD}{Colour.MAGENTA}make all corrections{Colour.RESET} to the Word document in advance of running this function.\n")
 
         # Capture the filename from the user
-        filename = input("Please enter the filename of the Word document: ").strip()
-        filename = "Task list v91 2026"
-        filename = su.add_file_extension(filename, "docx")
+        # filename = input("Please enter the filename of the Word document: ").strip()
+        # filename = "Task list v91 2026"
+        # filename = su.add_file_extension(filename, "docx")
+
+        print("Please enter the filename of the Word document: ")
+        input_folder = os.path.join(os.getcwd(), "biddenham_conservation_volunteers", "resources", "input")
+        filename = fu.select_docx_file(input_folder, "docx")
 
         # Construct the full path
         full_path = os.path.join(
-            os.getcwd(),
-            "biddenham_conservation_volunteers",
-            "resources",
-            "input",
+            input_folder,
             filename,
         )
 

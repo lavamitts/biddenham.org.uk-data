@@ -1,4 +1,74 @@
 import os
+import curses
+
+
+def select_docx_file(folder_path, extension: str = None):
+    # Get all .docx (etc.) files in the directory
+    if extension is not None:
+        extension = extension.replace(".", "")
+    try:
+        if extension:
+            files = [f for f in os.listdir(folder_path) if f.endswith(f".{extension}") and os.path.isfile(os.path.join(folder_path, f))]
+        else:
+            files = [f for f in os.listdir(folder_path) if f != ".DS_Store" and os.path.isfile(os.path.join(folder_path, f))]
+
+        if files:
+            files = sorted([f for f in os.listdir(folder_path) if f.endswith(f".{extension}") and "$" not in f and os.path.isfile(os.path.join(folder_path, f))], reverse=True)
+
+    except Exception as e:
+        print(f"Error accessing folder: {e}")
+        return None
+
+    if not files:
+        print("No matching files found in the specified folder.")
+        return None
+
+    def menu(stdscr):
+        # Hide the blinking text cursor
+        curses.curs_set(0)
+
+        # Initialize color support and use the terminal's default background
+        if curses.has_colors():
+            curses.start_color()
+            curses.use_default_colors()
+
+        # Keep track of which file is currently highlighted
+        current_row = 0
+
+        while True:
+            stdscr.clear()
+
+            # Display instructions
+            stdscr.addstr(0, 0, "Use Up  Down arrows to navigate, Enter to select, Escape to exit.", curses.A_REVERSE)
+            stdscr.addstr(1, 0, f"Folder: {folder_path}\n")
+
+            # Draw the list of files
+            for idx, filename in enumerate(files):
+                # Highlight the currently selected row
+                if idx == current_row:
+                    stdscr.attron(curses.A_STANDOUT)
+                    stdscr.addstr(idx + 3, 2, filename)
+                    stdscr.attroff(curses.A_STANDOUT)
+                else:
+                    stdscr.addstr(idx + 3, 2, filename)
+
+            stdscr.refresh()
+
+            # Wait for user input
+            key = stdscr.getch()
+
+            # Handle navigation and selection
+            if key == curses.KEY_UP:
+                current_row = (current_row - 1) % len(files)
+            elif key == curses.KEY_DOWN:
+                current_row = (current_row + 1) % len(files)
+            elif key in [curses.KEY_ENTER, 10, 13]:  # Enter keys
+                return files[current_row]
+            elif key == 27:  # Escape key
+                return None
+
+    # Run the curses application safely
+    return curses.wrapper(menu)
 
 
 def find_file(root_folder, target_filename):
