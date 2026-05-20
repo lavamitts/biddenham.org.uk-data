@@ -3,10 +3,9 @@ from datetime import datetime, timedelta
 from requests.auth import HTTPBasicAuth
 from common.style import Colour
 import os
-import peters_picturehouse_events.utils.date_utils as du
-import peters_picturehouse_events.utils.string_utils as su
+import utils.date_utils as du
+import utils.string_utils as su
 
-# import peters_picturehouse_events.utils.file_utils as fu
 import requests
 
 
@@ -77,11 +76,11 @@ class Match(object):
         self.date: datetime = self.cricket_date_to_actual_date(self.date_string)
         self.time: str = self.data["time"]
         self.venue_id: int = None
-        self.get_time_start_end_end()
+        self.get_time_start_and_end()
         self.get_competition()
         _ = 1
 
-    def get_time_start_end_end(self):
+    def get_time_start_and_end(self):
         """
         Gets the start and end time for the event, based on the time string in the data.
         This is required for the API, which needs a start and end time.

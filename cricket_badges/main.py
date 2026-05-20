@@ -23,7 +23,7 @@ TEXT_WIDTH = 270
 # Font configuration
 FONT_PATH_REGULAR = "Lato-Regular.ttf"  # Ensure this file is in your directory
 FONT_PATH_BOLD = "Lato-Bold.ttf"  # Ensure this file is in your directory
-FONT_SIZE = 30
+FONT_SIZE = 27
 TEXT_COLOR = (0, 0, 0)  # Black text
 
 # Club dataset mapping filenames to display names
