@@ -167,12 +167,9 @@ function renderHistoryItem(ev) {
         month: 'long',
         year: 'numeric'
     });
-
-    const themeImg = `${rootPath}/images/themes/otd-theme-${ev.theme.toLowerCase()}.webp`;
     
     return `
-        <div class="otd-event-row" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-            <img src="${themeImg}" style="width: 65px; margin-right: 15px;" />
+        <div class="otd-event-row" style="margin-bottom: 20px;">
             <div>
                 <p style="font-weight: bold; margin: 0;">${fullDateStr}</p>
                 <p style="margin: 2px 0 0 0;">${ev.event}</p>

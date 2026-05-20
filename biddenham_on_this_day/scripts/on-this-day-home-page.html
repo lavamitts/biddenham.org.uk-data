@@ -6,7 +6,7 @@ async function displayTodayEvent() {
     const month = String(now.getMonth() + 1).padStart(2, '0');
     const todayKey = `${day}-${month}`; // Matches "07-04"
 
-    // 2. Define the path (This is where the 'undefined' error usually happens)
+    // 2. Define the path
     const fileName = `${month}.json`;
     const rootPath = 'https://raw.githubusercontent.com/lavamitts/biddenham.org.uk-data/refs/heads/main/';
     const baseUrl = rootPath + 'biddenham_on_this_day/data/history/';
@@ -28,8 +28,6 @@ async function displayTodayEvent() {
             // 4. Random selection
             const randomIndex = Math.floor(Math.random() * todayData.events.length);
             const selectedEvent = todayData.events[randomIndex];
-            const theme = selectedEvent.theme;
-            const otdThemeImage = rootPath + 'biddenham_on_this_day/images/themes/otd-theme-' + theme.toLowerCase() + ".webp";
 
             // 5. Format the date string to "7 April 1945"
             // We split the "1945-04-07" string to avoid timezone shifts
@@ -43,7 +41,6 @@ async function displayTodayEvent() {
             });
 
             // 6. Inject into the WordPress container
-            // const container = document.getElementById('otd-container');
             const container = document.getElementsByClassName('otd-container')[0];
             
             if (container) {
@@ -51,7 +48,6 @@ async function displayTodayEvent() {
                     <div class="otd-card">
                         <h2>On this day in history...</h2>
                         <div class="otd-card-content">
-                            <img src="${otdThemeImage}" />
                             <div class="otd-event-and-date">
                                 <p class="otd-date">${formattedDate}</p>
                                 <p class="otd-event">${selectedEvent.event}</p>
@@ -64,7 +60,6 @@ async function displayTodayEvent() {
             console.warn(`No events found for ${todayKey}`);
         }
     } catch (error) {
-        // This will now report the specific error if something else fails
         console.error("OTD Error:", error);
     }
 }
