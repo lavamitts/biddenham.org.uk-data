@@ -1,0 +1,56 @@
+{
+    "data": {
+        "first_fridays": {
+            "title": "First Friday Lunch - {month} {year}",
+            "day_of_week": "friday",
+            "week_of_month": 1,
+            "start_time": "12:30",
+            "end_time": "14:30",
+            "cost": "8.00",
+            "start_year": 2025,
+            "end_year": 2026,
+            "venue_id": 840,
+            "xearliest_date": "2026-09-30",
+            "xlatest_date": "2027-11-30",
+            "venue": "Biddenham Village Hall",
+            "organiser_id": 1578,
+            "category_id": 127,
+            "template_filename": "first_fridays_event_template.html.txt"
+        },
+        "biddenham_parish_council_meeting": {
+            "title": "Biddenham Parish Council meeting - {month} {year}",
+            "day_of_week": null,
+            "week_of_month": null,
+            "start_time": null,
+            "end_time": null,
+            "cost": "0.00",
+            "start_year": null,
+            "end_year": null,
+            "venue_id": 866,
+            "venue": "Biddenham Pavilion",
+            "organiser_id": 13182,
+            "category_id": 128,
+            "template_filename": "biddenham_parish_council_event_template.html.txt",
+            "specific_date_times": [
+                "2026-03-10 19:30 - 21:30",
+                "2026-04-07 19:30 - 21:30",
+                "2026-05-12 19:30 - 21:30",
+                "2026-06-02 19:30 - 21:30"
+            ]
+        },
+        "cafe_b": {
+            "title": "Café B at the Village Hall",
+            "day_of_week": "tuesday",
+            "week_of_month": 3,
+            "start_time": "10:15",
+            "end_time": "11:45",
+            "cost": "0.00",
+            "start_year": 2025,
+            "end_year": 2026,
+            "venue_id": 840,
+            "venue": "Biddenham Village Hall",
+            "category_id": 127,
+            "template_filename": "cafe_b_event_template.html.txt"
+        }
+    }
+}

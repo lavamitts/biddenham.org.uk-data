@@ -1,0 +1,48 @@
+<!-- wp:tribe/event-datetime {"className":"date icon"} /-->
+<!-- wp:tribe/event-price {"className":"price icon"} /-->
+
+<!-- wp:paragraph -->
+<p>Café B is a regular, community-focused social event held at Biddenham Village Hall. It serves as a popular monthly gathering spot for local residents to meet up, chat and enjoy home-made treats.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Schedule and timing</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The event follows a recurring schedule throughout the year, meeting on the third Tuesday of every month, operating between 10:15 am and 11:45 am.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Refreshments and features</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The café is run on a pop-up basis inside the main hall, offering a simple but welcoming selection of refreshments.
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+    
+<!-- wp:list-item -->
+<li><strong>Drink selection</strong>: Attendees can choose from a variety of hot and cold beverages, including multiple teas, coffees, hot chocolate and fruit juices.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Food</strong>: The event is well-known for its selection of fresh, home-baked cakes provided by volunteers from the village.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book swap</strong>: Alongside the food and drink, a dedicated book swap table is set up during the café hours, allowing residents to bring along books they have finished and browse for new reading material.</li>
+<!-- /wp:list-item -->
+
+</ul>
+<!-- /wp:list -->
+
+
+<!-- wp:tribe/event-links /-->
+
+<!-- wp:tribe/event-venue /-->
+
+<!-- wp:tribe/event-organizer /-->

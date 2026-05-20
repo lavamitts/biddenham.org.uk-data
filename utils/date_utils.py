@@ -1,5 +1,6 @@
 from datetime import datetime, date
 import re
+import sys
 
 
 def get_day_suffix(day):
@@ -73,3 +74,33 @@ def date_to_wordpress_date_string(date_obj):
         return date_obj.strftime("%Y-%m-%d %H:%M")
     except Exception as _:
         return None
+
+
+def date_to_simple_date_string(date_obj):
+    try:
+        return date_obj.strftime("%Y-%m-%d")
+    except Exception as _:
+        return None
+
+
+def iso_date_string_to_date(s: str) -> date:
+    try:
+        date_obj = datetime.strptime(s, "%Y-%m-%d").date()
+    except Exception as e:
+        print(e)
+        sys.exit()
+    return date_obj
+
+
+def get_date_time_pair(s: str):
+    # "2026-03-10 19:30 - 21:30"
+    parts = s.split(" ", 1)
+    date_string = parts[0]
+    date_obj = iso_date_string_to_date(date_string)
+    times = parts[1]
+    start, end = [x.strip() for x in times.split("-")]
+
+    start_dt = datetime.combine(date_obj, datetime.strptime(start, "%H:%M").time())
+    end_dt = datetime.combine(date_obj, datetime.strptime(end, "%H:%M").time())
+    return start_dt, end_dt
+    _ = 1

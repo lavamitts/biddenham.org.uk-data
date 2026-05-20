@@ -1,0 +1,87 @@
+<!-- wp:tribe/event-datetime {"className":"date icon"} /-->
+<!-- wp:tribe/event-price {"className":"price icon"} /-->
+
+<!-- wp:paragraph -->
+<p>The First Friday Lunch is a long-standing, monthly community social event held at Biddenham Village Hall. Run entirely by volunteers, it serves as a wonderful gathering point for local residents to catch up over a relaxed meal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Gathering times and booking</h2>
+<!-- /wp:heading -->
+
+
+<!-- wp:paragraph -->
+<p><strong>When</strong>: It takes place on the first Friday of every calendar month, starting at 12:15 pm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Where</strong>: Biddenham Village Hall, located in the heart of the village opposite the Three Tuns public house.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Cost</strong>: The lunch is priced at &pound;8.00 per person.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Booking</strong>: Because spaces are limited and the team needs accurate numbers for catering, booking is absolutely essential. Places can be reserved by emailing <strong><a href="mailto:firstfridaylunch@outlook.com">firstfridaylunch@outlook.com</a></strong> or by leaving a message or text on <strong>07412 559584</strong>.</p>
+<!-- /wp:paragraph -->
+
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The menu and format</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The lunch focuses on simple, comforting, and freshly prepared food. The menu typically includes options such as:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+    
+    <!-- wp:list-item -->
+    <li>Homemade soups</li>
+    <!-- /wp:list-item -->
+
+    <!-- wp:list-item -->
+    <li>Fresh sandwiches</li>
+    <!-- /wp:list-item -->
+
+    <!-- wp:list-item -->
+    <li>Hot baked potatoes with various fillings</li>
+    <!-- /wp:list-item -->
+
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Alongside the food, the event features a few regular highlights that add to the community spirit:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+
+    <!-- wp:list-item -->
+    <li><strong>The monthly draw</strong>: Every month, there is a draw where attendees have a chance to win two free lunch tickets for a future event.</li>
+    <!-- /wp:list-item -->
+
+    <!-- wp:list-item -->
+    <li><strong>Book swap</strong>: A popular book swap stall is set up at each lunch, allowing residents to bring along books they have finished and take home something new to read.</li>
+    <!-- /wp:list-item -->
+
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Accessibility and community support</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For residents who might otherwise struggle to attend due to transport or mobility issues, the <strong>Biddenham Good Neighbours Scheme</strong> works alongside the event organizers. Local volunteers can provide lifts to and from the Village Hall to ensure that everyone in the community can stay connected and enjoy the afternoon.</p>
+<!-- /wp:paragraph -->
+
+
+<!-- wp:tribe/event-links /-->
+
+<!-- wp:tribe/event-venue /-->
+
+<!-- wp:tribe/event-organizer /-->

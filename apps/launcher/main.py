@@ -34,10 +34,18 @@ def validate_on_this_day_urls():
     main()
 
 
-def scrape_biddenham_cricket_fixtures():
-    su.print_heading("\nScraping Biddenham Cricket Club fixtures\n")
+def make_cricket_badges():
+    su.print_heading("\Making Biddenham Cricket Club badges\n")
 
-    from biddenham_cricket_fixtures.main import main
+    from cricket_badges.main import main
+
+    main()
+
+
+def build_regular_events():
+    su.print_heading("\Making Events\n")
+
+    from event_builder.main import main
 
     main()
 
@@ -51,7 +59,8 @@ def main():
         "2": {"text": "Create Biddenham bin days data", "func": run_biddenham_bin_days_data},
         "3": {"text": "Create Biddenham Conservation Volunteers events", "func": generate_biddenham_conservation_volunteers_data},
         "4": {"text": "Validate On this day URLs", "func": validate_on_this_day_urls},
-        "5": {"text": "Scrape Biddenham Cricket Club fixtures", "func": scrape_biddenham_cricket_fixtures},
+        "5": {"text": "Make cricket badges", "func": make_cricket_badges},
+        "6": {"text": "Build regular events", "func": build_regular_events},
     }
 
     # Print the menu dynamically from the dictionary

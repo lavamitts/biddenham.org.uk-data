@@ -1,0 +1,74 @@
+<!-- wp:tribe/event-datetime {"className":"date icon"} /-->
+<!-- wp:tribe/event-price {"className":"price icon"} /-->
+
+<!-- wp:paragraph -->
+<p>Biddenham Parish Council is the first tier of local government for the village. The monthly meetings are formal business meetings where councillors discuss local issues, make decisions on community spending, and review plans affecting the village.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While the meeting is held in public to ensure transparency, it is not a general public debate. Instead, it follows a structured agenda managed by the Chairman and the Council Clerk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The venue</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Meetings take place in the upstairs meeting room at the Biddenham Pavilion. Access is via the entrance on the playground side of the building.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Protocol</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Councillors and the Clerk sit together at the main table to conduct business. Chairs are set up around the room for members of the public, who are welcome to sit and observe the proceedings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The public open session</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Early in the meeting, the Chairman will open a dedicated public session. This is the specific time when any resident is invited to stand up, ask a question, or voice a concern regarding village matters.</p>
+<!-- /wp:paragraph -->
+
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The business session</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once the public session closes, the council returns to its strict agenda. During this time, residents are asked to listen quietly while councillors debate and vote. Topics regularly covered include:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+
+<!-- wp:list-item -->
+<li><strong>Planning applications</strong>: Reviewing and deciding whether to object to or support recent planning submissions for properties and land within Biddenham.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Highways and safety</strong>: Discussing traffic-calming measures, speed sign data, road maintenance, and footpaths.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Finances and grants</strong>: Approving maintenance costs for village amenities like the Pavilion, the village green, or the pond, and reviewing grant options for local community groups.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Local reports</strong>: Hearing updates from the local Borough Councillor and the police regarding crime statistics or wider borough issues.</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Agendas are published on the Biddenham Parish Council website at least three days before each meeting so residents can see the exact topics scheduled for discussion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:tribe/event-links /-->
+
+<!-- wp:tribe/event-venue /-->
+
+<!-- wp:tribe/event-organizer /-->
