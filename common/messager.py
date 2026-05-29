@@ -19,6 +19,16 @@ class Messager(object):
                 print("=====")
                 print(f"{message}\n")
 
+            case "success":
+                print(f"\n{Colour.GREEN}SUCCESS{Colour.RESET}")
+                print("=======")
+                print(f"{message}\n")
+
+            case "complete":
+                print(f"\n{Colour.GREEN}COMPLETE{Colour.RESET}")
+                print("========")
+                print(f"{message}\n")
+
             case "planned":
                 print(f"\n{Colour.MAGENTA}END{Colour.RESET}")
                 print("=====")
@@ -38,6 +48,9 @@ class Messager(object):
 
             case "para" | "normal":
                 print(f"{message}")
+
+            case "indent" | "indented" | "bullet" | "bullets" | "bulleted":
+                print(f"- {message}")
 
             case "dim":
                 print(f"{Colour.DIM}{message}{Colour.RESET}")
