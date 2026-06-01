@@ -170,3 +170,10 @@ biddenham_conservation_volunteers/resources/input/
 biddenham_conservation_volunteers/resources/output/
 peters_picturehouse_events/resources/input/
 peters_picturehouse_events/resources/output/
+peters_picturehouse_events/resources/00. input/
+peters_picturehouse_events/resources/01. config/
+peters_picturehouse_events/resources/02. omdb/
+peters_picturehouse_events/resources/03. images/
+peters_picturehouse_events/resources/04. summary/
+peters_picturehouse_events/resources/05. debug/
+peters_picturehouse_events/resources/06. listing/
