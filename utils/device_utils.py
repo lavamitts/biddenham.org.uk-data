@@ -1,6 +1,7 @@
 import os
 import sys
 import platform
+from common.messager import Messager
 
 
 # Windows-only single keypress support
@@ -9,6 +10,10 @@ if os.name == "nt":
 else:
     import tty
     import termios
+
+
+def terminate() -> None:
+    Messager("Planned termination", "planned", True)
 
 
 def get_single_keypress() -> str:

@@ -1,5 +1,7 @@
-import os
 import curses
+import json
+import os
+# from common.messager import Messager
 
 
 def select_docx_file(folder_path, extension: str = None):
@@ -92,3 +94,22 @@ def find_file(root_folder, target_filename):
         False,
         "File not found.",
     )
+
+
+def read_file_content(file_path: str, encoding: str = "utf-8") -> str:
+    """Reads the entire content of a file and returns it as a string."""
+    with open(file_path, "r", encoding=encoding) as file:
+        return file.read()
+
+
+def load_json_if_exists(filepath):
+    """
+    Check if a file exists and return JSON content if it does.
+    Returns None if the file doesn't exist.
+    """
+
+    if os.path.exists(filepath):
+        with open(filepath, "r", encoding="utf-8") as f:
+            return json.load(f)
+
+    return None

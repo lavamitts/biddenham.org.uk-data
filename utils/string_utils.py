@@ -78,3 +78,39 @@ def add_file_extension(s: str, extension: str = "docx"):
         if "." not in s:
             s = f"{s}.{extension}"
         return s
+
+
+def format_runtime(runtime_str: str) -> str:
+    # Extract the minute number
+    minutes = int(runtime_str.replace(" min", "").strip())
+
+    hrs = minutes // 60
+    mins = minutes % 60
+
+    parts = []
+
+    if hrs > 0:
+        parts.append(f"{hrs} hr" if hrs == 1 else f"{hrs} hrs")
+
+    if mins > 0:
+        parts.append(f"{mins} min" if mins == 1 else f"{mins} mins")
+
+    # return {"Runtime": " ".join(parts)}
+    return " ".join(parts)
+
+
+def get_date_folders_from_url(url):
+    # Remove any trailing slashes to prevent empty elements at the end
+    cleaned_url = url.rstrip("/")
+
+    # Split the URL by forward slashes
+    parts = cleaned_url.split("/")
+
+    # Check that the URL has enough segments to avoid an IndexError
+    if len(parts) >= 3:
+        # -2 gets the second to last item, -3 gets the third to last item
+        second_last = parts[-2]
+        third_last = parts[-3]
+        return third_last, second_last
+
+    return None, None

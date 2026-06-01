@@ -104,3 +104,35 @@ def get_date_time_pair(s: str):
     end_dt = datetime.combine(date_obj, datetime.strptime(end, "%H:%M").time())
     return start_dt, end_dt
     _ = 1
+
+
+def convert_string_to_date(date_string: str, date_format: str = "%Y-%m-%d") -> date:
+    """Converts a date string into a date object."""
+    return datetime.strptime(date_string, date_format).date()
+
+
+# def get_day_suffix(day: int) -> str:
+#     """Returns the appropriate ordinal suffix for a given day of the month."""
+#     if 11 <= day <= 13:
+#         return "th"
+#     return {1: "st", 2: "nd", 3: "rd"}.get(day % 10, "th")
+
+
+def convert_date_to_custom_string(date_object: date) -> str:
+    """Converts a date object into a string formatted as 'Weekday, Day Month Year'."""
+    day = date_object.day
+    suffix = get_day_suffix(day)
+
+    # %A = Weekday, %B = Full Month Name, %Y = 4-digit Year
+    day_str = f"{day}{suffix}"
+    return date_object.strftime(f"%A, {day_str} %B %Y")
+
+
+def get_current_year_and_month():
+    """Returns the current year and month as two-digit strings."""
+    now = datetime.now()
+
+    year_str = now.strftime("%Y")  # e.g., "26" for 2026
+    month_str = now.strftime("%m")  # e.g., "05" for May
+
+    return year_str, month_str
