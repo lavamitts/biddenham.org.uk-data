@@ -1,0 +1,70 @@
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    // Target the specific container div
+    const container = document.getElementById('upcoming-movies');
+    
+    // Safely exit if the container is not found on the current page
+    if (!container) {
+        return;
+    }
+
+    // Helper function to sanitise the title for the anchor link ID
+    function sanitiseId(text) {
+        return text
+            .trim()
+            .toLowerCase()
+            .replace(/[^\w\s-]/g, '') // Remove all punctuation (keeps alphanumeric, spaces, and hyphens)
+            .replace(/\s+/g, '-');    // Replace spaces (including multiple spaces) with a single hyphen
+    }
+
+    // 1. Find the first three instances of <p class="movie-title">
+    const movieElements = document.querySelectorAll('p.movie-title');
+    const movies = Array.from(movieElements).slice(0, 3);
+
+    // Create the "Upcoming movies" header paragraph
+    const headerElement = document.createElement('p');
+    const strongText = document.createElement('strong');
+    strongText.textContent = 'Upcoming movies';
+    headerElement.appendChild(strongText);
+    container.appendChild(headerElement);
+
+    // Create a container variable to hold the list or the fallback message
+    let outputElement;
+
+    if (movies.length > 0) {
+        // 2 & 3. If movies exist, generate a <ul> with <li> tags containing links
+        outputElement = document.createElement('ul');
+        outputElement.classList.add('upcoming-movies-list');
+        
+        movies.forEach(movie => {
+            const rawTitle = movie.textContent.trim();
+
+            // Regular expression to match: SPACE + ( + 1 to 5 characters + )
+            const bracketPattern = /\s\([^)(]{1,5}\)/g;
+            
+            // Step 1: Strip the bracketed part out of the text first
+            const cleanTitleText = rawTitle.replace(bracketPattern, '').trim();
+
+            // Step 2: Generate the ID based on the already cleaned text
+            const cleanId = sanitiseId(cleanTitleText);
+
+            const li = document.createElement('li');
+            const anchor = document.createElement('a');
+            
+            // Both the href and the text now use the stripped version
+            anchor.href = `#${cleanId}`;
+            anchor.textContent = cleanTitleText;
+            
+            li.appendChild(anchor);
+            outputElement.appendChild(li);
+        });
+    } else {
+        // 4. If no movies are found, generate the fallback <p> tag
+        outputElement = document.createElement('p');
+        outputElement.textContent = 'No upcoming movies';
+    }
+
+    // 5. Append the final result inside the specific container
+    container.appendChild(outputElement);
+});
+</script>

@@ -1,9 +1,10 @@
+<script>
 // 1. Signal JS is active immediately to avoid flicker
 document.documentElement.classList.add('has-js');
 
 document.addEventListener('DOMContentLoaded', () => {
     /**
-     * @param {string} filterType - 'future' to hide past, 'past' to hide future.
+     * @param {string} filterType - 'future' to remove past, 'past' to remove future.
      */
     function filterAllFilmContainers(filterType) {
         const filmRows = document.querySelectorAll('.picture-house-columns');
@@ -12,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const today = new Date();
         today.setHours(0, 0, 0, 0);
 
+        // Track the parent containers before we start removing their children
         const parentContainers = new Set();
         filmRows.forEach(row => parentContainers.add(row.parentNode));
 
@@ -27,16 +29,17 @@ document.addEventListener('DOMContentLoaded', () => {
             const rowDate = new Date(dateText);
 
             if (!isNaN(rowDate.getTime())) {
-                let shouldHide = false;
+                let shouldRemove = false;
 
                 if (filterType === 'future') {
-                    if (rowDate < today) shouldHide = true;
+                    if (rowDate < today) shouldRemove = true;
                 } else if (filterType === 'past') {
-                    if (rowDate > today) shouldHide = true;
+                    if (rowDate > today) shouldRemove = true;
                 }
 
-                if (shouldHide) {
-                    row.style.display = 'none';
+                if (shouldRemove) {
+                    // Permanently delete the element from the DOM
+                    row.remove();
                 } else {
                     row.style.visibility = 'visible';
                 }
@@ -45,23 +48,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Handle the "No movies" message placement
         parentContainers.forEach(container => {
-            const allRowsInThisContainer = container.querySelectorAll('.picture-house-columns');
-            const visibleRows = Array.from(allRowsInThisContainer)
-                .filter(row => row.style.display !== 'none');
+            // Check if any matching rows are left inside this specific container
+            const remainingRows = container.querySelectorAll('.picture-house-columns');
 
-            if (visibleRows.length === 0 && allRowsInThisContainer.length > 0) {
+            // If zero rows remain, add the fallback message
+            if (remainingRows.length === 0) {
                 const message = document.createElement('p');
-                message.textContent = 'Upcoming movies to be announced.';
+                message.innerHTML = '<strong>Upcoming movies to be announced.</strong>';
 
-                // Identify the first hidden row to use as a placeholder for the position
-                const referenceNode = allRowsInThisContainer[0];
-
-                // Insert the message directly before the first hidden row
-                container.insertBefore(message, referenceNode);
+                // Since the rows are gone, safely append the message straight into the container
+                container.appendChild(message);
             }
         });
     }
 
     // Call the function
-    filterAllFilmContainers('past');
+    filterAllFilmContainers('future'); 
 });
+</script>

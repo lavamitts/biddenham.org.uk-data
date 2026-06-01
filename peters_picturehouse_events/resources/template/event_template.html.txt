@@ -6,7 +6,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right"} -->
-<figure class="wp-block-image alignright"><img src="/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title} film poster"/></figure>
+<figure class="wp-block-image alignright rounded"><img src="/wp-content/uploads/{year_added}/{month_added}/{title_formatted}.webp" alt="{title} film poster"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -30,7 +30,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Our films are very popular and there are only 56 seats available, so please do book to avoid disappointment. To reserve your seat, email Peter's Picture House.</p>
+<p>Our films are very popular and there are only 56 seats available, so please do book to avoid disappointment. To reserve your seat, email Peter's Picturehouse.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"className":"email icon"} -->

@@ -1,5 +1,5 @@
 <!-- wp:columns {"metadata":{"name":"Movie Row: {title}"},"className":"picture-house-columns"} -->
-<div class="wp-block-columns picture-house-columns">
+<div class="wp-block-columns picture-house-columns" id="{title_formatted}">
     
     <!-- wp:column {"width":"20%","className":"picture-house-columns-date"} -->
     <div class="wp-block-column picture-house-columns-date" style="flex-basis:20%">
@@ -12,7 +12,7 @@
     <!-- wp:column {"width":"60%","className":"picture-house-columns-content"} -->
     <div class="wp-block-column picture-house-columns-content" style="flex-basis:60%">
         <!-- wp:paragraph -->
-        <p><strong>{title} ({certification})</strong></p>
+        <p class="movie-title">{title} ({certification})</p>
         <!-- /wp:paragraph -->
 
         <!-- wp:paragraph -->
