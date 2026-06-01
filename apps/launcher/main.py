@@ -50,6 +50,14 @@ def build_regular_events():
     main()
 
 
+def scrape_fringe_data():
+    su.print_heading("\Scraping fringe data\n")
+
+    from fringe.main import process_fringe_data
+
+    process_fringe_data()
+
+
 def main():
     deu.clear_console()
 
@@ -61,6 +69,7 @@ def main():
         "4": {"text": "Validate On this day URLs", "func": validate_on_this_day_urls},
         "5": {"text": "Make cricket badges", "func": make_cricket_badges},
         "6": {"text": "Build regular events", "func": build_regular_events},
+        "7": {"text": "Scrape fringe data", "func": scrape_fringe_data},
     }
 
     # Print the menu dynamically from the dictionary
