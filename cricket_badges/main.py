@@ -36,7 +36,7 @@ clubs = {
     "luton-town-and-indians.png": "Luton Town and Indians Cricket Club",
     "lutonian.png": "Lutonian Cricket Club",
     "queens-park-westfield.png": "Queen's Park Westfield Cricket Club",
-    "southill.png": "Southill Cricket Club",
+    "southill-park.png": "Southill Park Cricket Club",
 }
 
 
