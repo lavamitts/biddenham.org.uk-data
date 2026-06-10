@@ -58,6 +58,14 @@ def scrape_fringe_data():
     process_fringe_data()
 
 
+def find_americanisms():
+    su.print_heading("\Finding Americanisms\n")
+
+    from americanisms.main import main
+
+    main()
+
+
 def main():
     deu.clear_console()
 
@@ -70,6 +78,7 @@ def main():
         "5": {"text": "Make cricket badges", "func": make_cricket_badges},
         "6": {"text": "Build regular events", "func": build_regular_events},
         "7": {"text": "Scrape fringe data", "func": scrape_fringe_data},
+        "8": {"text": "Find Americanisms", "func": find_americanisms},
     }
 
     # Print the menu dynamically from the dictionary
