@@ -18,6 +18,7 @@ dependencies = [
     "playwright>=1.60.0",
     "google-genai>=2.6.0",
     "inquirer>=3.4.1",
+    "rembg[cpu]>=2.0.75",
 ]
 
 [tool.ruff]
