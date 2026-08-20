@@ -32,10 +32,12 @@ class MovieImage(object):
                     if self.title_sanitised in source_url:
                         image_id = item.get("id")
                         # Return True and the actual ID
+                        print("Image found in WordPress")
                         return True, image_id, source_url
 
                 # No match found
-                return False, None
+                print("Image not found in WordPress")
+                return False, None, None
             else:
                 print(f"{Colour.RED}Failed to connect. Status code: {response.status_code}{Colour.RESET}")
                 return False, None, None

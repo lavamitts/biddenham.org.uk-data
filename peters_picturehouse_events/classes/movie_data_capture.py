@@ -1,6 +1,5 @@
-from datetime import datetime, date
 import inquirer
-import readline
+from datetime import date
 from common.messager import Messager
 from common.style import Colour
 

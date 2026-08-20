@@ -24,7 +24,7 @@
         <!-- /wp:paragraph -->
 
         <!-- wp:paragraph {"className":"imdb"} -->
-        <p class="imdb"><a href="{imdb_link}/" target="_blank" rel="noreferrer noopener">&quot;{title}&quot; on IMDB</a></p>
+        <p class="imdb"><a href="{imdb_link}" target="_blank" rel="noreferrer noopener">&quot;{title}&quot; on IMDB</a></p>
         <!-- /wp:paragraph -->
     </div>
     <!-- /wp:column -->

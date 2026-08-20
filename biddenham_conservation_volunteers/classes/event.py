@@ -184,6 +184,7 @@ class Event:
 
         # Get the HTML template
         event_template: str = os.path.join(self.template_folder, "event_template.html.txt")
+        # print(f"event_template is {event_template}")
 
         # Open the template
         with open(event_template, "r", encoding="utf-8") as file:

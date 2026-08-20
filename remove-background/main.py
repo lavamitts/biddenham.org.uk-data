@@ -42,7 +42,7 @@ if __name__ == "__main__":
     out_folder = os.path.join(resources_folder, "out")
 
     # Get filenames
-    input_image_filename = "axe.png"
+    input_image_filename = "ostrich.jpg"
     output_image_filename = f"transparent-{input_image_filename}"
 
     # Get full paths

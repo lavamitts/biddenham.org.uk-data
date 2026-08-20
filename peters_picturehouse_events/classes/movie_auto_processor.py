@@ -112,6 +112,7 @@ class MovieAutoProcessor:
 
         self.title_sanitised = su.sanitise_string(self.title)
         self.imdb_link = f"https://www.imdb.com/title/{self.imdbID}/"
+        self.imdb_link = self.imdb_link.replace("//", "/")
         self.year_added, self.month_added = du.get_current_year_and_month()
         self.running_time = su.format_runtime(self.running_time_raw)
 
